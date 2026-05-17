@@ -1,0 +1,238 @@
+{
+    "seo": {
+        "meta_description": "Event Podcasting for ecommerce and B2B brands. We bring the booth, the mics, and the host to your event and deliver episodes under your brand.",
+        "og_description": "Your event. Your brand. Our podcast booth. We record audio (and video when you want it) at the show and hand you episodes ready to publish.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Book Event Podcasting",
+        "subtitle": "",
+        "trust_text": "500+ podcast episodes produced. Podcast booth active at Shoptoberfest, the Ecomm Forum (Minneapolis), and the Shopware Partner Summit.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "You're booked. Here's what happens next.",
+        "text": "We'll confirm the event, walk through guest scheduling, and send a short prep guide for your booth team.",
+        "link_anchor": "lookslike",
+        "link_text": "See what Event Podcasting looks like on-site"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Event Podcasting",
+                "title": "Your event. Your brand.<br><em>Our podcast booth.</em>",
+                "paragraphs": [
+                    "Most exhibitors leave events with badge scans and a vague plan to follow up. The ones who leave with a podcast series leave with months of content, warmer prospect conversations, and proof that they were the hub of the show.",
+                    "We set up a podcast booth at your event, host the interviews, capture the audio (and video when you want it), and hand you finished episodes that publish under your brand."
+                ],
+                "video_bg": "",
+                "video_bg_poster": ""
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "500+", "label": "Podcast Episodes Produced" },
+                { "number": "3", "label": "Events Covered in 2025-2026" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "0", "label": "Scripts or Teleprompters" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What We Do On-Site",
+                "subtitle": "We bring the gear, the host, and the workflow. Your team shows up to the booth and talks.",
+                "items": [
+                    {
+                        "title": "Podcast Booth Setup",
+                        "text": "Pro microphones, sound treatment where possible, and a clean recording workflow that holds up in loud expo halls. Your guests sit down, put on headphones, and the conversation runs.",
+                        "image": ""
+                    },
+                    {
+                        "title": "Experienced Host",
+                        "text": "An interviewer who has run hundreds of conversations with ecommerce and B2B guests. No scripts. Real questions. The kind of flow that makes guests sound sharp and keeps listeners to the end.",
+                        "image": ""
+                    },
+                    {
+                        "title": "Audio-First, Video-Ready",
+                        "text": "Broadcast-quality audio every time. Add multi-camera video if you want clip content for LinkedIn, YouTube, and short-form social. You decide how far to take it.",
+                        "image": ""
+                    },
+                    {
+                        "title": "Guest Scheduling and Prep",
+                        "text": "We help you line up partners, customers, and speakers for time slots, send them a short prep note, and keep the day on the rails so you're not the one chasing people between sessions.",
+                        "image": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "How You Take It Home",
+                "subtitle": "Every engagement is scoped to what you actually need. Some clients want raw files and their own editor takes it from there. Others want us to deliver finished episodes straight to their podcast feed.",
+                "items": [
+                    {
+                        "name": "Raw Capture",
+                        "badge": "Option A",
+                        "target": "We record, you produce. You get the raw multitrack audio (and video if added) within days of the event. Your team handles edits, show notes, and publishing.",
+                        "outcomes": [
+                            "Multitrack audio, per-guest channels",
+                            "Optional multi-camera video files",
+                            "Session notes and guest list",
+                            "Transferred via cloud delivery"
+                        ]
+                    },
+                    {
+                        "name": "Produced Episodes",
+                        "badge": "Option B",
+                        "featured": true,
+                        "target": "We record and fully produce the episodes. You get edited audio files, intros and outros, show notes, and assets ready to drop into whatever feed or platform you use.",
+                        "outcomes": [
+                            "Edited audio (mixed, leveled, cleaned)",
+                            "Branded intro and outro",
+                            "Written show notes for each episode",
+                            "Episode titles and descriptions",
+                            "Thumbnail and cover art specs"
+                        ]
+                    },
+                    {
+                        "name": "Produced and Published",
+                        "badge": "Option C",
+                        "target": "We produce and publish. Episodes go live on your podcast feed on your schedule, and we can cross-publish to the Talk Commerce network for additional reach in the ecommerce audience. We handle the uploads, the RSS, the notes, and the social-ready clips.",
+                        "outcomes": [
+                            "Everything in Option B",
+                            "Upload and scheduling to your host",
+                            "Optional cross-publish to the <a href=\"https://talk-commerce.com\">Talk Commerce</a> podcast network",
+                            "Short-form clips for social",
+                            "Release coordination with your team"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Why It Works",
+                "title": "Events are <em>full of conversations</em> that never get recorded.",
+                "paragraphs": [
+                    "Your best customers are there. Your partners are there. The smartest people in your category are there. For 48 to 72 hours, everyone is in one room and willing to talk.",
+                    "Most exhibitors capture none of it. The hallway conversations are gone by the flight home. The product insights your customer shared at dinner never make it into a case study. The partner quote that would have closed three deals is just a memory.",
+                    "Event Podcasting captures those conversations while the people are in the room and turns them into assets that keep working long after the event ends.",
+                    "One event can produce a full season of episodes. One season of episodes can seed a year of marketing."
+                ],
+                "old_way": {
+                    "heading": "Without Event Podcasting",
+                    "items": [
+                        "Great conversations happen and disappear",
+                        "Content plan stalls after the event",
+                        "No proof you were the hub of the show",
+                        "Speakers and partners go home unrecorded",
+                        "Team forgets the best quotes by Monday"
+                    ]
+                },
+                "new_way": {
+                    "heading": "With Event Podcasting",
+                    "items": [
+                        "Every key conversation captured",
+                        "A full season of episodes from one event",
+                        "Booth becomes the visible center of the show",
+                        "Partners and customers quoted in your feed",
+                        "Content library that compounds each month"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Where Teams Use Event Podcast Episodes",
+                "subtitle": "Audio is the hardest content to fake and the easiest to repurpose. Once those conversations exist, they power sales, marketing, and partner motions in parallel.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Sales and Partner Outreach",
+                        "text": "Send a prospect the episode where their peer talks about solving the exact problem they're facing. Send a partner the episode that features their product. Nothing warms a cold outreach like hearing a familiar voice."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Website and Case Study Source Material",
+                        "text": "Episode transcripts become blog posts, case study quotes, and landing page copy without starting from a blank page. The interview already did the hard work."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Social Media and YouTube",
+                        "text": "Short audiograms, video clips, and pull quotes fill a posting calendar for months. One interview becomes ten assets without anyone writing from scratch."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Email and Lifecycle",
+                        "text": "Drop a new episode into your newsletter each week. Use specific episodes in onboarding, partner enablement, and re-engagement sequences. The feed becomes a distribution channel you own."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Built for the Hallway",
+                "title": "We've done this at Shoptoberfest, the Ecomm Forum in Minneapolis, and the Shopware Partner Summit.",
+                "paragraphs": [
+                    "Event Podcasting is not a studio experience moved outside. It is a workflow built for expo halls, side rooms, sponsor lounges, and 15-minute slots between sessions. We know how to get clean audio in loud rooms, keep a guest relaxed in a chaotic setting, and move the schedule when the keynote runs long.",
+                    "Brent W Peterson hosts. 500+ episodes produced. 30+ years in ecommerce. The interviews sound like conversations because they are.",
+                    "Your brand on the booth. Your guests at the mic. Our team running the rest."
+                ],
+                "stats": [
+                    { "number": "500+", "label": "Podcast Episodes" },
+                    { "number": "30+", "label": "Years in Ecommerce" },
+                    { "number": "3", "label": "Events Covered" },
+                    { "number": "0", "label": "Missed Release Dates" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions We Hear",
+                "items": [
+                    {
+                        "question": "\"Do we need to already have a podcast?\"",
+                        "answer": "No. Three paths work. If you already have a feed, we produce episodes that drop into it. If you don't, we can help you launch one with the event as season one. Or we can publish the episodes on the <a href=\"https://talk-commerce.com\">Talk Commerce</a> network so you get the reach without running your own feed."
+                    },
+                    {
+                        "question": "\"What does it cost?\"",
+                        "answer": "A project fee plus on-site expenses (travel, gear rental when needed). The fee is scoped to the event length, the number of episodes, and whether you want audio only or audio plus video. We send a fixed quote once we understand the scope."
+                    },
+                    {
+                        "question": "\"Can you capture video too?\"",
+                        "answer": "Yes. We run a video-ready setup when you want multi-camera clips for LinkedIn, YouTube, and short-form social. Audio-only is lighter and faster. Video adds reach."
+                    },
+                    {
+                        "question": "\"Who hosts the interviews?\"",
+                        "answer": "Brent W Peterson hosts. 500+ episodes produced across ecommerce, SaaS, and B2B. Your team can co-host or hand the mic entirely to us. Whichever keeps your team on the booth floor more effectively."
+                    },
+                    {
+                        "question": "\"How do we get guests booked?\"",
+                        "answer": "You hand us your partner list, customer list, and target speakers. We reach out, lock time slots, and send a short prep note. You approve the lineup. We run the day."
+                    },
+                    {
+                        "question": "\"What about the audio in a loud expo hall?\"",
+                        "answer": "We bring broadcast microphones with tight pickup patterns and treat the booth where we can. Loud rooms are part of the workflow. The final audio sounds like a studio, not a hallway."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Have an event coming up?",
+                "text": "Tell us the show, the dates, and roughly how many conversations you want to capture. We'll come back with a scoped plan and a fixed quote. <a href=\"/conference-coverage/\">See our full Live Event Content services</a>."
+            }
+        }
+    ]
+}

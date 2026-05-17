@@ -1,0 +1,69 @@
+{
+    "no_nav": true,
+    "noindex": true,
+    "seo": {
+        "title": "The 56-Point AEO + SEO Audit Checklist | Content Cucumber",
+        "meta_description": "Free 56-point AEO and SEO audit checklist. The same framework Content Cucumber runs for paid clients, organized into 12 categories you can work through yourself. Built for HubSpot AEO partners.",
+        "og_description": "Free 56-point AEO and SEO audit checklist across 12 categories. AI search visibility, citations, schema, Core Web Vitals, content quality, and more.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    },
+    "form": {
+        "header": "Get the Checklist",
+        "portal_id": "39487190",
+        "form_id": "ebc1bbea-a152-4abe-9af2-c072ec489b03",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Got it",
+        "text": "We'll send the 56-Point AEO + SEO Audit Checklist to your inbox shortly. Reach out if you want help running it on your site.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Free Checklist from Content Cucumber",
+                "title": "The 56-Point AEO + SEO <em>Audit Checklist</em>",
+                "subtitle": "The same 56-point framework we run for paid audits. Twelve categories. Pass, Partial, or Fail thresholds on every check. Work it line by line and find the issues quietly costing you traffic and AI citations.",
+                "bullets": [
+                    "<strong>56 specific checks across 12 categories.</strong> Crawlability, URL structure, on-page SEO, schema, Core Web Vitals, social and Open Graph, mobile, content quality, opportunity mining, AI search and GEO, local SEO, and migration-specific.",
+                    "<strong>Deterministic Pass, Partial, or Fail rules.</strong> Each check has a clear threshold so two people running the same audit land on the same answer. No vibes-based scoring.",
+                    "<strong>Severity tags on every check.</strong> Critical, High, Medium, Low. Know which findings move the needle and which can wait.",
+                    "<strong>Built for AI search, not just Google.</strong> Five dedicated AI Search and GEO checks for ChatGPT, Claude, Perplexity, and Google AI Overviews, on top of the classic SEO surface area.",
+                    "<strong>Local SEO and migration-specific blocks.</strong> Skip them when they don't apply. Work them hard when they do.",
+                    "<strong>The same framework we use ourselves.</strong> Identical checks, scoring, and severity logic our team applies to every paid Content Cucumber audit."
+                ],
+                "thumbnail": "landing-data/aeo-seo-audit-checklist-cover.png",
+                "authors": "Brent Peterson, CEO of Content Cucumber. The same checklist our team works through before delivering any client audit report.",
+                "form_title": "Get the Checklist",
+                "form_subtitle": "Free. Delivered to your inbox."
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "Why this checklist now",
+                "heading": "Search is search. The audit is the audit.",
+                "items": [
+                    {
+                        "title": "The SEO, AEO, GEO acronym fight is a distraction.",
+                        "body": "SEO became AEO became GEO. The names change every few quarters. The work does not. Crawlable, cited, fast, accurate, and structured. Every framework that ranks pages also wins citations. One checklist covers both because it is the same job."
+                    },
+                    {
+                        "title": "AI search reads the same signals Google reads.",
+                        "body": "ChatGPT, Perplexity, and Google AI Overviews crawl your HTML, parse your schema, and weigh the same authority signals search engines have used for years. Clean robots.txt. Valid JSON-LD. Real authors. Hard numbers in your content. The work you do for SEO compounds into AI visibility."
+                    },
+                    {
+                        "title": "The cost of skipping a basic check is silent.",
+                        "body": "A noindex tag on a template. A broken robots.txt. A stale sitemap. Each one quietly removes pages from search and AI results. There is no alert. There is a slow drift down the rankings that is easy to blame on the algorithm. The checklist surfaces the silent killers first."
+                    },
+                    {
+                        "title": "You can run this yourself before anyone touches your site.",
+                        "body": "Pass, Partial, and Fail thresholds are deterministic. No agency required to interpret them. Two people working through the checklist on the same site land on the same answers. Use it as a self-audit before hiring anyone, or as a sanity check on a vendor's report."
+                    }
+                ]
+            }
+        }
+    ]
+}

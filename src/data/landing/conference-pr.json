@@ -1,0 +1,177 @@
+{
+    "seo": {
+        "meta_description": "PR agencies: turn your clients' conference appearances into months of content. Talk Commerce records the interviews. Content Cucumber writes the articles, case studies, and social posts.",
+        "og_description": "Your clients are already at the conference. We turn their booth presence into podcast episodes, blog articles, case studies, and social content. White-label available.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Let's Talk About Your Clients",
+        "subtitle": "Tell us a bit about your agency and we'll set up a quick call.",
+        "trust_text": "40+ human writers. 500+ podcast episodes. Trusted by agencies.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Thanks for reaching out.",
+        "text": "We'll be in touch shortly to schedule a call. Looking forward to learning about your clients."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "For PR and Marketing Agencies",
+                "youtube_id": "B2DTOLMkzf4",
+                "youtube_layout": "grid",
+                "youtube_title": "Content Cucumber Live Event Content",
+                "title": "Your clients are at the conference.<br><em>We turn that into content</em>.",
+                "paragraphs": [
+                    "Your clients are already spending on the booth, the travel, and the team. Talk Commerce records professional interviews on-site. Content Cucumber's writers turn those conversations into blog articles, case studies, social posts, and SEO content.",
+                    "Three packages your clients can choose from. White-label available. No contracts, no minimums. <a href=\"/conference-interview/\">See the full interview packages</a>."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "40+", "label": "Human Writers" },
+                { "number": "500+", "label": "Podcast Episodes" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "100s", "label": "Brands Served" }
+            ]
+        },
+        {
+            "type": "bundles",
+            "anchor": "packages",
+            "data": {
+                "title": "Packages for Your Clients",
+                "subtitle": "Every package includes a professional on-camera interview at the conference. Higher tiers add written content from Content Cucumber's team. White-label on all tiers.",
+                "items": [
+                    {
+                        "name": "Spotlight",
+                        "badge": "Free",
+                        "target": "A quick, professional interview that gets your client on the Talk Commerce podcast. You deliver the clips to your client.",
+                        "price": "Free",
+                        "form_modal": {
+                            "heading": "Book a Free Interview for Your Client",
+                            "subtitle": "Tell us which event and which client. We'll confirm the slot.",
+                            "button_text": "Book Free Interview",
+                            "portal_id": "39487190",
+                            "form_id": "c558d377-b3be-4091-87ff-da48f320145c",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "3-minute guided interview at their booth",
+                            "Professional camera and audio",
+                            "Published on Talk Commerce podcast",
+                            "Shareable video clip for your client's channels",
+                            "White-label delivery available"
+                        ]
+                    },
+                    {
+                        "name": "Deep Dive",
+                        "badge": "Most Popular",
+                        "featured": true,
+                        "target": "A full-length conversation your client can use across every channel. You get the footage, they get the exposure.",
+                        "price": "$100",
+                        "form_modal": {
+                            "heading": "Book a Deep Dive for Your Client",
+                            "subtitle": "15-minute in-depth interview. $100 per session.",
+                            "button_text": "Book Now - $100",
+                            "portal_id": "39487190",
+                            "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "15-minute in-depth interview",
+                            "Full podcast episode published",
+                            "Multiple edited clips for social media",
+                            "B-roll footage of their booth",
+                            "Raw footage delivered to your agency"
+                        ]
+                    },
+                    {
+                        "name": "Full Content Package",
+                        "target": "One interview becomes a complete content library. Talk Commerce records. Content Cucumber writes. You deliver it all under your brand.",
+                        "price": "Custom",
+                        "form_modal": {
+                            "heading": "Let's Scope Your Client's Package",
+                            "subtitle": "Tell us about the event and your client's goals. We'll schedule a quick call.",
+                            "button_text": "Schedule a Call",
+                            "portal_id": "39487190",
+                            "form_id": "39446d06-5fd2-4464-9e6f-ed642fb34d3a",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Everything in Deep Dive, plus:",
+                            "Case study written by Content Cucumber",
+                            "SEO-optimized blog article",
+                            "Social media content calendar with clips",
+                            "Post-event email campaign assets",
+                            "All content white-labeled to your agency"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How It Works for Agencies",
+                "subtitle": "You book interviews for your clients. We handle everything else.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Pick Packages for Your Clients",
+                        "text": "Choose Spotlight (free), Deep Dive ($100), or Full Content Package (custom) for each client attending the conference. Fill out the form and we confirm the slots."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We Show Up at Their Booth",
+                        "text": "Talk Commerce arrives with pro gear and guides a natural, relaxed conversation. No scripts needed. Your client talks about what they know."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Content Delivered to Your Agency",
+                        "text": "Video clips within two weeks. For Full Content packages, Content Cucumber's writers produce articles, case studies, and social content. All white-labeled. You deliver it to your client."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions From Agencies",
+                "items": [
+                    {
+                        "question": "Is everything white-labeled?",
+                        "answer": "Yes. All tiers. Video clips, articles, case studies, social content. Delivered to your agency. You deliver to your client under your brand. We stay behind the scenes."
+                    },
+                    {
+                        "question": "Can I book interviews for multiple clients at the same event?",
+                        "answer": "Yes. We limit to 8 total interview slots per event, but you can book several for different clients. Mix and match packages. One agency booking multiple clients is common."
+                    },
+                    {
+                        "question": "How does billing work for agencies?",
+                        "answer": "Spotlight interviews are free. Deep Dive is $100 per interview, billed to your agency. Full Content Packages are custom-quoted based on scope. No contracts, no minimums, no recurring fees."
+                    },
+                    {
+                        "question": "What's the turnaround?",
+                        "answer": "Video clips and published episodes within two weeks of the event. Written content (blog articles, case studies) within three weeks. Rush delivery available."
+                    },
+                    {
+                        "question": "What are Content Cucumber and Talk Commerce?",
+                        "answer": "Content Cucumber is a content creation agency with 40+ human writers specializing in ecommerce. Talk Commerce is a podcast and media platform with 500+ episodes. Talk Commerce records the interview. Content Cucumber turns it into written content. One relationship, a full content pipeline for your clients."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Book interviews for your clients.",
+                "text": "8 slots per event. Tell us which conference your clients are attending and which packages you want. We handle the rest."
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "form": {
+        "header": "Let's build the right CMS for your business",
+        "subtitle": "",
+        "trust_text": "HubSpot Solutions Partner. WordPress, Astro, ButterCMS experts.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "CMS Development Services - HubSpot, WordPress, Astro, ButterCMS - Content Cucumber",
+        "meta_description": "CMS development on HubSpot, WordPress, Astro, and ButterCMS. Custom themes, modules, integrations, and migrations. Built by engineers who know the platforms cold.",
+        "slug": "cms-development"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "CMS Development",
+                "title": "Build on the<br><em>Right Platform</em>",
+                "paragraphs": [
+                    "Expert development for HubSpot, WordPress, Astro, and ButterCMS. We build websites and content platforms that perform, integrate cleanly, and don't fall over when traffic shows up.",
+                    "Your free CMS strategy call includes:",
+                    "<ul><li>Platform recommendation based on your team and goals</li><li>Migration plan from your current CMS (if applicable)</li><li>Integration map with your CRM, marketing tools, and ecommerce</li><li>Performance and SEO baseline targets</li><li>Cost and timeline estimate</li><li>Written deliverable you can act on immediately</li></ul>"
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Platforms We Master",
+                "subtitle": "Four platforms. Real engineering depth on each. We don't pick a tool and pretend the others don't exist.",
+                "items": [
+                    {
+                        "icon": "settings",
+                        "title": "HubSpot CMS",
+                        "text": "Full implementation, custom themes, HubDB integrations, and workflow automation. We're a HubSpot Solutions Partner. CRM-first builds where every page captures and tracks."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "WordPress",
+                        "text": "Custom themes, plugin development, and WooCommerce. Sites built for speed, security, and content workflows. Block editor, classic editor, headless. Whatever fits the job."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Astro",
+                        "text": "Lightning-fast static sites with island architecture. 90+ Lighthouse scores by default. Multi-framework support (React, Vue, Svelte). Content collections for structured data."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "ButterCMS",
+                        "text": "Headless CMS for content-driven websites and apps. API-first design. Marketing pages, content modeling, and clean editor UX for non-technical teams."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Development Services",
+                "subtitle": "From greenfield builds to ongoing support, we handle the full lifecycle.",
+                "items": [
+                    {
+                        "icon": "settings",
+                        "title": "CMS Implementation",
+                        "text": "Full platform setup, configuration, and migration from your existing systems. We handle the hard parts. Your team handles the wins."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Custom Development",
+                        "text": "Themes, plugins, modules, and integrations tailored to your business. No off-the-shelf templates that you have to fight against."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Ecommerce Solutions",
+                        "text": "Online stores that convert. Product pages, category pages, checkout optimization, and CRM integration. Built on Shopify, WooCommerce, or your platform."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "API Integrations",
+                        "text": "Connect your CMS with CRM, ERP, marketing automation, and custom systems. We bridge them so data flows where it should without manual sync."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Performance Optimization",
+                        "text": "Speed improvements, caching strategies, and scalability. Most sites are slower than they need to be. We measure, fix, and prove the gains."
+                    },
+                    {
+                        "icon": "chat",
+                        "title": "Ongoing Support",
+                        "text": "Maintenance, updates, security patches, and technical support. Monthly retainers available so the site stays healthy after launch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "items": [
+                    {
+                        "question": "Which platform should I pick?",
+                        "answer": "Depends on your team and goals. HubSpot if marketing automation and CRM are central. WordPress if you have a content team and need flexibility. Astro if speed and SEO are paramount and your team is technical. ButterCMS if you want headless with a clean editor for marketers. We help you pick on the discovery call."
+                    },
+                    {
+                        "question": "Can you migrate from another CMS?",
+                        "answer": "Yes. We've migrated from Drupal, Wix, Squarespace, Webflow, custom builds, and WordPress to other platforms. Migration includes content, redirects, SEO preservation, and a parity check before launch."
+                    },
+                    {
+                        "question": "Do you handle hosting?",
+                        "answer": "We deploy to your hosting or recommend one based on the platform: WP Engine for WordPress, Vercel or Netlify for Astro, HubSpot's managed hosting for HubSpot CMS. We don't resell hosting."
+                    },
+                    {
+                        "question": "What's the typical timeline?",
+                        "answer": "Simple builds: 2-4 weeks. Mid-complexity (custom design, 10-25 pages, integrations): 4-8 weeks. Complex builds (ecommerce, multi-site, custom apps): 8-16 weeks."
+                    },
+                    {
+                        "question": "What's the typical cost?",
+                        "answer": "Starter custom builds begin around $7,500. Most engagements run $15,000 to $50,000. Enterprise builds with complex integrations go higher. We scope every project individually and never charge by the hour for fixed-scope work."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Tell us about your project",
+                "text": "Let's discuss the right approach. No obligation. Most calls end with a clear plan even if you decide to build it elsewhere."
+            }
+        }
+    ]
+}

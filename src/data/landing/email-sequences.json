@@ -1,0 +1,153 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Email Marketing Services - Content Cucumber",
+    "meta_description": "Strategic email sequences that nurture leads and drive sales. Welcome series, drip campaigns, newsletters, and re-engagement flows written by professional copywriters.",
+    "slug": "email-marketing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content Creation",
+        "title": "Email Sequences That<br><em>Nurture and Convert</em>",
+        "paragraphs": [
+          "Strategic email content that builds relationships and converts subscribers into customers. From welcome sequences to re-engagement flows."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "mail",
+            "title": "Welcome Sequences",
+            "text": "First impressions matter. We build automated welcome flows that introduce your brand, set expectations, and move new subscribers toward their first purchase."
+          },
+          {
+            "icon": "target",
+            "title": "Drip Campaigns",
+            "text": "Timed sequences that educate, build trust, and guide prospects through your sales funnel. Each email builds on the last with a clear path to conversion."
+          },
+          {
+            "icon": "refresh",
+            "title": "Re-engagement Flows",
+            "text": "Win back inactive subscribers with targeted sequences that remind them why they signed up. Segment, test, and optimize until they come back."
+          },
+          {
+            "icon": "megaphone",
+            "title": "Newsletter Content",
+            "text": "Consistent newsletters that your subscribers want to read. Industry insights, company updates, and value-driven content on a regular schedule."
+          }
+        ],
+        "title": "What is Email Marketing?",
+        "subtitle": "Email remains the highest ROI marketing channel. But only when done right. We create email sequences that engage subscribers, nurture leads, and drive conversions. Every email is crafted with persuasive copywriting and email marketing best practices."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Strategy Session",
+            "text": "We define your email goals, audience segments, and key sequences. Map out the customer journey and identify where email fits at each stage."
+          },
+          {
+            "number": "02",
+            "title": "Sequence Planning",
+            "text": "Build the email flow structure: triggers, timing, segmentation rules, and content themes. Every sequence has a clear goal and measurable outcome."
+          },
+          {
+            "number": "03",
+            "title": "Copy Creation",
+            "text": "Our writers craft subject lines, preview text, body copy, and CTAs. Each email is written to engage, not just inform. Optimized for mobile and tested for deliverability."
+          },
+          {
+            "number": "04",
+            "title": "Launch and Optimize",
+            "text": "Deploy through your email platform (HubSpot, Klaviyo, Mailchimp). Monitor open rates, click rates, and conversions. A/B test and refine based on real data."
+          }
+        ],
+        "title": "How Our Email Marketing Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Batch-and-blast emails that get ignored",
+            "Generic templates with low engagement",
+            "No idea which emails drive revenue"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Strategic sequences that nurture relationships",
+            "Custom copy that sounds like your brand",
+            "Full attribution through HubSpot tracking"
+          ]
+        },
+        "title": "Why Choose Our Email Marketing?"
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Results",
+        "title": "What Our Clients Say",
+        "paragraphs": [
+          "\"People started mentioning my email newsletter in the office after the first send!\" - Wade Folske, PC Stretch"
+        ],
+        "stats": []
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "What email platforms do you work with?",
+            "answer": "We work with HubSpot, Klaviyo, Mailchimp, ActiveCampaign, and most major email platforms. We write the content and help set up the sequences in your platform."
+          },
+          {
+            "question": "How many emails are in a typical sequence?",
+            "answer": "Most sequences have 5-8 emails, but it depends on the goal. A welcome sequence might be 5 emails over 2 weeks. A nurture campaign could be 8-12 emails over several months."
+          },
+          {
+            "question": "Do you handle the technical email setup?",
+            "answer": "We handle the copy, sequence logic, and segmentation strategy. For HubSpot clients, we can build the workflows directly. For other platforms, we provide the content and flow documentation for your team to implement."
+          },
+          {
+            "question": "How do you measure email marketing success?",
+            "answer": "Open rates, click rates, and conversion rates are the basics. With HubSpot, we can track all the way to revenue attribution so you know exactly which emails drove sales."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop sending emails that get ignored. Our strategic email sequences build relationships and drive revenue.",
+        "title": "Ready to Transform Your Email Marketing?"
+      }
+    }
+  ]
+}

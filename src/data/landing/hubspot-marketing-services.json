@@ -1,0 +1,418 @@
+{
+    "seo": {
+        "meta_description": "Outcome-based marketing services for ecommerce brands on HubSpot. Real revenue attribution, AI search visibility, and a brand voice that stands out. We set up HubSpot if you don't have it.",
+        "og_description": "Content Cucumber runs marketing services for HubSpot ecommerce customers. 40+ human writers, real attribution, AI search visibility. Outcomes, not deliverables.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg",
+        "noindex": true,
+        "title": "Marketing services scoped to outcomes, not hours - Content Cucumber"
+    },
+    "form": {
+        "header": "Get Your Free Marketing Outcome Review",
+        "subtitle": "",
+        "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. 500+ podcast episodes.",
+        "portal_id": "39487190",
+        "form_id": "60772228-1ef9-471a-96e6-6e3aa92ce039",
+        "region": "na1"
+    },
+    "floating_cta": {
+        "text": "Free Marketing Review",
+        "href": "#form"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Marketing Services for Ecommerce Brands on HubSpot",
+                "title": "Marketing services scoped to <em>outcomes</em>,<br>not hours.",
+                "paragraphs": [
+                    "Most marketing agencies sell you hours, points, or deliverables. We sell outcomes. You tell us what the business needs (more pipeline, more revenue, more visibility) and we run the marketing system that gets you there. Content production, distribution, attribution, and optimization, all tied to the metric that matters.",
+                    "Your free marketing review includes:",
+                    "<ul><li>Outcome scorecard tied to your revenue goal</li><li>Pipeline gap analysis: where leads are leaking</li><li>Content gap analysis: what's missing in your funnel</li><li>AI search visibility audit (ChatGPT, Claude, Perplexity)</li><li>HubSpot attribution check (or setup plan if you're not on it)</li><li>Prioritized fix list ranked by revenue impact</li><li>30-minute call with an ecommerce marketing expert</li><li>Written deliverable you can act on immediately</li></ul>"
+                ],
+                "platforms_label": "Powering growth on",
+                "platforms": "Shopify &bull; BigCommerce &bull; Magento &bull; WooCommerce"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+                    "label": "HubSpot Solutions Partner"
+                },
+                {
+                    "number": "30+",
+                    "label": "Years in Ecommerce"
+                },
+                {
+                    "number": "40+",
+                    "label": "Human Writers"
+                },
+                {
+                    "number": "500+",
+                    "label": "Podcast Episodes"
+                }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Why Marketing Stops Driving Revenue",
+                "subtitle": "These are the four things that break ecommerce marketing. If any of these sound familiar, your marketing services need a different model.",
+                "items": [
+                    {
+                        "title": "You Can't Tie Content to Revenue",
+                        "text": "You publish blog posts, send emails, run social, and your traffic looks fine. But when leadership asks which marketing dollar drove which sale, you don't have the answer. Without HubSpot attribution wired into content, every dollar is a guess."
+                    },
+                    {
+                        "title": "AI Content Made Everything Sound the Same",
+                        "text": "Your competitors are publishing AI-generated blog posts and product descriptions. So are you. The content is fine. It's also identical to everyone else's. When everything sounds the same, nothing converts. You need content that actually has a point of view."
+                    },
+                    {
+                        "title": "You're Invisible in AI Search",
+                        "text": "Buyers ask ChatGPT, Claude, and Perplexity for recommendations before they ever search Google. If you're not showing up there, you're losing the deal before it starts. Most agencies aren't optimizing for AI search yet. We are."
+                    },
+                    {
+                        "title": "You're Buying Hours, Not Outcomes",
+                        "text": "Most agencies bill by hours, points, or retainers tied to deliverables. So you get a fixed amount of content, regardless of whether it's working. We scope to the outcome instead. If it takes 10 posts to hit the goal, that's what we publish. If it takes 30, that's what we publish."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "who-its-for",
+            "data": {
+                "title": "Is This the Right Fit?",
+                "subtitle": "Our marketing services aren't for everyone. They work best for ecommerce brands that want a system tied to revenue, not another vendor on the marketing stack.",
+                "fits": [
+                    {
+                        "icon": "check",
+                        "text": "You're an ecommerce brand doing $1M+ in revenue"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "You want marketing tied to revenue, not just traffic"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "You're on HubSpot or want to be (we set it up if you don't have it)"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "You want to show up in AI search, not just Google"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "You need a team that owns the outcome, not a vendor that ships hours"
+                    }
+                ],
+                "not_fits": [
+                    {
+                        "icon": "x",
+                        "text": "You just need a freelance writer for a few blog posts"
+                    },
+                    {
+                        "icon": "x",
+                        "text": "You're looking for the cheapest content option"
+                    },
+                    {
+                        "icon": "x",
+                        "text": "You don't have product-market fit yet"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Marketing Services Scoped to Outcomes",
+                "subtitle": "We don't sell hours or points. Each package is scoped to a specific outcome, and the work is whatever it takes to get there. Talk to us about which outcome matters most right now.",
+                "items": [
+                    {
+                        "name": "Brand Visibility",
+                        "target": "Get your brand into AI search results, organic search, and the channels your buyers actually use. Foundation for everything else.",
+                        "outcome": "Brand mentions in AI and organic channels",
+                        "measures": "AI mentions, organic impressions, content velocity",
+                        "stages": "Voice + Distribution",
+                        "outcomes": [
+                            "Brand voice captured and managed in <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener noreferrer\">RequestDesk</a>",
+                            "Content published consistently to your primary platform",
+                            "AI search visibility baseline (ChatGPT, Claude, Perplexity)",
+                            "Monthly visibility report"
+                        ],
+                        "modal": {
+                            "heading": "Brand Visibility: Get Found",
+                            "description": "Before content can drive pipeline, your buyers have to find you. This package gets your brand showing up in AI search, organic search, and the platforms your buyers spend time on.",
+                            "details": [
+                                {
+                                    "label": "Brand Voice Capture",
+                                    "text": "We interview your team, analyze your existing content, and build a brand voice profile. Every piece of content matches your tone from day one."
+                                },
+                                {
+                                    "label": "Consistent Publishing",
+                                    "text": "Blog posts, product descriptions, and foundational pages published on schedule. No content gaps."
+                                },
+                                {
+                                    "label": "AI Search Baseline",
+                                    "text": "We measure your current visibility in ChatGPT, Claude, Perplexity, and Google AI Overviews so you have a benchmark."
+                                },
+                                {
+                                    "label": "Monthly Reporting",
+                                    "text": "Content velocity, organic traffic trends, AI mention tracking. You see what's moving."
+                                }
+                            ],
+                            "best_for": "Ecommerce brands doing under $5M that need visibility before scaling pipeline."
+                        }
+                    },
+                    {
+                        "name": "Pipeline Engine",
+                        "target": "Connect content directly to pipeline. Full marketing system running with HubSpot CRM integration, multi-channel distribution, and lead attribution. We set up HubSpot if you don't have it.",
+                        "outcome": "Qualified leads from content",
+                        "measures": "MQLs generated, conversion rate, pipeline influenced",
+                        "stages": "Voice + Distribution + Attribution",
+                        "featured": true,
+                        "badge": "Most Popular",
+                        "outcomes": [
+                            "Everything in Brand Visibility",
+                            "HubSpot CRM integration via <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener noreferrer\">RequestDesk</a>",
+                            "Multi-channel publishing (blog, social, email)",
+                            "Lead attribution reporting",
+                            "Monthly optimization cycle"
+                        ],
+                        "modal": {
+                            "heading": "Pipeline Engine: Content That Generates Leads",
+                            "description": "This is where content stops being a cost center and starts generating pipeline. We connect your content to HubSpot, distribute across channels, and give you attribution so you know which content creates revenue.",
+                            "details": [
+                                {
+                                    "label": "HubSpot CRM Integration",
+                                    "text": "RequestDesk connects directly to HubSpot. Content is personalized based on lifecycle stage. Every interaction tracked back to the contact record."
+                                },
+                                {
+                                    "label": "Multi-Channel Distribution",
+                                    "text": "Blog, social, email, and syndication. Content goes where your buyers are."
+                                },
+                                {
+                                    "label": "Lead Attribution",
+                                    "text": "See which content influenced each deal. No more guessing."
+                                },
+                                {
+                                    "label": "Monthly Optimization",
+                                    "text": "We review what's converting, cut what's not, double down on what works."
+                                }
+                            ],
+                            "best_for": "Ecommerce brands doing $5M-$25M that want content tied directly to pipeline. HubSpot Marketing Hub Pro setup included if needed."
+                        }
+                    },
+                    {
+                        "name": "Revenue Channel",
+                        "target": "Make marketing a measurable revenue line. High-volume production, full AI search optimization, and revenue dashboards that tie content to closed deals.",
+                        "outcome": "Revenue attribution from content",
+                        "measures": "Deals influenced, content ROI, customer acquisition cost",
+                        "stages": "Voice + Distribution + Attribution + AI Search",
+                        "outcomes": [
+                            "Everything in Pipeline Engine",
+                            "High-volume content production",
+                            "Full AI search optimization (ChatGPT, Claude, Perplexity)",
+                            "Weekly iteration cycles",
+                            "Revenue attribution dashboards",
+                            "Dedicated strategy lead"
+                        ],
+                        "modal": {
+                            "heading": "Revenue Channel: Marketing as a Measurable Revenue Driver",
+                            "description": "This package is for brands that want marketing to be a revenue line, not an expense. High-volume production, full AI search optimization, weekly iteration, dashboards that tie marketing directly to closed deals.",
+                            "details": [
+                                {
+                                    "label": "High-Volume Production",
+                                    "text": "40+ human writers produce at the volume you need. 10 posts or 50, the outcome stays the same."
+                                },
+                                {
+                                    "label": "Full AI Search Optimization",
+                                    "text": "Your brand shows up when buyers ask ChatGPT, Claude, or Perplexity. We optimize for AI search, not just Google."
+                                },
+                                {
+                                    "label": "Weekly Iteration",
+                                    "text": "Monthly cycles are too slow at scale. We review weekly and adjust strategy in real time."
+                                },
+                                {
+                                    "label": "Revenue Dashboards",
+                                    "text": "Content ROI, deals influenced, customer acquisition cost. Numbers your CFO trusts."
+                                },
+                                {
+                                    "label": "Dedicated Strategy Lead",
+                                    "text": "A senior strategist owns your account. One person who knows your brand, your data, your goals."
+                                }
+                            ],
+                            "best_for": "Ecommerce brands doing $25M+ that want marketing as a measurable revenue channel with executive-level reporting."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What You Actually Get",
+                "subtitle": "Not deliverables. Outcomes. Here's what ecommerce brands get when our marketing services run end to end.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Content That Has a Point of View",
+                        "text": "40+ human writers create content with real ecommerce expertise. RequestDesk captures your brand voice and manages the entire content pipeline. In a market drowning in AI sludge, content with a real perspective is the differentiator."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Revenue You Can Trace",
+                        "text": "Full HubSpot attribution wired into content. RequestDesk connects content to the CRM so you see which post drove which deal, for which segment. We set up HubSpot Marketing Hub Pro as the engine if you don't have it."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Visibility Where Buyers Look",
+                        "text": "Your products show up in ChatGPT, Claude, Perplexity, Google AI Overviews, email, and social. We optimize for AI search (not just SEO) and distribute across every channel where your buyers spend time."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "A System That Compounds",
+                        "text": "Performance data feeds back into optimization. What works gets amplified. What doesn't gets cut. Your marketing compounds over time instead of resetting every quarter."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "HubSpot Solutions Partner",
+                "title": "Ecommerce specialists with the team and the platform.",
+                "highlights": [
+                    {
+                        "title": "30+ Years in Ecommerce",
+                        "text": "Led by Brent Peterson, Content Cucumber works exclusively with online brands. We speak at eTail, Shoptalk, and industry events. We host Talk Commerce, a podcast with 500+ episodes featuring ecommerce leaders."
+                    },
+                    {
+                        "title": "Team and Platform",
+                        "text": "Content Cucumber is the team. RequestDesk is the platform. Together they run the full marketing system. RequestDesk handles brand voice, content execution, and publishing. HubSpot provides the CRM and attribution layer. We set up everything."
+                    },
+                    {
+                        "title": "Outcome Pricing",
+                        "text": "We don't bill hours, points, or fixed deliverables. We scope to the outcome. If hitting the goal takes more content one month and less the next, that's our problem. You get the result either way."
+                    }
+                ],
+                "stats": [
+                    {
+                        "number": "30+",
+                        "label": "Years in Ecommerce"
+                    },
+                    {
+                        "number": "40+",
+                        "label": "Human Writers"
+                    },
+                    {
+                        "number": "500+",
+                        "label": "Podcast Episodes"
+                    },
+                    {
+                        "number": "100%",
+                        "label": "Outcome-Scoped"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "reviews",
+            "data": {
+                "eyebrow": "Real ratings from real clients",
+                "title": "What Our Clients Say",
+                "count": 4,
+                "columns": 2,
+                "layout": "grid",
+                "has_text": true,
+                "show_trust_bar": true,
+                "show_rating": true,
+                "show_org": true
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions We Hear",
+                "items": [
+                    {
+                        "question": "\"How is this different from other marketing agencies?\"",
+                        "answer": "Two things. First, we scope to outcomes, not hours. You tell us the goal (visibility, leads, revenue) and we run the work to hit it. Second, we wire content directly into HubSpot for real attribution, so every dollar of marketing has a revenue trace. Most agencies sell you a content package and hope it works."
+                    },
+                    {
+                        "question": "\"Do we need HubSpot already?\"",
+                        "answer": "No. Most clients don't have HubSpot when they start. We set up HubSpot Marketing Hub Pro as part of the engagement. You get attribution, personalization, and automation. If you're already on HubSpot, we integrate with your existing setup."
+                    },
+                    {
+                        "question": "\"AI can write our content. Why pay for human writers?\"",
+                        "answer": "AI produces the same output for every brand using it. When every competitor publishes identical AI content, none of it stands out. Our 40+ human writers create content with real expertise and your brand voice. That's what makes content convert. Tools alone don't."
+                    },
+                    {
+                        "question": "\"What does the free review include?\"",
+                        "answer": "A one-page outcome scorecard tied to your revenue goal. We map where pipeline is leaking, where content is missing, how visible you are in AI search, and whether your HubSpot attribution is wired up. You walk away with a prioritized list of what to fix first based on revenue impact. 30-minute call, written deliverable."
+                    },
+                    {
+                        "question": "\"How does pricing work?\"",
+                        "answer": "We price based on the outcome, not the work. Each package is scoped to a specific goal: visibility, pipeline, or revenue. Content volume is whatever it takes to hit the outcome. We'll walk you through options on a call and recommend the right fit for your brand and stage."
+                    },
+                    {
+                        "question": "\"What is RequestDesk?\"",
+                        "answer": "RequestDesk is our content execution platform. It captures your brand voice, manages your content pipeline, integrates with HubSpot CRM for personalized content, and publishes across Shopify, WordPress, and social channels. It's the content layer that plugs into HubSpot. Content Cucumber is the team that runs it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ecosystem",
+            "data": {
+                "title": "Two Brands, One System",
+                "subtitle": "Each plays a role in running your marketing.",
+                "brands": [
+                    {
+                        "name": "Content Cucumber",
+                        "role": "The Team",
+                        "description": "40+ human writers, brand voice management, multi-channel publishing. Outcome-scoped engagements. You're here.",
+                        "current": true
+                    },
+                    {
+                        "name": "RequestDesk",
+                        "role": "The Platform",
+                        "description": "Brand voice management, AI content assistant, HubSpot CRM integration, and multi-channel publishing. The engine the team runs on.",
+                        "link_text": "Learn about the platform",
+                        "modal": {
+                            "heading": "RequestDesk: The Content Execution Platform",
+                            "description": "RequestDesk is the platform that powers our marketing services. It captures your brand voice, manages your content pipeline, integrates with HubSpot CRM, and publishes across every channel your buyers use.",
+                            "details": [
+                                {
+                                    "label": "Brand Voice Management",
+                                    "text": "We interview your team, analyze your existing content, and build a brand voice profile. Every piece of content matches your tone from day one."
+                                },
+                                {
+                                    "label": "AI Content Assistant",
+                                    "text": "RequestDesk uses your brand voice profile to guide content creation. Human writers produce the work. The platform ensures consistency across 40+ writers."
+                                },
+                                {
+                                    "label": "HubSpot CRM Integration",
+                                    "text": "Content is personalized based on lifecycle stage and contact properties. Every interaction tracked back to the contact for attribution."
+                                },
+                                {
+                                    "label": "Multi-Channel Publishing",
+                                    "text": "Publish to Shopify, WordPress, BigCommerce, email, and social from one platform."
+                                }
+                            ],
+                            "best_for": "RequestDesk is the engine. Content Cucumber is the team that runs it. Together they execute the full marketing system. HubSpot setup included if needed."
+                        }
+                    }
+                ],
+                "cross_ctas": []
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to scope marketing to an outcome?",
+                "text": "Get a free marketing review for your ecommerce brand. You'll get a one-page outcome scorecard, a prioritized list of revenue gaps, and a clear next step. 30-minute call, written deliverable, no sales pitch. Just an ecommerce team with 30+ years of experience telling you what they see."
+            }
+        }
+    ]
+}

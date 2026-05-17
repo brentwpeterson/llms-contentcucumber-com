@@ -1,0 +1,117 @@
+{
+    "no_nav": true,
+    "noindex": true,
+    "seo": {
+        "title": "The 56-Point Brand Visibility Audit Checklist | Content Cucumber",
+        "meta_description": "Free 56-point brand visibility audit checklist. Six pillars: AI brand mentions, third-party reviews, voice consistency, search visibility, competitive positioning, and visual identity. The same framework Content Cucumber runs for paid brand audits.",
+        "og_description": "Free 56-point brand visibility audit checklist across 6 pillars. AI search mentions, third-party reviews, voice consistency, SERP ownership, competitive positioning, and visual identity.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Get the Checklist",
+        "portal_id": "39487190",
+        "form_id": "REPLACE-WITH-NEW-FORM-ID",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Got it",
+        "text": "We'll send the 56-Point Brand Visibility Audit Checklist to your inbox shortly. If you want our team to run it on your brand and deliver the report, reach out.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Free Checklist from Content Cucumber",
+                "title": "The 56-Point Brand Visibility <em>Audit Checklist</em>",
+                "subtitle": "Search engines are not the only ones evaluating you. AI engines, third-party reviewers, and your own customers are too. Most brands audit one. This checklist covers all six. Same framework our team runs for paid brand audits, organized into 56 specific checks across 6 pillars.",
+                "bullets": [
+                    "<strong>56 specific checks across 6 pillars.</strong> AI brand visibility, third-party review footprint, voice and messaging consistency, SERP and search visibility, competitive positioning, and visual identity and touchpoints.",
+                    "<strong>Deterministic Pass, Partial, or Fail rules.</strong> Each check has a clear threshold so two people running the same audit land on the same answer. No vibes scoring.",
+                    "<strong>Severity tags on every check.</strong> Critical, High, Medium, Low. Know which gaps cost you customers this quarter and which can wait.",
+                    "<strong>Built for AI search, not just Google.</strong> Ten dedicated AI brand-visibility checks for ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews. The audit reads what the AI engines say about your brand, not just whether they crawl your site.",
+                    "<strong>Manual-paste fallbacks where needed.</strong> Trustpilot, Capterra, and parts of Google block scrapers. The checklist tells you what to paste from a logged-in browser session and how to score the result.",
+                    "<strong>The same framework we use ourselves.</strong> Identical checks, scoring, and severity logic our team applies to every paid Content Cucumber brand audit. Use it as a self-audit before you hire anyone, or as a sanity check on a vendor's report."
+                ],
+                "thumbnail": "landing-data/brand-visibility-checklist-cover.png",
+                "authors": "Brent Peterson, CEO of Content Cucumber. The same checklist our team works through before delivering any client brand audit report.",
+                "form_title": "Get the Checklist",
+                "form_subtitle": "Free. Delivered to your inbox."
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "Why brand visibility, not just SEO",
+                "heading": "An SEO audit tells you what Google sees. A brand visibility audit tells you what the world sees.",
+                "items": [
+                    {
+                        "title": "SEO audits skip the human read of the brand.",
+                        "body": "A clean technical audit and a Pass on Core Web Vitals tells you the site is crawlable and fast. It does not tell you whether ChatGPT recommends you, whether your Clutch profile has zero reviews, or whether your About page sounds like a different company than your blog. Brand visibility covers the surface SEO leaves untouched."
+                    },
+                    {
+                        "title": "AI engines are running their own brand audit on you right now.",
+                        "body": "When a buyer asks ChatGPT or Perplexity for the best agency in your category, the engine answers. Either it names you or it names someone else. The signals it weighs are not the ones a Lighthouse score reports. Citation patterns, llms.txt, author schema, and brand mentions across the open web. Ten of the fifty-six checks test this directly."
+                    },
+                    {
+                        "title": "Zero reviews on Clutch and G2 is not a neutral state. It reads as red flag.",
+                        "body": "A buyer who finds your G2 profile and sees zero reviews does not assume you are new. They assume something happened. The trust gap is the most common gap we find on brand audits, and it is also the cheapest to close. Eight of the fifty-six checks cover the third-party review footprint and how to fix it deliberately."
+                    },
+                    {
+                        "title": "Self-audit first. Hire help second.",
+                        "body": "Pass, Partial, and Fail thresholds are deterministic. Two people running the checklist on the same brand land on the same answers. Run this on yourself before paying anyone. Bring the findings to a vendor conversation as your starting list, not their starting list. The strongest brand-audit engagements start with a client who already knows where the gaps are."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "anchor": "checks",
+            "data": {
+                "title": "All 56 checks, organized by pillar",
+                "items": [
+                    {
+                        "question": "Pillar 1: AI Brand Visibility (10 checks)",
+                        "answer": "<p>How AI search engines portray your brand on category-relevant prompts. Most brands skip this entirely.</p><ol><li><strong>1.1</strong> Brand mention rate on ChatGPT category queries (5 prompts).</li><li><strong>1.2</strong> Brand mention rate on Perplexity category queries (5 prompts).</li><li><strong>1.3</strong> Brand mention rate on Claude.ai web search.</li><li><strong>1.4</strong> Brand citation in Google AI Overviews source list.</li><li><strong>1.5</strong> Brand mention rate on Bing Copilot and Gemini.</li><li><strong>1.6</strong> llms.txt presence at /llms.txt and /.well-known/llms.txt.</li><li><strong>1.7</strong> robots.txt allows GPTBot, ClaudeBot, PerplexityBot, Google-Extended, CCBot.</li><li><strong>1.8</strong> AI citations point to live, on-brand canonical URLs (not stale or 404'd ones).</li><li><strong>1.9</strong> Author schema and visible byline present on cited pages.</li><li><strong>1.10</strong> Wikipedia or Wikidata entity presence for the brand.</li></ol>"
+                    },
+                    {
+                        "question": "Pillar 2: Third-Party Review Footprint (10 checks)",
+                        "answer": "<p>What the world says about your brand on the platforms buyers check. Trust gap is the most common single finding on a brand audit.</p><ol><li><strong>2.1</strong> Clutch.co profile presence and review count (10+ for Pass).</li><li><strong>2.2</strong> G2.com profile presence and review count.</li><li><strong>2.3</strong> Google Business Profile presence, review count (20+), and average rating (4.0+).</li><li><strong>2.4</strong> Trustpilot profile and TrustScore.</li><li><strong>2.5</strong> Capterra, GetApp, Software Advice presence (B2B SaaS only).</li><li><strong>2.6</strong> Owned-site testimonials with full name and company attribution.</li><li><strong>2.7</strong> Review schema markup on testimonial sections of the owned site.</li><li><strong>2.8</strong> Owner response rate on negative reviews within 14 days.</li><li><strong>2.9</strong> Review recency. At least one review on at least two platforms within the last 90 days.</li><li><strong>2.10</strong> Photo and video review presence across platforms.</li></ol>"
+                    },
+                    {
+                        "question": "Pillar 3: Voice and Messaging Consistency (10 checks)",
+                        "answer": "<p>Whether the brand reads like the same company across blog, services, sales pages, social, and About. Voice drift is invisible until a reader notices, and then it never gets unnoticed.</p><ol><li><strong>3.1</strong> Banned-phrase incidence on the homepage (zero high-severity hits for Pass).</li><li><strong>3.2</strong> Voice drift across surfaces. Per-1k-char banned-phrase rate compared across blog, services, and About.</li><li><strong>3.3</strong> Tagline visibility and consistency across homepage, About, social bios, and email signature.</li><li><strong>3.4</strong> Value-prop coherence. Same answer to \"what does this brand do, for whom, with what outcome\" on hero, About, and services overview.</li><li><strong>3.5</strong> Brand-story presence on About or Our-Story. Founding date, founder names, origin moment, mission.</li><li><strong>3.6</strong> Founder or leadership voice presence on-site and on LinkedIn.</li><li><strong>3.7</strong> First-person vs corporate-voice consistency across pages.</li><li><strong>3.8</strong> CTA language consistency. Three or fewer distinct CTA verbs across the site.</li><li><strong>3.9</strong> Tone match to the category audience.</li><li><strong>3.10</strong> Pricing transparency. Pricing page exists with at least starting prices or tiers.</li></ol>"
+                    },
+                    {
+                        "question": "Pillar 4: SERP and Search Visibility (8 checks)",
+                        "answer": "<p>What a buyer sees when they google your brand name. Branded SERP ownership is the floor of brand defense.</p><ol><li><strong>4.1</strong> Branded-query SERP ownership. Brand owns positions 1-3.</li><li><strong>4.2</strong> Knowledge panel presence with logo, description, social links, founding date.</li><li><strong>4.3</strong> Owned social profiles in positions 1-10 of branded SERP.</li><li><strong>4.4</strong> Brand-authority site presence. Wikipedia, Crunchbase, G2, Clutch.</li><li><strong>4.5</strong> Branded image SERP ownership. 6+ of first 12 images are owned brand assets.</li><li><strong>4.6</strong> Branded video SERP presence. Owned channel video results on first page.</li><li><strong>4.7</strong> People-also-ask coverage. Owned answers in PAA on branded queries.</li><li><strong>4.8</strong> Sitelinks rendering on branded SERP with at least 4 entries.</li></ol>"
+                    },
+                    {
+                        "question": "Pillar 5: Competitive Positioning (9 checks)",
+                        "answer": "<p>Where your brand sits relative to the named competitors who keep showing up next to you.</p><ol><li><strong>5.1</strong> Named-competitor SERP overlap on category queries. Brand appears in 2+ of the same SERPs as top 3 competitors.</li><li><strong>5.2</strong> Comparison-page coverage. Brand publishes 3+ \"Brand vs Competitor\" pages.</li><li><strong>5.3</strong> Alternatives-page presence. Brand owns or co-owns the top \"alternatives to brand\" page.</li><li><strong>5.4</strong> Backlink overlap with competitors. Brand shares 30%+ of competitor referring domains.</li><li><strong>5.5</strong> Share of voice on category queries. Aggregate organic plus AI-citation share.</li><li><strong>5.6</strong> Voice drift vs competitors. Brand at or below competitor median on banned-phrase rate.</li><li><strong>5.7</strong> OG and social-preview parity vs competitors.</li><li><strong>5.8</strong> llms.txt parity vs competitors. Differentiator if brand has it and competitors do not.</li><li><strong>5.9</strong> Pricing transparency vs competitor disclosure norms.</li></ol>"
+                    },
+                    {
+                        "question": "Pillar 6: Visual Identity and Touchpoints (9 checks)",
+                        "answer": "<p>Every customer touchpoint is a brand impression. The audit covers more than the website.</p><ol><li><strong>6.1</strong> Open Graph completeness on the homepage and 3-5 key pages.</li><li><strong>6.2</strong> Favicon system completeness. /favicon.ico, /apple-touch-icon.png, web manifest.</li><li><strong>6.3</strong> Logo usage consistency across site, social, email signatures.</li><li><strong>6.4</strong> Social profile completeness. LinkedIn, X, Instagram. Profile photo, banner, bio, website link, recent activity within 30 days.</li><li><strong>6.5</strong> Social-bio consistency with the brand tagline.</li><li><strong>6.6</strong> Brand-color usage consistency on the owned site.</li><li><strong>6.7</strong> Image alt-text brand-mention rate.</li><li><strong>6.8</strong> Email-signature consistency across the team.</li><li><strong>6.9</strong> Employee LinkedIn-banner and headline alignment with the brand.</li></ol>"
+                    },
+                    {
+                        "question": "How is this different from the 56-Point AEO and SEO Audit?",
+                        "answer": "<p>The 56-Point AEO and SEO Audit tests the technical search surface of your site. Crawlability, schema, Core Web Vitals, on-page tags. It tells you whether search engines can read your site cleanly.</p><p>This Brand Visibility audit tests what the search engines, AI engines, and review platforms <em>say about you</em> once they have read the site. Different question, different answers, different fixes. Run them both. The two checklists share methodology and severity tiers; the checks themselves do not overlap.</p>"
+                    },
+                    {
+                        "question": "What if I want your team to run this for me?",
+                        "answer": "<p>Run the checklist on yourself first. Bring the findings to the conversation. We work with brands on a six-month engagement that addresses brand visibility findings systematically rather than one-off fixes. The checklist is the on-ramp. Consistency over time is the work.</p>"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Get the 56-point checklist",
+                "text": "Free. Delivered to your inbox. Run it yourself, or bring the findings to us when you are ready for the systematic version."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+  "form": {
+    "header": "Get Your Free Technical Audit",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Technical SEO Audit Services - Content Cucumber",
+    "meta_description": "Technical SEO audit covering site speed, Core Web Vitals, crawlability, schema markup, security headers, and indexation issues. Prioritized fix list for WordPress and Shopify.",
+    "slug": "technical-audit"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "SEO Services",
+        "title": "Technical SEO Audit<br><em>Find What's Broken, Fix What Matters</em>",
+        "paragraphs": [
+          "Great content can't rank if your technical foundation is broken. We find the issues holding your site back and give you a prioritized fix list."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What We Audit",
+        "subtitle": "Our technical SEO audit covers every element that affects how search engines crawl, index, and rank your site.",
+        "items": [
+          {
+            "icon": "speed",
+            "title": "Site Speed & Core Web Vitals",
+            "text": "LCP, INP, and CLS measurements. Identify what's slowing your pages down and prioritize fixes by impact on rankings and user experience."
+          },
+          {
+            "icon": "search",
+            "title": "Crawlability & Indexation",
+            "text": "Robots.txt, XML sitemaps, canonical tags, redirect chains, and crawl errors. Make sure Google can find and index every page that matters."
+          },
+          {
+            "icon": "code",
+            "title": "Schema Markup",
+            "text": "JSON-LD structured data validation and opportunities. Organization, Article, Product, FAQ, BreadcrumbList, and industry-specific schema types."
+          },
+          {
+            "icon": "shield",
+            "title": "Security & Headers",
+            "text": "HTTPS configuration, HSTS, Content-Security-Policy, X-Frame-Options, and other security headers that affect both safety and SEO."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How Our Technical Audit Works",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Crawl & Analyze",
+            "text": "We crawl your entire site and analyze every technical signal: page speed, indexation status, schema markup, security headers, mobile optimization, and more."
+          },
+          {
+            "number": "02",
+            "title": "Prioritized Report",
+            "text": "You get a detailed report with every issue categorized by severity: Critical (fix immediately), High (this week), Medium (this month), and Low (backlog)."
+          },
+          {
+            "number": "03",
+            "title": "Fix & Implement",
+            "text": "For WordPress and Shopify sites, we can implement the fixes directly. For other platforms, we provide detailed instructions for your development team."
+          },
+          {
+            "number": "04",
+            "title": "Verify & Monitor",
+            "text": "After fixes are deployed, we verify everything works. Set up monitoring for Core Web Vitals and crawl health so issues get caught early."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What platforms do you audit?",
+            "answer": "WordPress, Shopify, Magento, BigCommerce, WooCommerce, and custom platforms. The audit process works on any website. Implementation support is strongest on WordPress and Shopify."
+          },
+          {
+            "question": "How long does a technical audit take?",
+            "answer": "Most audits are completed within 1 week. Complex sites (1,000+ pages, multiple subdomains) may take longer. You get the full report with prioritized recommendations."
+          },
+          {
+            "question": "Do you fix the issues or just report them?",
+            "answer": "Both. We provide the detailed report, and for WordPress and Shopify sites we can implement the fixes directly. For other platforms, we work with your dev team to ensure everything is implemented correctly."
+          },
+          {
+            "question": "How is this different from a free SEO tool scan?",
+            "answer": "Free tools catch surface-level issues. Our audit goes deeper: JavaScript rendering analysis, schema validation against Google's latest requirements, AI crawler access configuration, internal linking architecture, and manual review of critical pages."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "What's Holding Your Site Back?",
+        "text": "Find out with a comprehensive technical SEO audit. Prioritized fixes ranked by impact on your rankings."
+      }
+    }
+  ]
+}

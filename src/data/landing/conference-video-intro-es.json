@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "meta_description": "Descubre cómo Content Cucumber convierte tu stand de conferencia en meses de contenido de marketing. Producción de video profesional, entrevistas guiadas y entregables pulidos.",
+        "og_description": "Isaac te explica el servicio de producción de video para conferencias de Content Cucumber. Conoce cómo convertimos 3 días en tu stand en 3 meses de marketing.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Agenda tu cobertura de conferencia",
+        "subtitle": "Cuéntanos a qué evento vas a asistir.",
+        "trust_text": "Cientos de entrevistas grabadas. Más de 30 años en ecommerce. Sin relleno.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "¡Tu reservación está confirmada! Esto es lo que sigue.",
+        "text": "Te contactaremos pronto con los detalles logísticos y una guía rápida de preparación para que tu equipo luzca increíble frente a cámara.",
+        "link_anchor": "video",
+        "link_text": "Ver el video de nuevo"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Producción de Video para Conferencias",
+                "title": "Descubre cómo convertimos tu stand en<br><em>meses de marketing</em>.",
+                "paragraphs": [
+                    "Isaac te muestra exactamente cómo funciona nuestra producción de video para conferencias, qué recibes y por qué las marcas se van con una biblioteca de contenido en lugar de solo gafetes escaneados."
+                ],
+                "youtube_id": "B2DTOLMkzf4",
+                "youtube_aspect": "16x9",
+                "youtube_title": "Conference Video Production by Content Cucumber",
+                "youtube_caption": "Isaac presenta el servicio de producción de video para conferencias de Content Cucumber."
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "100s", "label": "Entrevistas grabadas" },
+                { "number": "30+", "label": "Años en ecommerce" },
+                { "number": "500+", "label": "Episodios de podcast" },
+                { "number": "8", "label": "Tipos de entregables" }
+            ]
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Qué recibes",
+                "subtitle": "Cada paquete de cobertura de conferencia incluye materiales pulidos y listos para usar.",
+                "items": [
+                    {
+                        "name": "Clips de video cortos",
+                        "badge": "Siempre incluido",
+                        "featured": true,
+                        "target": "Clips de entrevista editados profesionalmente, listos para redes sociales, web, presentaciones y seguimiento de ventas.",
+                        "outcomes": [
+                            "Cortes verticales para redes sociales",
+                            "Cortes horizontales para web y presentaciones",
+                            "Subtítulos y títulos limpios",
+                            "Branding sutil aplicado",
+                            "Material en bruto y archivos de audio incluidos"
+                        ]
+                    },
+                    {
+                        "name": "Campaña de email post-evento",
+                        "target": "Una secuencia de seguimiento estructurada, creada a partir del material grabado en tu conferencia.",
+                        "outcomes": [
+                            "Secuencia de seguimiento con tus clips de video",
+                            "Personalizada para los prospectos que conociste en el evento",
+                            "Mantiene el impulso después del evento",
+                            "Dirige tráfico a tus páginas de destino"
+                        ]
+                    },
+                    {
+                        "name": "Distribución de contenido",
+                        "target": "Nos encargamos de llevar tu contenido de video al mundo.",
+                        "outcomes": [
+                            "Publicación y programación en redes sociales",
+                            "Artículos de blog con SEO y AEO basados en las entrevistas",
+                            "Configuración de anuncios para promoción pagada",
+                            "Adaptado para múltiples canales y formatos"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para convertir tu próxima conferencia en una máquina de contenido?",
+                "text": "Cuéntanos a qué evento vas a asistir. Armaremos un plan que convierta tu presencia en el stand en meses de materiales de marketing."
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+---
+import Page from "../layouts/Page.astro";
+import { loadPages } from "../lib/pages";
+import { mdToHtml } from "../lib/md-to-html";
+
+export function getStaticPaths() {
+  return loadPages()
+    .filter((p) => p.routeSlug !== "")
+    .map((p) => ({
+      params: { slug: p.routeSlug },
+      props: { page: p },
+    }));
+}
+
+const { page } = Astro.props;
+const bodyHtml = mdToHtml(page.markdown);
+---
+
+<Page
+  title={page.title}
+  description={page.description}
+  canonical={page.canonical}
+  mdPath={`/${page.routeSlug}.md`}
+>
+  <Fragment set:html={bodyHtml} />
+</Page>

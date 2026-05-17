@@ -1,0 +1,135 @@
+{
+    "form": {
+        "header": "Get HubSpot working the right way",
+        "subtitle": "",
+        "trust_text": "HubSpot Solutions Partner. Commerce specialists. 30+ years in commerce.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "HubSpot Implementation Services - Content Cucumber",
+        "meta_description": "HubSpot implementation, integration, and optimization services. CRM setup, marketing automation, ecommerce integration, and data migration. HubSpot Solutions Partner.",
+        "slug": "hubspot-implementation"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "HubSpot Implementation",
+                "title": "HubSpot Implementation<br><em>That Actually Works</em>",
+                "paragraphs": [
+                    "We set up HubSpot the right way. CRM configuration, marketing automation, ecommerce integrations, and data migration. Built for your business, not a generic template.",
+                    "Your free HubSpot strategy call includes:",
+                    "<ul><li>Tier recommendation (Starter, Professional, Enterprise) based on your team and use case</li><li>CRM architecture: pipelines, properties, lifecycle stages, deal flow</li><li>Integration map for your ecommerce platform, marketing tools, and existing data sources</li><li>Migration plan if you're moving from Salesforce, Mailchimp, ActiveCampaign, or spreadsheets</li><li>Cost and timeline estimate with milestones</li><li>Written deliverable you can act on immediately</li></ul>"
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Full-Service HubSpot Implementation",
+                "subtitle": "From first setup to daily operations. We handle the technical work so your team can focus on selling and growing.",
+                "items": [
+                    {
+                        "icon": "settings",
+                        "title": "CRM Setup & Configuration",
+                        "text": "Full HubSpot CRM implementation tailored to your sales process. Contact properties, deal pipelines, lifecycle stages, and reporting dashboards configured for your business."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Marketing Hub Implementation",
+                        "text": "Email marketing, landing pages, forms, and automation workflows. We build the marketing engine that captures leads and nurtures them through your funnel."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Ecommerce Integration",
+                        "text": "Connect HubSpot with Shopify, Magento, BigCommerce, and WooCommerce. Sync products, orders, and customer data so marketing and sales are always aligned."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Workflows & Automation",
+                        "text": "Custom automation that saves your team hours every week. Lead scoring, email sequences, task creation, deal stage automation, and internal notifications."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Data Migration",
+                        "text": "Moving from Salesforce, Mailchimp, ActiveCampaign, or spreadsheets? We migrate contacts, deals, and history into HubSpot cleanly. No data loss."
+                    },
+                    {
+                        "icon": "chat",
+                        "title": "Onboarding & Training",
+                        "text": "Your team gets hands-on training so they actually use HubSpot. Daily workflows, reporting, and best practices specific to your business."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Implementation Approach",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Configure",
+                        "text": "CRM architecture, pipelines, properties, lifecycle stages, and dashboards. We design the foundation around your sales process, not a generic template."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Integrate",
+                        "text": "Ecommerce platforms, marketing tools, and existing data sources connected. Two-way data sync where it matters. Single source of truth across your stack."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Automate",
+                        "text": "Workflows, email sequences, lead scoring, and task automation. We build the automation that saves your team hours, then prove it with usage reports."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Launch",
+                        "text": "Hands-on training, documentation, and ongoing support. Your team learns the daily workflows on real data, not slides. We stay available for questions and refinements."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "items": [
+                    {
+                        "question": "Which HubSpot tiers do you work with?",
+                        "answer": "All of them. Starter, Professional, and Enterprise across Marketing Hub, Sales Hub, Service Hub, CMS Hub, and Operations Hub. We recommend the right tier based on your business needs and help you get the most out of whichever plan you're on."
+                    },
+                    {
+                        "question": "How long does a typical HubSpot implementation take?",
+                        "answer": "A standard CRM setup takes 2-4 weeks. Full implementations including Marketing Hub, integrations, and data migration typically run 4-8 weeks depending on complexity. We scope every project individually."
+                    },
+                    {
+                        "question": "Can you work with our existing HubSpot setup?",
+                        "answer": "Yes. Whether you need a cleanup of an existing portal, new integrations added, or a complete audit and optimization, we work with what you have. No need to start from scratch."
+                    },
+                    {
+                        "question": "Do you integrate HubSpot with ecommerce platforms?",
+                        "answer": "Yes. We specialize in connecting HubSpot with Shopify, Magento, WooCommerce, and BigCommerce. Product syncs, order data, abandoned-cart workflows, and customer lifecycle tracking are all part of our integration work."
+                    },
+                    {
+                        "question": "What happens after implementation?",
+                        "answer": "We offer ongoing support and optimization. Most clients see us for quarterly reviews, workflow refinements, and new feature rollouts as their business grows. You're never locked in, but we're here when you need us."
+                    },
+                    {
+                        "question": "Why work with Content Cucumber for HubSpot?",
+                        "answer": "We're a HubSpot Solutions Partner with 30+ years in commerce. We know Shopify, Magento, BigCommerce, and WooCommerce inside out, so your HubSpot integration won't be generic. We don't hand you a strategy doc and walk away. We build it, test it, and train your team on it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Get HubSpot working for your business",
+                "text": "Tell us where you are with HubSpot today. We'll come back with a clear plan, timeline, and price."
+            }
+        }
+    ]
+}

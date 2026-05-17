@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "meta_description": "Join Brent Peterson and Chris Sanchez on March 31 for a live masterclass on building a 90-Day Revenue Engine. Learn to fix your sales process, optimize your HubSpot stack, and unlock hidden revenue.",
+        "og_description": "Live webinar March 31: Stop the revenue leaks. Brent Peterson (Content Cucumber) and Chris Sanchez (Influential Passion) show you how to build a 90-Day Revenue Engine for companies doing $10M-$150M/yr.",
+        "og_image": "/wp-content/themes/cucumber-gp-child/landing-data/revenue-engine-webinar-header.png"
+    },
+    "form": {
+        "header": "Register for the Live Webinar",
+        "subtitle": "March 31 at 2:00 PM Eastern. 60 minutes of actionable strategy.",
+        "trust_text": "Free to attend. Recording sent to all registrants.",
+        "portal_id": "39487190",
+        "form_id": "a8fc93c2-55a5-4282-886f-adf6b221dff9",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "You're Registered!",
+        "text": "Check your inbox for confirmation details. We'll send a reminder before the live session on March 31 at 2:00 PM Eastern. See you there."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Live Webinar | March 31 at 2:00 PM ET",
+                "title": "The 90-Day Revenue Engine: Building a <em>Predictable Sales Machine</em> for High-Ticket Brands",
+                "paragraphs": [
+                    "Your CRM is half-configured. Your reps are winging discovery calls. Your content and sales teams operate in separate universes. The result? Revenue walks out the door every single day.",
+                    "Join Brent Peterson (Content Cucumber) and Chris Sanchez (Influential Passion) for a 60-minute masterclass on building a predictable revenue engine in 90 days. No theory. Just the mechanics."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "60", "label": "Minute Masterclass" },
+                { "number": "2", "label": "Industry Experts" },
+                { "number": "30+", "label": "Years Combined Experience" },
+                { "number": "Free", "label": "Live + Recording" }
+            ]
+        },
+        {
+            "type": "banner-image",
+            "data": {
+                "src": "/wp-content/themes/cucumber-gp-child/landing-data/revenue-engine-webinar-header.png",
+                "alt": "The 90-Day Revenue Engine webinar with Brent Peterson and Chris Sanchez"
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "The Revenue Leaks You Can't See",
+                "subtitle": "Most companies doing $10M-$150M/yr have at least three of these problems. They just don't know where to look.",
+                "items": [
+                    {
+                        "number": "01",
+                        "title": "The Frankenstack Problem",
+                        "text": "CRM, invoicing, e-commerce, content tools. If they don't talk to each other, you are losing money on every deal. Disconnected systems mean dropped leads and manual workarounds."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Sales Reps Without a Playbook",
+                        "text": "Your team is talented, but talent without process is inconsistent. No structured talk tracks, no objection handling framework, no daily rhythm. Results vary wildly rep to rep."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Dead Leads Collecting Dust",
+                        "text": "Thousands of past clients and prospects sit in your database doing nothing. No reactivation sequences. No win-back campaigns. That is a goldmine you are ignoring."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Content That Never Reaches Sales",
+                        "text": "Marketing creates case studies, whitepapers, and blog posts. Sales never uses them. The gap between content creation and sales enablement costs you closed deals."
+                    },
+                    {
+                        "number": "05",
+                        "title": "No Visibility Into Pipeline Health",
+                        "text": "You check revenue at the end of the month and hope for the best. No real-time dashboards, no stage progression tracking, no leading indicators. You are flying blind."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "The 90-Day Revenue Engine",
+                "title": "Stop Patching. <em>Start Building.</em>",
+                "paragraphs": [
+                    "Most companies try to fix revenue problems one tool at a time. A new CRM feature here, a sales training session there. That is patching, not building.",
+                    "The 90-Day Revenue Engine is a systematic approach that integrates your technology stack, sales process, and content strategy into a single machine that produces predictable revenue."
+                ],
+                "old_way": {
+                    "heading": "Patching (What Most Do)",
+                    "items": [
+                        "Buy tools, hope they work together",
+                        "Train reps once, expect permanent results",
+                        "Create content marketing never talks to sales about",
+                        "Review pipeline monthly (too late to fix anything)",
+                        "Spreadsheets and gut feeling for forecasting"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Building (What We'll Teach)",
+                    "items": [
+                        "Unified HubSpot stack configured for your sales motion",
+                        "Daily leadership rhythm: huddles, dashboards, follow-ups",
+                        "Content-to-sales pipeline that arms reps with the right material",
+                        "Real-time pipeline visibility with leading indicators",
+                        "AI-powered coaching and data-driven management"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "What You'll Walk Away With",
+                "subtitle": "This is not a pitch session. It is a working session. Here is what you get.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "The HubSpot Stack Blueprint",
+                        "text": "Brent breaks down how to properly configure HubSpot Sales Pro so your CRM actually drives revenue instead of collecting dust. Includes AI automation opportunities most companies miss."
+                    },
+                    {
+                        "number": "2",
+                        "title": "The Sales Leadership Rhythm",
+                        "text": "Chris reveals the daily and weekly cadence that top-performing sales teams run. Huddles, call reviews, pipeline scrubs, and the management dashboard that ties it all together."
+                    },
+                    {
+                        "number": "3",
+                        "title": "The Quick Cash Campaign",
+                        "text": "A step-by-step playbook for reactivating dead leads in your database. Most companies are sitting on immediate revenue they have already paid to acquire."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Your 90-Day Action Plan",
+                        "text": "Leave with a prioritized roadmap. Week 1 through Week 12. What to fix first, what to build second, and what to measure along the way."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Your Presenters",
+                "title": "Two Experts. One Revenue Engine.",
+                "paragraphs": [
+                    "Brent Peterson is the CEO of Content Cucumber, a HubSpot Solutions Partner specializing in content strategy and marketing automation for e-commerce companies. With 30+ years in the commerce space, Brent has helped hundreds of companies connect their content, technology, and sales operations.",
+                    "Chris Sanchez is the founder of Influential Passion, a sales consulting firm that builds high-performing sales teams. Chris specializes in sales coaching, process optimization, and the leadership rhythms that turn average teams into quota-crushing machines."
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Years in Commerce (Brent)" },
+                    { "number": "40+", "label": "Professional Writers" },
+                    { "number": "1000+", "label": "Sales Reps Coached (Chris)" },
+                    { "number": "HubSpot", "label": "Solutions Partner" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "When is the webinar?",
+                        "answer": "March 31, 2026 at 2:00 PM Eastern. The session runs approximately 60 minutes: 25 minutes from Brent on HubSpot and AI automation, 25 minutes from Chris on sales coaching and process, plus 10 minutes of live Q&A."
+                    },
+                    {
+                        "question": "Is this free?",
+                        "answer": "Yes, completely free. Register and attend live, or watch the recording afterward. We will send the replay link to all registrants."
+                    },
+                    {
+                        "question": "Who is this for?",
+                        "answer": "Companies doing $10M to $150M+ per year with a sales team of 3-10+ reps. Whether you are on HubSpot, considering it, or using a competitor like Salesforce or Pipedrive, the strategies apply. If you have a sales team and revenue feels unpredictable, this session is for you."
+                    },
+                    {
+                        "question": "Will there be a recording?",
+                        "answer": "Yes. Everyone who registers will receive the recording, whether or not you attend live. We recommend attending live for the Q&A portion."
+                    },
+                    {
+                        "question": "What are the free audits mentioned?",
+                        "answer": "Two separate offers. Brent's team runs a free automated HubSpot portal audit that scans your Marketing, Sales, and Service Hubs and delivers a prioritized PDF report. Chris offers a free sales team audit where he reviews your sales scripts, call recordings, pipeline structure, and process gaps. Both are no-obligation."
+                    },
+                    {
+                        "question": "I'm not on HubSpot. Is this still relevant?",
+                        "answer": "Absolutely. The sales process optimization, leadership rhythms, and revenue engine framework apply regardless of your CRM. Chris's sales coaching content is platform-agnostic. Brent's HubSpot section will show you what a properly configured CRM looks like if you are evaluating options."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Stop the Revenue Leaks. Build the Engine.",
+                "text": "Register now for the free live webinar on March 31. Walk away with a 90-day action plan to fix your sales process, optimize your tech stack, and unlock the revenue already hiding in your pipeline."
+            }
+        }
+    ]
+}

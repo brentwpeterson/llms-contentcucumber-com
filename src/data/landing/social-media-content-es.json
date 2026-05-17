@@ -1,0 +1,110 @@
+{
+  "form": {
+    "header": "Agenda tu consulta gratuita",
+    "subtitle": "",
+    "trust_text": "Mas de 40 escritores humanos. Cero contenido de IA.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Contenido para redes sociales - Content Cucumber",
+    "meta_description": "Contenido para redes sociales escrito por humanos. Posts nativos para cada plataforma que crecen tu comunidad y generan engagement. LinkedIn, Instagram, Facebook y mas."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Creacion de contenido",
+        "title": "Contenido para redes sociales<br><em>que conecta con tu audiencia</em>",
+        "paragraphs": [
+          "Posts consistentes y de calidad que crecen tu comunidad y posicionan tu marca. Contenido nativo para cada plataforma, escrito por personas que entienden tu voz."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "Lo que hacemos",
+        "subtitle": "Las redes sociales piden contenido fresco todo el tiempo. Pero la calidad no tiene que sufrir por la cantidad. Creamos contenido especifico para cada plataforma que mantiene tu voz de marca.",
+        "items": [
+          {
+            "icon": "linkedin",
+            "title": "LinkedIn y liderazgo de opinion",
+            "text": "Posiciona a tu equipo directivo como voces de la industria. Posts de largo formato, articulos y comentarios que construyen credibilidad profesional y generan leads B2B."
+          },
+          {
+            "icon": "instagram",
+            "title": "Instagram y plataformas visuales",
+            "text": "Captions, stories y guiones para reels que complementan tus visuales. Escritos para engagement con estrategia de hashtags y llamados a la accion."
+          },
+          {
+            "icon": "megaphone",
+            "title": "Calendarios de contenido",
+            "text": "Calendarios mensuales con copy para posts, hashtags y calendario de publicacion. Apruebas todo por adelantado, nosotros nos encargamos del resto."
+          },
+          {
+            "icon": "refresh",
+            "title": "Reciclaje de contenido",
+            "text": "Convertimos un articulo de blog en 10 posts para redes. Extraemos puntos clave, citas e insights de tu contenido existente y los formateamos para cada plataforma."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "Como funciona",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Descubrimiento de marca",
+            "text": "Estudiamos tu voz de marca, tu audiencia y tus competidores en cada plataforma. Aprendemos que funciona y que no en tu industria."
+          },
+          {
+            "number": "02",
+            "title": "Calendario de contenido",
+            "text": "Creamos un calendario mensual con temas, tipos de post y copy para cada plataforma. Tu revisas y apruebas antes de que se publique nada."
+          },
+          {
+            "number": "03",
+            "title": "Redaccion y programacion",
+            "text": "Nuestros escritores crean contenido nativo para cada plataforma. No el mismo post copiado en todos los canales. Cada plataforma recibe contenido pensado para como la gente la usa."
+          },
+          {
+            "number": "04",
+            "title": "Reporte y ajuste",
+            "text": "Reportes mensuales de rendimiento que muestran que funciona. Duplicamos los formatos ganadores y ajustamos lo que no esta rindiendo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Preguntas frecuentes",
+        "items": [
+          {
+            "question": "?Para que plataformas escriben?",
+            "answer": "LinkedIn, Instagram, Facebook, Twitter/X y TikTok (guiones). Recomendamos enfocarte en 2-3 plataformas donde tu audiencia esta mas activa en lugar de repartirte en todas."
+          },
+          {
+            "question": "?Ustedes publican el contenido o solo lo escriben?",
+            "answer": "Escribimos y programamos el contenido. Para clientes con HubSpot, publicamos directamente. Para otras plataformas, entregamos el calendario y el copy para que tu equipo publique."
+          },
+          {
+            "question": "?Cuantos posts al mes incluye?",
+            "answer": "Los planes tipicos incluyen de 12 a 20 posts al mes en tus plataformas elegidas. El volumen depende de tus objetivos y en cuantas plataformas estas activo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "?Listo para ganar en redes sociales?",
+        "text": "Deja de estresarte por que publicar. Nuestro contenido estrategico mantiene tus canales activos y a tu audiencia enganchada."
+      }
+    }
+  ]
+}

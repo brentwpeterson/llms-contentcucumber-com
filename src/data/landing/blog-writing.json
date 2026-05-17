@@ -1,0 +1,153 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Blog Writing Services - Content Cucumber",
+    "meta_description": "Professional blog writing for ecommerce brands. SEO-optimized, human-written articles delivered weekly. Dedicated writers who learn your brand voice and industry.",
+    "slug": "blog-writing"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content Creation",
+        "title": "Expert Blog Writing That<br><em>Drives Traffic and Engagement</em>",
+        "paragraphs": [
+          "Professional blog content that ranks, engages, and converts readers into customers. Our writers craft compelling articles that build authority and drive organic growth."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "pen",
+            "title": "Dedicated Writers",
+            "text": "Every client gets a writer who learns your brand voice, industry terminology, and audience. No rotating freelancers. Your writer knows your business inside out."
+          },
+          {
+            "icon": "search",
+            "title": "SEO-Optimized",
+            "text": "Every post targets specific keywords with proper heading structure, internal linking, and meta data. Written for readers first, optimized for search engines second."
+          },
+          {
+            "icon": "calendar",
+            "title": "Weekly Delivery",
+            "text": "Consistent publishing schedule with articles delivered on time, every time. We handle the writing so you can focus on running your business."
+          },
+          {
+            "icon": "edit",
+            "title": "Editorial Review",
+            "text": "Every article goes through our editorial process including fact-checking, grammar review, and SEO optimization before delivery. No first drafts, only publish-ready content."
+          }
+        ],
+        "title": "What is Blog Writing?",
+        "subtitle": "Blog writing is more than putting words on a page. It's about creating valuable content that answers your audience's questions and positions your brand as an industry leader. We combine SEO expertise with storytelling to produce blogs that perform."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Discovery Call",
+            "text": "We learn your business, audience, competitors, and content goals. This shapes every article we write for you."
+          },
+          {
+            "number": "02",
+            "title": "Content Calendar",
+            "text": "We build a monthly topic calendar aligned with your SEO strategy and business objectives. You approve topics before we write."
+          },
+          {
+            "number": "03",
+            "title": "Writing and Editing",
+            "text": "Your dedicated writer researches, writes, and our editorial team reviews. You get polished, publish-ready articles."
+          },
+          {
+            "number": "04",
+            "title": "Publish and Measure",
+            "text": "Articles publish on your schedule. We track performance and adjust strategy based on what ranks and converts."
+          }
+        ],
+        "title": "How Our Blog Writing Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Inconsistent posting that kills momentum",
+            "Generic content that sounds like everyone else",
+            "Blog posts that get no traffic"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Weekly articles delivered like clockwork",
+            "A dedicated writer who knows your brand voice",
+            "SEO-optimized content that ranks and compounds"
+          ]
+        },
+        "title": "Why Choose Our Blog Writing?"
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Results",
+        "title": "What Our Clients Say",
+        "paragraphs": [
+          "\"We put the team to the test with a 2,000 word graphic design statistics post. They absolutely knocked it out of the park. The articles were well researched and not cookie-cutter posts. A great alternative to hiring a full-time writer or paying freelancers per article.\" — Stefan Schulz"
+        ],
+        "stats": []
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "How many blog posts do I get per month?",
+            "answer": "Our standard plans include 4-8 articles per month, but we scale up to 16+ for clients who need aggressive content velocity. We recommend starting with 4 per month and increasing as you see results."
+          },
+          {
+            "question": "Do I get the same writer every time?",
+            "answer": "Yes. Every client is assigned a dedicated writer who learns your brand voice and industry. Consistency in voice builds reader trust and brand recognition."
+          },
+          {
+            "question": "How long are the blog posts?",
+            "answer": "Most articles are 800-1,500 words, depending on the topic and SEO requirements. We write to the length the topic needs, not to hit an arbitrary word count."
+          },
+          {
+            "question": "Can I request revisions?",
+            "answer": "Absolutely. Every article includes revisions until you're satisfied. We'd rather get it right than publish something that doesn't represent your brand."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop struggling with content. Let our expert writers fuel your organic growth with blog posts that rank and convert.",
+        "title": "Ready to Grow Your Blog?"
+      }
+    }
+  ]
+}

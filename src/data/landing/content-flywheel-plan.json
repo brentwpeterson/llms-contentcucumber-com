@@ -1,0 +1,489 @@
+{
+    "form": {
+        "header": "Book a Call to Learn More",
+        "subtitle": "Tell us about your business. We'll build a marketing plan together.",
+        "trust_text": "We have real people writing kick ass content!",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "content-flywheel-plan"
+    },
+    "seo": {
+        "title": "The Content Flywheel - Content Cucumber",
+        "meta_description": "We run your marketing. You run everything else. Channels of content firing every month from one interview with your dedicated writer. $1,000/mo, all-in.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/content-flywheel-plan-assets/content-flywheel-card.jpg",
+        "slug": "content-flywheel-plan"
+    },
+    "thankyou": {
+        "title": "Thanks. We'll be in touch.",
+        "text": "We received your information. A member of our team will reach out shortly to schedule your call.",
+        "link_text": "Back to the Flywheel",
+        "link_anchor": ""
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "The Content Flywheel",
+                "title": "We Run Your Marketing. You Run Everything Else.",
+                "paragraphs": [
+                    "One monthly hour-long interview turns into 4+ articles, daily social posts, and a curated newsletter. With Google Search Console data driving topic selection, bi-monthly check-ins, and our team available to talk anytime."
+                ],
+                "cta_button": {
+                    "text": "Let's Get Started Now",
+                    "url": "https://get.contentcucumber.com/hs/payments/gskm4V7qbg?referrer=PAYMENT_LINK",
+                    "subtitle": "Skip the call. Buy your first month and we'll book your interview."
+                },
+                "youtube_id": "Imi2EXVDpzI",
+                "youtube_layout": "video-form",
+                "youtube_title": "How the Content Flywheel Works"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "Bi-Monthly",
+                    "label": "Check-Ins"
+                },
+                {
+                    "number": "1:1",
+                    "label": "Dedicated Writer"
+                },
+                {
+                    "number": "$1,000",
+                    "label": "All-In, Per Month"
+                },
+                {
+                    "number": "Unlimited",
+                    "label": "Revisions"
+                }
+            ]
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Marketing is the thing that doesn't get done",
+                "subtitle": "You know it matters. You know your competitors are doing it. You also know there are not enough hours in your week to write a blog post, plan a newsletter, edit a video, and post on LinkedIn.",
+                "items": [
+                    {
+                        "title": "You're the founder, the marketer, and the writer",
+                        "text": "Every piece of content competes with payroll, customer support, vendor calls, and the product itself. The marketing always loses.",
+                        "image": "content-flywheel-plan-assets/founder-marketer-writer.jpg"
+                    },
+                    {
+                        "title": "You paid for writing and got blog posts",
+                        "text": "One article per week. No video. No social. No email. The post lives on the blog and dies there. Nothing else gets built from it.",
+                        "image": "content-flywheel-plan-assets/paid-for-writing.jpg"
+                    },
+                    {
+                        "title": "Marketing happens when there's time",
+                        "text": "Which is never. Or it happens in bursts (a launch, a campaign), goes quiet for months, and you start over each time.",
+                        "image": "content-flywheel-plan-assets/marketing-when-theres-time.jpg"
+                    },
+                    {
+                        "title": "You watch other brands gain ground while yours stalls",
+                        "text": "They ship every week. Their search rankings climb. Their audience grows. You see what good marketing looks like and you can't get there alone.",
+                        "image": "content-flywheel-plan-assets/brands-gain-ground.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "data": {
+                "eyebrow": "We bend with your business",
+                "title": "Mix and Match",
+                "paragraphs": [
+                    "Four articles, social, video clips, and a newsletter is the default. It is not the only option. One month you might want a long-form white paper instead. The next, deep research or a case study. The next, a panel interview turned into a multimedia pillar.",
+                    "The Flywheel flexes around what your business needs. Same monthly cadence, same dedicated team, different deliverables when the work calls for it."
+                ],
+                "image": "content-flywheel-plan-assets/yoga-flexible-brent.jpg",
+                "cta_text": "Talk About Your Mix",
+                "cta_link": "#form"
+            }
+        },
+        {
+            "type": "shift",
+            "variant": "stacked",
+            "data": {
+                "eyebrow": "Buy writing vs hand off marketing",
+                "title": "What buying writing looks like vs what buying a marketing arm looks like",
+                "paragraphs": [
+                    "The Flywheel is different. We're not a writer for hire. We're the team that runs your marketing the way you would run it yourself."
+                ],
+                "comparison_style": "illustrated",
+                "old_way": {
+                    "heading": "Buying writing",
+                    "image": "content-flywheel-plan-assets/paid-for-writing.jpg",
+                    "items": [
+                        "Generic copy that doesn't sound like your business",
+                        "One blog post at a time, no multimedia",
+                        "Content lives on the blog and dies there",
+                        "ROI buried in dashboards you never open"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Buying a marketing arm",
+                    "image": "content-flywheel-plan-assets/brent-isaac-flywheel.jpg",
+                    "items": [
+                        "A dedicated writer who learns your business",
+                        "Deliverables that flex around your month from one interview",
+                        "Repurposed across video, social, slides, and email",
+                        "Plain-English monthly reports that show what's working"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How the Flywheel Spins",
+                "subtitle": "One hour-long interview a month. Five turns of the flywheel.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Monthly Interview + GSC Review",
+                        "text": "One hour with your dedicated writer. We walk through what's happening in the business, then pull your Google Search Console data and surface the keyword opportunities sitting on page 2."
+                    },
+                    {
+                        "number": "02",
+                        "title": "4 Articles + Pillar Post",
+                        "text": "Your writer turns the interview and the GSC opportunities into 4 SEO articles plus a multimedia pillar post. Each article targets a real query Google is already showing you for."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Daily Social + Video Clips",
+                        "text": "Daily social posts on the platforms your audience is on, captioned video clips from your monthly interview, and illustrated graphics that repurpose every key idea."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Mid-Month Status Call",
+                        "text": "Halfway through the month we get back on a call. What's ranking, what's not, what to adjust. You can also reach us anytime in between. Communication is part of the deliverable."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Reports + Newsletter",
+                        "text": "A plain-English monthly report covers content performance AND social performance side by side. A curated email newsletter goes out to your list with the best of the month."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "youtube_id": "V2iqrDsxqxY",
+                "title": "Content Cucumber - The Content Flywheel",
+                "aspect": "16x9",
+                "label": "See it in action",
+                "heading": "What the Flywheel delivers",
+                "paragraphs": [
+                    "A short tour of how one monthly interview becomes 4+ articles, daily social posts, video clips, and a curated newsletter."
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Not Just Articles. Build Your Marketing Mix.",
+                "subtitle": "The Flywheel default is 4 articles, daily social, video clips, reports, and a newsletter. Anything below can swap in or get added on. Tell your writer what your business needs this month.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Long-form pillar pieces",
+                        "text": "Swap multiple articles for one deep, multimedia pillar when depth matters more than coverage."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Case studies",
+                        "text": "Your customer's win, written and designed. Sales asset and SEO asset in one."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Press releases",
+                        "text": "Written and distributed where it matters. Quarterly cadence or whenever news breaks in your business."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Customer interview series",
+                        "text": "We interview your customers and turn their words into content. Their voice, your brand."
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Podcast clip distribution",
+                        "text": "Captioned short clips from podcast episodes, distributed across socials and articles."
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Video production",
+                        "text": "Beyond the monthly interview clips. Full video shoots, edits, captioning, distribution."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Audio production",
+                        "text": "Full podcast episodes, voiceover, audio-version articles for accessibility and AI-search citation."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Email automation",
+                        "text": "Welcome flows, lifecycle programs, abandoned-cart sequences. Written and built in your platform."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Lead magnet refresh",
+                        "text": "Quarterly update of your gated assets. Checklists, guides, audits, calculators, anything that drives email signups."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Brand voice guide",
+                        "text": "One-time deliverable in month 1. Written from your monthly interviews so the voice on the page matches the voice in conversation."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Sales + landing page copy",
+                        "text": "Launches need their own pages. We write the page, you launch the campaign."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Slide decks",
+                        "text": "For sales calls, conference talks, board meetings. Designed and on-brand."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "comparison-grid",
+            "data": {
+                "title": "Compare Flywheel",
+                "subtitle": "Same goal. Different cost, time, and channels.",
+                "highlight_column": 0,
+                "columns": [
+                    "The Flywheel",
+                    "Traditional Writing",
+                    "ChatGPT",
+                    "Marketing Company"
+                ],
+                "rows": [
+                    { "label": "Monthly cost", "values": ["Retainer starts at $$", "$$$", "$", "$$$$"] },
+                    { "label": "Dedicated writer who learns your business", "values": ["✓", "Sometimes", "✗", "Sometimes"] },
+                    { "label": "Channels delivered each month", "values": ["Many (blog, pillar, social, video, newsletter, reports)", "One (blog only)", "One (you publish)", "Varies"] },
+                    { "label": "Monthly strategy: sales data + Google Search Console tied together", "values": ["✓ Reviewed together monthly to find new content opportunities", "Rarely", "✗", "Sometimes (siloed data)"] },
+                    { "label": "Captioned video clips from monthly interview", "values": ["✓", "✗", "✗", "Add-on"] },
+                    { "label": "Daily social posts on your platforms", "values": ["✓", "✗", "DIY", "Sometimes"] },
+                    { "label": "AI slop", "values": ["None. Real human writers.", "Usually none (human writers)", "Heavy. Generic, formulaic, drifts.", "Varies (some agencies lean on AI)"] },
+                    { "label": "Brand voice consistency", "values": ["✓ Maintained across writer transitions", "Lost when writer changes", "Drifts every prompt", "Lost when writer rotates"] },
+                    { "label": "RequestDesk Brand Voice Engine", "values": ["✓ Captures your voice, learns what's been written, survives staff changes", "✗", "✗", "✗"] },
+                    { "label": "Monthly performance reports", "values": ["✓ Content + social side by side, plain English (social reporting when we schedule)", "✗", "✗", "Black-box dashboard"] },
+                    { "label": "Curated email newsletter", "values": ["✓", "✗", "DIY", "Sometimes"] },
+                    { "label": "Your time investment per month", "values": ["1 hour minimum (interview). More if you want.", "Briefs + reviews", "Hours of prompting", "Briefs + reviews + meetings"] },
+                    { "label": "Revisions", "values": ["Unlimited", "Limited", "Unlimited (you redo)", "Limited"] },
+                    { "label": "Commitment", "values": ["Monthly, 6-month, or annual (save with longer commitment)", "Often 3 to 6 months", "None", "6 to 12 months"] }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "variant": "gray",
+            "data": {
+                "title": "Beyond the Retainer",
+                "subtitle": "The Flywheel retainer is the entry point. We also do scaled retainers and standalone projects.",
+                "items": [
+                    {
+                        "name": "The Flywheel Retainer",
+                        "target": "Founders + small marketing teams",
+                        "outcome": "Marketing handed off every month, calibrated to your business",
+                        "price": "Starts at $1,000/mo",
+                        "featured": true,
+                        "badge": "Recommended",
+                        "outcomes": [
+                            "Save with 6-month or annual signup",
+                            "Scales as your brand grows"
+                        ],
+                        "cta_text": "Let's Get Started Now",
+                        "cta_link": "https://get.contentcucumber.com/hs/payments/gskm4V7qbg?referrer=PAYMENT_LINK"
+                    },
+                    {
+                        "name": "Project Work",
+                        "target": "One-off launches, campaigns, or single deliverables",
+                        "outcome": "Specific work on a deadline",
+                        "price": "Quote on call",
+                        "outcomes": [
+                            "Launch pages, video shoots, press pushes",
+                            "Standalone or bolted onto the retainer"
+                        ],
+                        "cta_text": "Get a Quote",
+                        "cta_link": "#form"
+                    },
+                    {
+                        "name": "Custom Engagement",
+                        "target": "Brands with bigger marketing ambitions",
+                        "outcome": "More output, more channels, more writers",
+                        "price": "Quote on call",
+                        "outcomes": [
+                            "Custom-scoped work",
+                            "Tailored to your business"
+                        ],
+                        "cta_text": "Talk to Us",
+                        "cta_link": "#form"
+                    }
+                ],
+                "footer_link": {
+                    "text": "See the full list of services we offer",
+                    "url": "https://contentcucumber.com/services/"
+                }
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "The math of doing it yourself",
+                "title": "Why outsource the marketing",
+                "paragraphs": [
+                    "Business owners are busy. They're running a business. Hiring a dedicated marketing person costs thousands of dollars a month before a single article ships, before a single newsletter goes out, before any social calendar exists.",
+                    "Outsource the marketing to Content Cucumber instead. You get a writer, a videographer, a designer, an email person, and an SEO analyst working on your business every month. For $1,000."
+                ],
+                "stats": [
+                    {
+                        "number": "5",
+                        "label": "Specialists Per Account"
+                    },
+                    {
+                        "number": "1",
+                        "label": "Hour Interview Monthly"
+                    },
+                    {
+                        "number": "Mid-Month",
+                        "label": "Status Call"
+                    },
+                    {
+                        "number": "Anytime",
+                        "label": "Communication"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What changes when marketing gets done",
+                "subtitle": "The Flywheel turns one monthly conversation into 12 months of momentum. The shape of the year changes.",
+                "items": [
+                    {
+                        "icon": "growth",
+                        "title": "Marketing exists",
+                        "text": "Marketing is firing every month for the first time in your business. The thing that wasn't getting done is getting done."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Search rankings climb",
+                        "text": "Pillar posts and SEO articles start ranking. New keywords show up in Google Search Console. Traffic builds week over week."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Audience deepens",
+                        "text": "Email opens climb and social engagement deepens. Your monthly newsletter becomes something readers wait for, not delete."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Brand authority lands",
+                        "text": "You become known for something specific. The interviews, the videos, the articles, the data. Consistent voice changes how the market sees you."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "subtitle": "Everything you need to know about the Content Flywheel.",
+                "items": [
+                    {
+                        "question": "What's included in the Flywheel every month?",
+                        "answer": "SEO blog articles, a multimedia pillar post, illustrated graphics, captioned video clips from your monthly interview, social posts across your platforms, a plain-English progress report, and a curated email newsletter. All built around the same monthly conversation with your writer."
+                    },
+                    {
+                        "question": "How does the monthly interview work?",
+                        "answer": "We schedule a 1-hour call between you and your dedicated writer once a month. You share what's happening in the business, your wins, your challenges, what you want to be known for. Your writer also walks through your Google Search Console data with you, surfaces keyword opportunities sitting on page 2, and uses the conversation to plan the month's content calendar."
+                    },
+                    {
+                        "question": "What about communication between meetings?",
+                        "answer": "We're available anytime. Mid-month we get back on a call to check what's working and adjust where needed. Outside of that you can reach your writer or our team whenever something changes in your business. Communication is part of the deliverable, not an upsell."
+                    },
+                    {
+                        "question": "What does the monthly report show?",
+                        "answer": "Content performance and social performance side by side. Which articles ranked, which queries you're showing for, which social posts drove engagement, what to push on next month. Plain English, no black-box dashboards."
+                    },
+                    {
+                        "question": "Do I get the same writer every month?",
+                        "answer": "Yes. Every client is assigned a dedicated writer who learns your brand voice, your industry, and your customers. Consistency in voice builds reader trust and search rankings over time."
+                    },
+                    {
+                        "question": "Who owns the content you create?",
+                        "answer": "You do. Everything we write or design for you is yours to keep, edit, republish, or repurpose however you want. No licensing fees, no usage limits."
+                    },
+                    {
+                        "question": "What's the minimum commitment?",
+                        "answer": "There isn't one. Cancel any time. We earn your business each month by delivering work you're proud to publish."
+                    },
+                    {
+                        "question": "Do I need to provide topics, or do you research them?",
+                        "answer": "Either works. Topic development is included in every plan, with SEO research and competitive gap analysis. We can also work from your existing content calendar."
+                    },
+                    {
+                        "question": "Can you publish the content for me?",
+                        "answer": "Yes. Blog publishing is included in every plan. We handle Shopify, WordPress, Magento, BigCommerce, WooCommerce, HubSpot, and custom platforms. Tell us where it goes and we put it there."
+                    },
+                    {
+                        "question": "How many revisions do I get?",
+                        "answer": "Unlimited. We rewrite anything that's off. We change direction on request. Your writer is here to make you happy."
+                    },
+                    {
+                        "question": "Is this just a writing service?",
+                        "answer": "No. The Flywheel turns one monthly conversation into a full marketing engine across blogs, video, social, and email. You also get a writer who knows your business, monthly progress reports, and a team backing them up."
+                    },
+                    {
+                        "question": "What industries do your writers cover?",
+                        "answer": "Our team has deep expertise across ecommerce, retail, fashion, beauty, home goods, B2B wholesale, food and beverage, SaaS, healthcare, professional services, and more. We assign writers based on industry fit."
+                    },
+                    {
+                        "question": "How long until I see results?",
+                        "answer": "SEO blogs typically start ranking in 3-6 months. Social engagement and email opens build week over week. Each month builds on the last, so month 6 looks very different from month 1."
+                    },
+                    {
+                        "question": "How do you know what to write about my business?",
+                        "answer": "Your monthly interview is the source. Your writer extracts themes from what you said, then layers in keyword research, competitor gaps, and seasonal trends. You stay in the driver's seat. We bring the structure."
+                    },
+                    {
+                        "question": "Do you require a HubSpot account?",
+                        "answer": "No. HubSpot is a great addition (we're a HubSpot Solutions Partner) but the Flywheel works on any platform. HubSpot customers can ask about our free audit before the call."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ecosystem",
+            "data": {
+                "title": "Already on HubSpot?",
+                "subtitle": "HubSpot is a great addition to the Flywheel, not a requirement. HubSpot customers get a free audit before the call.",
+                "brands": [
+                    {
+                        "name": "Free HubSpot Audit",
+                        "role": "For HubSpot customers",
+                        "description": "We'll review your portal setup, content workflow, automation, and reporting. You get a written audit and clear next steps. No obligation.",
+                        "url": "https://contentcucumber.com/hubspot-audit/",
+                        "link_text": "Get the audit",
+                        "variant": "cta"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand off the marketing.",
+                "text": "Tell us about your business. We'll build a plan together. $1,000/mo, all-in. No tiers, no commitment, no upsells."
+            }
+        }
+    ]
+}

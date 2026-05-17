@@ -1,0 +1,148 @@
+{
+    "seo": {
+        "meta_description": "Case study writing service for ecommerce platforms and agencies. We handle interviews, writing, and coordination across every stakeholder. You make the introduction, we deliver the story.",
+        "og_description": "You have the wins. We write the stories. Case study writing that handles interviews, coordination, and delivery across all stakeholders."
+    },
+    "form": {
+        "header": "Book a Discovery Call",
+        "subtitle": "Tell us about your case study needs. We'll show you how the process works.",
+        "trust_text": "25+ case studies delivered. 4.9/5 client rating.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Case Study Writing",
+                "title": "We Build Case Studies That <em>Close Deals</em>",
+                "paragraphs": [
+                    "You have the wins. We write the stories.",
+                    "All we need is the introduction. We handle the interviews, the writing, and the coordination across every stakeholder."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "50+",
+                    "label": "Case Studies Delivered"
+                },
+                {
+                    "number": "1000s",
+                    "label": "Hours Saved"
+                },
+                {
+                    "number": "4.9/5",
+                    "label": "Client Rating"
+                }
+            ]
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How We Make It Painless",
+                "subtitle": "",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "We Handle the Entire Workflow",
+                        "text": "All you do is make the introduction. We coordinate outreach, schedule interviews, manage reviews, and deliver the final case study across all three stakeholders."
+                    },
+                    {
+                        "number": "2",
+                        "title": "We Start Writing on Day One",
+                        "text": "We don't wait for the interview. The minute we engage, we research, pull data, and start building the story. By the first call, we already have a working draft."
+                    },
+                    {
+                        "number": "3",
+                        "title": "We Capture Real Voices",
+                        "text": "Every interview is recorded. We deliver a quote library, real attributed quotes from every stakeholder you can use in proposals, emails, social posts, and presentations."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Your Brand Voice Written by Humans",
+                        "text": "We use RequestDesk to capture your brand's tone, language, and style before we write a single word. Every case study is written by a human writer who sounds like your team. Not a template. Not AI. Your voice."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Three Stakeholders. One Case Study. Nobody Owns the Process.",
+                "subtitle": "",
+                "items": [
+                    {
+                        "title": "The Platform",
+                        "text": "You want merchant success stories published. Your content team is stretched across blog posts, webinars, and partner materials."
+                    },
+                    {
+                        "title": "The Solution Provider",
+                        "text": "You did the work. You need documented proof to win new clients. But writing competes with billable hours."
+                    },
+                    {
+                        "title": "The Client",
+                        "text": "They got the results. They are the hero of the story. They are also the busiest and hardest to get on a call."
+                    },
+                    {
+                        "title": "Content Cucumber",
+                        "text": "We own the process. We coordinate all three stakeholders, run the interviews, write the story, and deliver a finished case study. Nobody else has to project-manage it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Built for Platforms and Agencies",
+                "subtitle": "Whether you are an ecommerce platform with hundreds of merchant success stories or an agency with a backlog of undocumented client wins, the bottleneck is the same.",
+                "items": [
+                    {
+                        "icon": "target",
+                        "title": "One Introduction",
+                        "text": "Nobody owns the case study process. We do. You make the introduction and we take it from there."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Published Case Study",
+                        "text": "A finished, branded case study ready for your website, sales deck, and partner portal."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Quote Library",
+                        "text": "Real attributed quotes from every stakeholder you can use in proposals, emails, social posts, and presentations."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Social Proof at Scale",
+                        "text": "Turn a backlog of undocumented wins into a library of sales assets that close deals."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "reviews",
+            "data": {
+                "eyebrow": "Real ratings from real clients",
+                "title": "What Our Clients Say",
+                "count": 4,
+                "columns": 2,
+                "layout": "grid",
+                "has_text": true,
+                "show_trust_bar": true,
+                "show_rating": true,
+                "show_org": true
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to Turn Wins Into Stories?",
+                "text": "You have the results. Your clients are happy. The only thing missing is the documented proof. One introduction is all it takes."
+            }
+        }
+    ]
+}

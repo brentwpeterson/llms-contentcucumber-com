@@ -1,0 +1,180 @@
+{
+    "seo": {
+        "title": "Build Your Brand - Content Cucumber",
+        "meta_description": "Brand voice development, style guides, messaging, storytelling, content strategy, and brand audits. Human writers powered by RequestDesk technology to define and enforce your brand voice everywhere.",
+        "slug": "build-your-brand"
+    },
+    "form": {
+        "header": "Let's Define Your Brand Voice",
+        "subtitle": "Tell us about your brand and we'll show you how consistent, human-written content builds recognition.",
+        "trust_text": "40+ human writers. RequestDesk-powered brand intelligence. Zero AI slop.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sidebar": {
+        "title": "Define your brand voice today.",
+        "text": "Our writers learn how you sound, document it, and enforce it across every channel. Powered by RequestDesk.",
+        "button_text": "Get Your Free Brand Audit",
+        "button_url": "/brand-audit/",
+        "trust_text": "No credit card required."
+    },
+    "popup": {
+        "delay_seconds": 15,
+        "dismiss_days": 7,
+        "heading": "Get Your Free Brand Audit",
+        "subheading": "We'll review your content across every channel and show you exactly where your brand voice is strong and where it's drifting.",
+        "trust_text": "No credit card. No commitment. Just clarity.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "hero": {
+        "eyebrow": "Brand Services",
+        "title": "Build Your<br><em>Brand</em>",
+        "subtitle": "Your brand sounds different everywhere. Shopify says one thing, your blog says another, and your social posts sound like a third company entirely. We fix that. Our writers, powered by RequestDesk's brand intelligence platform, define your voice once and enforce it across every channel."
+    },
+    "sections": [
+        {
+            "id": "brand-voice",
+            "title": "Brand Voice Development",
+            "content": [
+                "With over 28,000 locations worldwide, Starbucks serves more than 3 trillion visitors a year. Every store, every app notification, every cup sleeve sounds the same. That consistency didn't happen by accident. <a href='/blog/why-is-starbucks-the-coffee-standard/' target='_blank'>Read how Starbucks became the coffee standard</a> through relentless voice consistency across every touchpoint.",
+                "Dollar Shave Club launched in 2012 with one goal: disrupt the razor market. Their viral launch video, \"Our Blades are F***ing Great,\" wasn't just funny. It was a brand voice declaration. Irreverent, direct, and impossible to confuse with anyone else. <a href='/blog/dollar-shave-club-case-study/' target='_blank'>Read the full Dollar Shave Club case study</a> to see how a single video built a billion-dollar brand voice.",
+                "Hendrick's Gin describes itself as \"not for everyone.\" Their quirky, eccentric, oddly formal persona shows up in every ad, every bottle label, every social post. That level of consistency is what separates a product from a brand. <a href='/blog/hendricks-gin-marketing-strategy-case-study/' target='_blank'>Read the Hendrick's Gin marketing strategy case study</a>.",
+                "We do the same thing for your brand. We learn how you talk by interviewing your team, studying your audience, and analyzing your best content. Then we document it so every writer follows it, every time."
+            ]
+        },
+        {
+            "id": "requestdesk-brand-discovery",
+            "title": "RequestDesk: Brand Discovery in Minutes",
+            "content": [
+                "Most brand voice projects start with weeks of questionnaires and workshops. RequestDesk's Brand Discovery feature skips that. Connect your Shopify or WordPress store and our AI analyzes your existing content, extracting the brand signals already present in your writing.",
+                "One click auto-fills all 20 brand profile questions: voice, tone, values, audience, terminology, and more. You get a Brand Strength Score showing which areas are solid and which need definition. Weak areas? Click \"Tell me more\" and AI digs deeper into your knowledge base to strengthen each section.",
+                "The result is a complete brand profile in minutes, not weeks. Not based on guessing. Based on what your brand already sounds like at its best."
+            ],
+            "link_url": "https://requestdesk.ai",
+            "link_text": "Learn more about RequestDesk"
+        },
+        {
+            "id": "brand-style-guide",
+            "title": "Brand Style Guide",
+            "content": [
+                "If you suddenly appeared at a retail store where everything, from the signs to the employee shirts, was bright red, you wouldn't need to ask where you were. Target's brand runs deeper than color. Their voice in ads, app copy, and product descriptions all follow the same playbook. <a href='/blog/brand-colors-psychology-a-target-case-study/' target='_blank'>Read how Target uses color psychology and brand consistency</a> to create one of the most recognizable retail experiences in America.",
+                "A brand style guide captures those choices in writing: tone, vocabulary, phrases you use and phrases you never use. Whether you have 1 writer or 10, everyone stays on the same page. New writers onboard in days instead of weeks.",
+                "RequestDesk's Persona Builder takes this further. It creates an AI persona from your existing content. Upload docs, paste examples, or let it analyze your site. The AI learns YOUR voice, and the \"Terms You Never Use\" feature blocks off-brand language before it ever reaches a draft. Words like \"delve,\" \"harness,\" \"synergy\", or whatever makes you cringe, get flagged automatically."
+            ]
+        },
+        {
+            "id": "brand-messaging",
+            "title": "Brand Messaging",
+            "content": [
+                "\"Believe in something, even if it means sacrificing everything.\" Nike's 30th anniversary of \"Just Do It\" featured Colin Kaepernick and became one of the most polarizing, successful campaigns in advertising history. It wasn't just a tagline. It was a position. <a href='/blog/is-nikes-corporate-social-responsibility-just-marketing-genius/' target='_blank'>Read our analysis of whether Nike's CSR is marketing genius</a> and how taking a stand became their brand identity.",
+                "The Coca-Cola logo is recognizable by 94% of the world's population. They've cycled through dozens of slogans since 1886, but the best ones share one thing: they say something true about the brand in words anyone can remember. <a href='/blog/how-many-slogans-does-coca-cola-really-have/' target='_blank'>Explore Coca-Cola's complete slogan history</a> to see how messaging evolves without losing identity.",
+                "Then there's Trader Joe's. No loyalty programs, no TV ads, no influencer campaigns. Their messaging IS their product experience. Every handwritten sign, every Fearless Flyer newsletter, every crew member conversation reinforces the same brand. <a href='/blog/what-is-trader-joes-marketing-secret/' target='_blank'>Discover Trader Joe's marketing secret</a> and why less is more when your brand voice is strong enough.",
+                "We distill what makes your company different into language that sticks. Taglines, value propositions, elevator pitches. The one-liner your sales team uses on every call."
+            ]
+        },
+        {
+            "id": "brand-storytelling",
+            "title": "Brand Storytelling",
+            "content": [
+                "The Michelin Star is the most prestigious rating in the culinary world. It started as a free restaurant guide from a tire company trying to get people to drive more. That side project, launched in 1900, became bigger than the company's core product. <a href='/blog/michelin-stars-from-tire-company-promo-to-top-tier-dining/' target='_blank'>Read the full Michelin Stars origin story</a> to see how a brand narrative can outlive the product that created it.",
+                "Crocs went from the ugliest shoe in America to a fashion comeback story. In the early 2000s they were lumped in with Uggs and Birkenstocks, then they tanked. Today they're a cultural icon. <a href='/blog/crocs-making-a-comeback/' target='_blank'>Read how Crocs made their comeback</a> by leaning into what made them different instead of running from it.",
+                "Domino's took a different approach. Their shares plummeted below $3 in 2009 after years of lagging behind Pizza Hut. Instead of pretending everything was fine, they publicly admitted their pizza was bad, then rebuilt from scratch. <a href='/blog/how-dominos-transformed-its-reputation/' target='_blank'>Read how Domino's transformed their reputation</a> by turning brand honesty into their biggest asset.",
+                "Airbnb and VRBO saw a pandemic that was destroying the travel industry and pivoted. While businesses across every sector took hits, vacation rental companies found a new audience: remote workers looking for a change of scenery. <a href='/blog/airbnb-and-vrbo-how-theyve-become-popular-due-to-covid-19/' target='_blank'>Read how Airbnb and VRBO adapted during COVID-19</a>.",
+                "Every brand has an origin story. We help you tell yours in a way that connects. Your about page, your founder narrative, your company history. Not corporate boilerplate. Real writing that makes people care."
+            ]
+        },
+        {
+            "id": "brand-content-strategy",
+            "title": "Brand Content Strategy",
+            "content": [
+                "Long before the internet existed, John Deere launched what would become the longest-running content marketing campaign in American history. Their magazine \"The Furrow\" has been in continuous publication since 1895. Every issue reinforces what John Deere stands for: expertise, reliability, and the farming life. <a href='/blog/a-look-inside-john-deeres-successful-history-of-content-marketing/' target='_blank'>Read the full John Deere content marketing history</a>. And see <a href='/blog/how-does-john-deere-fully-capitalize-on-content-marketing/' target='_blank'>how they capitalize on content marketing today</a> with a green-and-yellow logo that's recognizable regardless of industry.",
+                "Duolingo turned a mascot into a social media phenomenon. Their dancing green owl went from app notification to TikTok sensation because they committed to a content strategy that matched their brand personality: playful, persistent, slightly unhinged. <a href='/blog/how-duolingo-used-a-dancing-green-owl-to-skyrocket-their-social-media-marketing/' target='_blank'>Read how Duolingo skyrocketed their social media marketing</a> with a character-driven strategy.",
+                "IKEA's content strategy is inseparable from their store experience. Once you start thinking about IKEA, you can envision the warehouse stores, the food court, the maze-like layout that makes it impossible to leave without buying something. <a href='/blog/ikea-marketing-tactics/' target='_blank'>Read our breakdown of IKEA's marketing tactics</a> and how every touchpoint reinforces the same message.",
+                "We build content plans that reinforce your brand identity across every channel. RequestDesk's RAG Knowledge Base feeds every piece of content you publish back into your brand memory. The AI gets smarter about your voice with every publish, and your content strategy stays aligned with your brand, not just your keyword list."
+            ]
+        },
+        {
+            "id": "brand-audit",
+            "title": "Brand Audit",
+            "content": [
+                "On April 23, 1985, Coca-Cola announced a change to its nearly century-old secret formula. The new formula was sweetened with corn syrup in an attempt to maintain a waning edge over Pepsi. The backlash was immediate and brutal. They reversed course in 79 days. <a href='/blog/coca-colas-rebrand-disaster/' target='_blank'>Read the full Coca-Cola rebrand disaster</a> to understand why knowing what your brand stands for matters before you change anything.",
+                "Subaru didn't even know who was buying their vehicles before the 90s. Their marketing lacked direction entirely. Then they did the work of identifying their actual audience, and everything changed. <a href='/blog/subaru-case-study/' target='_blank'>Read the Subaru case study</a> to see how audience discovery transforms brand strategy.",
+                "Target's brand consistency is so strong that shoppers routinely overspend without realizing it. From the brightly-lit Dollar Spot to the carefully curated end caps, every detail reinforces the same message. <a href='/blog/5-ways-target-encourages-shoppers-to-overspend/' target='_blank'>Read 5 ways Target encourages shoppers to overspend</a> through brand-driven retail psychology.",
+                "We review your published content across all channels: blog, social, email, product pages. We score each piece for voice consistency, flag where your messaging contradicts itself, and deliver a report with specific recommendations. Not abstract strategy decks. Concrete changes you can make this week."
+            ]
+        },
+        {
+            "id": "requestdesk-enforcement",
+            "title": "RequestDesk: Brand Enforcement at Scale",
+            "content": [
+                "Defining your brand voice is step one. Enforcing it across every channel, every writer, every platform is where most companies fail. RequestDesk solves this with technology built specifically for brand-consistent content.",
+                "<strong>Persona Builder:</strong> Build AI personas from your existing content. Upload docs, paste examples, or let the AI analyze your site. Every persona captures your voice so content drafts start on-brand, not generic.",
+                "<strong>Terms You Never Use:</strong> Flag words and phrases that aren't your brand. \"Delve,\" \"harness,\" \"synergy,\" or whatever makes you cringe. The system blocks off-brand language before it reaches your audience.",
+                "<strong>RAG Knowledge Base:</strong> Every piece of content feeds your brand memory. The AI gets smarter about your voice with every publish. Six months in, it knows your brand better than a new hire.",
+                "<strong>One-Click Publishing:</strong> Write once, publish to Shopify or WordPress instantly. No copy-paste, no reformatting, no voice drift between platforms. Your brand sounds the same everywhere because it comes from the same source.",
+                "<strong>Human Writers:</strong> When you need the human touch, Content Cucumber's professional writers are already trained on your brand through RequestDesk. They don't start from scratch. They start from your brand profile."
+            ],
+            "link_url": "https://requestdesk.ai",
+            "link_text": "Learn more about RequestDesk"
+        },
+        {
+            "id": "brand-authority",
+            "title": "Building Brand Authority",
+            "content": [
+                "Costco had 98.5 million members and a brand value of $21 billion in 2019. Have you ever seen a Costco commercial? Neither have we. Their brand authority is built entirely on trust: the membership model, the return policy, the $1.50 hot dog. <a href='/blog/a-costco-marketing-case-study/' target='_blank'>Read the Costco marketing case study</a> to understand how authority can be built without advertising.",
+                "Popeye's was awarded the No. 2 marketer of the year by AdAge after their chicken sandwich dominated the national conversation for months. You could not surf social media in August 2019 without seeing some mention of it. <a href='/blog/why-popeyes-chicken-sandwich-was-the-biggest-marketing-success-of-2019/' target='_blank'>Read why Popeye's chicken sandwich was the biggest marketing success of 2019</a> and how a single product launch can define a brand.",
+                "Brand authority isn't something you claim. It's something you earn through consistent, strategic content over time. A clear brand voice helps smaller companies punch above their weight. When your content sounds authoritative and consistent, size becomes invisible."
+            ]
+        },
+        {
+            "id": "brands-and-culture",
+            "title": "When Brands Become Culture",
+            "content": [
+                "Starbucks doesn't just sell coffee. It reshapes neighborhoods. Independent coffee shop owners worry that a new Starbucks will steal their customers. <a href='/blog/the-starbucks-effect-explained/' target='_blank'>Read about the Starbucks Effect</a> and how one brand's expansion strategy has become an economic phenomenon.",
+                "GameStop stocks skyrocketed from $17.25 to over $347 in a single week because a Reddit forum decided to battle Wall Street. The brand became a symbol of something far bigger than video game retail. <a href='/blog/gamestop-hedge-funds-robinhood-and-reddit-whats-going-on/' target='_blank'>Read the full GameStop, Reddit, and Robinhood story</a>.",
+                "Walt Disney's Mickey Mouse is one of the most recognizable characters ever created, but he's changed dramatically since 1928. <a href='/blog/how-disney-animation-styles-have-evolved/' target='_blank'>See how Disney's animation styles have evolved</a> while keeping the brand unmistakably Disney. And <a href='/blog/why-does-disney-sue-everyone-who-use-its-brand/' target='_blank'>read why Disney sues everyone who uses their brand</a>, because they understand that brand dilution is irreversible.",
+                "Your brand may not be Disney-sized, but the same principles apply. Consistency builds recognition. Recognition builds trust. Trust builds revenue. We help you get there with content that sounds like you wrote it yourself, only better."
+            ]
+        }
+    ],
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+            {
+                "question": "How long does brand voice development take?",
+                "answer": "With RequestDesk's Brand Discovery, you get a complete brand profile in minutes. The human refinement and documentation phase takes 2-3 weeks. After that, your dedicated writer starts producing on-brand content immediately."
+            },
+            {
+                "question": "What if we already have brand guidelines?",
+                "answer": "We start with what you have. If your existing guidelines cover visual identity but not writing voice, we fill in the gaps. RequestDesk imports your existing content to identify what your brand already sounds like, then we document the patterns."
+            },
+            {
+                "question": "Can you match our existing brand voice?",
+                "answer": "Yes. RequestDesk analyzes your best-performing content and extracts your brand signals automatically. Your writer then follows those patterns consistently. Clients often tell us we sound more like them than their in-house team."
+            },
+            {
+                "question": "Do we own the brand voice guide?",
+                "answer": "Absolutely. The brand voice guide is yours. You can share it with other teams, agencies, or freelancers. It's a permanent asset for your business."
+            },
+            {
+                "question": "What's included in a brand audit?",
+                "answer": "We review your published content across all channels (blog, social, email, product pages), score each piece for voice consistency, flag gaps and contradictions, and deliver a report with specific recommendations."
+            },
+            {
+                "question": "How does RequestDesk enforce brand consistency?",
+                "answer": "RequestDesk uses AI personas built from your content, a Terms You Never Use filter that blocks off-brand language, and a RAG knowledge base that learns your voice with every publish. One-click publishing to Shopify and WordPress ensures your brand sounds the same everywhere."
+            },
+            {
+                "question": "How is this different from a branding agency?",
+                "answer": "Branding agencies build logos, color palettes, and visual identity. We build the writing side, powered by technology that enforces it at scale. How your brand sounds in every blog post, email, product description, and social caption. We're the voice, they're the look."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Ready to Sound Like Your Brand?",
+        "text": "Stop publishing content that could belong to anyone. Let our writers, powered by RequestDesk's brand intelligence, define and deliver your brand voice across every channel."
+    }
+}

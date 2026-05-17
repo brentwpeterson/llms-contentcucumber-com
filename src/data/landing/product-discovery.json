@@ -1,0 +1,142 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "AI Product Discovery - Content Cucumber",
+    "meta_description": "Get your products found by AI shopping assistants. Optimize ecommerce content for ChatGPT, Perplexity, and AI-powered product discovery.",
+    "slug": "product-discovery"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content in Commerce",
+        "title": "Get Your Products Found<br><em>by AI Assistants</em>",
+        "paragraphs": [
+          "Optimize your ecommerce content for AI-powered shopping assistants and LLM-based product discovery. Be where your customers are asking."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "robot",
+            "title": "AI Shopping Readiness",
+            "text": "Audit and optimize your product content so AI assistants can accurately describe, compare, and recommend your products when shoppers ask."
+          },
+          {
+            "icon": "code",
+            "title": "Structured Product Data",
+            "text": "Implement Product schema, attributes, and structured data that AI models need to understand your catalog. Make your products machine-readable."
+          },
+          {
+            "icon": "chat",
+            "title": "Conversational Content",
+            "text": "Write product content in a format AI can easily quote. Clear comparisons, definitive statements, and use-case descriptions that get cited."
+          },
+          {
+            "icon": "chart",
+            "title": "AI Visibility Tracking",
+            "text": "Monitor when AI assistants recommend your products versus competitors. Identify gaps and optimize the products that matter most."
+          }
+        ],
+        "title": "What is Commerce LLM Discovery?",
+        "subtitle": "AI assistants are changing how people shop. ChatGPT, Perplexity, and Google AI recommend products based on content quality and structure. If your product pages aren't optimized for LLM discovery, you're invisible to a growing segment of buyers. We prepare your ecommerce content for the AI-first shopping experience."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Content Audit",
+            "text": "Analyze your product catalog for LLM readiness. Identify gaps in structured data, content quality, and machine readability."
+          },
+          {
+            "number": "02",
+            "title": "Optimization Strategy",
+            "text": "Prioritize products by revenue potential and AI discoverability gap. Build a roadmap for content improvements across your catalog."
+          },
+          {
+            "number": "03",
+            "title": "Content Enhancement",
+            "text": "Rewrite product descriptions with AI citation in mind. Add comparison content, use-case descriptions, and structured attributes that AI models prefer."
+          },
+          {
+            "number": "04",
+            "title": "Monitor and Iterate",
+            "text": "Track AI product recommendations across platforms. Measure which products get cited and refine content for those that don't."
+          }
+        ],
+        "title": "How Commerce LLM Discovery Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Products invisible to AI shopping assistants",
+            "Unstructured product data that AI can't parse",
+            "Losing sales to competitors AI knows about"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Your products recommended when customers ask AI for suggestions",
+            "Rich structured data that AI accurately describes and compares",
+            "First-mover advantage in the AI commerce discovery channel"
+          ]
+        },
+        "title": "Why Commerce LLM Discovery Matters"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "How is this different from regular product SEO?",
+            "answer": "Traditional product SEO optimizes for Google search results. Commerce LLM Discovery optimizes for AI assistants that recommend products in conversational responses. Different format, different signals, different optimization approach."
+          },
+          {
+            "question": "Which AI assistants do you optimize for?",
+            "answer": "ChatGPT (with web browsing and shopping features), Perplexity, Google AI Overviews, and emerging AI shopping tools. The fundamentals (structured data, clear content) benefit all platforms."
+          },
+          {
+            "question": "How do I know if AI is recommending my products?",
+            "answer": "We test your products across AI platforms and track mentions over time. You'll see reports showing which products get recommended and which competitors appear instead."
+          },
+          {
+            "question": "How many products can you optimize?",
+            "answer": "We start with your top-selling products and expand from there. Most clients begin with 20-50 priority products and scale based on results."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop being invisible to AI shopping assistants. Get your products recommended when customers ask for suggestions.",
+        "title": "Ready for AI-Powered Product Discovery?"
+      }
+    }
+  ]
+}

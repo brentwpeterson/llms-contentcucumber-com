@@ -1,0 +1,225 @@
+{
+    "seo": {
+        "meta_description": "Growth marketing para marcas de ecommerce. Más de 40 redactores humanos, atribución completa con HubSpot y optimización AIO. Contenido que genera ingresos, no solo tráfico.",
+        "og_description": "Content Cucumber construye sistemas de growth marketing en HubSpot para marcas de ecommerce. Redactores humanos, atribución completa de ingresos y optimización para búsqueda con IA.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Obtén Tu Auditoría de Crecimiento Gratuita",
+        "subtitle": "Descubre dónde tu contenido genera ingresos, dónde eres invisible en la búsqueda con IA y qué corregir primero.",
+        "trust_text": "HubSpot Solutions Partner. Más de 30 años en ecommerce. Cero relleno.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "HubSpot Solutions Partner para Marcas de Ecommerce",
+                "title": "La IA abarató el contenido.<br>Nosotros hacemos que <em>genere ingresos</em>.",
+                "paragraphs": [
+                    "Tus competidores están inundando internet con contenido de IA que suena igual. Mientras tanto, tus métricas de tráfico orgánico van a la baja y no puedes conectar el contenido con las ventas reales.",
+                    "Somos más de 40 redactores humanos apoyados con herramientas de IA, sobre HubSpot Marketing Hub Pro para atribución completa. Creamos contenido que destaca, se conecta con los ingresos y aparece donde tus compradores realmente buscan."
+                ],
+                "platforms_label": "Impulsando el crecimiento en",
+                "platforms": "Shopify &bull; BigCommerce &bull; Magento &bull; WooCommerce"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "40+", "label": "Redactores Humanos" },
+                { "number": "30+", "label": "Años en Ecommerce" },
+                { "number": "500+", "label": "Episodios de Podcast" },
+                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "¿Te Suena Familiar?",
+                "subtitle": "Estos son los cuatro problemas que escuchamos de marcas de ecommerce cada semana.",
+                "items": [
+                    {
+                        "number": "01",
+                        "title": "Tu Contenido Suena Igual que el de Todos",
+                        "text": "Otras agencias ofrecen precios más bajos usando ChatGPT. Tu marca no puede diferenciarse cuando cada competidor publica el mismo contenido genérico. En un mercado saturado de contenido de IA, el contenido creado por personas es la ventaja competitiva."
+                    },
+                    {
+                        "number": "02",
+                        "title": "No Puedes Conectar el Contenido con los Ingresos",
+                        "text": "Estás creando contenido pero no sabes qué está impulsando las ventas. Sin atribución. Sin medición. El ecommerce tiene el camino más directo de contenido a ingresos de cualquier industria. Deberías poder ver exactamente qué contenido genera qué ventas."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Tus Métricas de Tráfico Orgánico Van a la Baja",
+                        "text": "La realidad es que tus ingresos probablemente están estables. La búsqueda con IA está generando tráfico que no se rastrea de la misma manera. Resúmenes de IA de Google, resultados sin clic, recomendaciones de ChatGPT. El contenido sigue funcionando. La atribución es la que está rota."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Crees que Puedes Manejarlo Internamente",
+                        "text": "ChatGPT da la impresión de que no necesitas un equipo de contenido. Lo intentas con tu equipo, se estanca, la calidad baja, nadie se hace cargo. Para cuando las marcas regresan, perdieron meses de impulso. El contenido consistente y profesional a escala necesita un equipo dedicado."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "El Cambio",
+                "title": "El contenido era el rey.<br>Ahora el <em>contexto</em> es la verdadera ventaja.",
+                "paragraphs": [
+                    "La vieja estrategia: escribir artículos de blog, optimizar para palabras clave, esperar tráfico de Google. Esa era está terminando.",
+                    "La nueva realidad es no lineal. Tus compradores no siguen un embudo. Investigan en búsqueda con IA, redes sociales, email y tu sitio web antes de hablar contigo. El mensaje correcto, a la persona correcta, con el contexto correcto, en el canal correcto. Eso es lo que genera ingresos en 2026.",
+                    "Construimos sistemas de growth marketing en HubSpot Marketing Hub Pro que conectan contenido con ingresos, con atribución completa, nurturing y seguimiento de campañas."
+                ],
+                "old_way": {
+                    "heading": "La Forma Anterior",
+                    "items": [
+                        "Publicar artículos de blog y esperar",
+                        "Solo palabras clave SEO",
+                        "Reportes de tráfico (no de ingresos)",
+                        "El mismo mensaje para todos",
+                        "Estrategia enfocada solo en Google"
+                    ]
+                },
+                "new_way": {
+                    "heading": "La Forma Content Cucumber",
+                    "items": [
+                        "Contenido vinculado a resultados de ingresos",
+                        "Optimización AIO + SEO",
+                        "Atribución completa vía HubSpot",
+                        "Personalización basada en contexto",
+                        "Visible en búsqueda con IA + Google"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Paquetes de Crecimiento para Ecommerce",
+                "subtitle": "Empaquetamos resultados, no partidas. Nada de propuestas de \"10 artículos de blog al mes\". Cada paquete está vinculado a tus desafíos de crecimiento específicos.",
+                "items": [
+                    {
+                        "name": "Contenido + Atribución",
+                        "target": "Para marcas de ecommerce listas para conectar contenido con ingresos. Sabes que el contenido importa pero no puedes demostrar qué está funcionando.",
+                        "outcomes": [
+                            "Contenido escrito por personas que destaca del ruido de la IA",
+                            "Atribución completa de ingresos vía HubSpot Marketing Hub Pro",
+                            "Optimización AIO para visibilidad en búsqueda con IA",
+                            "Reportes mensuales vinculados a ventas reales, no solo tráfico"
+                        ]
+                    },
+                    {
+                        "name": "Crecimiento Integral",
+                        "target": "Para marcas que quieren un solo equipo a cargo de todo el motor de crecimiento. Contenido, conversión, email y optimización bajo un mismo techo.",
+                        "featured": true,
+                        "badge": "Más Popular",
+                        "outcomes": [
+                            "Todo lo de Contenido + Atribución",
+                            "Optimización de sitio web y conversión",
+                            "Campañas de email y nurturing de leads",
+                            "HubSpot Marketing Hub Pro + Content Hub Pro",
+                            "Personalización basada en contexto en todos los canales"
+                        ]
+                    },
+                    {
+                        "name": "Crecimiento + Limpieza de Datos",
+                        "target": "Para marcas establecidas con más de 20K contactos y datos desordenados que afectan el rendimiento de las campañas.",
+                        "outcomes": [
+                            "Todo lo de Crecimiento Integral",
+                            "Integración con HubSpot Data Hub",
+                            "Limpieza y deduplicación de datos de contactos",
+                            "Reducción de tasas de rebote y cancelaciones de suscripción",
+                            "Datos limpios que potencian campañas más inteligentes"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "¿Qué Cambia Cuando Trabajas con Nosotros?",
+                "subtitle": "No son servicios. Son resultados. Esto es lo que nuestros clientes de ecommerce realmente obtienen.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Contenido que Diferencia",
+                        "text": "Más de 40 redactores humanos crean contenido con experiencia real y calidad editorial. La IA es nuestra herramienta, no nuestra fuerza de trabajo. Tu voz de marca sigue siendo tuya. Tus competidores no pueden copiar lo que es genuinamente humano."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Ingresos que Puedes Ver",
+                        "text": "HubSpot Marketing Hub Pro impulsa la atribución completa. Ve qué contenido genera ventas reales. El contenido se convierte en un canal de ingresos, no en un centro de costos. El camino más directo de contenido a ingresos en cualquier industria."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Visible en la Búsqueda con IA",
+                        "text": "Ya no nos enfocamos solo en SEO, nos enfocamos en AIO. Tus productos aparecen en ChatGPT, Claude, Perplexity y los resúmenes de IA de Google. Optimizamos para donde los compradores realmente buscan en 2026."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Un Equipo, Recorrido Completo",
+                        "text": "Creación de contenido, optimización de sitio web, campañas de email, optimización de conversión. La mayoría de las agencias de marketing no quieren escribir. Nosotros tenemos más de 40 redactores que sí. Entre más del recorrido cubrimos, mejor funciona todo en conjunto."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "HubSpot Solutions Partner",
+                "title": "Somos gente de ecommerce, no una agencia genérica de contenido.",
+                "paragraphs": [
+                    "Liderado por Brent Peterson con más de 30 años en ecommerce, Content Cucumber trabaja exclusivamente con marcas en línea. Participamos como ponentes en eTail, Shoptalk y eventos de la industria. Somos anfitriones de Talk Commerce, un podcast con más de 500 episodios con líderes de ecommerce.",
+                    "Entendemos la diferencia entre Shopify y Magento. Sabemos qué significa una tasa de conversión del 2%. Hemos visto qué funciona y qué no en cientos de marcas de ecommerce.",
+                    "Como HubSpot Solutions Partner, implementamos Marketing Hub Pro, Content Hub Pro y Data Hub para darle a nuestros clientes la infraestructura que convierte contenido en ingresos medibles."
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Años en Ecommerce" },
+                    { "number": "40+", "label": "Redactores Humanos" },
+                    { "number": "500+", "label": "Episodios de Podcast" },
+                    { "number": "5", "label": "Plataformas de Ecommerce" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas que Escuchamos",
+                "items": [
+                    {
+                        "question": "\"Podemos manejar el contenido internamente.\"",
+                        "answer": "Puedes empezar. Pero a escala, se estanca. Nadie se hace cargo, la calidad baja, se cae de la lista de prioridades. Hemos visto este patrón docenas de veces. Para cuando las marcas regresan, perdieron meses. Somos el equipo que mantiene el contenido funcionando de manera consistente mientras tú te enfocas en tu negocio."
+                    },
+                    {
+                        "question": "\"La IA puede escribir nuestro contenido.\"",
+                        "answer": "Puede. Y la IA de todos los demás también. Cuando todas las marcas publican el mismo contenido genérico de IA, nada destaca. Usamos la IA como herramienta en nuestro proceso, no como la fuerza de trabajo. Más de 40 redactores humanos aportan experiencia, matices y tu voz de marca. Eso es lo que marca la diferencia."
+                    },
+                    {
+                        "question": "\"Ya probamos con una agencia y no funcionó.\"",
+                        "answer": "La mayoría de las agencias no entienden el ecommerce. Escriben contenido genérico que no convierte. Nos especializamos en marcas de ecommerce. Entendemos tus plataformas, tus clientes y qué mueve la aguja en los ingresos. Y con la atribución de HubSpot, demostramos qué está funcionando."
+                    },
+                    {
+                        "question": "\"El SEO se está muriendo. ¿Todavía vale la pena el contenido?\"",
+                        "answer": "El tráfico SEO tradicional se ve más bajo porque la búsqueda con IA no se rastrea de la misma manera. Tus ingresos probablemente están estables. El contenido sigue funcionando. Solo que ahora funciona a través de nuevos canales: respuestas de IA, resultados sin clic, búsqueda por voz. Optimizamos para AIO, no solo SEO, para que seas visible donde sea que los compradores busquen."
+                    },
+                    {
+                        "question": "\"¿Por qué necesitamos HubSpot?\"",
+                        "answer": "Sin atribución, el contenido es un centro de costos. Estás adivinando qué funciona. HubSpot Marketing Hub Pro conecta cada pieza de contenido con ingresos reales. Ves qué artículo de blog llevó a qué venta. Qué email impulsó qué conversión. Una plataforma, visibilidad completa. Sin más herramientas improvisadas con logins separados."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para ver qué funciona y qué no?",
+                "text": "Obtén una auditoría de crecimiento gratuita para tu marca de ecommerce. Te mostramos dónde tu contenido genera ingresos, dónde eres invisible en la búsqueda con IA y qué corregir primero. Sin discurso de ventas. Solo un consultor con más de 30 años en ecommerce compartiendo lo que ve."
+            }
+        }
+    ]
+}

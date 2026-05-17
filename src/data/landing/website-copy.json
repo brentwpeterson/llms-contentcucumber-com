@@ -1,0 +1,153 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Website Copywriting Services - Content Cucumber",
+    "meta_description": "Conversion-focused website copy that turns visitors into customers. Landing pages, service pages, and brand messaging from professional copywriters.",
+    "slug": "website-copy"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content Creation",
+        "title": "Website Copy That<br><em>Converts Visitors Into Customers</em>",
+        "paragraphs": [
+          "Transform visitors into customers with website copy that communicates value clearly and compels action. Every word crafted to convert."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "layout",
+            "title": "Landing Pages",
+            "text": "High-converting landing pages with clear value propositions, compelling headlines, and strategic CTAs. Built to turn ad traffic into leads."
+          },
+          {
+            "icon": "home",
+            "title": "Homepage Messaging",
+            "text": "Your homepage has 5 seconds to communicate what you do and why visitors should care. We nail that message and guide them deeper into your site."
+          },
+          {
+            "icon": "briefcase",
+            "title": "Service Pages",
+            "text": "Pages that explain what you offer, who it's for, and why you're the right choice. Clear, persuasive, and optimized for both readers and search."
+          },
+          {
+            "icon": "info",
+            "title": "About and Brand Pages",
+            "text": "Tell your story in a way that builds trust and connection. Not a timeline of company history. A narrative that makes visitors want to work with you."
+          }
+        ],
+        "title": "What is Website Copywriting?",
+        "subtitle": "Your website is your 24/7 salesperson. Great design gets attention but copy closes the deal. We craft website messaging that speaks directly to your audience's needs and guides them toward taking action."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Discovery Session",
+            "text": "We analyze your business, audience, competitors, and goals. Learn what makes you different and what your customers care about most."
+          },
+          {
+            "number": "02",
+            "title": "Messaging Framework",
+            "text": "Define your core value proposition, key messages, and tone of voice. This framework guides every page we write."
+          },
+          {
+            "number": "03",
+            "title": "Write and Refine",
+            "text": "Our copywriters craft each page with conversion in mind. Headlines, body copy, CTAs, and meta content. You review and we refine until it's right."
+          },
+          {
+            "number": "04",
+            "title": "Launch and Optimize",
+            "text": "New copy goes live. We track conversion rates and user behavior. A/B test headlines and CTAs to maximize performance."
+          }
+        ],
+        "title": "How Our Website Copy Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Beautiful website that nobody converts on",
+            "Generic messaging that sounds like every competitor",
+            "Pages written by the founder at 2am"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Copy that turns visitors into leads and customers",
+            "Clear positioning that makes you the obvious choice",
+            "Professional copy backed by conversion research"
+          ]
+        },
+        "title": "Why Choose Our Website Copy?"
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Results",
+        "title": "What Our Clients Say",
+        "paragraphs": [
+          "\"They took the time to look into my business and needs, and created engaging articles. They listened, delivered, and provided ideas moving forward.\" — Adam Phillips"
+        ],
+        "stats": []
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "How many pages are included?",
+            "answer": "Website copy projects typically cover 5-15 pages depending on your site. We scope each project individually based on your needs and prioritize the highest-impact pages first."
+          },
+          {
+            "question": "Do you handle the design or just the copy?",
+            "answer": "We write the copy and provide it in a format your designer or developer can implement. We work with your existing design team or can recommend partners if needed."
+          },
+          {
+            "question": "How long does a website copy project take?",
+            "answer": "Most projects take 2-4 weeks from kickoff to final delivery. Timeline depends on the number of pages and revision rounds."
+          },
+          {
+            "question": "Can you write for a website rebrand?",
+            "answer": "Yes. Rebrands are one of our most common website copy projects. We help define the new messaging, voice, and positioning before writing a single page."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Your website should be your best salesperson. Let us craft copy that clearly communicates your value and compels visitors to take action.",
+        "title": "Ready to Convert More Visitors?"
+      }
+    }
+  ]
+}

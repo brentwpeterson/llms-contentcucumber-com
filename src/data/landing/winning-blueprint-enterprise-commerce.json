@@ -1,0 +1,42 @@
+{
+    "no_nav": true,
+    "seo": {
+        "title": "The Winning Blueprint for Enterprise Commerce | Content Cucumber Research",
+        "meta_description": "Free research paper comparing VTEX and Salesforce Commerce Cloud for enterprise buyers. Architecture, OMS, marketplace, scalability, and 36-month TCO.",
+        "og_description": "Independent research comparing VTEX and Salesforce Commerce Cloud. Architecture, OMS, marketplace, and total cost of ownership for enterprise commerce decisions.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/05/winning-blueprint-cover.png"
+    },
+    "form": {
+        "header": "Download the Research",
+        "portal_id": "39487190",
+        "form_id": "d9c6e29a-b6de-484a-a365-09222270c3c8",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Check your inbox",
+        "text": "The research paper is on its way. You'll receive a download link within a few minutes.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Content Cucumber Research",
+                "title": "The Winning Blueprint for<br><em>Enterprise Commerce</em>",
+                "subtitle": "An independent analysis of two architectures for enterprise commerce. Comparing VTEX and Salesforce Commerce Cloud across architecture, OMS, marketplace, scalability, and total cost of ownership.",
+                "bullets": [
+                    "See why the consolidated VTEX stack runs <strong>30 to 50%</strong> below the Salesforce stack at the same enterprise scope",
+                    "Find out which platform bundles OMS, marketplace, and B2B into one license, and which one stacks them as separate SKUs",
+                    "Learn how multi-banner operators save admin hours with unified accounts versus separate Salesforce orgs per brand",
+                    "Understand which enterprise capabilities come native and which require Mirakl, MuleSoft, and middleware to assemble",
+                    "Get a clear framework for deciding between VTEX and Salesforce Commerce Cloud for your organization"
+                ],
+                "thumbnail": "landing-data/winning-blueprint-cover.png",
+                "authors": "By Brent Peterson and Isaac Morey, Content Cucumber",
+                "form_title": "Download the full report",
+                "form_subtitle": "Free. No commitment. Straight to your inbox."
+            }
+        }
+    ]
+}

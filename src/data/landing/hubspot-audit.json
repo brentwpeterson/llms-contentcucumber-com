@@ -1,0 +1,220 @@
+{
+    "seo": {
+        "meta_description": "Free HubSpot portal audit. Scan your Marketing, Sales, and Service Hubs for hidden inefficiencies. Get a prioritized report with actionable recommendations.",
+        "og_description": "Get a comprehensive, automated audit of your HubSpot portal. Identify issues, discover opportunities, and get prioritized recommendations. Completely free.",
+        "og_image": "/wp-content/uploads/hubspot-audit/homepage-2023-900x525px.webp"
+    },
+    "form": {
+        "header": "Get Your Free HubSpot Audit",
+        "subtitle": "Connect your portal. Get a detailed report with prioritized recommendations.",
+        "trust_text": "HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
+        "portal_id": "39487190",
+        "form_id": "8328caca-fe96-4d06-9c76-d31486fb2d89",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Free HubSpot Audit",
+                "title": "Maximize Your <em>HubSpot Investment</em>",
+                "paragraphs": [
+                    "Get a comprehensive, automated audit of your HubSpot portal, completely free. Identify issues, discover opportunities, and get prioritized recommendations.",
+                    "Most HubSpot portals have hidden inefficiencies costing you leads and revenue. Our audit scans your Marketing Hub, Sales Hub, Service Hub, and CRM to find exactly what needs fixing."
+                ],
+                "content_image": "/wp-content/uploads/hubspot-audit/homepage-2023-900x525px.webp",
+                "content_image_alt": "Content Cucumber HubSpot Audit Dashboard"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" },
+                { "number": "10+", "label": "Years on HubSpot" },
+                { "number": "100%", "label": "Privacy-First" },
+                { "number": "Free", "label": "Full Analysis" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What You'll Discover",
+                "subtitle": "Five key areas where your HubSpot portal can perform better.",
+                "items": [
+                    {
+                        "title": "Maximize ROI",
+                        "text": "Ensure you're getting full value from your HubSpot investment. Most portals use less than 40% of available features. We show you what you're missing."
+                    },
+                    {
+                        "title": "Track Data Availability",
+                        "text": "Monitor key data within the platform. Incomplete or inconsistent data undermines every campaign, workflow, and report you build."
+                    },
+                    {
+                        "title": "Better Decisions",
+                        "text": "Clean, complete data enables faster, more certain decisions. When your CRM data is accurate, your team stops guessing and starts acting."
+                    },
+                    {
+                        "title": "Measure Results",
+                        "text": "More accurate campaign tracking and testing. Know exactly which campaigns drive revenue and which ones waste budget."
+                    },
+                    {
+                        "title": "Improve Productivity",
+                        "text": "Spend time on what works, less on what doesn't. Eliminate manual workarounds and streamline your team's daily HubSpot workflows."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How It Works",
+                "subtitle": "Three simple steps from signup to actionable insights.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Easy Setup",
+                        "text": "Connect your HubSpot account and give the app permission to read your HubSpot objects. Setup takes less than two minutes."
+                    },
+                    {
+                        "number": "2",
+                        "title": "Background Processing",
+                        "text": "The audit runs in the background with minimal impact on your portal. It scans contacts, companies, deals, tickets, and more."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Progress Over Perfection",
+                        "text": "Receive a detailed PDF report with prioritized, actionable recommendations. Focus on high-impact fixes first."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "What We Scan",
+                "subtitle": "A deep dive into your three core Hubs plus CRM fundamentals: Contacts, Companies, Deals, and Tickets.",
+                "items": [
+                    {
+                        "name": "Marketing Hub",
+                        "target": "Campaign effectiveness and lead delivery. Are your forms, emails, and workflows actually converting?",
+                        "outcomes": [
+                            "Email deliverability and engagement rates",
+                            "Form conversion and lead capture",
+                            "Workflow efficiency and automation gaps",
+                            "List hygiene and segmentation quality"
+                        ]
+                    },
+                    {
+                        "name": "Sales Hub",
+                        "target": "Data entry efficiency and customer connection. Is your sales team set up to close?",
+                        "featured": true,
+                        "badge": "Most Requested",
+                        "outcomes": [
+                            "Deal pipeline health and stage progression",
+                            "Contact and company data completeness",
+                            "Sales activity tracking and logging",
+                            "Quote and proposal workflow setup"
+                        ]
+                    },
+                    {
+                        "name": "Service Hub",
+                        "target": "Right data, right time, happy customers. Can your support team resolve issues quickly?",
+                        "outcomes": [
+                            "Ticket pipeline and resolution tracking",
+                            "Knowledge base coverage and gaps",
+                            "Customer feedback and NPS setup",
+                            "SLA configuration and response times"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Who It's For",
+                "subtitle": "Whether you manage marketing, sales, service, or the whole platform, this audit gives you clear next steps.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Marketers: Convert More Leads",
+                        "text": "Portal audits scan CRM fields, app usage, and data completeness. Accurate customer data maximizes your marketing campaigns and improves lead quality."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Sales Teams: Close More Deals",
+                        "text": "Current, complete sales data is essential for tracking and closing deals. Effectively manage sales data throughout the entire customer journey."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Customer Success: Help More Customers",
+                        "text": "Accurate, accessible, real-time information ensures quick, seamless customer support. Find and fix the data gaps slowing your team down."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "HubSpot Teams: Create Effective Teams",
+                        "text": "High-level analysis with clear, specific recommendations in easy-to-read reports. Get your entire team aligned on what needs fixing first."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Business Owners: Optimize Your Platform",
+                        "text": "Ensure your entire HubSpot investment is working efficiently across all departments. See exactly where you're leaving value on the table."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "youtube_id": "cUsjcXHM2pE",
+                "title": "Free HubSpot Audit Walkthrough",
+                "aspect": "16x9",
+                "heading": "See the Audit in Action",
+                "paragraphs": [
+                    "Watch a walkthrough of how the audit process works, from connecting your portal to reviewing your personalized report."
+                ],
+                "points": [
+                    "Connect your HubSpot portal in under two minutes",
+                    "Automated scan of Marketing, Sales, and Service Hubs",
+                    "Detailed PDF report with prioritized recommendations",
+                    "Actionable fixes you can implement immediately"
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "Is this really free? What's the catch?",
+                        "answer": "Yes, completely free with no obligation. We're a HubSpot Solutions Partner and we believe in showing value before asking for anything. The audit gives you actionable insights whether or not you ever work with us."
+                    },
+                    {
+                        "question": "Is my data safe?",
+                        "answer": "The audit app requests read-only access to your HubSpot portal. We never modify your data, export contacts, or store sensitive information. Your portal data stays in HubSpot."
+                    },
+                    {
+                        "question": "How long does the audit take?",
+                        "answer": "Setup takes less than two minutes. The background scan typically completes within 24 hours depending on portal size. You'll receive your PDF report by email as soon as it's ready."
+                    },
+                    {
+                        "question": "What if I just started using HubSpot?",
+                        "answer": "Even better. The audit catches setup issues early before they compound. New portals often have default settings that should be customized, missing properties, and workflow gaps that are easier to fix now than six months from now."
+                    },
+                    {
+                        "question": "Do I need HubSpot Pro or Enterprise?",
+                        "answer": "The audit works with any HubSpot tier including Free and Starter. The report adapts to your subscription level and only recommends actions available on your current plan."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to Optimize Your HubSpot Portal?",
+                "text": "Get your free audit today. Connect your portal, let the scan run in the background, and receive a detailed report with prioritized recommendations. No sales pitch, just clear data on what's working and what needs attention."
+            }
+        }
+    ]
+}

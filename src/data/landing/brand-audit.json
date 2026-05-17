@@ -1,0 +1,179 @@
+{
+    "form": {
+        "header": "Get Your Free Brand Audit",
+        "subtitle": "We'll review your content across every channel and show you exactly where your brand voice is strong and where it's drifting.",
+        "trust_text": "No credit card. No commitment. Just clarity.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "Free Brand Audit - Content Cucumber",
+        "meta_description": "Get a free brand audit. We review your blog, social, email, and product content for voice consistency and give you a clear action plan. Powered by RequestDesk brand intelligence.",
+        "slug": "brand-audit"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Brand Audit",
+                "title": "Is Your Brand Saying<br><em>What You Think It Is?</em>",
+                "paragraphs": [
+                    "In 1985, <a href='/blog/coca-colas-rebrand-disaster/' target='_blank'>Coca-Cola changed their formula and nearly destroyed their brand</a>. They reversed course in 79 days. The lesson: know what your brand sounds like before you change anything. A brand audit tells you where you stand."
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "eyebrow": "What We Review",
+                "title": "Every Channel. Every Touchpoint.",
+                "subtitle": "Your brand voice lives in more places than you think. We check all of them.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Blog Content",
+                        "text": "Are your blog posts consistent in tone? Do they sound like the same brand wrote them? We review your last 20-50 posts for voice drift, inconsistency, and off-brand language."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Product Descriptions",
+                        "text": "Your product pages are where voice matters most. We check whether your descriptions match your brand personality or sound like they were copied from a manufacturer spec sheet."
+                    },
+                    {
+                        "icon": "calendar",
+                        "title": "Email Marketing",
+                        "text": "Subject lines, body copy, CTAs. Your emails are the most personal touchpoint with your audience. We audit them for voice consistency and brand alignment."
+                    },
+                    {
+                        "icon": "target",
+                        "title": "Social Media",
+                        "text": "Does your Instagram sound like your LinkedIn? It probably shouldn't. But both need to be unmistakably your brand. We review your social presence across platforms."
+                    },
+                    {
+                        "icon": "book",
+                        "title": "Website Copy",
+                        "text": "Homepage, about page, services pages, landing pages. Every page a visitor touches shapes their perception. We audit your entire site for voice consistency."
+                    },
+                    {
+                        "icon": "compass",
+                        "title": "Competitor Comparison",
+                        "text": "Does your content stand out from competitors, or could someone swap the logos and not notice? We compare your voice against your top 3 competitors."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How the Brand Audit Works",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Connect Your Content",
+                        "text": "Share access to your site, social accounts, and email platform. Or just send us your URL and we'll pull what's public. RequestDesk's Brand Discovery scans your existing content automatically."
+                    },
+                    {
+                        "number": "02",
+                        "title": "AI + Human Analysis",
+                        "text": "RequestDesk analyzes your content for brand signals, voice patterns, and terminology. Then our editorial team reviews the findings and adds the nuance that AI misses."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Brand Strength Score",
+                        "text": "You get a score across 20 brand dimensions: voice, tone, values, audience alignment, terminology consistency, and more. Each dimension is rated so you know exactly where to focus."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Action Plan",
+                        "text": "Not a 50-page strategy deck. A clear, prioritized list of what to fix first. Specific examples from your own content showing what's on-brand and what's drifting."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Why It Matters",
+                "paragraphs": [""],
+                "old_way": {
+                    "heading": "Without a Brand Audit",
+                    "items": [
+                        "You don't know which content is on-brand and which isn't",
+                        "New hires and freelancers guess at your voice",
+                        "Brand drift happens slowly, then all at once",
+                        "Your content sounds like everyone else in your space"
+                    ]
+                },
+                "new_way": {
+                    "heading": "After a Brand Audit",
+                    "items": [
+                        "Clear picture of where your voice is strong and where it's weak",
+                        "Documented brand voice guide based on your best content",
+                        "Specific fixes you can implement this week",
+                        "A baseline to measure brand consistency going forward"
+                    ]
+                },
+                "title": "You Can't Fix What You Can't See"
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "We Know Brands",
+                "title": "We've Studied the Best (and the Worst)",
+                "paragraphs": [
+                    "We've analyzed how <a href='/blog/what-is-trader-joes-marketing-secret/' target='_blank'>Trader Joe's built a cult brand without advertising</a>, how <a href='/blog/how-dominos-transformed-its-reputation/' target='_blank'>Domino's publicly admitted failure and rebuilt from scratch</a>, and how <a href='/blog/5-ways-target-encourages-shoppers-to-overspend/' target='_blank'>Target's brand consistency drives billions in impulse purchases</a>.",
+                    "<a href='/blog/subaru-case-study/' target='_blank'>Subaru didn't know who their customer was</a> until they did the audit work. <a href='/blog/coca-colas-rebrand-disaster/' target='_blank'>Coca-Cola changed what didn't need changing</a> and paid for it. Your brand audit prevents both mistakes."
+                ],
+                "stats": []
+            }
+        },
+        {
+            "type": "testimonials",
+            "data": {
+                "eyebrow": "What Our Clients Say",
+                "headline": "Real Brands, Real Results",
+                "source": "reviews",
+                "featured": true,
+                "count": 3,
+                "has_text": true
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "items": [
+                    {
+                        "question": "How much does a brand audit cost?",
+                        "answer": "The initial brand audit is free. We believe you need to see the gaps before you commit to fixing them. If you want us to implement the recommendations, we'll scope that as a separate engagement."
+                    },
+                    {
+                        "question": "How long does the audit take?",
+                        "answer": "RequestDesk's automated analysis runs in minutes. The human editorial review takes 3-5 business days. You'll receive your Brand Strength Score and action plan within one week."
+                    },
+                    {
+                        "question": "What do I need to provide?",
+                        "answer": "Just your website URL. We can audit everything that's publicly visible. If you want us to review emails or internal content, share access to those platforms and we'll include them."
+                    },
+                    {
+                        "question": "What if our brand voice is already strong?",
+                        "answer": "Then the audit confirms it, and you get a documented baseline. Most brands think they're consistent until they see their content side by side. The audit shows you what's actually happening."
+                    },
+                    {
+                        "question": "Will you try to sell me something after?",
+                        "answer": "The audit stands on its own. If the findings reveal gaps you want help fixing, we offer <a href='/build-your-brand/'>brand voice development, style guides, and ongoing content services</a>. But the audit is yours regardless."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Find Out What Your Brand Really Sounds Like",
+                "text": "Get a free brand audit with your Brand Strength Score, voice consistency analysis, and a prioritized action plan. No commitment."
+            }
+        }
+    ]
+}

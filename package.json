@@ -1,0 +1,17 @@
+{
+  "name": "llms-contentcucumber-com",
+  "description": "AI-crawler mirror of contentcucumber.com (clean Markdown/HTML for LLMs)",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^6.0.3"
+  }
+}

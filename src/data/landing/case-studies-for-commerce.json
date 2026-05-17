@@ -1,0 +1,45 @@
+{
+    "no_nav": true,
+    "seo": {
+        "title": "Case Studies for Commerce | Content Cucumber",
+        "meta_description": "Case studies written for commerce platforms, agencies, and the brands they serve. We chase the interview, run the coordination, and deliver the piece. Download the sample pack.",
+        "og_description": "Case study writing for commerce platforms, agencies, and B2B SaaS. We handle the interview chase, the coordination, and the delivery.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/case-studies-for-commerce-cover.png",
+        "noindex": true,
+        "nofollow": true
+    },
+    "form": {
+        "header": "Get the sample pack",
+        "subtitle": "Four case studies CC wrote for platforms, agencies, and B2B SaaS. The kind of work we'd do for you.",
+        "trust_text": "We don't spam. You'll get the PDF, then a short email a few days later asking if you want to talk.",
+        "portal_id": "39487190",
+        "form_id": "REPLACE_WITH_NEW_FORM_ID_FOR_CASE_STUDIES_AD_CAMPAIGN",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Check your inbox",
+        "text": "The sample pack is on its way. While you're here, the way most case studies stall is on the interview step. If yours are stuck there, we can take that off your team's plate.",
+        "link_anchor": "https://meetings.hubspot.com/brent-peterson",
+        "link_text": "Book a 20-minute discovery call"
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Case Studies for Commerce",
+                "title": "Your customers have the stories.<br>Your team doesn't have the time.<br><em>We handle both.</em>",
+                "subtitle": "Case studies written for commerce platforms, agencies, and the brands they serve. We chase the interview, run the coordination, and deliver the piece.",
+                "bullets": [
+                    "Your merchants won't get on a call. <strong>We will.</strong>",
+                    "Your agency clients keep ghosting the draft cycle. <strong>We work the loop until it lands.</strong>",
+                    "Your customer success team has 50 other priorities. <strong>We have one job.</strong>",
+                    "Your case study needs to launch by a date. <strong>It does.</strong>"
+                ],
+                "thumbnail": "landing-data/case-studies-for-commerce-cover.png",
+                "authors": "Sample pack inside: case studies we've written for BigCommerce, Shopware, THE TEAM (formerly Wasserman), and Koho Consulting.",
+                "form_title": "Download the Case Study Sample Pack",
+                "form_subtitle": "Free. No commitment. Straight to your inbox."
+            }
+        }
+    ]
+}

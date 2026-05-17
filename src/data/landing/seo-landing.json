@@ -1,0 +1,244 @@
+{
+  "form": {
+    "header": "Get Your Free SEO Audit",
+    "subtitle": "See where you rank, where you're invisible, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "SEO Services for the AI Search Era - Content Cucumber",
+    "meta_description": "SEO services that cover Google rankings, AI search visibility, and content strategy. Keyword research, technical audits, content writing, and ongoing optimization for ecommerce brands.",
+    "slug": "seo"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "SEO Services",
+        "title": "SEO Services for<br><em>the AI Search Era</em>",
+        "paragraphs": [
+          "Search has changed. Your customers find you through Google, ChatGPT, Perplexity, and AI Overviews. We build SEO strategies that cover all of them.",
+          "From keyword research to technical audits to content that ranks. One team, every search channel."
+        ]
+      }
+    },
+    {
+      "type": "proof-bar",
+      "data": []
+    },
+    {
+      "type": "challenges",
+      "data": {
+        "title": "Sound Familiar?",
+        "subtitle": "These are the problems our SEO clients come to us with.",
+        "items": [
+          {
+            "title": "Outranked by Competitors",
+            "text": "Your competitors show up on page one for every keyword that matters to your business. You're stuck on page two or worse, invisible."
+          },
+          {
+            "title": "Content That Doesn't Rank",
+            "text": "You publish blog posts regularly but they never show up in search results. No traffic, no leads, no return on the investment."
+          },
+          {
+            "title": "No Keyword Strategy",
+            "text": "You have no idea what keywords to target or where the real opportunities are. You're guessing instead of following data."
+          },
+          {
+            "title": "Invisible to AI Search",
+            "text": "AI assistants like ChatGPT and Perplexity recommend your competitors when customers ask about your industry. You're not even in the conversation."
+          },
+          {
+            "title": "Traffic Isn't Growing",
+            "text": "Your website looks great but gets almost no organic traffic. Paid ads are the only way you get visitors, and the cost keeps climbing."
+          },
+          {
+            "title": "Burned by SEO Agencies",
+            "text": "You've hired SEO agencies before and got monthly reports full of charts, but no actual increase in rankings, traffic, or revenue."
+          }
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What We Do",
+        "subtitle": "Comprehensive SEO services that cover every stage: research, strategy, creation, and optimization. We don't just write content. We build search visibility across Google and AI platforms.",
+        "items": [
+          {
+            "icon": "search",
+            "title": "SEO Content Strategy",
+            "text": "Keyword research, competitor analysis, content gap identification, and editorial calendar. We find the opportunities your competitors are missing and build a roadmap to capture them.",
+            "link": "/services/seo/content-strategy/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "pen",
+            "title": "SEO Content Writing",
+            "text": "Blog posts, articles, and pillar content written by humans who understand both your industry and search intent. Every piece targets specific keywords with a clear ranking goal.",
+            "link": "/services/seo/content-writing/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "layout",
+            "title": "SEO Page Copy",
+            "text": "Website pages written for both visitors and search engines. Homepage, service pages, landing pages, and product pages optimized for the keywords that drive revenue.",
+            "link": "/services/seo/page-copy/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "code",
+            "title": "Technical SEO Audit",
+            "text": "Site speed, crawlability, schema markup, Core Web Vitals, and indexation issues. We find what's broken under the hood and give you a prioritized fix list.",
+            "link": "/services/seo/technical-audit/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "refresh",
+            "title": "SEO Content Refresh",
+            "text": "Audit your existing content for ranking potential. Update, rewrite, and re-optimize pages that should be performing but aren't. Sometimes the best new content is better old content.",
+            "link": "/services/seo/content-refresh/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "robot",
+            "title": "AI Search & LLM Discovery",
+            "text": "Get cited by ChatGPT, Perplexity, and Google AI Overviews. SEO alone isn't enough anymore. We optimize your content for the AI platforms where your customers are now asking questions.",
+            "link": "/services/llm-discovery/",
+            "link_text": "Explore LLM Discovery"
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How Our SEO Services Work",
+        "steps": [
+          {
+            "number": "01",
+            "title": "SEO Audit & Research",
+            "text": "We analyze your current rankings, competitor landscape, keyword opportunities, and technical health. You get a clear picture of where you stand and where the opportunities are."
+          },
+          {
+            "number": "02",
+            "title": "Strategy & Roadmap",
+            "text": "We build a prioritized content calendar targeting keywords with the best ROI potential. Quick wins first, then long-term authority plays. Every piece has a clear business goal."
+          },
+          {
+            "number": "03",
+            "title": "Content Creation",
+            "text": "Our writers produce SEO-optimized content (blog posts, pages, pillar content) with proper heading structure, internal linking, and schema markup. Human-written, editor-reviewed, publish-ready."
+          },
+          {
+            "number": "04",
+            "title": "Publish & Optimize",
+            "text": "Content goes live on your schedule. We track rankings, traffic, and conversions. Update what's working, fix what isn't. SEO is a continuous process, not a one-time project."
+          }
+        ]
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "The Content Cucumber Difference",
+        "title": "SEO That Goes Beyond<br><em>Google Page One</em>",
+        "paragraphs": [
+          "Most SEO agencies optimize for Google and stop there. But your customers are now finding answers through ChatGPT, Perplexity, Google AI Overviews, and voice assistants. If your content isn't structured for these platforms, you're invisible to a growing share of your market.",
+          "We optimize for every search channel: traditional Google rankings, AI citation, and LLM product discovery. One strategy, full coverage."
+        ],
+        "old_way": {
+          "heading": "Traditional SEO Agency",
+          "items": [
+            "Keyword reports that sit in a drawer",
+            "Generic blog posts that never rank",
+            "Monthly reports showing impressions, not revenue",
+            "No visibility in AI search results",
+            "One-size-fits-all strategy"
+          ]
+        },
+        "new_way": {
+          "heading": "Content Cucumber SEO",
+          "items": [
+            "Actionable keyword strategy tied to business goals",
+            "Human-written content that actually ranks",
+            "Revenue attribution through HubSpot",
+            "Optimized for Google AND AI platforms",
+            "Custom strategy for your industry and audience"
+          ]
+        }
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Case Study",
+        "title": "From 500 to 10,000+ Organic Visitors",
+        "paragraphs": [
+          "Silicone Depot started publishing weekly SEO-optimized articles with Content Cucumber in 2018. At the time, organic traffic was roughly 500 visitors per month.",
+          "Today, Silicone Depot averages over 10,000 organic visitors per month. Ad spend is down, revenue is up, and their brand authority compounds with every new article.",
+          "Consistent, human-written SEO content. That is what a real content engine looks like."
+        ],
+        "stats": [
+          {
+            "number": "10,000+",
+            "label": "Monthly Organic Visitors"
+          },
+          {
+            "number": "20x",
+            "label": "Traffic Growth"
+          },
+          {
+            "number": "2018",
+            "label": "Year Started"
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "Do you do keyword research or just content writing?",
+            "answer": "Both. We start with comprehensive keyword research, competitor analysis, and content gap identification. Then we write the content to target those keywords. Research and writing are one integrated service, not separate line items."
+          },
+          {
+            "question": "How is this different from other SEO agencies?",
+            "answer": "Most agencies outsource writing or use AI. We have 40+ human writers on staff who specialize in ecommerce. We also optimize for AI search platforms (ChatGPT, Perplexity, AI Overviews), not just Google. And we track revenue attribution through HubSpot, so you know which content drives sales."
+          },
+          {
+            "question": "How long does it take to see SEO results?",
+            "answer": "Most clients see meaningful ranking improvements within 3-6 months of consistent publishing. SEO compounds over time. The earlier you start, the faster the results build. Our Silicone Depot case study shows what 7 years of consistent content looks like."
+          },
+          {
+            "question": "Do you offer technical SEO audits?",
+            "answer": "Yes. Our technical SEO audit covers site speed, crawlability, schema markup, Core Web Vitals, security headers, and indexation issues. We provide a prioritized list of fixes ranked by impact. We can also implement the fixes for WordPress and Shopify sites."
+          },
+          {
+            "question": "What about AI search? Do you optimize for ChatGPT and Perplexity?",
+            "answer": "Yes. We call it LLM Discovery. We optimize your content structure, schema markup, and llms.txt so AI assistants can accurately cite your expertise. This is a separate but complementary service to traditional SEO. Learn more at our LLM Discovery page."
+          },
+          {
+            "question": "How much do SEO services cost?",
+            "answer": "SEO content strategy and writing starts with our Content Flywheel plan. Website page copy projects (like the 30-page example above) are quoted per project. Technical audits and LLM Discovery can be standalone or bundled. Contact us for a custom quote based on your goals."
+          },
+          {
+            "question": "Can you help with an existing site or only new content?",
+            "answer": "Both. Our SEO Content Refresh service audits your existing pages, identifies what has ranking potential, and rewrites or re-optimizes the content. Sometimes the highest-ROI SEO work is improving what you already have."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Ready to Get Found?",
+        "text": "Whether it's Google page one or a ChatGPT recommendation, your customers are searching. Let's make sure they find you."
+      }
+    }
+  ]
+}

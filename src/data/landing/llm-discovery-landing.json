@@ -1,0 +1,230 @@
+{
+  "form": {
+    "header": "Get Your Free AI Visibility Check",
+    "subtitle": "Find out if AI assistants are recommending you or your competitors.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "LLM Discovery - Get Found by AI Search - Content Cucumber",
+    "meta_description": "LLM Discovery services for ecommerce brands. Get your brand cited by ChatGPT, Perplexity, Google AI Overviews, and AI shopping assistants. AEO optimization, schema markup, and llms.txt.",
+    "slug": "llm-discovery"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "LLM Discovery",
+        "title": "Get Found by<br><em>AI Search Assistants</em>",
+        "paragraphs": [
+          "Your customers are asking ChatGPT, Perplexity, and Google AI Overviews for recommendations. If your brand isn't showing up in those answers, your competitors are getting the traffic.",
+          "LLM Discovery makes sure AI knows who you are, what you offer, and when to recommend you."
+        ]
+      }
+    },
+    {
+      "type": "proof-bar",
+      "data": []
+    },
+    {
+      "type": "challenges",
+      "data": {
+        "title": "The AI Search Problem",
+        "subtitle": "This is happening right now, whether you're optimized for it or not.",
+        "items": [
+          {
+            "title": "ChatGPT Recommends Your Competitors",
+            "text": "Customers ask ChatGPT for recommendations in your industry and your competitors get mentioned. Your brand doesn't exist in the AI's knowledge."
+          },
+          {
+            "title": "Perplexity Cites Others as Experts",
+            "text": "When Perplexity answers questions about your space, it cites your competitors' content as authoritative sources. Your expertise is invisible."
+          },
+          {
+            "title": "AI Overviews Skip You",
+            "text": "Google AI Overviews summarize competitor content at the top of search results. Your page is below the fold, behind the AI answer."
+          },
+          {
+            "title": "AI Doesn't Know Your Products",
+            "text": "AI shopping assistants can't describe, compare, or recommend your products because your product data isn't structured for machine reading."
+          },
+          {
+            "title": "Content Built for 2015 Google",
+            "text": "Your content was optimized for traditional search engines. AI models need different signals: structured data, quotable statements, and machine-readable formats."
+          },
+          {
+            "title": "No AI Visibility Tracking",
+            "text": "You have no idea whether AI mentions your brand, how often, or in what context. You can't optimize what you can't measure."
+          }
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "LLM Discovery Services",
+        "subtitle": "We optimize your online presence so AI assistants accurately describe, recommend, and cite your brand. This isn't future-proofing. This is now-proofing.",
+        "items": [
+          {
+            "icon": "robot",
+            "title": "AEO Optimization",
+            "text": "Answer Engine Optimization structures your content so AI models can extract, quote, and attribute your expertise. Clear definitions, quotable statements, and data points that AI prefers to cite.",
+            "link": "/services/llm-discovery/aeo-optimization/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "cart",
+            "title": "Product Discovery",
+            "text": "Get your products recommended when customers ask AI assistants for suggestions. Structured product data, comparison content, and use-case descriptions that AI shopping tools understand.",
+            "link": "/services/llm-discovery/product-discovery/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "file",
+            "title": "llms.txt & Technical Setup",
+            "text": "Implement the llms.txt standard, configure AI crawler access, add structured schema markup, and set up everything AI needs to understand your brand accurately.",
+            "link": "/services/llm-discovery/technical-setup/",
+            "link_text": "Learn more"
+          },
+          {
+            "icon": "eye",
+            "title": "AI Citation Audit",
+            "text": "We test your brand across ChatGPT, Perplexity, Google AI Overviews, and other AI platforms. See exactly where you show up, where you don't, and what your competitors are doing differently.",
+            "link": "/services/llm-discovery/ai-citation-audit/",
+            "link_text": "Learn more"
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How LLM Discovery Works",
+        "steps": [
+          {
+            "number": "01",
+            "title": "AI Visibility Audit",
+            "text": "We test your brand across every major AI platform. Ask the questions your customers ask and see who AI recommends. You get a report showing exactly where you're visible, where you're invisible, and where competitors appear instead."
+          },
+          {
+            "number": "02",
+            "title": "Content Optimization",
+            "text": "Restructure existing content for AI citability. Add definition patterns, quotable data points, FAQ schema, and self-contained answer blocks that AI prefers to extract and cite."
+          },
+          {
+            "number": "03",
+            "title": "Technical Implementation",
+            "text": "Set up llms.txt, configure AI crawler access in robots.txt, implement JSON-LD schema markup, and add structured data that helps AI understand your business and offerings."
+          },
+          {
+            "number": "04",
+            "title": "Monitor & Optimize",
+            "text": "Track AI citations and brand mentions across platforms over time. See which content gets cited, which doesn't, and continuously optimize. AI models update their knowledge regularly, and so does your optimization."
+          }
+        ]
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why This Matters Now",
+        "title": "AI Search Is Not<br><em>Coming. It's Here.</em>",
+        "paragraphs": [
+          "900 million people use ChatGPT every week. Perplexity handles 500 million queries per month. Google AI Overviews appear on over 50% of all searches. Your customers are already using AI to find products, compare services, and make buying decisions.",
+          "Brand mentions correlate 3x more strongly with AI visibility than backlinks. The brands that AI learns about first have a compounding advantage that gets harder to overcome every month."
+        ],
+        "old_way": {
+          "heading": "Invisible to AI",
+          "items": [
+            "AI assistants don't mention your brand",
+            "Competitors get recommended instead",
+            "No structured data for AI to read",
+            "Content written for Google 2015",
+            "No way to know if AI talks about you"
+          ]
+        },
+        "new_way": {
+          "heading": "LLM Discovery Optimized",
+          "items": [
+            "AI cites your expertise in industry answers",
+            "Products recommended by AI shopping assistants",
+            "Full schema markup and llms.txt implementation",
+            "Content structured for AI extraction and citation",
+            "Monthly monitoring of AI brand mentions"
+          ]
+        }
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Already Ranking on Google?",
+        "title": "LLM Discovery Builds on SEO",
+        "paragraphs": [
+          "LLM Discovery is not a replacement for SEO. It's the next layer. Strong Google rankings give you the authority signals that AI models look for when deciding who to cite.",
+          "If you're already investing in SEO content, adding LLM Discovery multiplies the return. Your content works twice: once for Google, once for AI.",
+          "Need SEO first? Start with our SEO Services and add LLM Discovery when you're ready."
+        ],
+        "stats": [
+          {
+            "number": "900M",
+            "label": "Weekly ChatGPT Users"
+          },
+          {
+            "number": "500M+",
+            "label": "Monthly Perplexity Queries"
+          },
+          {
+            "number": "3x",
+            "label": "Brand Mentions vs Backlinks for AI Visibility"
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What is LLM Discovery?",
+            "answer": "LLM Discovery is the practice of optimizing your brand's online presence so that Large Language Models (ChatGPT, Claude, Perplexity, Google Gemini) can accurately describe, recommend, and cite your business. It's like SEO, but for AI search instead of traditional search."
+          },
+          {
+            "question": "How is this different from SEO?",
+            "answer": "SEO optimizes for Google's search results pages. LLM Discovery optimizes for AI-powered answer engines that generate conversational responses. Different format, different signals, complementary results. The best strategy includes both. See our SEO Services for the traditional search side."
+          },
+          {
+            "question": "How do I know if AI is recommending my competitors?",
+            "answer": "Ask. Open ChatGPT or Perplexity and ask the questions your customers ask. 'What's the best ecommerce content agency?' or 'Who should I hire for product descriptions?' If you don't see your brand, your competitors are getting that visibility instead. Our AI Citation Audit does this systematically across all platforms."
+          },
+          {
+            "question": "What is llms.txt?",
+            "answer": "llms.txt is an emerging standard (like robots.txt for AI) that tells AI crawlers structured information about your business: what you do, what you offer, and how to reference you. We create, implement, and maintain this file as part of our Technical Setup service."
+          },
+          {
+            "question": "How quickly do AI models pick up changes?",
+            "answer": "It varies by platform. Some changes appear in weeks, others take months. AI models update their knowledge at different intervals. The key is building a consistent presence that AI models learn to trust over time. Early movers have a compounding advantage."
+          },
+          {
+            "question": "Do I need SEO before LLM Discovery?",
+            "answer": "Not necessarily, but they work best together. Strong Google rankings signal authority to AI models. If you have no online presence at all, start with SEO to build the foundation. If you're already ranking on Google, LLM Discovery is the next step to maximize your visibility."
+          },
+          {
+            "question": "Can you help ecommerce stores get products recommended by AI?",
+            "answer": "Yes. Our Product Discovery service specifically optimizes product content for AI shopping assistants. We structure your product data, add comparison content, and optimize descriptions so AI can accurately recommend your products when customers ask."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Is AI Recommending You?",
+        "text": "Find out in 5 minutes. Our free AI Visibility Check shows you exactly where you appear in AI search and where your competitors show up instead."
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "SEO Content Writing Services - Content Cucumber",
+    "meta_description": "Data-driven SEO content that ranks and converts. Keyword research, competitor analysis, and human-written articles that build sustainable organic traffic.",
+    "slug": "seo-content"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content Creation",
+        "title": "Strategic SEO Content<br><em>That Ranks and Converts</em>",
+        "paragraphs": [
+          "Data-driven content strategy that improves your search visibility and drives qualified organic traffic. We combine keyword research with compelling storytelling."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "search",
+            "title": "Keyword Research",
+            "text": "Deep analysis of search volume, competition, and intent to identify the keywords worth targeting. We find the gaps your competitors are missing."
+          },
+          {
+            "icon": "chart",
+            "title": "Competitor Analysis",
+            "text": "We study what's ranking for your target keywords, identify content gaps, and build a strategy to outperform the current top results."
+          },
+          {
+            "icon": "link",
+            "title": "Internal Linking",
+            "text": "Strategic internal link architecture that distributes page authority and guides readers through your content. Every article strengthens your entire site."
+          },
+          {
+            "icon": "target",
+            "title": "Search Intent Matching",
+            "text": "Content structured to match what searchers actually want. Informational, commercial, or transactional. The right content type for each keyword."
+          }
+        ],
+        "title": "What is SEO Content?",
+        "subtitle": "SEO content goes beyond keyword stuffing. It's about creating valuable resources that answer search intent while naturally incorporating target keywords. We balance technical optimization with reader engagement to deliver content that ranks and converts."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Keyword Research",
+            "text": "Identify high-value keywords that match your business goals and audience search behavior. Prioritize by volume, difficulty, and commercial intent."
+          },
+          {
+            "number": "02",
+            "title": "Content Brief",
+            "text": "Build detailed briefs with target keywords, heading structure, competitor references, and internal linking targets. Writers get everything they need."
+          },
+          {
+            "number": "03",
+            "title": "Write and Optimize",
+            "text": "Human writers create engaging content that naturally incorporates target keywords. Technical SEO elements (meta tags, schema, headings) are built in from the start."
+          },
+          {
+            "number": "04",
+            "title": "Track and Iterate",
+            "text": "Monitor rankings, traffic, and conversions. Update content based on performance data. SEO is ongoing, not one-and-done."
+          }
+        ],
+        "title": "How Our SEO Content Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Content that never ranks because it ignores search intent",
+            "Keyword-stuffed articles that read like they were written for bots",
+            "No idea which content drives business results"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Every piece targets specific keywords with proven demand",
+            "Natural, engaging writing that happens to rank well",
+            "Revenue attribution through HubSpot shows what converts"
+          ]
+        },
+        "title": "Why Choose Our SEO Content?"
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Case Study",
+        "title": "Real Results",
+        "paragraphs": [
+          "\"Silicone Depot went from 500 to over 10,000 organic monthly visitors with consistent, SEO-optimized blog content from Content Cucumber.\" \u2014 Silicone Depot, Content Cucumber client since 2018"
+        ],
+        "stats": []
+      }
+    },
+    {
+      "type": "reviews",
+      "data": {
+        "eyebrow": "Real ratings from real clients",
+        "title": "What Our Clients Say",
+        "count": 4,
+        "columns": 2,
+        "layout": "grid",
+        "has_text": true,
+        "show_trust_bar": true,
+        "show_rating": true,
+        "show_org": true
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "How long does it take to see SEO results?",
+            "answer": "Most clients see meaningful ranking improvements within 3-6 months of consistent publishing. SEO content compounds over time. The earlier you start, the faster the results build."
+          },
+          {
+            "question": "Do you do the keyword research or do we provide keywords?",
+            "answer": "We handle keyword research as part of the strategy. If you have target keywords already, we incorporate those too. The best results come from combining your business knowledge with our SEO analysis."
+          },
+          {
+            "question": "What makes your SEO content different from AI-generated content?",
+            "answer": "Our writers create original, researched content that brings genuine expertise and readability. AI content often ranks initially but loses position as Google improves detection. Human-written content builds lasting authority."
+          },
+          {
+            "question": "Do you optimize existing content or only write new pieces?",
+            "answer": "Both. We audit your existing content for SEO gaps and update high-potential pieces. We also create new content targeting keywords you're not currently ranking for."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop losing traffic to competitors. Our data-driven SEO content strategy builds sustainable organic growth that compounds over time.",
+        "title": "Ready to Dominate Search Results?"
+      }
+    }
+  ]
+}

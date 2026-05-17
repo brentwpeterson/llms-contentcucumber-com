@@ -1,0 +1,163 @@
+{
+    "seo": {
+        "meta_description": "Two chapters of Content Cucumber. Isaac Morey co-founded the company in 2018 around real human writers. Brent Peterson acquired it in April 2025 after seven years as a client. Both stories.",
+        "og_description": "Content Cucumber's founding chapter (Isaac Morey, 2018) and acquisition chapter (Brent Peterson, April 2025). The writers, the bet, what is next.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Want to talk about your content?",
+        "subtitle": "",
+        "trust_text": "40+ human writers. 500+ podcast episodes. 30+ years in commerce.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Our Story",
+                "title": "Two chapters.<br>One <em>company</em>.",
+                "paragraphs": [
+                    "Content Cucumber has two chapters. Isaac Morey, his brother Sam, and their college friends Chris and Sarah started Content Cucumber in 2018 around a simple bet. Real human writers, working as a curated team, would still be the best content investment a brand could make.",
+                    "Brent Peterson bought the company in April 2025, after seven years of being a Content Cucumber client and watching that bet pay off. Both stories are below."
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Chapter One",
+                "title": "How Content Cucumber started.",
+                "paragraphs": [
+                    "I co-founded Content Cucumber in 2018 with my brother Sam and our college friends Chris and Sarah, who run Silicone Depot.",
+                    "The path to that 2018 launch started years earlier. I was in college taking on freelance writing clients as a side job. One client was a friend I picked up while studying abroad in Argentina, and through her referrals I built a small client base by word of mouth. The work eventually outgrew what I could handle with school, so I started offloading articles to my brother Sam. When I decided to turn the freelance work into a full company, Sam was right there. We were roommates at the time, helping with every part of getting it off the ground.",
+                    "Chris and Sarah were already part of the picture. Chris's family runs Silicone Depot, and they were one of my writing clients. Chris believed in SEO before it was fashionable. After months of conversations about how the writing operation worked, Chris and Sarah came on as co-founders in addition to being investors. Silicone Depot also became one of our first success stories. We grew their organic traffic a whole lot in the first year.",
+                    "People ask where the name comes from. We were inspired by Design Pickle, a graphic design company with a SaaS platform called Jar. You signed up, dropped requests in the Pickle Jar, and a designer turned it around. Chris was a Design Pickle customer through Silicone Depot, and we liked the model so much that Jar became the foundational software for Content Cucumber's first version. We named the company as an homage to Design Pickle. The alliteration was a bonus. We have since done partnership work with them too.",
+                    "The first year of Content Cucumber, clients could request a new article every day, no questions asked. The ones who took us up on it built compounding SEO advantages that still carry forward."
+                ],
+                "stats": [
+                    { "number": "2018", "label": "Launched in college" },
+                    { "number": "4", "label": "Co-founders" },
+                    { "number": "Daily", "label": "Article requests, year one" },
+                    { "number": "60+", "label": "Writers at peak" }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Why human writers still matter",
+                "title": "The tire shop <em>thought experiment</em>.",
+                "paragraphs": [
+                    "Take a thought experiment about a tire company. One we worked with. If a thousand tire shops ask an LLM to write an article on why a customer needs to rotate their tires for maintenance, they all get a nearly identical article back. The model does not know which shop is yours.",
+                    "A skilled writer can prompt the LLM with the things that make your shop different. Your service standards, your local market, your founder's philosophy on customer education. The prompting itself is writing. And the writer still needs to edit the output. That is where they catch the telltale AI signs and the things that conflict with what you believe about your own business.",
+                    "The other side of the bet is sensitivity. Some content cannot be left to a model that hallucinates. We have clients in the firearms space. Doctors. Lawyers. Every business has material that needs a human reviewing it so the work is compliant, accurate, and safe. You cannot delegate that to an AI and look away."
+                ],
+                "old_way": {
+                    "heading": "AI alone",
+                    "items": [
+                        "Generic article, same as 1,000 competitors",
+                        "No brand voice, no differentiation",
+                        "Compliance and accuracy risks unchecked",
+                        "Telltale AI patterns reach the reader",
+                        "Authority does not compound"
+                    ]
+                },
+                "new_way": {
+                    "heading": "A skilled writer",
+                    "items": [
+                        "Prompts with brand-specific elements",
+                        "Edits to match your voice and beliefs",
+                        "Catches compliance and accuracy issues",
+                        "Removes the AI tells before publish",
+                        "Builds authority over months and years"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Chapter Two",
+                "title": "Why I bought Content Cucumber.",
+                "paragraphs": [
+                    "I met Isaac and the rest of the Content Cucumber team in 2018 at IRCE Chicago. They were a few months in, a young group of entrepreneurs who had just bet a company on real human writers. I was running Wagento at the time and signed up as a client out of curiosity. Within six months Wagento was showing up across our SEO categories. Within a year we owned the rankings on every service we offered. That experience taught me content is the best investment a brand can make in being found.",
+                    "In April 2025 I bought Content Cucumber through Content Basis. The reason is twofold. First, a seven-year track record as a client made the math obvious. What Isaac and the team had built was unusually good and unusually durable, and I had personal proof of it.",
+                    "Second, the timing was right. At every e-commerce event I attend, I hear vendors saying the same thing. AI-written content is being detected by humans and getting flagged for it. Human writing is becoming the harder thing to do, and the more important thing. Content Cucumber was sitting on the right asset at the right moment.",
+                    "Isaac and I are partners now, building this company on what humans give that AI does not. Isaac runs the writing operation and the editorial culture. I run the strategic direction, the partner ecosystem, and the technology layer."
+                ],
+                "stats": [
+                    { "number": "2018", "label": "Met Isaac at IRCE Chicago" },
+                    { "number": "7", "label": "Years a client first" },
+                    { "number": "Apr 2025", "label": "Acquired via Content Basis" },
+                    { "number": "Partners", "label": "Isaac + Brent today" }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What we have added since April 2025",
+                "subtitle": "Content Cucumber is not the same company it was in 2024. Here is what is new.",
+                "items": [
+                    {
+                        "icon": "growth",
+                        "title": "Content Flywheel program",
+                        "text": "A single monthly client interview gets compounded into weekly content, daily social posts, video, and audio. Isaac heads the program."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Pre and post analytics",
+                        "text": "We predict what content will land with a client's specific audience, then measure how it performed and feed that back into the next cycle."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Shopify content app",
+                        "text": "Surfaces content opportunities from a store's product catalog and Google Search Console signals. Helps clients find the writing that matters most."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Predictive analytics, expanded",
+                        "text": "We are bringing the predictive analytics work from Content Basis into Content Cucumber. Telling clients what to write before they ask is the five-year bet."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently asked questions",
+                "items": [
+                    {
+                        "question": "Are these emails and articles written by AI?",
+                        "answer": "No. Every piece is written by a human writer. AI shows up in research support, fact-checking, and SEO scoring, but never in the draft itself."
+                    },
+                    {
+                        "question": "Who runs Content Cucumber today?",
+                        "answer": "Isaac Morey runs the writing operation and editorial culture as co-founder. Brent Peterson runs strategic direction, the partner ecosystem, and the technology layer as the owner since April 2025. They are partners."
+                    },
+                    {
+                        "question": "What is Brent's background before Content Cucumber?",
+                        "answer": "Brent founded Wagento, an ecommerce development agency, in 2010 and sold it in 2021. He founded Content Basis in 2021 and acquired Content Cucumber through Content Basis in April 2025."
+                    },
+                    {
+                        "question": "Did the acquisition change the writing service?",
+                        "answer": "No. Real human writers, curated and edited, doing the work every week. That part is the foundation. What changed is the surface area around it. We added analytics, partner integrations, and full-service marketing."
+                    },
+                    {
+                        "question": "How big is the writing team?",
+                        "answer": "40+ active writers today. 60+ at peak. Hiring continuously, see the writer recruiting page if you want to apply."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Want to talk about your content?",
+                "text": "Tell us about your brand and your goals. We will put together a content plan that builds authority, drives organic traffic, and makes your brand visible everywhere your buyers look."
+            }
+        }
+    ]
+}

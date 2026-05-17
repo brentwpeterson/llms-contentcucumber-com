@@ -1,0 +1,156 @@
+{
+  "seo": {
+    "title": "Brand Guide - Content Cucumber",
+    "meta_description": "Content Cucumber brand guide. Logo usage, color palette, typography, voice and tone guidelines, Loop Marketing framework, and brand ecosystem."
+  },
+  "hero": {
+    "eyebrow": "Brand Guide",
+    "title": "Content Cucumber<br><em>Brand Identity</em>",
+    "subtitle": "Everything you need to represent Content Cucumber consistently. Logo, colors, typography, voice, and brand ecosystem."
+  },
+  "sections": [
+    {
+      "id": "brand-identity",
+      "title": "Brand Identity",
+      "content": [
+        "<strong>Name:</strong> Content Cucumber",
+        "<strong>Domain:</strong> contentcucumber.com",
+        "<strong>Tagline:</strong> Create your marketing.",
+        "<strong>Type:</strong> Human-powered marketing company",
+        "<strong>Founded:</strong> 2018, Minneapolis, MN",
+        "<strong>Contact:</strong> hello@contentcucumber.com | +1-808-210-3611",
+        "Content Cucumber is a full-service marketing company powered by human creativity. We build marketing strategies, create content, and produce the assets that drive businesses forward. Our team of 40+ writers handles blogs, articles, web copy, newsletters, product pages, audio, and video content. We are not a writing service. We are a marketing company that puts real humans behind your brand."
+      ]
+    },
+    {
+      "id": "color-palette",
+      "title": "Color Palette",
+      "content": [
+        "<strong>Cucumber Green (Primary):</strong> #58c558 / rgb(88, 197, 88). The signature Content Cucumber color. Used for CTAs, accents, highlights, and brand elements. WCAG contrast on white: 2.5:1 (decorative use only, not for text on white).",
+        "<strong>Action Green:</strong> #16a34a / rgb(22, 163, 74). Used for buttons, active states, hover effects, and links. WCAG contrast on white: 4.5:1 (AA compliant for text). Use this for any green text on white backgrounds.",
+        "<strong>Dark Navy (Background):</strong> #1a1a2e / rgb(26, 26, 46). Primary dark background for hero sections, headers, footers. WCAG contrast with white text: 16.3:1 (AAA).",
+        "<strong>Deep Navy:</strong> #16213e / rgb(22, 33, 62). Secondary dark used in gradients with Dark Navy.",
+        "<strong>White:</strong> #ffffff. Primary text on dark backgrounds. Page backgrounds.",
+        "<strong>Gray 700:</strong> #374151. Primary body text on white. WCAG contrast: 10.1:1 (AAA).",
+        "<strong>Gray 500:</strong> #6b7280. Secondary text, descriptions, meta. WCAG contrast on white: 5.0:1 (AA).",
+        "<strong>Gray 200:</strong> #e5e7eb. Borders, dividers, card outlines. Not for text.",
+        "<strong>Approved Combinations:</strong> White text on Dark Navy. White text on Action Green. Action Green text on white. Gray 700 text on white. Cucumber Green on Dark Navy. Never use Cucumber Green for text on white (fails contrast).",
+        "<strong>Hero Gradients:</strong> Default: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460). Green variant: linear-gradient(135deg, #0d6b2e, #1a8a3e, #16a34a)."
+      ]
+    },
+    {
+      "id": "typography",
+      "title": "Typography",
+      "content": [
+        "<strong>Primary Typeface:</strong> System font stack. -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif.",
+        "<strong>Type Scale:</strong>",
+        "H1: 42px / 800 weight / line-height 1.2 (pillar pages). 36px on landing pages.",
+        "H2: 28-32px / 700 weight / line-height 1.3. Section headings.",
+        "H3: 20px / 700 weight / line-height 1.4. Card titles, subsection headings.",
+        "H4: 18px / 600 weight / line-height 1.4. Minor headings.",
+        "Body: 16px / 400 weight / line-height 1.8 / color #374151.",
+        "Small: 14px / 400 weight / line-height 1.6 / color #6b7280. Descriptions, meta text.",
+        "Eyebrow: 13px / 600 weight / uppercase / letter-spacing 0.1em. #58c558 on dark, #16a34a on light.",
+        "CTA Button: 16px / 600 weight / border-radius 8px. Green background with white text.",
+        "<strong>Rules:</strong> Never use more than 3 heading levels on a single page. Body text should never be smaller than 14px. Line height for body text is always 1.6 or higher."
+      ]
+    },
+    {
+      "id": "logo",
+      "title": "Logo",
+      "content": [
+        "The Content Cucumber logo features a stylized cucumber 'C' icon in green, orange, and yellow, paired with the 'CONTENT CUCUMBER' wordmark in dark navy.",
+        "<strong>Three Versions:</strong>",
+        "1. Full Color: Use on white or light backgrounds. Icon colors (green, orange, yellow) must remain intact. Wordmark in dark navy.",
+        "2. White/Reverse: Use on dark navy or green backgrounds. Entire logo in white.",
+        "3. Black/Mono: Use for single-color applications (fax, embossing, engraving). Entire logo in black.",
+        "<strong>Minimum Size:</strong> Icon alone: 32px wide. Full logo (icon + wordmark): 150px wide. Below these sizes the logo becomes illegible.",
+        "<strong>Clear Space:</strong> Maintain clear space equal to the height of the 'C' icon on all sides. No other elements should intrude into this space.",
+        "<strong>Do Not:</strong> Stretch or distort the proportions. Rotate the logo. Change the logo colors. Add drop shadows, outlines, or effects. Place on busy or low-contrast backgrounds. Separate the icon from the wordmark. Recreate the logo in a different typeface.",
+        "<strong>Logo Files:</strong> Available in PNG, SVG, and favicon formats. Contact hello@contentcucumber.com for high-resolution files."
+      ]
+    },
+    {
+      "id": "voice-tone",
+      "title": "Voice and Tone",
+      "content": [
+        "Content Cucumber writes like a helpful expert friend who has been in ecommerce for 30 years. Not a salesperson. Not a corporate marketing department. A real person who knows the industry and speaks directly.",
+        "<strong>Principle 1: Write for the problem, not the award.</strong>",
+        "Wrong: 'Content Cucumber wins Best Content Agency 2026.' Right: 'Your blog gets 200 visitors a month. Here is how to get to 10,000.'",
+        "<strong>Principle 2: Sell outcomes, not tools.</strong>",
+        "Wrong: 'We use HubSpot Marketing Hub Pro with 40+ writers.' Right: 'See which blog posts actually drive revenue, not just traffic.'",
+        "<strong>Principle 3: The client is the hero.</strong>",
+        "Wrong: 'We are the leading content agency for ecommerce.' Right: 'Your brand deserves content that converts. We write it.'",
+        "<strong>Principle 4: Active voice, always.</strong>",
+        "Wrong: 'Your content is created by our team of experienced writers.' Right: 'Our writers create your content.'",
+        "<strong>Principle 5: Specific beats generic.</strong>",
+        "Wrong: 'We deliver amazing results for our clients.' Right: 'Silicone Depot went from 500 to 10,000+ organic visitors with weekly blog content.'",
+        "<strong>Principle 6: Open with the fact.</strong>",
+        "Wrong: 'Something incredible is happening in ecommerce right now.' Right: '68% of B2B buyers research on YouTube before contacting a vendor.'"
+      ]
+    },
+    {
+      "id": "never-use",
+      "title": "Words and Phrases to Avoid",
+      "content": [
+        "These are banned from all Content Cucumber content. They signal AI-generated copy, corporate filler, or empty marketing.",
+        "<strong>Corporate Filler:</strong> 'Unlock your potential', 'Take it to the next level', 'Game-changer', 'Synergy', 'Revolutionary', 'Cutting-edge', 'Best-in-class', 'Leverage' (as a verb), 'Disruptive', 'Innovative solutions', 'Seamless integration', 'Thought leadership' (as a noun), 'World-class'.",
+        "<strong>AI Filler:</strong> 'In today's digital landscape', 'In an ever-changing world', 'It's important to note that', 'Let's dive in', 'Without further ado', 'At the end of the day'.",
+        "<strong>Vague Hooks:</strong> 'Something incredible happened', 'What nobody tells you about...', 'You won't believe...', 'The secret that...', 'X just did something big'. Open with the fact instead.",
+        "<strong>Sycophantic Agreement:</strong> Never lead with 'You're right', 'Good call', 'Great point', 'Absolutely'. These are filler. Just do the work.",
+        "<strong>Formatting:</strong> No em dashes (use periods, commas, or parentheses). No emojis unless explicitly requested. No excessive exclamation points. No empty superlatives."
+      ]
+    },
+    {
+      "id": "loop-marketing",
+      "title": "Loop Marketing",
+      "content": [
+        "Loop Marketing is Content Cucumber's delivery framework, powered by HubSpot. It is the methodology behind how we build and execute marketing strategies for clients.",
+        "<strong>The Four Phases:</strong>",
+        "<strong>1. Express:</strong> Get your foundation in place. Website audit, content strategy, HubSpot setup. Define your brand voice, target audience, and content calendar. This phase answers: what are we building and why?",
+        "<strong>2. Tailor:</strong> Customize the strategy to your specific market. Keyword research, competitor analysis, audience segmentation. Build the content plan that targets your highest-value opportunities.",
+        "<strong>3. Amplify:</strong> Scale what works. Increase publishing frequency, expand to new channels, launch email sequences, add social media. Turn a content plan into a content engine.",
+        "<strong>4. Evolve:</strong> Optimize based on data. Track revenue attribution through HubSpot. Double down on what converts. Drop what doesn't. Refine the strategy as the market changes.",
+        "Loop Marketing is not a product. It is how we work. Every Content Cucumber engagement follows this framework, whether the client is starting from scratch or scaling an existing program.",
+        "<strong>Learn more:</strong> <a href=\"/hubspot-loop-marketing/\">HubSpot Loop Marketing</a>"
+      ]
+    },
+    {
+      "id": "brand-ecosystem",
+      "title": "Brand Ecosystem",
+      "content": [
+        "Content Cucumber is part of the Content Basis LLC family of brands. Each brand serves a distinct audience and purpose.",
+        "<strong><a href=\"https://contentcucumber.com\">Content Cucumber</a></strong> - Human-powered marketing company. Content creation, SEO, LLM Discovery, strategy, conference video. The client-facing content brand.",
+        "<strong><a href=\"https://talk-commerce.com\">Talk Commerce</a></strong> - Ecommerce podcast and media platform. 500+ episodes covering trends and strategies in digital commerce. Hosted by Brent Peterson.",
+        "<strong><a href=\"https://requestdesk.ai\">RequestDesk</a></strong> - Content operations platform. Streamlines content workflows from request to publication. The technology behind Content Cucumber's delivery.",
+        "<strong><a href=\"https://commerceking.ai\">Commerce King</a></strong> - Competitive intelligence for ecommerce. Platform comparison, migration analysis, and technical assessment. Includes LoopStack development framework.",
+        "<strong>Content Basis LLC</strong> - Legal entity only. Not client-facing. Holds all brands."
+      ]
+    }
+  ],
+  "faq": {
+    "title": "Brand Questions?",
+    "items": [
+      {
+        "question": "Can I use the Content Cucumber logo for a co-marketing piece?",
+        "answer": "Yes. Contact hello@contentcucumber.com for logo files. Please maintain the clear space and minimum size requirements outlined in the Logo section."
+      },
+      {
+        "question": "Which green do I use?",
+        "answer": "Cucumber Green (#58c558) for decorative brand elements and accents on dark backgrounds. Action Green (#16a34a) for buttons, links, and any green text on white backgrounds. Action Green passes WCAG AA contrast requirements. Cucumber Green does not."
+      },
+      {
+        "question": "Can I write Content Cucumber content using AI?",
+        "answer": "All published Content Cucumber content must be written by humans. AI tools can be used for research, outlines, and drafts, but the final published content must be human-written and human-edited. This is a core brand differentiator."
+      },
+      {
+        "question": "How do I reference the brand family?",
+        "answer": "Content Cucumber is the brand name. Content Basis LLC is the legal entity (used only in legal contexts like contracts and invoices). Never use 'Content Basis' in marketing or client-facing content."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Need Brand Assets?",
+    "text": "Contact hello@contentcucumber.com for logo files, brand templates, or questions about using the Content Cucumber brand."
+  }
+}

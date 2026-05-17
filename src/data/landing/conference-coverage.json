@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Live Event Content Services - Content Cucumber",
+    "meta_description": "Live event content production for ecommerce brands. Video, guided interviews, podcasts, and PR captured on-site. Turn 3 days into 3 months of marketing content."
+  },
+  "form": {
+    "header": "Book Your Live Event Content",
+    "subtitle": "Limited availability per event. Book early.",
+    "trust_text": "500+ interviews filmed. 30+ events covered. Zero missed deadlines.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "hero": {
+    "eyebrow": "Live Event Content",
+    "title": "Turn Your 3-Day Event Into<br><em>3 Months of Marketing</em>",
+    "subtitle": "You're already spending serious money to exhibit. We help you leave with more than badge scans. Professional video, guided interviews, event podcasts, and PR outreach captured on-site and delivered polished."
+  },
+  "sections": [
+    {
+      "id": "video-production",
+      "title": "Video Production",
+      "content": [
+        "We come to your booth, film sharp guided interviews with your team and customers, and deliver polished video clips. Professional audio, lighting, and editing included.",
+        "Every interview is guided by our team. We know what questions to ask, how to keep it natural, and how to get soundbites your marketing team can actually use. No scripts. No awkward teleprompter reads. Just real people talking about what they know.",
+        "You get polished clips formatted for LinkedIn, Instagram, YouTube, and your website. Plus raw footage for your team to repurpose however you want."
+      ],
+      "link_url": "/conference-coverage/video/",
+      "link_text": "See video production packages"
+    },
+    {
+      "id": "interviews",
+      "title": "Interview Packages",
+      "content": [
+        "Structured interview sessions with your team, partners, or customers. Three packages available, limited to 8 interviews per event.",
+        "We handle the questions, the filming, and the editing. You tell us who to interview and what topics matter. We show up, get the content, and deliver publish-ready clips.",
+        "Interview packages work great for case study content, customer testimonials, partner spotlights, and thought leadership pieces. One 10-minute interview becomes weeks of social content."
+      ],
+      "link_url": "/conference-coverage/interviews/",
+      "link_text": "See interview packages"
+    },
+    {
+      "id": "media-outreach",
+      "title": "PR & Media Outreach",
+      "content": [
+        "Pre-event press outreach, on-site media coordination, and post-event coverage distribution. Get your conference presence in front of industry publications.",
+        "We pitch your story to relevant media before the event, coordinate interviews with press on-site, and distribute coverage after. Your conference investment gets amplified through earned media.",
+        "This works especially well combined with video production. We create the content AND get it placed."
+      ],
+      "link_url": "/conference-coverage/media-outreach/",
+      "link_text": "See media outreach packages"
+    },
+    {
+      "id": "how-it-works",
+      "title": "How Live Event Content Works",
+      "content": [
+        "<strong>1. Pre-Event Planning (2-4 weeks before):</strong> We coordinate logistics. Shot list, interview schedule, booth layout, key messages. You know exactly what's happening before you arrive.",
+        "<strong>2. On-Site Coverage:</strong> Our crew arrives at your booth and handles everything. Interviews, B-roll, candid moments, product demos. You focus on the event. We focus on the content.",
+        "<strong>3. Post-Event Delivery (48 hours):</strong> First polished clips delivered within days, not weeks. Formatted for every platform. Plus raw footage for your team.",
+        "<strong>4. Distribution Strategy:</strong> We build a content calendar from your conference footage. Drip the content over weeks and months to maximize the investment."
+      ]
+    },
+    {
+      "id": "why-it-works",
+      "title": "Why Live Event Content Works",
+      "content": [
+        "Conferences are compressed attention. Your customers are there. Your team is energized. Your messaging is sharp. It's one of the few times your company is fully on.",
+        "Most companies walk away with badge scans and a vague plan to follow up next week. By the time the team is home, the energy is gone. The talking points blur together. The conversations that felt so promising at the booth become cold outreach.",
+        "We capture that energy while it's live. The result: 3 months of marketing content from 3 days at a booth."
+      ]
+    },
+    {
+      "id": "events",
+      "title": "Events We've Covered",
+      "content": [
+        "We specialize in ecommerce and B2B technology conferences. Our team has covered Shoptalk, eTail West, eTail Boston, Meet Magento, TRE, and dozens of smaller industry events.",
+        "We've created content for hundreds of businesses and recorded hundreds of interviews across ecommerce and B2B. We understand what makes a good story, what your buyers need to hear, and how to get it out of a 5-minute conversation."
+      ]
+    }
+  ],
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How far in advance do I need to book?",
+        "answer": "At least 2-4 weeks before the event. We limit the number of clients per event to ensure quality. Popular events like Shoptalk and eTail book up fast."
+      },
+      {
+        "question": "Do you travel to the event?",
+        "answer": "Yes. Our crew travels to your event location. Travel costs are included in the package pricing for US events. International events may have additional travel costs."
+      },
+      {
+        "question": "How quickly do I get the final content?",
+        "answer": "First clips are typically delivered within 48 hours of the event. Full edited package within 1-2 weeks depending on the scope."
+      },
+      {
+        "question": "Can I combine video, interviews, and PR?",
+        "answer": "Yes. Most clients combine packages. The video crew handles the filming, and our content team handles PR and distribution. One team, full coverage."
+      },
+      {
+        "question": "What events have you covered?",
+        "answer": "Shoptalk, eTail West, eTail Boston, Meet Magento, TRE, and many smaller industry events. We specialize in ecommerce and B2B technology conferences."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Next Event Coming Up?",
+    "text": "Don't leave another conference with nothing but badge scans. Book your coverage now and leave with a content library."
+  }
+}

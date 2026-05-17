@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "meta_description": "Live workshop on June 17 with Content Cucumber and a Mailchimp partner expert. Bring your last 3 email campaigns. Walk through 5 audit gaps live. Free audit delivered within 7 days.",
+        "og_description": "Co-hosted live workshop on June 17. Brent Peterson (Content Cucumber) and a Mailchimp partner expert audit your email program in 45 minutes. Free audit for every registrant.",
+        "og_image": "/wp-content/themes/cucumber-gp-child/landing-data/mailchimp-webinar-header.png"
+    },
+    "form": {
+        "header": "Save Your Spot",
+        "subtitle": "June 17 at 11:00 AM Eastern. 45 minutes of working time.",
+        "trust_text": "Free to attend. Audit delivered to every registrant within 7 days.",
+        "portal_id": "39487190",
+        "form_id": "REPLACE_WITH_HUBSPOT_FORM_ID",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "You're In.",
+        "text": "Check your inbox. Your Riverside join link arrives within minutes. We will send a reminder before the live session on June 17 at 11:00 AM Eastern."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Live Workshop | June 17 at 11:00 AM ET",
+                "title": "AI-Written, Human-Reviewed. <em>The Email Audit Workshop.</em>",
+                "paragraphs": [
+                    "Email programs leave revenue on the table. Subject lines stall. Automations never get finished. Lifecycle stops at welcome.",
+                    "Bring your last 3 campaigns. Brent Peterson and a Mailchimp partner expert walk through 5 audit gaps live. Forty-five minutes of working time. Every registrant leaves with a free audit delivered within 7 days."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "45", "label": "Minute Workshop" },
+                { "number": "5", "label": "Audit Gaps Covered" },
+                { "number": "7", "label": "Day Audit Delivery" },
+                { "number": "Free", "label": "Workshop and Audit" }
+            ]
+        },
+        {
+            "type": "banner-image",
+            "data": {
+                "src": "/wp-content/themes/cucumber-gp-child/landing-data/mailchimp-webinar-header.png",
+                "alt": "The Email Audit Workshop with Content Cucumber and Mailchimp on June 17"
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "The Email Gaps Hiding in Plain Sight",
+                "subtitle": "Three out of five commerce SMBs have at least four of these gaps. The data already lives in your dashboard.",
+                "items": [
+                    {
+                        "number": "01",
+                        "title": "Subject Lines That Get Ignored",
+                        "text": "Average open rates sit around 21%. Subject lines are the first leak. AI rewrites them quickly. Humans reviewing the AI catch the brand voice issues AI misses."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Segments You Built and Forgot",
+                        "text": "Your list grew. Your segments did not. New buyers, return buyers, lapsed buyers, browsers, all receiving the same email. Same offer. Same result."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Automations Half-Built or Never Built",
+                        "text": "Welcome series ends after email 2. No abandoned cart. No post-purchase. No win-back. The infrastructure is in Mailchimp. The work is finishing it."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Lifecycle That Stops at Onboarding",
+                        "text": "First week is dialed. Day 30, 60, 90 is silence. Customer lifetime value drops because the journey ends after the first purchase."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Email That AI Agents Cannot Read",
+                        "text": "Plain-text and structured content rules reach beyond inboxes. AI agents and email clients render structure, not images. Image-heavy and structure-poor email disappears in both."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "The Audit Workshop",
+                "title": "Stop Reacting. <em>Start Auditing.</em>",
+                "paragraphs": [
+                    "Email programs grow in fragments. A new automation here, a campaign there, a subject line tweak when open rates drop. That is reacting, not auditing.",
+                    "The audit workshop walks you through 5 gaps live, on a real anonymized account. You bring your campaigns. We bring the framework. Mailchimp brings the tooling fit."
+                ],
+                "old_way": {
+                    "heading": "Reacting (What Happens Now)",
+                    "items": [
+                        "Tweak subject lines when open rates drop",
+                        "Build segments once and let them age",
+                        "Set up a welcome series and call it a journey",
+                        "Send the same monthly newsletter to every list",
+                        "Hope for revenue at month end"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Auditing (What You'll Build)",
+                    "items": [
+                        "Subject lines reviewed by both AI and humans",
+                        "Segments rebuilt from current behavior data",
+                        "Lifecycle automations that go beyond the first week",
+                        "Content AI agents and email clients both render",
+                        "A 5-gap audit framework you can rerun every quarter"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "What You'll Walk Away With",
+                "subtitle": "This is a working session, not a pitch. Here is what you get.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Live Audit on a Real Account",
+                        "text": "Brent walks through 5 audit gaps on an anonymized commerce site. You see exactly what we look for, where it lives in Mailchimp, and how to fix it."
+                    },
+                    {
+                        "number": "2",
+                        "title": "The Mailchimp Tool Map",
+                        "text": "A Mailchimp partner expert shows which features close each gap. Segmentation, automation, lifecycle. What your tier already includes and what unlocks the rest."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Your Free Email Audit",
+                        "text": "Every registrant gets a free audit on their own program. Submit your last 3 campaigns, copy doc, and historical stats. We deliver a one-pager within 7 days."
+                    },
+                    {
+                        "number": "4",
+                        "title": "The Audit Framework PDF",
+                        "text": "A printable 5-gap audit checklist you can rerun every quarter. Free to every registrant, whether you attend live or watch the recording."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Your Presenters",
+                "title": "Content Cucumber + Mailchimp. One Workshop.",
+                "paragraphs": [
+                    "Brent Peterson is the owner of Content Cucumber, a human-powered marketing company specializing in commerce content and email programs. Brent hosts the Talk Commerce podcast and writes The Agentic Commerce Guy newsletter on AI in commerce.",
+                    "A Mailchimp partner expert co-hosts the workshop. Segmentation, automation, lifecycle. Every audit gap mapped to the platform features that close it."
+                ],
+                "stats": [
+                    { "number": "45", "label": "Minute Workshop" },
+                    { "number": "5", "label": "Audit Gaps Covered" },
+                    { "number": "7", "label": "Day Audit Delivery" },
+                    { "number": "Mailchimp", "label": "Co-Hosted" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "When is the workshop?",
+                        "answer": "June 17, 2026 at 11:00 AM Eastern. The session runs 45 minutes. 5 minutes hook, 25 minutes live audit walkthrough across 5 gaps, 5 minutes social proof, 10 minutes Q&A."
+                    },
+                    {
+                        "question": "Is this free?",
+                        "answer": "Yes. Register and attend live, or watch the recording afterward. Every registrant receives a free email audit delivered within 7 days, whether or not you attend."
+                    },
+                    {
+                        "question": "Who is this for?",
+                        "answer": "Commerce companies doing $1M to $25M per year using email as a customer channel. Mailchimp Standard, Essentials, and Premium customers benefit most. The audit framework applies regardless of your platform."
+                    },
+                    {
+                        "question": "Will there be a recording?",
+                        "answer": "Yes. Every registrant receives the recording. We recommend attending live for the Q&A and to submit your audit early."
+                    },
+                    {
+                        "question": "How does the free audit work?",
+                        "answer": "After registering, you get an audit intake form. Submit your last 3 campaigns, copy doc, and historical stats. We deliver a one-pager within 7 days. No obligation."
+                    },
+                    {
+                        "question": "I'm not on Mailchimp. Is this still relevant?",
+                        "answer": "The audit framework works regardless of your email platform. The Mailchimp-specific portion shows what good tooling looks like if you are evaluating options."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Audit Your Email Program. Live.",
+                "text": "Register for the free workshop on June 17. Bring your last 3 campaigns. Walk away with a 5-gap audit framework, the Mailchimp tool map, and a personalized audit delivered within 7 days."
+            }
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "seo": {
+        "meta_description": "Acompaña a Brent Peterson y Chris Sánchez el 31 de marzo en una clase magistral en vivo sobre cómo construir un Motor de Ingresos en 90 Días. Aprende a corregir tu proceso de ventas, optimizar tu stack de HubSpot y destrabar ingresos ocultos.",
+        "og_description": "Webinar en vivo el 31 de marzo: Detén las fugas de ingresos. Brent Peterson (Content Cucumber) y Chris Sánchez (Influential Passion) te muestran cómo construir un Motor de Ingresos en 90 Días para empresas que facturan de $10M a $150M al año.",
+        "og_image": "/wp-content/themes/cucumber-gp-child/landing-data/revenue-engine-webinar-header.png"
+    },
+    "form": {
+        "header": "Regístrate al webinar en vivo",
+        "subtitle": "31 de marzo a las 2:00 PM hora del Este. 60 minutos de estrategia que puedes aplicar de inmediato.",
+        "trust_text": "Entrada gratuita. La grabación se envía a todos los registrados.",
+        "portal_id": "39487190",
+        "form_id": "a8fc93c2-55a5-4282-886f-adf6b221dff9",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "¡Ya estás registrado!",
+        "text": "Revisa tu bandeja de entrada para los detalles de confirmación. Te enviaremos un recordatorio antes de la sesión en vivo el 31 de marzo a las 2:00 PM hora del Este. Nos vemos ahí."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Webinar en Vivo | 31 de Marzo a las 2:00 PM ET",
+                "title": "El Motor de Ingresos en 90 Días: Cómo construir una <em>máquina de ventas predecible</em> para marcas de alto valor",
+                "paragraphs": [
+                    "Tu CRM está medio configurado. Tus vendedores improvisan las llamadas de descubrimiento. Tu equipo de contenido y el de ventas operan en universos paralelos. ¿El resultado? Los ingresos se te escapan de las manos todos los días.",
+                    "Acompaña a Brent Peterson (Content Cucumber) y Chris Sánchez (Influential Passion) en una clase magistral de 60 minutos sobre cómo construir un motor de ingresos predecible en 90 días. Sin teoría. Solo la mecánica."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "60", "label": "Minutos de clase magistral" },
+                { "number": "2", "label": "Expertos de la industria" },
+                { "number": "30+", "label": "Años de experiencia combinada" },
+                { "number": "Gratis", "label": "En vivo + grabación" }
+            ]
+        },
+        {
+            "type": "banner-image",
+            "data": {
+                "src": "/wp-content/themes/cucumber-gp-child/landing-data/revenue-engine-webinar-header.png",
+                "alt": "Webinar El Motor de Ingresos en 90 Días con Brent Peterson y Chris Sánchez"
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Las fugas de ingresos que no puedes ver",
+                "subtitle": "La mayoría de las empresas que facturan de $10M a $150M al año tienen al menos tres de estos problemas. Simplemente no saben dónde buscar.",
+                "items": [
+                    {
+                        "number": "01",
+                        "title": "El problema del Frankenstack",
+                        "text": "CRM, facturación, ecommerce, herramientas de contenido. Si no se hablan entre sí, estás perdiendo dinero en cada negociación. Sistemas desconectados significan leads perdidos y parches manuales."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Vendedores sin un manual de juego",
+                        "text": "Tu equipo tiene talento, pero talento sin proceso es inconsistencia pura. Sin guiones de conversación estructurados, sin un marco para manejar objeciones, sin ritmo diario. Los resultados varían enormemente de un vendedor a otro."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Leads muertos juntando polvo",
+                        "text": "Miles de clientes anteriores y prospectos están sentados en tu base de datos sin hacer nada. Sin secuencias de reactivación. Sin campañas de recuperación. Es una mina de oro que estás ignorando."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Contenido que nunca llega a ventas",
+                        "text": "Marketing crea casos de estudio, documentos técnicos y artículos de blog. Ventas nunca los usa. La brecha entre la creación de contenido y la habilitación de ventas te está costando cierres."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Sin visibilidad del estado del pipeline",
+                        "text": "Revisas los ingresos a fin de mes y cruzas los dedos. Sin dashboards en tiempo real, sin seguimiento por etapas, sin indicadores adelantados. Estás volando a ciegas."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "El Motor de Ingresos en 90 Días",
+                "title": "Deja de parchar. <em>Empieza a construir.</em>",
+                "paragraphs": [
+                    "La mayoría de las empresas intentan resolver problemas de ingresos una herramienta a la vez. Una nueva función del CRM por aquí, una capacitación de ventas por allá. Eso es parchar, no construir.",
+                    "El Motor de Ingresos en 90 Días es un enfoque sistemático que integra tu stack tecnológico, tu proceso de ventas y tu estrategia de contenido en una sola máquina que produce ingresos predecibles."
+                ],
+                "old_way": {
+                    "heading": "Parchar (lo que hace la mayoría)",
+                    "items": [
+                        "Comprar herramientas y cruzar los dedos para que funcionen juntas",
+                        "Capacitar a los vendedores una vez y esperar resultados permanentes",
+                        "Crear contenido de marketing del que ventas nunca se entera",
+                        "Revisar el pipeline cada mes (demasiado tarde para arreglar algo)",
+                        "Hojas de cálculo e intuición para hacer pronósticos"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Construir (lo que vamos a enseñar)",
+                    "items": [
+                        "Stack unificado de HubSpot configurado para tu proceso de ventas",
+                        "Ritmo de liderazgo diario: juntas, dashboards, seguimientos",
+                        "Pipeline de contenido a ventas que arma a tus vendedores con el material correcto",
+                        "Visibilidad del pipeline en tiempo real con indicadores adelantados",
+                        "Coaching con IA y gestión basada en datos"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Qué te vas a llevar",
+                "subtitle": "Esto no es una sesión de ventas. Es una sesión de trabajo. Esto es lo que obtienes.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "El blueprint del stack de HubSpot",
+                        "text": "Brent explica cómo configurar correctamente HubSpot Sales Pro para que tu CRM realmente impulse ingresos en lugar de juntar polvo. Incluye oportunidades de automatización con IA que la mayoría de las empresas desaprovechan."
+                    },
+                    {
+                        "number": "2",
+                        "title": "El ritmo de liderazgo de ventas",
+                        "text": "Chris revela la cadencia diaria y semanal que siguen los equipos de ventas de alto rendimiento. Juntas rápidas, revisión de llamadas, limpieza de pipeline y el dashboard de gestión que conecta todo."
+                    },
+                    {
+                        "number": "3",
+                        "title": "La campaña de efectivo rápido",
+                        "text": "Un manual paso a paso para reactivar leads muertos en tu base de datos. La mayoría de las empresas están sentadas sobre ingresos inmediatos que ya pagaron por adquirir."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Tu plan de acción de 90 días",
+                        "text": "Sal con una hoja de ruta priorizada. De la semana 1 a la semana 12. Qué arreglar primero, qué construir después y qué medir en el camino."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Tus presentadores",
+                "title": "Dos expertos. Un motor de ingresos.",
+                "paragraphs": [
+                    "Brent Peterson es el CEO de Content Cucumber, un HubSpot Solutions Partner especializado en estrategia de contenido y automatización de marketing para empresas de ecommerce. Con más de 30 años en el mundo del comercio, Brent ha ayudado a cientos de empresas a conectar su contenido, tecnología y operaciones de ventas.",
+                    "Chris Sánchez es el fundador de Influential Passion, una firma de consultoría de ventas que construye equipos de ventas de alto rendimiento. Chris se especializa en coaching de ventas, optimización de procesos y los ritmos de liderazgo que convierten equipos promedio en máquinas que superan sus cuotas."
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Años en comercio (Brent)" },
+                    { "number": "40+", "label": "Escritores profesionales" },
+                    { "number": "1000+", "label": "Vendedores capacitados (Chris)" },
+                    { "number": "HubSpot", "label": "Solutions Partner" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas frecuentes",
+                "items": [
+                    {
+                        "question": "¿Cuándo es el webinar?",
+                        "answer": "El 31 de marzo de 2026 a las 2:00 PM hora del Este. La sesión dura aproximadamente 60 minutos: 25 minutos de Brent sobre HubSpot y automatización con IA, 25 minutos de Chris sobre coaching de ventas y procesos, más 10 minutos de preguntas y respuestas en vivo."
+                    },
+                    {
+                        "question": "¿Es gratuito?",
+                        "answer": "Sí, completamente gratuito. Regístrate y asiste en vivo, o mira la grabación después. Les enviaremos el enlace de la repetición a todos los registrados."
+                    },
+                    {
+                        "question": "¿Para quién es?",
+                        "answer": "Empresas que facturan de $10M a $150M o más al año, con un equipo de ventas de 3 a 10+ vendedores. Ya sea que uses HubSpot, lo estés evaluando o uses un competidor como Salesforce o Pipedrive, las estrategias aplican. Si tienes un equipo de ventas y los ingresos se sienten impredecibles, esta sesión es para ti."
+                    },
+                    {
+                        "question": "¿Habrá grabación?",
+                        "answer": "Sí. Todos los que se registren recibirán la grabación, asistan o no en vivo. Recomendamos asistir en vivo para la sesión de preguntas y respuestas."
+                    },
+                    {
+                        "question": "¿Qué son las auditorías gratuitas que mencionan?",
+                        "answer": "Son dos ofertas por separado. El equipo de Brent realiza una auditoría automatizada gratuita de tu portal de HubSpot que escanea tus Hubs de Marketing, Ventas y Servicio y te entrega un reporte PDF con prioridades. Chris ofrece una auditoría gratuita de tu equipo de ventas donde revisa tus guiones, grabaciones de llamadas, estructura del pipeline y huecos en procesos. Ambas son sin compromiso."
+                    },
+                    {
+                        "question": "No uso HubSpot. ¿Esto me sirve de algo?",
+                        "answer": "Sin duda. La optimización del proceso de ventas, los ritmos de liderazgo y el marco del motor de ingresos aplican sin importar qué CRM uses. El contenido de coaching de ventas de Chris no depende de ninguna plataforma. La sección de HubSpot de Brent te mostrará cómo se ve un CRM bien configurado si estás evaluando opciones."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Detén las fugas de ingresos. Construye el motor.",
+                "text": "Regístrate ahora al webinar gratuito en vivo del 31 de marzo. Sal con un plan de acción de 90 días para corregir tu proceso de ventas, optimizar tu stack tecnológico y destrabar los ingresos que ya se esconden en tu pipeline."
+            }
+        }
+    ]
+}

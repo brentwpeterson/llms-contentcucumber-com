@@ -1,0 +1,274 @@
+{
+    "seo": {
+        "meta_description": "Professional conference video production for ecommerce brands. We film at your booth, deliver polished clips, and turn 3 days into 3 months of marketing content.",
+        "og_description": "We come to your booth, film sharp guided interviews, and deliver polished video assets. By the time you're home, you have marketing-ready content that keeps working.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Book Your Live Event Content",
+        "subtitle": "",
+        "trust_text": "Hundreds of interviews recorded. 30+ years in ecommerce. Zero fluff.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "You're booked! Here's what happens next.",
+        "text": "We'll be in touch shortly with logistics and a short prep guide so your team is ready to look great on camera.",
+        "link_anchor": "lookslike",
+        "link_text": "See what your conference coverage will look like"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Conference Video Production",
+                "title": "Turn your 3-day event into<br><em>3 months of marketing</em>.",
+                "paragraphs": [
+                    "You're already spending serious money to exhibit: booth, travel, hotel, swag, team time. Our service helps you leave with more than just badge scans.",
+                    "We come to your booth, film sharp guided interviews, and deliver polished video assets. By the time you're home, you have marketing-ready content that keeps working long after the booth comes down."
+                ],
+                "video_bg": "images/conference-bg.mp4",
+                "video_bg_poster": "images/conference-bg-poster.jpg"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "100s", "label": "Interviews Recorded" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "500+", "label": "Podcast Episodes" },
+                { "number": "8", "label": "Deliverable Types" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What We Do On-Site",
+                "subtitle": "We show up at your booth with pro gear, a plan, and the experience to make your team look great on camera.",
+                "items": [
+                    {
+                        "title": "Natural Interviews",
+                        "text": "We guide relaxed, unscripted conversations that help your team sound confident, clear, and human on camera. No scripts. No awkward teleprompter reads. Just real people talking about what they know.",
+                        "image": "conference-video-assets/interview.jpg"
+                    },
+                    {
+                        "title": "Professional Video and Audio",
+                        "text": "We use professional cameras and microphones to ensure your message looks and sounds as good as it deserves. Clean footage, clear audio, ready for any platform.",
+                        "image": "conference-video-assets/pro-video-audio.jpg"
+                    },
+                    {
+                        "title": "Strategic Guidance",
+                        "text": "We help shape answers in real time so the final videos are focused, useful, and easy to reuse across your business. We ask the right questions. We frame the conversation.",
+                        "image": "conference-video-assets/strategic-guidance.jpg"
+                    },
+                    {
+                        "title": "Booth and Event B-Roll",
+                        "text": "We capture the context and energy around your booth so your videos reflect the event, not just the interview. Product demos, team moments, floor traffic, the full picture.",
+                        "image": "conference-video-assets/broll.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "anchor": "lookslike",
+            "data": {
+                "label": "See it in action",
+                "heading": "This is what it <em>actually looks like</em>.",
+                "paragraphs": [
+                    "Conferences are compressed attention. Your customers are there, your team is energized, and your messaging is sharp. We capture that energy before it fades.",
+                    "No scripts. No awkward setups. We guide natural conversations that make your team sound like the experts they are."
+                ],
+                "points": [
+                    "Filmed right at your booth between meetings",
+                    "Professional cameras and audio, zero disruption",
+                    "Your team talks about what they already know",
+                    "We handle every question, angle, and edit"
+                ],
+                "youtube_id": "LEmlZ46f6EM",
+                "aspect": "9x16",
+                "title": "Conference interview example",
+                "caption": "Real interview. Real client. Conference floor."
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "What You Receive",
+                "subtitle": "Every Live Event Content package includes polished, ready-to-use assets. Add on distribution services to extend the life of your content.",
+                "items": [
+                    {
+                        "name": "Short-Form Video Clips",
+                        "badge": "Always Included",
+                        "featured": true,
+                        "target": "Professionally edited interview clips, designed to communicate your expertise and be reused across many contexts.",
+                        "outcomes": [
+                            "Vertical cuts for social media",
+                            "Horizontal cuts for web and presentations",
+                            "Clean captions and titles",
+                            "Light branding applied",
+                            "Raw footage and audio files included"
+                        ]
+                    },
+                    {
+                        "name": "Post-Event Email Campaign",
+                        "target": "A short, structured email sequence built from the conference footage to help you follow up while the event is still fresh.",
+                        "outcomes": [
+                            "Follow-up sequence using your video clips",
+                            "Personalized for prospects met at the event",
+                            "Keeps momentum alive after the show",
+                            "Drives traffic to your landing pages"
+                        ]
+                    },
+                    {
+                        "name": "Content Distribution",
+                        "target": "We handle getting your video content out to the world so you can focus on running your business.",
+                        "outcomes": [
+                            "Social media publishing and scheduling",
+                            "SEO and AEO blog articles from interviews",
+                            "Ad setup for paid promotion",
+                            "Repurposed for multiple channels and formats"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Why It Works",
+                "title": "Conferences are <em>compressed attention</em>.",
+                "paragraphs": [
+                    "Your customers are there. Your team is energized. Your messaging is sharp. It's one of the few times your company is fully \"on.\"",
+                    "Most companies walk away with a stack of badge scans and a vague plan to \"follow up next week.\" By the time the team is home, the energy is gone. The talking points blur together. The conversations that felt so promising at the booth become cold outreach.",
+                    "We capture that energy while it's live and turn it into authority, social proof, momentum, and content that compounds. One shoot. Months of marketing.",
+                    "The difference isn't just having video. It's having video that was filmed when your team was at their best, talking to real people, about real problems, with real enthusiasm."
+                ],
+                "old_way": {
+                    "heading": "Without Live Event Content",
+                    "items": [
+                        "Leave with badge scans only",
+                        "Momentum dies after the event",
+                        "No video assets to show for it",
+                        "Team forgets key talking points",
+                        "Conference investment underutilized"
+                    ]
+                },
+                "new_way": {
+                    "heading": "With Live Event Content",
+                    "items": [
+                        "Leave with a video content library",
+                        "3 months of marketing from 3 days",
+                        "Professional clips ready to publish",
+                        "Real testimonials from real conversations",
+                        "Every dollar spent keeps working"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "label": "From booth to brand",
+                "heading": "One shoot. <em>Months of content</em>.",
+                "paragraphs": [
+                    "Every interview we film becomes a library of assets. Vertical clips for social. Horizontal cuts for your site. Captions, branding, raw footage. All included.",
+                    "Best of all, we do all of this for you. Your team focuses on the event. We handle the content."
+                ],
+                "points": [
+                    "Social media clips ready to post",
+                    "Sales follow-up videos that close deals",
+                    "Website testimonials from real conversations",
+                    "Email campaign content that stands out"
+                ],
+                "youtube_id": "-n0fAi5P8K4",
+                "aspect": "9x16",
+                "title": "Conference interview example 2",
+                "caption": "Real client. Professional quality. Ready to use."
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Where Teams Use Live Event Content Videos",
+                "subtitle": "We focus on capturing high-quality video on site because it's the hardest part to recreate later. Once those conversations are captured, they power virtually every element of your sales and marketing.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Sales Follow-Ups and Outreach",
+                        "text": "Send prospects a personalized video clip from your conversation at the booth. Nothing closes like face-to-face recall. Partner outreach, speaker applications, investor updates."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Landing Pages and Website",
+                        "text": "Add real video testimonials and product demos to your site. Written content becomes easier when you have the video to build from. Everything else builds from the footage."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Social Media and Paid Ads",
+                        "text": "Short-form vertical clips ready for LinkedIn, Instagram, TikTok, and YouTube Shorts. Run targeted ads with real footage instead of stock video. Stand out in every feed."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Email Sequences and Nurture",
+                        "text": "Build post-event email campaigns with embedded video. Repurposing becomes optional, not mandatory. Distribution becomes flexible. The video does the heavy lifting."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "More Than Just Videography",
+                "title": "We understand positioning, messaging, and content strategy.",
+                "paragraphs": [
+                    "We've created content for hundreds of businesses and recorded hundreds of interviews across ecommerce and B2B. We don't just point a camera. We understand what makes a good story, what your buyers need to hear, and how to get it out of a 5-minute conversation.",
+                    "Content Cucumber helps growing ecommerce and B2B brands turn ideas into assets that drive real results. From writing and strategy to video and distribution, we specialize in building marketing inventory that compounds over time.",
+                    "Clear messaging. Smart execution. Content that works."
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Years in Ecommerce" },
+                    { "number": "100s", "label": "Interviews Recorded" },
+                    { "number": "500+", "label": "Podcast Episodes" },
+                    { "number": "40+", "label": "Human Writers" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions We Hear",
+                "items": [
+                    {
+                        "question": "\"We already have a videographer.\"",
+                        "answer": "Most videographers capture footage. We capture stories. We know what questions to ask, how to guide the conversation, and how to turn raw interviews into months of marketing content. The strategy is what makes Live Event Content different."
+                    },
+                    {
+                        "question": "\"Our team isn't comfortable on camera.\"",
+                        "answer": "That's exactly why we guide the conversations. No scripts, no teleprompters. We ask questions your team already knows the answers to and keep it relaxed. People are always surprised how natural it feels."
+                    },
+                    {
+                        "question": "\"We're not sure it's worth the investment.\"",
+                        "answer": "You're already spending thousands on the booth, travel, hotel, and team time. Live Event Content turns that existing investment into content that works for months. The question isn't whether you can afford it. It's whether you can afford to leave without it."
+                    },
+                    {
+                        "question": "\"How quickly do we get the final assets?\"",
+                        "answer": "We deliver polished clips, raw footage, and captioned video within two weeks of the event. If you need rush delivery for a specific campaign, we can accommodate that too."
+                    },
+                    {
+                        "question": "\"Which conferences do you cover?\"",
+                        "answer": "We cover events across the US, with deep experience at ecommerce and B2B conferences like Shop Talk, eTail, and industry-specific shows. If you're exhibiting, we can be there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to turn your next conference into a content engine?",
+                "text": "Tell us which event you're attending. We'll put together a Live Event Content plan that turns your booth presence into months of marketing assets. <a href=\"/conference-interview/\">See our interview packages with pricing</a>. <a href=\"/conference-pr/\">PR agencies: see our agency services</a>."
+            }
+        }
+    ]
+}

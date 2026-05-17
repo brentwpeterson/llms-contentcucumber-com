@@ -1,0 +1,40 @@
+---
+import Page from "../layouts/Page.astro";
+import { loadPages } from "../lib/pages";
+import { mdToHtml } from "../lib/md-to-html";
+
+const pages = loadPages();
+const home = pages.find((p) => p.routeSlug === "");
+const others = pages.filter((p) => p.routeSlug !== "");
+
+const title = home?.title ?? "Content Cucumber";
+const description =
+  home?.description ??
+  "Human-powered content, SEO, AEO, and LLM discovery for brands.";
+const bodyHtml = home ? mdToHtml(home.markdown) : "";
+---
+
+<Page
+  title={title}
+  description={description}
+  canonical="https://contentcucumber.com/"
+  mdPath="/index.md"
+>
+  <Fragment set:html={bodyHtml} />
+  <hr />
+  <h2>All Pages</h2>
+  <p>
+    This is the AI-readable mirror of contentcucumber.com. Every page below is
+    available as clean HTML and as raw Markdown (append <code>.md</code>).
+  </p>
+  <ul>
+    {
+      others.map((p) => (
+        <li>
+          <a href={`/${p.routeSlug}/`}>{p.title}</a>
+          {p.description && <> — {p.description}</>}
+        </li>
+      ))
+    }
+  </ul>
+</Page>

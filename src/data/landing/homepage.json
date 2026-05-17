@@ -1,0 +1,535 @@
+{
+    "form": {
+        "header": "Let's write your success story!",
+        "subtitle": "",
+        "trust_text": "40+ human writers. 500+ podcast episodes. 30+ years in commerce. Zero AI slop.",
+        "portal_id": "39487190",
+        "form_id": "dfa053e1-3a7e-400f-82dc-8493781b3261",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero-terminal",
+            "data": {
+                "slots": [
+                    {
+                        "headline": "+105%<br>Organic Traffic",
+                        "logo": "/wp-content/uploads/2026/05/chalet-market-logo.png",
+                        "logo_alt": "Chalet Market, Sausage Company of Montana",
+                        "cta_headline": "Weekly Content. Real Growth.",
+                        "cta_text": "Chalet Market is a family-owned Montana food retailer on Shopify. We built a weekly content engine. Organic traffic grew 105% in six months. Blog engagement quadrupled. Holiday traffic arrived half a year early.",
+                        "cta_button_text": "Read the Story",
+                        "cta_button_link": "/our-work/chalet-market/"
+                    },
+                    {
+                        "headline": "500 to<br>10,000+ Visitors",
+                        "image": "/wp-content/uploads/2026/05/silicone-depot-dashboard.png",
+                        "image_width": 1188,
+                        "image_height": 1094,
+                        "image_alt": "Silicone Depot SEMrush dashboard: organic traffic grown to 11,945 monthly visitors and 12,793 organic keywords from 2013 to 2025",
+                        "cta_headline": "Content That Pays Back for Years",
+                        "cta_text": "Silicone Depot started weekly content with us in 2018. Their organic traffic went from 500 visitors per month to over 10,000. Eight years of human-written articles still earning traffic today.",
+                        "cta_button_text": "See the Numbers",
+                        "cta_button_link": "/our-work/"
+                    },
+                    {
+                        "headline": "We Write Your<br>Case Studies",
+                        "cta_headline": "Your Engineers Stay on Product",
+                        "cta_text": "Commerce platforms and SaaS companies hand us their merchant interviews. We produce a published case study in 26 hours of our team's effort. Kickoff to live in two to four weeks. Your team focuses on the roadmap.",
+                        "cta_button_text": "See How",
+                        "cta_button_link": "/we-write-case-studies/"
+                    },
+                    {
+                        "headline": "Free<br>SEO + AI Audit",
+                        "terminal": [
+                            {
+                                "text": "> scanning your site...",
+                                "delay": 500
+                            },
+                            {
+                                "text": "\n56 checks running",
+                                "delay": 700
+                            },
+                            {
+                                "text": "\nAI search readiness analyzed",
+                                "delay": 900
+                            },
+                            {
+                                "text": "\nFix list ready.",
+                                "delay": 1200
+                            }
+                        ],
+                        "cta_headline": "See Where You Stand in 56 Checks",
+                        "cta_text": "We send back a scored audit covering technical SEO, on-page, schema, AI search readiness, and Core Web Vitals. Pass, Partial, or Fail on every item. Severity-ranked fix list. No obligation.",
+                        "cta_button_text": "Get My Free Audit",
+                        "cta_button_link": "/seo-audit/"
+                    }
+                ],
+                "seo_text": "Real human writers ship outcomes. Chalet Market grew 105 percent in six months. Silicone Depot went from 500 to over 10,000 monthly organic visitors. We produce case studies for commerce platforms and SaaS companies in 26 hours. Every site we touch can start with a free 56-point SEO and AI search audit.",
+                "type_speed_min": 45,
+                "type_speed_max": 95,
+                "bg_color": "#000000",
+                "headline_color": "#58c558"
+            }
+        },
+        {
+            "type": "lede",
+            "data": {
+                "title": "Real humans write your content.",
+                "text": "On-demand content for ecommerce and B2B brands. 40+ human writers research, draft, and edit blog posts, case studies, email programs, and landing pages on a weekly cadence. AI helps with research and ideation. Humans hold the pen."
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "500+",
+                    "label": "Podcast Episodes"
+                },
+                {
+                    "number": "30+",
+                    "label": "Years in Commerce"
+                },
+                {
+                    "number": "40+",
+                    "label": "Human Writers"
+                },
+                {
+                    "number": "1000s",
+                    "label": "Brands Served"
+                }
+            ]
+        },
+        {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/05/brent-isaac-chicago-lakefront.jpg",
+                "image_width": 1200,
+                "image_height": 1600,
+                "image_alt": "Brent and Isaac on the Chicago lakefront",
+                "headline": "A Partnership Made in Running Heaven",
+                "paragraphs": [
+                    "Isaac and I met in 2018 at IRCE Chicago. He had just started Content Cucumber on a bet that human writing still mattered. I was running Wagento and believed the same thing. I signed up as a client out of curiosity.",
+                    "In April 2025 we became partners. During due diligence we kept finding common ground beyond the business case. Both of us are runners. Isaac is a busker. I played piano at church for years. Same conviction about human craft, different inputs.",
+                    {
+                        "boxed": true,
+                        "sections": [
+                            {
+                                "label": "Our Mission",
+                                "text": "Human writing is under siege. Generative AI floods the open web with text at infinite scale. Readers feel the sameness. The brands that get cited, ranked, and remembered are the ones still publishing work from people who put real thought on the page."
+                            },
+                            {
+                                "label": "Our Promise",
+                                "text": "Real human writers are the answer. They listen for the story behind the brief. They research the corner of the internet a model cannot reach. They put a point of view on the page and stand behind it. The work has weight because a person made decisions about every sentence. That is what readers remember. That is what Content Cucumber ships."
+                            }
+                        ]
+                    }
+                ],
+                "bg_color": "#f0f4f8"
+            }
+        },
+        {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/04/contentcucumber-content-solution.mp4",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_poster": "/wp-content/uploads/2026/04/contentcucumber-content-solution-poster.jpg",
+                "alt": "Content Cucumber solving the content bottleneck",
+                "headline": "Content Bottleneck",
+                "paragraphs": [
+                    "Your team can't keep up with the demand for fresh, quality content across all your channels.",
+                    "Every day without new content is a missed opportunity. Your competitors are publishing constantly while your team struggles to keep up with blog posts, product descriptions, and marketing materials.",
+                    "Content Cucumber gives you a hand-picked team of human writers who learn your voice and deliver every week. Not a tool. Not a template. A partnership."
+                ],
+                "bg_color": "#fdebd0"
+            }
+        },
+        {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/04/cc-brand-voice.jpg",
+                "image_width": 1264,
+                "image_height": 848,
+                "alt": "Different team members writing in different voices",
+                "headline": "Inconsistent Brand Voice",
+                "paragraphs": [
+                    "Different team members write in different styles, making your brand feel fragmented and unprofessional.",
+                    "When your blog sounds different from your product pages, which sound different from your emails, customers notice. Inconsistency erodes trust and dilutes your brand identity.",
+                    "Our writers learn your voice and stick to it. Every piece of content reads like one brand, one team, one voice. Whether the writer changes or the channel changes, the voice doesn't."
+                ],
+                "reverse": true,
+                "bg_color": "#ffffff"
+            }
+        },
+        {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/04/cc-ecommerce-disconnect.jpg",
+                "image_width": 1408,
+                "image_height": 768,
+                "alt": "Commerce content workflow disconnected across platforms",
+                "headline": "Commerce Disconnect",
+                "paragraphs": [
+                    "Your content creation process is disconnected from your commerce platforms, creating manual work and delays.",
+                    "Copying and pasting content between systems wastes hours every week. Products sit without descriptions, blog posts don't get published, and your team drowns in administrative tasks.",
+                    "We connect to Shopify, WordPress, and Magento. Real human writers create the content, then we publish straight to your platform. No more copy-paste. No more delays."
+                ],
+                "bg_color": "#fdebd0"
+            }
+        },
+        {
+            "type": "hubspot-callout",
+            "data": {
+                "title_pre": "Maximize Your",
+                "title_grad": "HubSpot",
+                "title_post": "Investment",
+                "subtitle": "We're a HubSpot Solutions Partner. Content, CMS work, and marketing automation that drives results.",
+                "image": "/wp-content/uploads/2026/04/cc-i-love-hubspot.png",
+                "image_width": 827,
+                "image_height": 827,
+                "alt": "I Love HubSpot",
+                "paragraphs": [
+                    "Our HubSpot expertise drives real business growth. From custom CMS implementation to marketing automation, we build the systems that turn HubSpot into a sales engine for commerce and B2B brands.",
+                    "As HubSpot Solutions Partners, we build websites that don't just look great. They convert. Our deep understanding of the HubSpot ecosystem means we can leverage its full capabilities for your business, from marketing automation to customer service workflows.",
+                    "When you work with Content Cucumber, you're getting a content partner that understands how to maximize your marketing technology investments."
+                ],
+                "cta_text": "Explore HubSpot Loop Marketing",
+                "cta_link": "/hubspot-loop-marketing/"
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Content That Works",
+                "subtitle": "We build marketing inventory that compounds over time. Every piece is written by real humans who understand your brand.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Blog & SEO Content",
+                        "text": "Consistent, high-quality blog posts optimized for search and written by humans who understand your industry. Weekly delivery, every week.",
+                        "link": "/services/content-creation/blog-writing/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Social Media Content",
+                        "text": "Platform-native posts that sound like your brand, not a template. We write, you approve, we publish. Simple.",
+                        "link": "/services/content-creation/social-media-content/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Live Event Content",
+                        "text": "We show up at your booth, film professional interviews, and deliver polished video assets. One shoot, months of content.",
+                        "link": "/conference-coverage/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "envelope",
+                        "title": "Email Marketing",
+                        "text": "Lifecycle email programs that compound revenue. Welcome, cart, post-purchase, win-back, replenishment. Mailchimp Solutions Partner.",
+                        "link": "/services/email-marketing/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "message",
+                        "title": "SMS Marketing",
+                        "text": "SMS programs paired with email. Compliance-first opt-in, smart cadence, and content that respects the channel.",
+                        "link": "/services/sms-marketing/",
+                        "link_text": "Learn more"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "partner-carousel",
+            "data": {
+                "title": "Trusted by Growing Brands",
+                "subtitle": "We work with commerce and B2B companies who take content seriously.",
+                "max_partners": 12,
+                "show_blurb": true,
+                "fallback": []
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How It Works",
+                "subtitle": "From first call to first draft in days, not weeks.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Discovery",
+                        "text": "We learn your brand voice, goals, and audience. You tell us what matters. We listen."
+                    },
+                    {
+                        "number": "2",
+                        "title": "Strategy",
+                        "text": "We build a content calendar and topic plan based on your goals, keywords, and competitive landscape."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Creation",
+                        "text": "Human writers create your content. Every piece goes through editorial review before delivery."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Results",
+                        "text": "Content publishes on schedule. Traffic grows. Your brand builds authority that compounds over time."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "case-study",
+            "data": {
+                "eyebrow": "Case Study",
+                "title": "Silicone Depot: From 500 to 10,000+ Organic Visitors",
+                "text": [
+                    "Silicone Depot is an commerce supplier of silicone sealants and caulking, serving both B2C and B2B customers.",
+                    "They started publishing weekly articles with Content Cucumber in 2018. At the time, organic traffic was roughly 500 visitors per month.",
+                    "Today, Silicone Depot averages over 10,000 organic visitors per month. Ad spend is down, revenue is up, and their brand is stronger than ever.",
+                    "Consistent, high-quality content compounds over time. That is what a real content engine looks like."
+                ],
+                "image": "/wp-content/uploads/2025/07/silicone-depot-organic-traffic-growth-content-cucumber-case-study.png",
+                "image_width": 1188,
+                "image_height": 1094,
+                "image_alt": "Silicone Depot organic traffic growth chart showing increase from 500 to over 10,000 monthly visitors after partnering with Content Cucumber",
+                "stats": [
+                    {
+                        "number": "10,000+",
+                        "label": "Monthly Organic Visitors"
+                    },
+                    {
+                        "number": "12,793",
+                        "label": "Organic Keywords"
+                    },
+                    {
+                        "number": "2018",
+                        "label": "Year Started"
+                    }
+                ],
+                "cta_text": "Start Your Growth Story",
+                "cta_link": "/contact/"
+            }
+        },
+        {
+            "type": "testimonials",
+            "data": {
+                "eyebrow": "What Our Clients Say",
+                "headline": "Real People, Real Results",
+                "items": [
+                    {
+                        "text": "I have three to four 800 word articles done by them each month and a handful of social media content written too. The writer I am assigned to does a great job and takes direction well.",
+                        "name": "Verified Client",
+                        "source": "Reddit"
+                    },
+                    {
+                        "text": "People started mentioning my email newsletter in the office after the first send!",
+                        "name": "Wade Folske",
+                        "role": "PC Stretch"
+                    },
+                    {
+                        "text": "They took the time to look into my business and needs, and created engaging articles. They listened, delivered, and provided ideas moving forward.",
+                        "name": "Adam Phillips"
+                    },
+                    {
+                        "text": "Tremendous help balancing the speed and efficiency of AI-supported content with real, valuable industry knowledge.",
+                        "name": "Frank Thompson",
+                        "role": "VP of Digital Account Management",
+                        "company": "THE TEAM (formerly Wasserman)"
+                    },
+                    {
+                        "text": "Here at Shopware we lean heavily on Content Cucumber to help us with the creation of our case studies. You always know how to capture the unique perspective of the merchant, and power of both Shopware and our ecosystem.",
+                        "name": "Jason Nyhus",
+                        "role": "General Manager US",
+                        "company": "Shopware"
+                    }
+                ],
+                "source": "reviews",
+                "featured": true,
+                "count": 6,
+                "has_text": true
+            }
+        },
+        {
+            "type": "comparison-table",
+            "data": {
+                "title": "Why Choose Content Cucumber?",
+                "subtitle": "See how we compare to other content solutions.",
+                "differentiators": [
+                    {
+                        "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2'/><circle cx='9' cy='7' r='4'/><path d='M23 21v-2a4 4 0 0 0-3-3.87'/><path d='M16 3.13a4 4 0 0 1 0 7.75'/></svg>",
+                        "title": "Long-Standing Human Writing Team",
+                        "text": "40+ experienced writers who learn your brand voice. No AI-generated filler. Real people writing real content that connects with your audience."
+                    },
+                    {
+                        "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><rect x='2' y='3' width='20' height='14' rx='2'/><line x1='8' y1='21' x2='16' y2='21'/><line x1='12' y1='17' x2='12' y2='21'/><path d='M7 8h2m2 0h2m2 0h2'/><path d='M7 11h10'/></svg>",
+                        "title": "Proprietary AI Tools",
+                        "text": "Our in-house technology handles research, SEO optimization, and LLM discovery so our writers focus on what they do best: creating content that ranks and converts."
+                    },
+                    {
+                        "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><circle cx='12' cy='12' r='10'/><path d='M2 12h20'/><path d='M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z'/></svg>",
+                        "title": "Commerce Specialization",
+                        "text": "30+ years in commerce, 500+ podcast episodes, and deep platform expertise across Shopify, Magento, BigCommerce, and more. We speak your language."
+                    },
+                    {
+                        "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z'/><path d='M9 12l2 2 4-4'/></svg>",
+                        "title": "Proven Process with a Guarantee",
+                        "text": "From strategy to publishing, every piece goes through our four-step process: strategize, create, optimize, refine. Try us for 14 days, risk-free."
+                    },
+                    {
+                        "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z'/><path d='M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z'/></svg>",
+                        "title": "Content Strategy Included",
+                        "text": "Every engagement starts with data-driven strategy. We identify what your audience is searching for and build a content plan that drives traffic, leads, and revenue."
+                    },
+                    {
+                        "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M18 20V10'/><path d='M12 20V4'/><path d='M6 20v-6'/></svg>",
+                        "title": "Scales When You Do",
+                        "text": "Need 4 articles this month and 20 next month? No problem. Our team flexes with your business without the overhead of hiring, training, or managing freelancers."
+                    }
+                ],
+                "comparison": {
+                    "columns": [
+                        {
+                            "name": "Content Cucumber",
+                            "highlight": true
+                        },
+                        {
+                            "name": "Freelancers"
+                        },
+                        {
+                            "name": "AI Content Tools"
+                        },
+                        {
+                            "name": "In-House Hire"
+                        }
+                    ],
+                    "features": [
+                        {
+                            "name": "Human-written content",
+                            "values": [
+                                true,
+                                true,
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "name": "SEO + LLM optimization",
+                            "values": [
+                                true,
+                                false,
+                                "Partial",
+                                false
+                            ]
+                        },
+                        {
+                            "name": "Commerce expertise",
+                            "values": [
+                                true,
+                                "Varies",
+                                false,
+                                "Varies"
+                            ]
+                        },
+                        {
+                            "name": "Scales on demand",
+                            "values": [
+                                true,
+                                false,
+                                true,
+                                false
+                            ]
+                        },
+                        {
+                            "name": "Consistent brand voice",
+                            "values": [
+                                true,
+                                "Varies",
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "name": "Content strategy included",
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                "Varies"
+                            ]
+                        },
+                        {
+                            "name": "No hiring or management overhead",
+                            "values": [
+                                true,
+                                false,
+                                true,
+                                false
+                            ]
+                        },
+                        {
+                            "name": "14-day money-back guarantee",
+                            "values": [
+                                true,
+                                false,
+                                false,
+                                false
+                            ]
+                        }
+                    ]
+                },
+                "guarantee": "Try Content Cucumber risk-free for 14 days. If you're not happy with the quality, get your money back. No questions asked."
+            }
+        },
+        {
+            "type": "latest-posts",
+            "data": {
+                "title": "From the Blog",
+                "subtitle": "The latest thinking on content marketing, SEO, and building brands that last.",
+                "count": 3,
+                "cta_text": "View All Posts",
+                "cta_link": "/blog/"
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "What is Content Cucumber?",
+                "items": [
+                    {
+                        "label": "What we do",
+                        "value": "Real humans write your content. Our writers use AI as a research and ideation tool, but every human is in the driver's seat. We help commerce, B2B, and enterprise brands publish consistent, on-brand work. Weekly retainers, one-off projects, and enterprise long-form work."
+                    },
+                    {
+                        "label": "Best for",
+                        "value": "Commerce stores, B2B SaaS, and HubSpot users. Enterprise teams, professional services, higher education, healthcare, and municipalities that need long-form content such as case studies, white papers, research papers, and comparison content. Any industry where human-written content matters."
+                    },
+                    {
+                        "label": "Not for",
+                        "value": "Anyone who wants unregulated, unedited AI slop."
+                    },
+                    {
+                        "label": "Where",
+                        "value": "Remote-first. Incorporated in Minnesota. Teams across Kona, Minneapolis, and Chicago. Serving brands worldwide."
+                    },
+                    {
+                        "label": "Proof",
+                        "value": "40+ human writers. 1000s of brands served. 30+ years in commerce. HubSpot Solutions Partner."
+                    }
+                ],
+                "cta_text": "Start a Conversation",
+                "cta_link": "/contact/"
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to build your content engine?",
+                "text": "Tell us about your business and content goals. We will put together a plan that makes sense for your brand."
+            }
+        }
+    ]
+}

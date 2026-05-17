@@ -1,0 +1,83 @@
+{
+  "form": {
+    "header": "Agenda tu consulta gratuita",
+    "subtitle": "",
+    "trust_text": "Más de 40 escritores humanos. Cero contenido de IA.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Contacto - Content Cucumber",
+    "meta_description": "Agenda una llamada con Content Cucumber. Contenido escrito por humanos para marcas de ecommerce. Consulta gratuita sobre estrategia de contenido."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Contacto",
+        "title": "Platiquemos sobre<br><em>tu contenido</em>",
+        "paragraphs": [
+          "¿Tienes alguna pregunta sobre nuestros servicios o quieres explorar cómo podemos ayudar a crecer tu negocio? Nos encantaría saber de ti."
+        ]
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "¿Por qué en español?",
+        "title": "Conocemos Latinoamérica de primera mano",
+        "paragraphs": [
+          "Nuestro CEO, Brent Peterson, abrió su primera oficina en Latinoamérica en 2014 con Wagento, su empresa de consultoría de ecommerce. Empezó en Bolivia y después se mudó a Ciudad de México, donde tuvo una oficina física en el WeWork de la calle Hamburgo, cerca de Reforma.",
+          "Esa experiencia le enseñó algo que muchas agencias en Estados Unidos no entienden: el mercado latinoamericano no se conquista con traducciones. Se conquista con contenido que suena local, que entiende la cultura y que habla como habla la gente.",
+          "Isaac Morey, nuestro Co-Fundador y Editor en Jefe, habla español con fluidez. Nuestro contenido en español no se traduce del inglés. Se escribe desde cero, pensando en español, por escritores nativos de México."
+        ],
+        "stats": [
+          {
+            "number": "15+",
+            "label": "Años en Latinoamérica"
+          },
+          {
+            "number": "2014",
+            "label": "Primera oficina en LATAM"
+          },
+          {
+            "number": "CDMX",
+            "label": "Oficina en Reforma"
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Preguntas frecuentes",
+        "items": [
+          {
+            "question": "¿Tienen oficinas en Latinoamérica?",
+            "answer": "Nuestras oficinas están en Minneapolis, MN. Pero trabajamos con marcas en toda Latinoamérica y Estados Unidos. Brent Peterson operó servicios de desarrollo en México y Sudamérica durante más de 15 años. Isaac Morey, nuestro Co-Fundador, habla español con fluidez."
+          },
+          {
+            "question": "¿En qué idiomas trabajan?",
+            "answer": "Inglés y español. Nuestro contenido en español no es traducido, es escrito desde cero por hablantes nativos de español mexicano."
+          },
+          {
+            "question": "¿Cuánto tiempo toma empezar?",
+            "answer": "Después de nuestra llamada inicial, podemos tener tu primer contenido listo en 1-2 semanas. Empezamos con una sesión de descubrimiento para entender tu marca, audiencia y objetivos."
+          },
+          {
+            "question": "¿Cuánto cuesta?",
+            "answer": "Depende de tus necesidades. Ofrecemos planes mensuales que incluyen artículos de blog, contenido para redes sociales, email marketing y más. Agenda una llamada para recibir una cotización personalizada."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "¿Listo para arrancar?",
+        "text": "Escríbenos y te respondemos en menos de 24 horas."
+      }
+    }
+  ]
+}

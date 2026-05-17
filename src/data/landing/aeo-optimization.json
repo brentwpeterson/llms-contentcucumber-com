@@ -1,0 +1,142 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "AEO Optimization Services - Content Cucumber",
+    "meta_description": "Answer Engine Optimization for ChatGPT, Claude, Perplexity, and Google AI Overviews. Get your content cited when AI answers questions in your industry.",
+    "slug": "aeo-optimization"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content Creation",
+        "title": "Answer Engine Optimization<br><em>for the AI Search Era</em>",
+        "paragraphs": [
+          "Future-proof your content for ChatGPT, Claude, Perplexity, and Google AI Overviews. Get cited when AI answers questions in your industry."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "robot",
+            "title": "AI Citation Optimization",
+            "text": "Structure your content so AI models can easily extract, quote, and attribute your expertise. Clear claims, data points, and definitive statements that AI prefers to cite."
+          },
+          {
+            "icon": "code",
+            "title": "Schema Markup",
+            "text": "Implement JSON-LD structured data that helps AI understand your content. FAQPage, HowTo, Article, and custom schema types that improve machine readability."
+          },
+          {
+            "icon": "file",
+            "title": "llms.txt Implementation",
+            "text": "Create and maintain your llms.txt file that tells AI crawlers what your business does, what you offer, and how to reference you accurately."
+          },
+          {
+            "icon": "eye",
+            "title": "AI Visibility Monitoring",
+            "text": "Track when and where your brand gets mentioned by AI assistants. Identify gaps and optimize content to increase citation frequency."
+          }
+        ],
+        "title": "What is AEO Optimization?",
+        "subtitle": "Search is changing. AI assistants like ChatGPT, Claude, and Perplexity are becoming the first stop for information. AEO (Answer Engine Optimization) ensures your content gets cited when AI answers questions. We optimize your content structure, add proper schema markup, and format information so AI can reference your expertise."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "AEO Audit",
+            "text": "Analyze your current content through the lens of AI readability. Identify what AI models can and cannot extract from your pages."
+          },
+          {
+            "number": "02",
+            "title": "Content Restructuring",
+            "text": "Reformat existing content with clear definitions, quotable statements, structured data, and FAQ patterns that AI prefers to cite."
+          },
+          {
+            "number": "03",
+            "title": "Schema and Technical",
+            "text": "Implement JSON-LD markup, llms.txt, and AI crawler access controls. Make your site machine-readable without sacrificing human readability."
+          },
+          {
+            "number": "04",
+            "title": "Monitor and Optimize",
+            "text": "Track AI citations across ChatGPT, Perplexity, and Google AI Overviews. Adjust content based on what gets cited and what doesn't."
+          }
+        ],
+        "title": "How Our AEO Optimization Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Content optimized only for traditional Google search",
+            "Invisible to the growing AI search audience",
+            "No structured data for machine readability"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Content that gets cited by ChatGPT, Perplexity, and AI Overviews",
+            "Your expertise referenced when AI answers industry questions",
+            "Full schema markup and llms.txt implementation"
+          ]
+        },
+        "title": "Why AEO Matters Now"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "What is the difference between SEO and AEO?",
+            "answer": "SEO optimizes for traditional search engine results pages. AEO optimizes for AI-powered answer engines like ChatGPT, Perplexity, and Google AI Overviews. The best strategy includes both."
+          },
+          {
+            "question": "How do I know if AI is citing my content?",
+            "answer": "We monitor AI responses for your brand mentions and content citations. Tools like brand mention tracking and direct testing across AI platforms show where you appear and where you're missing."
+          },
+          {
+            "question": "Does AEO replace SEO?",
+            "answer": "No. AEO builds on top of good SEO. Strong content, proper structure, and authority signals help with both traditional search and AI citations. Think of AEO as the next layer."
+          },
+          {
+            "question": "How quickly can I see AEO results?",
+            "answer": "AI models update their knowledge at different intervals. Some changes show up within weeks, others take months. The key is building a consistent presence that AI models learn to trust over time."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Don't become invisible as search evolves. Our AEO optimization ensures your content gets cited when AI answers questions in your industry.",
+        "title": "Ready for the AI Search Era?"
+      }
+    }
+  ]
+}

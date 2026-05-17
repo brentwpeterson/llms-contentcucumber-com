@@ -1,0 +1,90 @@
+{
+  "seo": {
+    "title": "SEO & AI Search Audits - Content Cucumber",
+    "meta_description": "Free and comprehensive audits for SEO and AI search. AEO brand audits, technical SEO audits, AI citation audits, and HubSpot marketing audits. Find out where you stand."
+  },
+  "form": {
+    "header": "Request an Audit",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "hero": {
+    "eyebrow": "Audits",
+    "title": "SEO & AI Search<br><em>Audits</em>",
+    "subtitle": "You can't fix what you can't measure. Our audits give you a scored, prioritized view of where you stand in Google and AI search."
+  },
+  "sections": [
+    {
+      "id": "aeo-audit",
+      "title": "Free AEO Audit",
+      "content": [
+        "Find out how ChatGPT, Perplexity, and Gemini represent your brand. Our AEO audit scores you across five dimensions: sentiment analysis, presence quality, brand recognition, share of voice, and market competition.",
+        "You get a composite score out of 100 with a written interpretation of what your scores mean and specific next steps for improving your AI visibility.",
+        "The audit is free, takes one business day, and comes with no obligation. It's the fastest way to understand how AI sees your brand today."
+      ],
+      "link_url": "/aeo-audit/",
+      "link_text": "Get your free AEO audit"
+    },
+    {
+      "id": "technical-audit",
+      "title": "Technical SEO Audit",
+      "content": [
+        "A comprehensive review of the technical foundation that determines whether Google can find, crawl, and rank your pages. Site speed, Core Web Vitals (INP), crawlability, indexation, schema markup, security headers, XML sitemaps, and mobile optimization.",
+        "Every issue is ranked by impact so you know where to focus first. We can also implement the fixes for WordPress and Shopify sites.",
+        "Technical problems are silent killers. Great content can't rank if your infrastructure is working against you."
+      ],
+      "link_url": "/seo/technical-audit/",
+      "link_text": "Learn more about Technical SEO Audits"
+    },
+    {
+      "id": "ai-citation-audit",
+      "title": "AI Citation Audit",
+      "content": [
+        "A detailed examination of every place AI platforms mention (or fail to mention) your brand. We query ChatGPT, Perplexity, and Gemini with the questions your customers actually ask and document exactly how each platform responds.",
+        "The audit reveals gaps: competitors getting cited where you're absent, inaccurate information being repeated, and opportunities where a structured content change could earn you a citation.",
+        "Every citation audit includes a prioritized action plan. Not just what's wrong, but exactly what to change and in what order."
+      ],
+      "link_url": "/ai-search/ai-citation-audit/",
+      "link_text": "Learn more about AI Citation Audits"
+    },
+    {
+      "id": "hubspot-audit",
+      "title": "HubSpot Marketing Audit",
+      "content": [
+        "A full review of your HubSpot portal: marketing automation, email performance, lead scoring, CRM hygiene, and reporting configuration. We identify what's working, what's misconfigured, and what you're not using that you're paying for.",
+        "As a HubSpot Solutions Partner, we know the platform inside out. Our audit covers workflows, sequences, forms, landing pages, attribution reporting, and integration health.",
+        "You get a prioritized list of fixes and optimizations ranked by revenue impact."
+      ],
+      "link_url": "/hubspot-audit/",
+      "link_text": "Learn more about HubSpot Audits"
+    }
+  ],
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Are audits really free?",
+        "answer": "The AEO audit is completely free with no obligation. Technical SEO audits, AI citation audits, and HubSpot audits are paid engagements, but we provide a clear scope and quote before starting."
+      },
+      {
+        "question": "How long does an audit take?",
+        "answer": "The free AEO audit takes one business day. Technical SEO and AI citation audits typically take 3-5 business days depending on site size. HubSpot audits take 5-7 business days."
+      },
+      {
+        "question": "What do I get at the end?",
+        "answer": "Every audit produces a scored report with prioritized recommendations. You get specific actions ranked by impact, not a generic checklist. For paid audits, we include a walkthrough call to review findings."
+      },
+      {
+        "question": "Can you implement the fixes too?",
+        "answer": "Yes. Most clients pair an audit with an implementation engagement. We can fix technical SEO issues, optimize content for AI citation, and reconfigure HubSpot workflows based on audit findings."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Find Out Where You Stand",
+    "text": "Start with a free AEO audit to see how AI represents your brand, or request a comprehensive technical or platform audit for a full picture."
+  }
+}

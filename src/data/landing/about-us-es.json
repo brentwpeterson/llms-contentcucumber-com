@@ -1,0 +1,155 @@
+{
+    "seo": {
+        "meta_description": "Content Cucumber es una empresa de marketing impulsada por personas con más de 30 años en ecommerce y 15 años de experiencia en América Latina. Creación de contenido, SEO, AEO y servicios de descubrimiento LLM.",
+        "og_description": "Content Cucumber construye autoridad para marcas a través de contenido creado por humanos, SEO, optimización AEO y descubrimiento LLM. Equipo bilingüe con 15 años de experiencia en América Latina.",
+        "og_image": ""
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Sobre Content Cucumber",
+                "title": "Contenido creado por personas.<br><em>15 años en América Latina.</em>",
+                "paragraphs": [
+                    "Content Cucumber es una empresa de marketing fundada sobre una idea sencilla: las personas crean mejor contenido que las máquinas. Construimos autoridad para marcas a través de creación de contenido, SEO, optimización AEO y servicios de descubrimiento LLM.",
+                    "Nuestro equipo directivo habla español con fluidez y tiene 15 años de experiencia trabajando en México y Sudamérica. Conocemos el mercado latinoamericano porque hemos sido parte de él."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "2018", "label": "Fundada" },
+                { "number": "30+", "label": "Años en Ecommerce" },
+                { "number": "15+", "label": "Años en América Latina" },
+                { "number": "40+", "label": "Redactores Humanos" }
+            ]
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Nuestra Historia",
+                "title": "De una fiesta en una conferencia a una empresa de marketing completa.",
+                "paragraphs": [
+                    "En 2018, Isaac Morey y sus cofundadores lanzaron Content Cucumber como un servicio de redacción para empresas que necesitaban contenido consistente y escrito por personas. Ese mismo año, se presentaron en IRCE en Chicago como un nuevo proveedor.",
+                    "Brent Peterson dirigía Wagento, una agencia de desarrollo de ecommerce con operaciones en México y Sudamérica. Brent conoció a Isaac en una fiesta durante la conferencia. Brent creyó en el concepto. La redacción constante construye SEO. El contenido consistente genera autoridad. En un año, Wagento ya estaba posicionada para todo su contenido de servicios de Magento y desarrollo.",
+                    "En su mejor momento, Content Cucumber tenía más de 60 redactores trabajando casi a tiempo completo. Después llegó ChatGPT. El mercado cambió. El contenido generado por IA inundó todos los canales y los redactores humanos enfrentaron una presión real.",
+                    "En abril de 2025, Content Basis (la empresa de growth marketing de Brent) adquirió la participación mayoritaria de Content Cucumber. El objetivo era claro: mantener a los redactores humanos trabajando, pero ampliar los servicios a su alrededor. La redacción por sí sola ya no era suficiente. Las marcas necesitaban estrategia SEO, optimización AEO para motores de búsqueda con IA, servicios de descubrimiento LLM, implementación de HubSpot y soporte de marketing integral.",
+                    "Hoy, Content Cucumber es una empresa de marketing completa con raíces profundas en América Latina. Isaac habla español con fluidez. Brent operó servicios de desarrollo en México y Sudamérica durante más de 15 años. Conocemos el mercado, la cultura y lo que las marcas latinoamericanas necesitan para crecer."
+                ],
+                "stats": [
+                    { "number": "2018", "label": "Fundada en IRCE Chicago" },
+                    { "number": "2025", "label": "Adquisición por Content Basis" },
+                    { "number": "15+", "label": "Años en América Latina" },
+                    { "number": "40+", "label": "Redactores Activos Hoy" }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "Lo Que Hacemos",
+                "subtitle": "La creación de contenido es la base. Todo lo demás se construye sobre ella.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Creación de Contenido",
+                        "text": "Blogs, artículos, textos web, descripciones de productos, boletines y páginas de aterrizaje. Más de 40 redactores humanos que se adaptan a la voz de tu marca. Entrega consistente, cada semana."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Optimización SEO y AEO",
+                        "text": "Optimización para buscadores como Google y para motores de IA como ChatGPT, Claude, Perplexity y Google AI Overviews. Tu contenido necesita aparecer en todos los lugares donde tus compradores buscan."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Servicios de Descubrimiento LLM",
+                        "text": "Haz que tu marca sea visible en los modelos de lenguaje. Optimizamos tu contenido para que los sistemas de IA recomienden tus productos y servicios cuando los compradores pregunten."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Implementación de HubSpot",
+                        "text": "Como HubSpot Solutions Partner, implementamos Marketing Hub, Content Hub y Sales Hub. Atribución completa para que puedas ver qué contenido genera ingresos."
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Producción de Video en Conferencias",
+                        "text": "Llegamos a tu stand, grabamos entrevistas profesionales y te entregamos videos listos para publicar. Una sola sesión de grabación, meses de contenido."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Contenido para Redes Sociales",
+                        "text": "Publicaciones pensadas para cada plataforma que suenan como tu marca. Nosotros escribimos, tú apruebas, nosotros publicamos. LinkedIn, Instagram, Facebook y más."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Nuestra Convicción",
+                "title": "El contenido es el rey.<br><em>Siempre lo ha sido.</em>",
+                "paragraphs": [
+                    "La IA hizo que el contenido fuera barato. No lo hizo bueno. Cuando todas las marcas publican el mismo contenido generado por IA, ninguna construye autoridad. Las marcas que ganan son las que invierten en contenido que se distingue.",
+                    "Lo hemos visto durante más de 30 años en ecommerce. Las marcas que se comprometen con contenido consistente y de calidad construyen tráfico orgánico, ganan confianza y crean una ventaja competitiva que se acumula. No hay atajos."
+                ],
+                "old_way": {
+                    "heading": "El Enfoque de Contenido con IA",
+                    "items": [
+                        "Genera contenido en segundos",
+                        "El mismo resultado que todos tus competidores",
+                        "Sin voz de marca, sin diferenciación",
+                        "Invisible en los resultados de búsqueda con IA",
+                        "Cero autoridad construida"
+                    ]
+                },
+                "new_way": {
+                    "heading": "El Enfoque de Content Cucumber",
+                    "items": [
+                        "Redactores humanos que se adaptan a tu marca",
+                        "Contenido que suena como tú, no como una plantilla",
+                        "Optimización SEO + AEO + LLM",
+                        "Visible en Google y en búsqueda con IA",
+                        "Autoridad que se acumula con el tiempo"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "¿Por Qué las Marcas Nos Eligen?",
+                "subtitle": "Equipo bilingüe con más de 15 años de experiencia en América Latina.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Equipo Bilingüe",
+                        "text": "Nuestro equipo directivo habla español con fluidez. Isaac es bilingüe nativo. Brent operó servicios de desarrollo en México y Sudamérica durante 15 años. No necesitas un traductor para trabajar con nosotros."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Autoridad que Se Acumula",
+                        "text": "El contenido consistente construye posicionamiento orgánico a lo largo de meses y años. Hemos visto marcas pasar de 500 a más de 10,000 visitantes orgánicos mensuales gracias a programas de contenido disciplinados."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Visible en Búsqueda con IA",
+                        "text": "Tus compradores están preguntándole a ChatGPT y Perplexity por recomendaciones. Optimizamos tu contenido para descubrimiento LLM para que tu marca aparezca en esas conversaciones."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Experiencia en América Latina",
+                        "text": "Más de 15 años trabajando en la región. Conocemos el mercado, la cultura y lo que las marcas latinoamericanas necesitan para crecer en ecommerce."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para construir tu motor de contenido?",
+                "text": "Cuéntanos sobre tu marca y tus objetivos. Vamos a armar un plan de contenido que construya autoridad, genere tráfico orgánico y haga que tu marca sea visible en todos los lugares donde tus compradores buscan. Hablamos español."
+            }
+        }
+    ]
+}

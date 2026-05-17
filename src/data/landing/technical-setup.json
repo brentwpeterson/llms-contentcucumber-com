@@ -1,0 +1,83 @@
+{
+  "form": {
+    "header": "Get Your Free AI Visibility Check",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "llms.txt & AI Technical Setup - Content Cucumber",
+    "meta_description": "Implement llms.txt, configure AI crawler access, add schema markup, and set up everything AI needs to understand your brand. Technical optimization for LLM discovery.",
+    "slug": "technical-setup"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "LLM Discovery",
+        "title": "llms.txt &<br><em>AI Technical Setup</em>",
+        "paragraphs": [
+          "The technical foundation AI needs to find, understand, and recommend your brand. llms.txt, schema markup, crawler access, and server-side rendering."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What We Implement",
+        "subtitle": "AI crawlers need structured, machine-readable information to understand your business. We set up everything they need.",
+        "items": [
+          {
+            "icon": "file",
+            "title": "llms.txt & llms-full.txt",
+            "text": "Create and maintain the files that tell AI crawlers what your business does, what you offer, and how to reference you accurately."
+          },
+          {
+            "icon": "robot",
+            "title": "AI Crawler Configuration",
+            "text": "Configure robots.txt with explicit rules for GPTBot, ClaudeBot, PerplexityBot, and other AI crawlers. Allow search crawlers, control training crawlers."
+          },
+          {
+            "icon": "code",
+            "title": "JSON-LD Schema Markup",
+            "text": "Implement Organization, Article, Product, FAQ, BreadcrumbList, and Service schema across your site. Machine-readable structured data that AI understands."
+          },
+          {
+            "icon": "server",
+            "title": "Server-Side Rendering",
+            "text": "AI crawlers don't execute JavaScript. We ensure all your content is server-rendered and accessible to every AI platform."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What is llms.txt?",
+            "answer": "An emerging standard (like robots.txt for AI) that provides AI crawlers with structured information about your business. It tells AI what you do, what you offer, and how to reference you accurately."
+          },
+          {
+            "question": "Do I need to block any AI crawlers?",
+            "answer": "It depends on your goals. We recommend allowing search-focused crawlers (GPTBot, ClaudeBot, PerplexityBot) for AI visibility while optionally blocking training-only crawlers. We help you make this decision and implement it."
+          },
+          {
+            "question": "How long does the technical setup take?",
+            "answer": "Most implementations take 1-2 weeks. llms.txt and crawler configuration are quick. Schema markup depends on your site size and complexity."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Is Your Site AI-Ready?",
+        "text": "Find out what AI crawlers can and can't see on your site. Our free check shows you the gaps."
+      }
+    }
+  ]
+}

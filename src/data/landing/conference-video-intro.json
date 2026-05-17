@@ -1,0 +1,95 @@
+{
+    "seo": {
+        "meta_description": "Watch how Content Cucumber turns your conference booth into months of marketing content. Professional video production, guided interviews, polished deliverables.",
+        "og_description": "Isaac walks you through Content Cucumber's Conference Video Production service. See how we turn 3 days at your booth into 3 months of marketing.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Book Your Live Event Content",
+        "subtitle": "Tell us which event you're attending.",
+        "trust_text": "Hundreds of interviews recorded. 30+ years in ecommerce. Zero fluff.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "You're booked! Here's what happens next.",
+        "text": "We'll be in touch shortly with logistics and a short prep guide so your team is ready to look great on camera.",
+        "link_anchor": "video",
+        "link_text": "Watch the video again"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Conference Video Production",
+                "title": "See how we turn your booth into<br><em>months of marketing</em>.",
+                "paragraphs": [
+                    "Isaac walks you through exactly what Conference Video Production looks like, what you get, and why brands leave with a content library instead of just badge scans."
+                ],
+                "youtube_id": "B2DTOLMkzf4",
+                "youtube_aspect": "16x9",
+                "youtube_title": "Conference Video Production by Content Cucumber",
+                "youtube_caption": "Isaac introduces Conference Video Production by Content Cucumber."
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "100s", "label": "Interviews Recorded" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "500+", "label": "Podcast Episodes" },
+                { "number": "8", "label": "Deliverable Types" }
+            ]
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "What You Get",
+                "subtitle": "Every Live Event Content package includes polished, ready-to-use assets.",
+                "items": [
+                    {
+                        "name": "Short-Form Video Clips",
+                        "badge": "Always Included",
+                        "featured": true,
+                        "target": "Professionally edited interview clips ready for social, web, presentations, and sales outreach.",
+                        "outcomes": [
+                            "Vertical cuts for social media",
+                            "Horizontal cuts for web and presentations",
+                            "Clean captions and titles",
+                            "Light branding applied",
+                            "Raw footage and audio files included"
+                        ]
+                    },
+                    {
+                        "name": "Post-Event Email Campaign",
+                        "target": "A structured follow-up sequence built from your conference footage.",
+                        "outcomes": [
+                            "Follow-up sequence using your video clips",
+                            "Personalized for prospects met at the event",
+                            "Keeps momentum alive after the show",
+                            "Drives traffic to your landing pages"
+                        ]
+                    },
+                    {
+                        "name": "Content Distribution",
+                        "target": "We handle getting your video content out to the world.",
+                        "outcomes": [
+                            "Social media publishing and scheduling",
+                            "SEO and AEO blog articles from interviews",
+                            "Ad setup for paid promotion",
+                            "Repurposed for multiple channels and formats"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to turn your next conference into a content engine?",
+                "text": "Tell us which event you're attending. We'll put together a plan that turns your booth presence into months of marketing assets."
+            }
+        }
+    ]
+}

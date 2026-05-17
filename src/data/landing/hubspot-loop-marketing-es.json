@@ -1,0 +1,363 @@
+{
+    "seo": {
+        "meta_description": "Loop Marketing para marcas de ecommerce. Reemplaza el Funnel con un ciclo continuo: Expresar, Personalizar, Amplificar, Evolucionar. Atribución completa de ingresos incluida. No necesitas HubSpot para empezar.",
+        "og_description": "Content Cucumber implementa Loop Marketing para marcas de ecommerce. Más de 40 redactores humanos, atribución completa y una metodología diseñada para cómo compran los consumidores hoy. Nosotros configuramos la plataforma por ti.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Obtén Tu Revisión Gratuita de Loop Marketing",
+        "subtitle": "",
+        "trust_text": "HubSpot Solutions Partner. Certificados en Loop Marketing. Más de 30 años en ecommerce.",
+        "portal_id": "39487190",
+        "form_id": "b6fd5018-f312-4817-89c2-0011a24d5ed2",
+        "region": "na1"
+    },
+    "floating_cta": {
+        "text": "Revisión Gratuita de Loop Marketing",
+        "href": "#form"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Growth Marketing para Marcas de Ecommerce",
+                "title": "Funnels son el pasado.<br><em>Loops son el futuro.</em>",
+                "paragraphs": [
+                    "Tus compradores investigan en Reddit, YouTube y ChatGPT antes de visitar tu sitio. Esperan mensajes personalizados, no campañas genéricas. Y para cuando ves los reportes trimestrales, la oportunidad ya pasó. Loop Marketing resuelve esto con un ciclo continuo: Expresar la voz de tu marca con autenticidad, Personalizar los mensajes con IA y datos de tu CRM, Amplificar en todos los canales donde tus compradores realmente están, y Evolucionar iterando en tiempo real en lugar de esperar al siguiente trimestre.",
+                    "Tu revisión gratuita de Loop Marketing incluye:",
+                    "<ul><li>Scorecard que mapea tu marketing a las cuatro etapas del Loop</li><li>Puntuación Express: ¿Tu contenido destaca o se pierde en el ruido?</li><li>Puntuación Tailor: ¿Dónde te falta personalizar de verdad?</li><li>Puntuación Amplify: ¿Estás llegando donde tus clientes realmente buscan?</li><li>Puntuación Evolve: ¿Estás ajustando sobre la marcha o esperando reportes?</li><li>Lista priorizada de mejoras ordenada por impacto en ingresos</li><li>Llamada de 30 minutos con un experto en marketing de ecommerce</li><li>Entregable escrito que puedes aplicar de inmediato</li></ul>"
+                ],
+                "platforms_label": "Impulsando el crecimiento en",
+                "platforms": "Shopify &bull; BigCommerce &bull; Magento &bull; WooCommerce"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" },
+                { "number": "30+", "label": "Años en Ecommerce" },
+                { "number": "40+", "label": "Redactores Humanos" },
+                { "number": "500+", "label": "Episodios de Podcast" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "¿Por Qué el Funnel Dejó de Funcionar?",
+                "subtitle": "Estos son los cuatro problemas que Loop Marketing fue creado para resolver. Si alguno te suena familiar, tu marketing necesita un nuevo enfoque.",
+                "items": [
+                    {
+                        "title": "El Contenido de IA Saturó el Mercado",
+                        "text": "Todas las marcas publican el mismo contenido generado por IA. Artículos de blog, descripciones de productos, textos para redes sociales. Todo suena idéntico. Cuando todos tienen el mismo contenido, nadie destaca. La etapa Expresar de Loop Marketing arranca con contenido que diferencia a tu marca."
+                    },
+                    {
+                        "title": "Tu Atribución Está Rota",
+                        "text": "La búsqueda con IA está cambiando cómo se rastrea el tráfico. Tus números orgánicos se ven más bajos, pero tus ingresos pueden estar estables. Los modelos viejos de atribución no pueden dar cuenta de resultados sin clic, resúmenes de IA y recorridos de compra multi-touch. Necesitas un sistema que rastree el Loop completo, no solo el último clic."
+                    },
+                    {
+                        "title": "Tus Compradores No Siguen un Funnel",
+                        "text": "El Funnel lineal suponía que los compradores iban de conocimiento a consideración a decisión en orden. No es así. Saltan entre canales, revisitan etapas y toman decisiones bajo sus propios términos. Loop Marketing está diseñado para esta realidad. Encuentra a los compradores en cualquier punto del ciclo."
+                    },
+                    {
+                        "title": "Tus Servicios de Marketing Se Volvieron un Commodity",
+                        "text": "Cuando todas las agencias ofrecen el mismo paquete de blog-y-SEO, estás comprando un commodity. Loop Marketing es una metodología, no un menú de entregables. Conecta creación de contenido, personalización, amplificación y optimización en un sistema continuo vinculado a ingresos."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "El Cambio",
+                "title": "Del Funnel lineal<br>al <em>Loop continuo</em>.",
+                "paragraphs": [
+                    "El Funnel de marketing fue creado para un mundo donde tú controlabas el recorrido del comprador. Ese mundo ya no existe. Los compradores se mueven entre canales, brincan etapas y toman decisiones en sus propios tiempos.",
+                    "El framework de Loop Marketing de HubSpot (lanzado en Inbound 2025) reemplaza el Funnel con cuatro etapas continuas: Expresar (crear contenido diferenciado), Personalizar (adaptar al contexto), Amplificar (distribuir en todos los canales) y Evolucionar (optimizar con base en lo que funciona).",
+                    "Implementamos el Loop completo con atribución real, para que puedas ver cómo cada etapa genera ingresos. ¿Ya estás en HubSpot? Perfecto. ¿Todavía no? Lo configuramos como parte del proyecto."
+                ],
+                "old_way": {
+                    "heading": "Funnel Lineal",
+                    "items": [
+                        "Etapas de contenido superior, medio e inferior",
+                        "El mismo mensaje para cada visitante",
+                        "Publicar y esperar tráfico de Google",
+                        "Métricas de tráfico sin vínculo a ingresos",
+                        "Lanzamientos de campañas trimestrales"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Loop Marketing",
+                    "items": [
+                        "Ciclo continuo a través de todas las etapas",
+                        "Personalización basada en contexto (Personalizar)",
+                        "Amplificación multicanal (Amplificar)",
+                        "Atribución completa de ingresos vía HubSpot",
+                        "Optimización permanente (Evolucionar)"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "who-its-for",
+            "data": {
+                "title": "¿Loop Marketing Es para Ti?",
+                "subtitle": "Loop Marketing no es para todos. Es para marcas de ecommerce que ya se cansaron de la rueda del hámster del contenido y están listas para un sistema que se acumula.",
+                "fits": [
+                    {
+                        "icon": "check",
+                        "text": "Eres una marca de ecommerce con más de $1M en ingresos"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "Quieres una plataforma de marketing que vincule contenido a ingresos (nosotros configuramos HubSpot por ti si no lo tienes)"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "Has probado el marketing de contenido pero no logras vincularlo a ingresos"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "Quieres aparecer en búsqueda con IA (ChatGPT, Claude, Perplexity), no solo en Google"
+                    },
+                    {
+                        "icon": "check",
+                        "text": "Necesitas un equipo, no otra herramienta"
+                    }
+                ],
+                "not_fits": [
+                    {
+                        "icon": "x",
+                        "text": "Solo necesitas un freelancer para unos artículos de blog"
+                    },
+                    {
+                        "icon": "x",
+                        "text": "Buscas la opción de contenido más barata"
+                    },
+                    {
+                        "icon": "x",
+                        "text": "Todavía no tienes product-market fit"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Paquetes de Loop Marketing para Ecommerce",
+                "subtitle": "No vendemos horas ni puntos. Vendemos resultados. Cada paquete está dimensionado a tus objetivos, y el volumen de contenido es lo que se necesite para alcanzar el resultado. Platícanos qué paquete se ajusta a tu marca.",
+                "items": [
+                    {
+                        "name": "Loop Starter",
+                        "target": "Captura la voz de tu marca, pon tu publicación de contenido en piloto automático y establece una línea base para visibilidad en búsqueda con IA. Los cimientos que toda marca de ecommerce necesita antes de escalar.",
+                        "outcome": "Visibilidad de marca en canales orgánicos y de IA",
+                        "measures": "Menciones en IA, tráfico orgánico, velocidad de contenido",
+                        "stages": "Expresar + Amplificar",
+                        "outcomes": [
+                            "Voz de marca capturada y gestionada en <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener noreferrer\">RequestDesk</a>",
+                            "Contenido publicado en tu plataforma principal",
+                            "Auditoría de línea base AIO para visibilidad en búsqueda con IA",
+                            "Reporte mensual de velocidad de contenido"
+                        ],
+                        "modal": {
+                            "heading": "Loop Starter: Construye los Cimientos",
+                            "description": "Antes de ejecutar un Loop, necesitas lo básico en su lugar. Starter captura tu voz de marca, logra que el contenido se publique de manera consistente y establece tu línea base en búsqueda con IA. Piénsalo como la infraestructura sobre la que se construye todo lo demás.",
+                            "details": [
+                                {"label": "Captura de Voz de Marca", "text": "Entrevistamos a tu equipo, analizamos tu contenido existente y construimos un perfil de voz de marca en RequestDesk. Cada pieza de contenido suena como tú desde el día uno."},
+                                {"label": "Contenido en Piloto Automático", "text": "Artículos de blog, descripciones de productos y páginas fundamentales publicadas con un calendario consistente. Se acabaron los huecos de contenido."},
+                                {"label": "Auditoría de Línea Base AIO", "text": "Evaluamos tu visibilidad actual en ChatGPT, Claude, Perplexity y Google AI Overviews. Obtienes un punto de referencia para medir tu crecimiento."},
+                                {"label": "Reportes Mensuales", "text": "Velocidad de contenido, tendencias de tráfico orgánico y seguimiento de menciones en IA. Ves qué se está moviendo."}
+                            ],
+                            "best_for": "Marcas de ecommerce con menos de $5M que necesitan contenido consistente y una voz de marca antes de escalar."
+                        }
+                    },
+                    {
+                        "name": "Loop Growth",
+                        "target": "Conecta tu contenido directamente al pipeline. Loop completo funcionando con integración CRM, distribución multicanal y atribución de leads para que veas qué funciona. Configuramos HubSpot si no lo tienes.",
+                        "outcome": "Leads calificados generados por el contenido",
+                        "measures": "MQLs generados, tasa de conversión, pipeline influenciado",
+                        "stages": "Las 4 etapas",
+                        "featured": true,
+                        "badge": "Más Popular",
+                        "outcomes": [
+                            "Todo lo de Loop Starter",
+                            "Integración con HubSpot CRM vía <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener noreferrer\">RequestDesk</a> para contenido personalizado",
+                            "Publicación multicanal (blog, redes sociales, email)",
+                            "Reportes de atribución de leads",
+                            "Ciclo de optimización mensual"
+                        ],
+                        "modal": {
+                            "heading": "Loop Growth: Conecta el Contenido al Pipeline",
+                            "description": "Aquí es donde el contenido deja de ser un centro de costos y empieza a generar leads. Growth conecta tu contenido a HubSpot, lo distribuye en todos los canales y te da atribución para que sepas qué contenido crea pipeline.",
+                            "details": [
+                                {"label": "Integración con HubSpot CRM", "text": "RequestDesk se conecta directamente a HubSpot. El contenido se personaliza según la etapa del ciclo de vida, y cada interacción se rastrea hasta el registro del contacto."},
+                                {"label": "Distribución Multicanal", "text": "Blog, redes sociales, email y sindicación. Tu contenido llega donde están tus compradores, no solo donde es más fácil publicar."},
+                                {"label": "Atribución de Leads", "text": "Ve qué artículo de blog, email o publicación en redes sociales influyó en un negocio. Se acabó la adivinanza de si el contenido funciona."},
+                                {"label": "Optimización Mensual", "text": "Revisamos qué está convirtiendo, eliminamos lo que no y le metemos más a lo que sí funciona. El Loop evoluciona cada mes."}
+                            ],
+                            "best_for": "Marcas de ecommerce de $5M a $25M que quieren contenido vinculado directamente al pipeline. Configuración de HubSpot incluida si se necesita."
+                        }
+                    },
+                    {
+                        "name": "Loop Scale",
+                        "target": "Convierte el contenido en un canal de ingresos medible. Producción de alto volumen, optimización AIO completa en ChatGPT, Claude y Perplexity, más dashboards de ingresos que vinculan contenido a negocios cerrados.",
+                        "outcome": "Atribución de ingresos desde el contenido",
+                        "measures": "Negocios influenciados, ROI de contenido, costo de adquisición de clientes",
+                        "stages": "Las 4 etapas + AIO",
+                        "outcomes": [
+                            "Todo lo de Loop Growth",
+                            "Producción de contenido de alto volumen vía Content Cucumber",
+                            "Optimización AIO completa (visibilidad en ChatGPT, Claude, Perplexity)",
+                            "Ciclos de iteración semanales",
+                            "Dashboards de atribución de ingresos",
+                            "Líder de estrategia dedicado"
+                        ],
+                        "modal": {
+                            "heading": "Loop Scale: Contenido como Canal de Ingresos",
+                            "description": "Scale es para marcas que quieren que el contenido sea un generador de ingresos medible, no un gasto de marketing. Producción de alto volumen, optimización AIO completa, iteración semanal y dashboards que vinculan contenido directamente a negocios cerrados.",
+                            "details": [
+                                {"label": "Producción de Alto Volumen", "text": "Los más de 40 redactores humanos de Content Cucumber producen al volumen que necesites. 10 artículos o 50, el resultado es el mismo."},
+                                {"label": "Optimización AIO Completa", "text": "Tu marca aparece cuando los compradores le preguntan a ChatGPT, Claude o Perplexity por recomendaciones. Optimizamos para búsqueda con IA, no solo para Google."},
+                                {"label": "Iteración Semanal", "text": "Los ciclos mensuales son muy lentos a esta escala. Revisamos el rendimiento cada semana y ajustamos la estrategia de contenido en tiempo real."},
+                                {"label": "Dashboards de Ingresos", "text": "ROI de contenido, negocios influenciados, costo de adquisición de clientes. La dirección ejecutiva obtiene los números que necesita para seguir invirtiendo en contenido."},
+                                {"label": "Líder de Estrategia Dedicado", "text": "Un estratega senior se hace cargo de tu cuenta. Una persona que conoce tu marca, tus datos y tus objetivos."}
+                            ],
+                            "best_for": "Marcas de ecommerce con más de $25M que quieren contenido como un canal de ingresos medible con reportes a nivel ejecutivo."
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Lo Que el Loop Entrega",
+                "subtitle": "No son servicios. Son resultados. Esto es lo que las marcas de ecommerce obtienen cuando ejecutan el Loop completo.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Contenido que Destaca (Expresar)",
+                        "text": "Más de 40 redactores humanos crean contenido con experiencia real en ecommerce. RequestDesk captura tu voz de marca y gestiona todo el pipeline de contenido. En un mercado saturado de contenido de IA, el contenido humano respaldado por herramientas inteligentes es lo que marca la diferencia."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Ingresos que Puedes Rastrear (Personalizar)",
+                        "text": "Atribución completa con personalización basada en contexto. RequestDesk conecta el contenido a tu CRM para que veas qué contenido genera qué ventas, para qué segmentos. Configuramos HubSpot Marketing Hub Pro como el motor si todavía no lo tienes."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Visible Donde Sea que los Compradores Busquen (Amplificar)",
+                        "text": "Tus productos aparecen en ChatGPT, Claude, Perplexity, resúmenes de IA de Google, email y redes sociales. Optimizamos para AIO (no solo SEO) y distribuimos en cada canal donde tus compradores pasan tiempo en 2026."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Siempre Mejorando (Evolucionar)",
+                        "text": "El Loop nunca se detiene. Los datos de rendimiento de cada etapa alimentan la optimización. Lo que funciona se amplifica. Lo que no, se ajusta. Tu marketing se acumula con el tiempo en lugar de reiniciarse cada trimestre."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "HubSpot Solutions Partner",
+                "title": "Especialistas en ecommerce que entienden el Loop.",
+                "highlights": [
+                    {
+                        "title": "Más de 30 Años en Ecommerce",
+                        "text": "Liderado por Brent Peterson, Content Cucumber trabaja con marcas en línea. Participamos como ponentes en eTail, Shoptalk y eventos de la industria. Somos anfitriones de Talk Commerce, un podcast con más de 500 episodios con líderes de ecommerce."
+                    },
+                    {
+                        "title": "Adoptadores Tempranos del Loop",
+                        "text": "Adoptamos Loop Marketing desde el principio porque llevamos años diciendo que el Funnel está roto. El recorrido no lineal del comprador no es nuevo para nosotros. HubSpot simplemente le dio un nombre y un framework."
+                    },
+                    {
+                        "title": "Equipo + Plataforma",
+                        "text": "Content Cucumber es el equipo. RequestDesk es la plataforma. Juntos ejecutan el Loop completo. RequestDesk gestiona la voz de marca, la ejecución de contenido y la publicación en todos los canales. HubSpot provee la capa de CRM y atribución. Nosotros configuramos todo."
+                    }
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Años en Ecommerce" },
+                    { "number": "40+", "label": "Redactores Humanos" },
+                    { "number": "500+", "label": "Episodios de Podcast" },
+                    { "number": "4", "label": "Etapas del Loop Cubiertas" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas que Escuchamos",
+                "items": [
+                    {
+                        "question": "\"¿Qué es Loop Marketing?\"",
+                        "answer": "Loop Marketing es el framework de HubSpot (lanzado en Inbound 2025) que reemplaza el Funnel de marketing tradicional con un ciclo continuo. Tiene cuatro etapas: Expresar (crear contenido diferenciado), Personalizar (adaptar al contexto), Amplificar (distribuir en todos los canales) y Evolucionar (optimizar con base en datos). Está diseñado para cómo los compradores toman decisiones hoy, que es de forma no lineal."
+                    },
+                    {
+                        "question": "\"¿Necesitamos tener HubSpot ya?\"",
+                        "answer": "No. La mayoría de nuestros clientes no tienen HubSpot cuando empiezan. Configuramos HubSpot Marketing Hub Pro como parte de cada proyecto de Loop Marketing. Obtienes la atribución, personalización y automatización que hace medible cada etapa del Loop. Si ya estás en HubSpot, nos integramos con tu configuración existente."
+                    },
+                    {
+                        "question": "\"La IA puede escribir nuestro contenido. ¿Para qué necesitamos redactores?\"",
+                        "answer": "La etapa Expresar de Loop Marketing se trata de contenido diferenciado. La IA produce el mismo resultado para todas las marcas. Cuando todos los competidores publican contenido de IA idéntico, nada destaca. Nuestros más de 40 redactores humanos crean contenido con experiencia real y tu voz de marca. Eso es lo que hace funcionar la etapa Expresar."
+                    },
+                    {
+                        "question": "\"¿En qué se diferencia del marketing de contenido tradicional?\"",
+                        "answer": "El marketing de contenido tradicional es lineal. Creas contenido, lo publicas, esperas que funcione. Loop Marketing es un sistema continuo. La creación de contenido (Expresar) alimenta la personalización (Personalizar), que alimenta la distribución (Amplificar), que devuelve datos de rendimiento a la optimización (Evolucionar). Cada etapa mejora a las demás. Y con la atribución de HubSpot, puedes ver el impacto en ingresos en cada punto."
+                    },
+                    {
+                        "question": "\"¿Qué incluye la revisión gratuita de Loop Marketing?\"",
+                        "answer": "Recibes un scorecard de una página que mapea tu marketing actual a las cuatro etapas del Loop y evalúa cada una. Te mostramos dónde el contenido no está diferenciado (Expresar), dónde falta personalización (Personalizar), dónde la distribución es limitada (Amplificar) y dónde la optimización no está ocurriendo (Evolucionar). Te vas con una lista priorizada de qué corregir primero según el impacto en ingresos. Es una llamada de 30 minutos y un entregable escrito sobre el que puedes actuar de inmediato."
+                    },
+                    {
+                        "question": "\"¿Cómo funcionan los precios?\"",
+                        "answer": "Cobramos por resultados, no por horas ni puntos. Cada paquete está dimensionado a un objetivo específico: visibilidad, leads o ingresos. El volumen de contenido es lo que se necesite para alcanzar el resultado. Si un mes se necesitan 10 artículos y al siguiente 20, ese es nuestro problema, no el tuyo. Te guiamos por las opciones en una llamada y te recomendamos el que mejor se ajuste a tu marca."
+                    },
+                    {
+                        "question": "\"¿Qué es RequestDesk?\"",
+                        "answer": "RequestDesk es nuestra plataforma de ejecución de contenido. Captura tu voz de marca, gestiona tu pipeline de contenido, se integra con HubSpot CRM para contenido personalizado y publica en Shopify, WordPress y canales sociales. Piénsalo como la capa de contenido que se conecta a tu HubSpot. Content Cucumber es el equipo que lo opera."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ecosystem",
+            "data": {
+                "title": "El Ecosistema de Loop Marketing",
+                "subtitle": "Dos marcas, un sistema. Cada una juega un rol en ejecutar tu Loop.",
+                "brands": [
+                    {
+                        "name": "Content Cucumber",
+                        "role": "El Motor de Contenido",
+                        "description": "Producción de contenido para Loop Marketing. Más de 40 redactores humanos, gestión de voz de marca, publicación multicanal. Estás aquí.",
+                        "current": true
+                    },
+                    {
+                        "name": "RequestDesk",
+                        "role": "La Plataforma",
+                        "description": "Gestión de voz de marca, asistente de contenido con IA, integración con HubSpot CRM y publicación multicanal. El motor detrás del contenido.",
+                        "link_text": "Conoce la plataforma",
+                        "modal": {
+                            "heading": "RequestDesk: La Plataforma de Ejecución de Contenido",
+                            "description": "RequestDesk es la plataforma que impulsa la ejecución de Loop Marketing. Captura tu voz de marca, gestiona tu pipeline de contenido, se integra con HubSpot CRM y publica en cada canal que usan tus compradores.",
+                            "details": [
+                                {"label": "Gestión de Voz de Marca", "text": "Entrevistamos a tu equipo, analizamos tu contenido existente y construimos un perfil de voz de marca. Cada pieza de contenido suena como tú desde el día uno. Se acabaron los borradores fuera de tono."},
+                                {"label": "Asistente de Contenido con IA", "text": "RequestDesk usa tu perfil de voz de marca para guiar la creación de contenido. Los redactores humanos producen el contenido. La plataforma asegura consistencia entre más de 40 redactores trabajando en tu cuenta."},
+                                {"label": "Integración con HubSpot CRM", "text": "El contenido se personaliza según la etapa del ciclo de vida y las propiedades del contacto desde HubSpot. Cada interacción se rastrea hasta el registro del contacto para atribución completa."},
+                                {"label": "Publicación Multicanal", "text": "Publica en Shopify, WordPress, BigCommerce, email y canales sociales desde una sola plataforma. El contenido llega donde están tus compradores, no solo donde es más fácil publicar."}
+                            ],
+                            "best_for": "RequestDesk es el motor. Content Cucumber es el equipo que lo opera. Juntos ejecutan el sistema completo de Loop Marketing. La configuración de HubSpot está incluida si todavía no lo tienes."
+                        }
+                    }
+                ],
+                "cross_ctas": []
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para reemplazar el Funnel con un Loop?",
+                "text": "Obtén una revisión gratuita de Loop Marketing para tu marca de ecommerce. Recibirás un scorecard de una página de tus cuatro etapas del Loop, una lista priorizada de oportunidades y un siguiente paso claro. Llamada de 30 minutos, entregable escrito, sin discurso de ventas. Solo un equipo de ecommerce con más de 30 años de experiencia compartiendo lo que ve."
+            }
+        }
+    ]
+}

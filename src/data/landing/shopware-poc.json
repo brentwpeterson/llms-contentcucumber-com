@@ -1,0 +1,223 @@
+{
+    "form": {
+        "header": "Want a Shopware POC like this one?",
+        "subtitle": "",
+        "trust_text": "A seven-day paid sprint. Working URL ready to review. Real cart, real checkout, real branded storefront.",
+        "portal_id": "39487190",
+        "form_id": "c4212131-5c03-4ba0-99db-4a011eab8e83",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "Shopware POC in Seven Days - Ready to Review - Content Cucumber",
+        "meta_description": "A seven-day paid Shopware POC sprint that ends with a working URL ready to review. Real cart, real checkout, real branded catalog on your data.",
+        "slug": "shopware-poc"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Shopware POC",
+                "title": "A Working Shopware Storefront,<br><em>Ready to Review in Seven Days*</em>",
+                "paragraphs": [
+                    "Seven days from kickoff to a working URL on Shopware. Your brand, your SKUs, a real cart, a real checkout. Ready for your team to click through, demo internally, and review. Fixed price, fixed scope, paid sprint. The cost credits toward the larger project if you move forward.",
+                    "Every POC ships with:<ul><li>A branded storefront with your colors, type system, and favicon</li><li>10 to 50 of your SKUs imported with pricing, metadata, and certifications*</li><li>Optional: product descriptions and category copy written by Content Cucumber if you hand us a catalog CSV</li><li>A real cart and checkout placing real orders against the Shopware backend</li><li>AWS deploy on EC2 with TLS, hardening, and admin gating</li><li>Playwright test suite covering the full buying flow</li><li>Walkthrough call and a handoff doc with 90 days of recommendations</li></ul>",
+                    "<small><em>*The seven-day clock starts when you hand us the SKU list and platform access. Day seven gives you a working URL ready to review and demo internally, not a production-hardened storefront ready to serve real customers. Production cutover is a separate sprint after sign-off.</em></small>"
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "How we know it works",
+                "title": "We built one ourselves first",
+                "paragraphs": [
+                    "Cucumber &amp; Co., est. 1826. A fictional 200-year-old cucumber distributor with twelve SKUs, MOQs, bulk pricing, kosher and organic certifications. We built it in seven days to prove the arc, the deploy, the hardening, and the automated test coverage.",
+                    "<a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Click through the live demo &rarr;</a>",
+                    "The brand is fictional. The cart is real. So is the order number you will get when you place a test order.",
+                    "<figure style=\"margin-top:24px;\"><a href=\"https://contentcucumber.com/?p=22663\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/wp-content/themes/cucumber-gp-child/landing-data/shopware-poc-homepage.png\" alt=\"Cucumber and Co. homepage screenshot\" loading=\"lazy\" style=\"width:100%;height:auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.12);display:block;\" /></a><figcaption style=\"margin-top:12px;font-size:0.9em;color:#6b7280;text-align:center;\"><a href=\"https://contentcucumber.com/?p=22663\" target=\"_blank\" rel=\"noopener noreferrer\">Read the full build story on the blog &rarr;</a></figcaption></figure>"
+                ],
+                "old_way": {
+                    "heading": "Traditional agency POC",
+                    "items": [
+                        "Six to twelve weeks of discovery before any working code",
+                        "Six-figure SOW before you can click through anything",
+                        "POC delivered as slides and a Figma file",
+                        "Re-platform conversation later if the platform does not stretch"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Content Cucumber POC",
+                    "items": [
+                        "Working URL ready to review in seven days",
+                        "Fixed price, fixed scope, paid sprint",
+                        "Real cart, real checkout, real orders against your data shape",
+                        "Costs credit toward the larger project if you move forward"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "What's running on the demo",
+                "subtitle": "What this specific demo includes. Your POC can mirror this stack or skip the headless layer and run Shopware's bundled Twig storefront. Your call.",
+                "items": [
+                    {
+                        "icon": "zap",
+                        "title": "Shopware 6.7 backend",
+                        "text": "Shopware Open Source. Real admin, real catalog, real orders. The Open Source today, Rise, Evolve, Beyond commercial edition path is intact. No re-platform later."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Astro SSR storefront (optional)",
+                        "text": "This demo uses Astro 6.1 with the Node SSR adapter. Server-rendered HTML, zero JavaScript on most pages, Vue island where it makes sense. Faster and richer than the default. Skip it and use Shopware's bundled Twig storefront if your team is happier there."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Display-layer override",
+                        "text": "Same Shopware product IDs and orders, re-merchandised at the storefront. The headless promise made tangible. Re-skin and re-brand without touching the commerce engine."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Hardened on AWS",
+                        "text": "EC2 plus Caddy plus auto-TLS plus Docker Compose. Idempotent harden script rotates the admin password, gates /admin behind basic-auth, and patches env vars on every deploy."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Catalog with merchandising depth",
+                        "text": "Twelve SKUs with MOQs, bulk pricing tiers, kosher and organic certifications, vintage origin metadata, brand-aligned editorial photography. Real merchandising, not lorem ipsum and stock photos."
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Playwright E2E suite",
+                        "text": "Nine end-to-end tests, twelve seconds, fifteen screenshots per run. Walks home, catalog, PDP, cart, checkout, order. Automated proof the buying flow still works."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "The seven-day arc",
+                "subtitle": "Same pattern we run for every paid POC. Day one is stack confirmation. Day seven is a working URL ready to review. The clock starts when catalog data and platform access land.",
+                "items": [
+                    {
+                        "title": "Stack and local",
+                        "text": "Stand up Shopware in Docker. Pick the storefront layer (bundled Twig or headless Astro) based on your team and your roadmap. Confirm the pieces that matter for your data shape. No surprises after this day."
+                    },
+                    {
+                        "title": "Catalog and content",
+                        "text": "Import 10-50 representative SKUs with your metadata (MOQs, tiers, certifications). If you hand us a catalog CSV, we write the product descriptions and category copy. Brand chrome, type system, palette, custom favicon. Photography in a consistent style. Content is what Content Cucumber does."
+                    },
+                    {
+                        "title": "Display layer",
+                        "text": "Re-merchandise the catalog at the storefront. Same product IDs, same prices, same inventory. Different name, photo, description, category. The headless story made concrete."
+                    },
+                    {
+                        "title": "Cart, checkout, orders",
+                        "text": "Wire up the Shopware store-api. Real cart, real checkout, real order numbers. Quote form for bulk pricing requests. Server actions, no client-side framework tax."
+                    },
+                    {
+                        "title": "AWS deploy",
+                        "text": "EC2, Elastic IP, Route 53, Caddy with auto-TLS, Docker Compose. Provisioned by CLI, no console clicks. Repeatable on your AWS account or ours."
+                    },
+                    {
+                        "title": "Hardening",
+                        "text": "Admin password rotation, basic-auth on /admin, env patching, proxy headers. Idempotent script runs on every deploy. Default credentials cannot ship."
+                    },
+                    {
+                        "title": "Tests, walkthrough, handoff",
+                        "text": "Playwright suite covering the buying flow. Walkthrough call. Handoff doc with the next 90 days of recommendations. You leave the week with a URL ready to review and demo internally."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who is Shopware",
+                "title": "Our partner for serious commerce",
+                "paragraphs": [
+                    "Shopware is a German enterprise commerce platform. Open source core, commercial editions on top, headless-ready from day one, multi-storefront and multi-region in the same install. Content Cucumber is an official Shopware partner.",
+                    "<a href=\"/partners/shopware/\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Read our Shopware partner profile &rarr;</a>"
+                ],
+                "stats": [
+                    { "number": "55K+", "label": "Merchants worldwide" },
+                    { "number": "4", "label": "Editions on a single data model" },
+                    { "number": "Day 1", "label": "Headless-ready out of the box" }
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Why Shopware",
+                "subtitle": "Platform fit matters. Here is why we recommend Shopware when the commerce model is going to grow.",
+                "items": [
+                    {
+                        "icon": "globe",
+                        "title": "Open source today, commercial tomorrow",
+                        "text": "Shopware Open Source is free. Rise, Evolve, and Beyond layer on advanced features as you need them. Same data model the whole way. Migration up the commercial stack is a license change, not a re-platform."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Pick your storefront layer",
+                        "text": "Shopware ships with a bundled Twig storefront that works out of the box. The store-api is also a first-class API surface, so when you want to go headless (Astro, Next, Nuxt, or another frontend), nothing in the platform blocks you. Start where your team is comfortable. Move when you have a reason."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Built for serious commerce",
+                        "text": "Shopware is German enterprise commerce. Multi-storefront, multi-region, multi-currency, B2B and B2C in the same install, advanced rule-builder for promotions and pricing. Capability that is bolted on in lighter platforms is in the box here."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently asked questions",
+                "items": [
+                    {
+                        "question": "Is the cucumber storefront real?",
+                        "answer": "Yes. https://shopware.contentcucumber.com is a working Shopware 6.7 install with a real admin, real catalog, real cart, real checkout, and real order numbers. The brand (Cucumber and Co., est. 1826) is fictional. The commerce stack underneath is production-grade."
+                    },
+                    {
+                        "question": "Does my POC have to use Astro or be headless?",
+                        "answer": "No. The demo is built on Astro because the headless storefront ships richer pages and zero-JS by default, but the bundled Shopware Twig storefront is a perfectly valid POC target. We will recommend on the first call based on your team's comfort, your roadmap, and whether you expect a separate frontend team to own the storefront long-term. Either path ends in a working URL ready to review on day seven."
+                    },
+                    {
+                        "question": "What does a paid POC cost?",
+                        "answer": "It depends on catalog size, integrations, and feature scope. The structure is fixed price for a seven-day sprint that ends in a working URL ready to review. The seven-day clock starts when you hand off the SKU list and platform access (we are heads-down once we have what we need). The cost credits toward the larger statement of work if you move forward. Tell us your shape on the first call and we will come back with a number."
+                    },
+                    {
+                        "question": "Can you do this on Shopify or BigCommerce instead?",
+                        "answer": "Yes, with caveats. Shopify Plus and BigCommerce Enterprise are great when their model fits yours. Shopware is the recommendation when you want headless-ready from day one, when you expect to run multiple storefronts or regions, or when you want the freedom to move up a commercial stack without a re-platform later."
+                    },
+                    {
+                        "question": "Will my POC use my real backend or a sample?",
+                        "answer": "Your call. Most POCs run on a fresh Shopware install with a representative sample of your SKUs. If you have an existing Shopware backend you can grant API access to, we can point the storefront at that instead. Either way, the storefront ships with real cart and checkout."
+                    },
+                    {
+                        "question": "Can you write the product descriptions and category copy too?",
+                        "answer": "Yes. Content is Content Cucumber's core business and one of the strongest reasons to run the POC with us. Hand us a catalog CSV (or a Google Sheet, or a database export) and we will write product descriptions, category copy, brand voice samples, and supporting guide or blog content as part of the POC. Many POC clients hand off raw SKU specs and leave the writing to us. The content lands in the storefront the same week the cart goes live."
+                    },
+                    {
+                        "question": "What happens after the POC?",
+                        "answer": "Three options. One, you take the codebase and run with it (full handoff, full ownership, recommended for in-house teams). Two, we extend into a production cutover (typically six to twelve weeks of additional work). Three, we hand it back and you take it to a different agency. The sprint is paid either way."
+                    },
+                    {
+                        "question": "Who at Content Cucumber built this one?",
+                        "answer": "Brent Peterson built it across seven calendar days. The Astro storefront, the Shopware backend tuning, the AWS provisioning, and the harden script are in a sandbox commit. The blog post on contentcucumber.com walks through the same story for marketing teams."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Want a Shopware POC like this one?",
+                "text": "Tell us about your catalog and your timeline. We will come back with a scoped seven-day POC and a number."
+            }
+        }
+    ]
+}

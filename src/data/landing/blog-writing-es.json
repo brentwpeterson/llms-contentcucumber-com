@@ -1,0 +1,110 @@
+{
+  "form": {
+    "header": "Agenda tu consulta gratuita",
+    "subtitle": "",
+    "trust_text": "Mas de 40 escritores humanos. Cero contenido de IA.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Redaccion de blogs para ecommerce - Content Cucumber",
+    "meta_description": "Articulos de blog escritos por humanos, optimizados para SEO y entregados cada semana. Escritores dedicados que entienden tu marca y tu industria."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Creacion de contenido",
+        "title": "Articulos de blog que<br><em>generan trafico y convierten</em>",
+        "paragraphs": [
+          "Contenido profesional que posiciona tu marca en buscadores, engancha a tu audiencia y convierte lectores en clientes. Escrito por humanos que entienden tu industria."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "Lo que incluye nuestro servicio",
+        "subtitle": "No solo escribimos articulos. Creamos una maquina de contenido que trabaja para tu marca las 24 horas.",
+        "items": [
+          {
+            "icon": "pen",
+            "title": "Escritor dedicado",
+            "text": "Te asignamos un escritor que aprende tu voz de marca, tu terminologia y tu audiencia. Nada de freelancers rotando. Tu escritor conoce tu negocio a fondo."
+          },
+          {
+            "icon": "search",
+            "title": "Optimizado para SEO",
+            "text": "Cada articulo apunta a keywords especificos con estructura de encabezados, enlaces internos y meta datos. Escrito para personas, optimizado para buscadores."
+          },
+          {
+            "icon": "calendar",
+            "title": "Entrega semanal",
+            "text": "Publicacion constante y a tiempo, cada semana. Nosotros nos encargamos de escribir para que tu te enfoques en tu negocio."
+          },
+          {
+            "icon": "edit",
+            "title": "Revision editorial",
+            "text": "Cada articulo pasa por nuestro proceso editorial: verificacion de datos, revision gramatical y optimizacion SEO antes de entregarlo. Solo contenido listo para publicar."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "Como funciona",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Llamada de descubrimiento",
+            "text": "Conocemos tu negocio, tu audiencia, tus competidores y tus objetivos de contenido. Esto define cada articulo que escribimos."
+          },
+          {
+            "number": "02",
+            "title": "Calendario de contenido",
+            "text": "Creamos un calendario mensual alineado con tu estrategia SEO y objetivos de negocio. Tu apruebas los temas antes de que escribamos."
+          },
+          {
+            "number": "03",
+            "title": "Redaccion y edicion",
+            "text": "Tu escritor dedicado investiga, escribe y nuestro equipo editorial revisa. Recibes articulos pulidos y listos para publicar."
+          },
+          {
+            "number": "04",
+            "title": "Publicacion y medicion",
+            "text": "Los articulos se publican en tu calendario. Medimos el rendimiento y ajustamos la estrategia segun lo que posiciona y convierte."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Preguntas frecuentes",
+        "items": [
+          {
+            "question": "?Cuantos articulos recibo al mes?",
+            "answer": "Nuestros planes estandar incluyen de 4 a 8 articulos por mes, pero escalamos a 16 o mas para clientes que necesitan mayor volumen. Recomendamos empezar con 4 al mes e ir aumentando segun los resultados."
+          },
+          {
+            "question": "?Siempre me toca el mismo escritor?",
+            "answer": "Si. Cada cliente tiene un escritor dedicado que aprende tu voz de marca y tu industria. La consistencia en la voz construye confianza con tus lectores."
+          },
+          {
+            "question": "?De que largo son los articulos?",
+            "answer": "La mayoria son de 800 a 1,500 palabras, dependiendo del tema y los requisitos de SEO. Escribimos lo que el tema necesita, no para llenar un conteo de palabras."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "?Listo para hacer crecer tu blog?",
+        "text": "Deja de batallar con el contenido. Nuestros escritores expertos impulsan tu crecimiento organico con articulos que posicionan y convierten."
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+    "no_nav": true,
+    "seo": {
+        "title": "The robots.txt + llms.txt Punch List | Content Cucumber",
+        "meta_description": "Free checklist for AI search visibility. Audit your site for robots.txt and llms.txt, know which AI crawlers to allow or block, and publish a spec-compliant llms.txt that AI systems can actually read.",
+        "og_description": "Free AI visibility checklist. Five-step punch list with robots.txt + llms.txt templates, AI crawler allow/block decisions, and a quarterly maintenance plan.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    },
+    "form": {
+        "header": "Download the Punch List",
+        "portal_id": "39487190",
+        "form_id": "1712fb6e-b9d4-4b5b-83bf-78bfabb18380",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Check your inbox",
+        "text": "The robots.txt + llms.txt Punch List is on its way. You'll receive a download link within a few minutes.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Content Cucumber",
+                "title": "The robots.txt + llms.txt<br><em>Punch List</em>",
+                "subtitle": "Five steps. Copy-paste templates. AI-ready in an afternoon. Follow this checklist and end up ahead of 90% of sites.",
+                "bullets": [
+                    "Find out in 60 seconds whether your site is <strong>invisible to AI search</strong> or already ahead of the curve",
+                    "Copy the <strong>robots.txt template</strong> that names every major AI crawler: GPTBot, ClaudeBot, PerplexityBot, Amazonbot, Applebot-Extended, and more",
+                    "See the <strong>allow-search vs block-training</strong> decision most sites get wrong by default, with the one-line rule you actually want",
+                    "Get a <strong>spec-compliant llms.txt template</strong> that AI systems can parse, plus the six mistakes that quietly break the file for everyone else",
+                    "Learn the <strong>before/after test</strong> that shows exactly how ChatGPT, Claude, and Perplexity answer <em>'what is your company?'</em> once the files go live",
+                    "Build a <strong>quarterly maintenance cadence</strong> so new AI crawlers never catch you flat-footed again"
+                ],
+                "thumbnail": "landing-data/llm-discovery-guide-cover.png",
+                "authors": "Content Cucumber writes for brands that want AI systems to represent them accurately. This punch list is the same checklist we work through before publishing any client's robots.txt and llms.txt.",
+                "form_title": "Get the Punch List",
+                "form_subtitle": "Free. Checklist plus templates. Delivered to your inbox."
+            }
+        }
+    ]
+}

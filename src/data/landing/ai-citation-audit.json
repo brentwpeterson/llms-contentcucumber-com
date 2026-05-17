@@ -1,0 +1,111 @@
+{
+  "form": {
+    "header": "Get Your Free AI Visibility Check",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "AI Citation Audit - Content Cucumber",
+    "meta_description": "Find out if AI assistants recommend you or your competitors. We test your brand across ChatGPT, Perplexity, Google AI Overviews, and more.",
+    "slug": "ai-citation-audit"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "LLM Discovery",
+        "title": "AI Citation Audit<br><em>Who Does AI Recommend?</em>",
+        "paragraphs": [
+          "We test your brand across every major AI platform. See exactly where you show up, where you don't, and where your competitors appear instead."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What We Test",
+        "subtitle": "A systematic audit of your brand's visibility across AI search platforms.",
+        "items": [
+          {
+            "icon": "chat",
+            "title": "ChatGPT",
+            "text": "Test how ChatGPT describes your brand, recommends your products, and answers questions about your industry. Compare against competitors."
+          },
+          {
+            "icon": "search",
+            "title": "Perplexity",
+            "text": "Check which sources Perplexity cites for queries in your space. See if your content is being referenced or if competitors dominate."
+          },
+          {
+            "icon": "eye",
+            "title": "Google AI Overviews",
+            "text": "Analyze which content Google's AI summarizes at the top of search results for your target keywords. Check if you're included or bypassed."
+          },
+          {
+            "icon": "chart",
+            "title": "Ongoing Monitoring",
+            "text": "AI models update regularly. We track your visibility over time so you can measure the impact of optimization and catch drops early."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How the AI Citation Audit Works",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Define Queries",
+            "text": "We identify the questions your customers ask AI. Industry-specific queries, product comparisons, and recommendation requests that matter to your business."
+          },
+          {
+            "number": "02",
+            "title": "Test Across Platforms",
+            "text": "Run every query across ChatGPT, Perplexity, Google AI Overviews, and Claude. Document who gets mentioned, cited, and recommended."
+          },
+          {
+            "number": "03",
+            "title": "Competitor Comparison",
+            "text": "Map your visibility against your top competitors. See who AI recommends for each query type and where you have gaps."
+          },
+          {
+            "number": "04",
+            "title": "Actionable Report",
+            "text": "Prioritized recommendations for improving your AI visibility. Specific content changes, schema additions, and structural improvements ranked by impact."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "Can't I just test this myself?",
+            "answer": "You can test a few queries manually. But a proper audit tests dozens of queries across multiple platforms, documents competitor mentions, and identifies patterns. We also know what signals AI uses to choose sources, so our recommendations are targeted."
+          },
+          {
+            "question": "How often should I run an AI citation audit?",
+            "answer": "We recommend quarterly audits. AI models update their knowledge regularly, and your competitive landscape changes. Ongoing monitoring between audits catches sudden drops."
+          },
+          {
+            "question": "What if AI doesn't mention my brand at all?",
+            "answer": "That's common and it's exactly why we offer this service. The audit identifies why AI doesn't know about you (missing structured data, low brand mentions, content not formatted for citation) and gives you the roadmap to fix it."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Is AI Recommending You?",
+        "text": "Find out in one audit. See exactly where you show up in AI search and where your competitors appear instead."
+      }
+    }
+  ]
+}

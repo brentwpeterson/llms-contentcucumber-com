@@ -1,0 +1,131 @@
+{
+    "form": {
+        "header": "Let's build the AI you need",
+        "subtitle": "",
+        "trust_text": "Real engineers. Real builds. No vibe-coding.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "AI Solutions and Development - Content Cucumber",
+        "meta_description": "Custom AI solutions for your business. Chatbots, content automation, RAG applications, and intelligent workflows. Built by engineers who ship.",
+        "slug": "ai-solutions"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "AI Solutions",
+                "title": "AI That Works<br><em>For Your Business</em>",
+                "paragraphs": [
+                    "Custom AI solutions built for your specific needs. Chatbots, content automation, intelligent workflows, and RAG applications. Built by engineers who ship.",
+                    "Your free AI strategy call includes:",
+                    "<ul><li>Use-case mapping for your business and data</li><li>Build vs. buy recommendation for each opportunity</li><li>Cost and timeline estimate per use case</li><li>Vendor selection guidance (OpenAI, Anthropic, Azure AI)</li><li>Integration plan with your existing tools and CRM</li><li>Written deliverable you can act on immediately</li></ul>"
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "What We Build",
+                "subtitle": "Six categories. All built on production-grade infrastructure with proper guardrails, not weekend prototypes.",
+                "items": [
+                    {
+                        "icon": "chat",
+                        "title": "Custom AI Assistants",
+                        "text": "Intelligent assistants trained on your data to help customers and employees. Built with proper context, guardrails, and human escalation paths."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Content Automation",
+                        "text": "AI-powered content workflows that respect your brand voice. Humans in the loop on every piece. AI handles the busywork. Writers handle the writing."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "RAG Applications",
+                        "text": "Retrieval-augmented generation systems that let your team query your knowledge base in plain English. Your docs, contracts, and reports become a chat-able resource."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Process Automation",
+                        "text": "Repetitive tasks replaced with intelligent workflows. AI decision-making where it belongs (clear rules, low risk). Human review where it matters."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "AI Integrations",
+                        "text": "Connect AI capabilities to your existing tools. HubSpot, Shopify, Slack, Notion, custom internal apps. We bridge them properly."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "AI Strategy Consulting",
+                        "text": "Identify the AI opportunities that matter for your business. Build a roadmap. Skip the hype. We tell you what's worth building and what isn't."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How an AI Engagement Works",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Discovery",
+                        "text": "We learn your business, data, and workflows. Every AI engagement starts with understanding. Most projects need narrower scope than the brief suggests."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Prototype",
+                        "text": "Working prototype within 1-2 weeks. Real data, real responses, real evaluation. You see the AI doing the work before we build the production system."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Build",
+                        "text": "Production build with proper logging, evals, guardrails, and human-in-the-loop checkpoints. Built on OpenAI, Anthropic, or your preferred provider."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Operate",
+                        "text": "Monitoring, evaluation against real-world output, and ongoing tuning. AI systems drift. We catch the drift before it becomes a customer problem."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "items": [
+                    {
+                        "question": "Which LLM providers do you build on?",
+                        "answer": "OpenAI (GPT-4, GPT-4o), Anthropic Claude (Sonnet, Opus), Azure OpenAI, and AWS Bedrock. We choose based on your use case and data residency requirements. We're not married to one vendor."
+                    },
+                    {
+                        "question": "Will my data be used to train someone else's model?",
+                        "answer": "No. We use API access with data-isolation guarantees from each provider. Your prompts and outputs do not enter training sets."
+                    },
+                    {
+                        "question": "How do you handle hallucinations?",
+                        "answer": "Three layers. RAG so the model has grounding. Evaluation against known-good answers before each release. Human-in-the-loop for high-stakes decisions. We don't ship AI that makes up facts."
+                    },
+                    {
+                        "question": "Can you work with our existing data?",
+                        "answer": "Yes. We pull from CRM, knowledge bases, documents, databases, and APIs. Your AI runs on your data, not generic web-scraped knowledge."
+                    },
+                    {
+                        "question": "What's a typical project cost?",
+                        "answer": "Prototypes start at $5,000. Production builds range from $15,000 to $100,000+ depending on complexity, integrations, and scale. Strategy-only engagements start at $2,500."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to explore AI for your business?",
+                "text": "Tell us your challenges. We'll tell you which AI ideas are worth building, and which to skip."
+            }
+        }
+    ]
+}

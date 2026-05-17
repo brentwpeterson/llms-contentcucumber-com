@@ -1,0 +1,115 @@
+{
+  "form": {
+    "header": "Get Your Free Content Audit",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "SEO Content Refresh Services - Content Cucumber",
+    "meta_description": "Refresh and re-optimize your existing content for better rankings. We audit, rewrite, and update pages with the highest ranking potential.",
+    "slug": "content-refresh"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "SEO Services",
+        "title": "SEO Content Refresh<br><em>Better Rankings From What You Already Have</em>",
+        "paragraphs": [
+          "Sometimes the highest-ROI SEO work is improving existing content. We find your pages with the most potential and make them perform."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What We Do",
+        "subtitle": "Content refresh is faster and cheaper than creating from scratch, and it preserves the link equity your existing pages have already built.",
+        "items": [
+          {
+            "icon": "search",
+            "title": "Content Audit",
+            "text": "We analyze every page on your site for ranking potential. Which pages are close to page one? Which have declining traffic? Which target outdated keywords?"
+          },
+          {
+            "icon": "edit",
+            "title": "Rewrite & Re-optimize",
+            "text": "Update statistics, refresh examples, improve heading structure, add internal links, and rewrite sections that don't match current search intent."
+          },
+          {
+            "icon": "chart",
+            "title": "Keyword Realignment",
+            "text": "Search intent evolves. We realign your content to match what searchers want today, not what they wanted when the page was written."
+          },
+          {
+            "icon": "link",
+            "title": "Internal Link Restructuring",
+            "text": "Strengthen your internal link architecture. Connect refreshed pages to new content, update broken links, and distribute page authority where it matters."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How Content Refresh Works",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Audit Existing Content",
+            "text": "We analyze your entire content library: rankings, traffic trends, backlink profiles, and search intent alignment. Identify which pages have the highest potential for improvement."
+          },
+          {
+            "number": "02",
+            "title": "Prioritize by Impact",
+            "text": "Not every page is worth refreshing. We prioritize by ranking proximity (pages on page 2-3), traffic decline severity, and business value of the target keywords."
+          },
+          {
+            "number": "03",
+            "title": "Refresh & Republish",
+            "text": "Our writers update the content: new data, better structure, stronger CTAs, improved readability. We keep the URL and preserve existing link equity."
+          },
+          {
+            "number": "04",
+            "title": "Track Results",
+            "text": "Monitor ranking changes, traffic recovery, and conversion impact. Content refreshes typically show results within 2-4 weeks as Google recrawls the updated pages."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "When should I refresh content vs. write new content?",
+            "answer": "Refresh when you have pages that used to rank but slipped, pages ranking on page 2-3 that need a push, or content with good backlinks but outdated information. Write new when you're targeting keywords you have no content for."
+          },
+          {
+            "question": "Will refreshing content hurt my existing rankings?",
+            "answer": "No, when done correctly. We keep the same URL, preserve the core topic, and enhance the content. Google rewards updated, comprehensive content. We've never seen a properly refreshed page lose rankings."
+          },
+          {
+            "question": "How many pages can you refresh per month?",
+            "answer": "Typically 5-15 pages per month depending on the scope of updates needed. Some pages need a light touch (updated stats, new internal links). Others need a full rewrite. We adjust based on what each page needs."
+          },
+          {
+            "question": "How quickly do refreshed pages see results?",
+            "answer": "Most refreshed pages see ranking movement within 2-4 weeks. Pages that were already close to page one often jump the fastest. The full impact compounds over 1-3 months."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "What's Your Best Content Not Doing?",
+        "text": "Find the pages with the most untapped potential. Our content audit shows you exactly where to focus for the fastest ranking improvements."
+      }
+    }
+  ]
+}

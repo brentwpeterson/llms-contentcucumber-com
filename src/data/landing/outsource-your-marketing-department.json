@@ -1,0 +1,78 @@
+{
+    "no_nav": true,
+    "form": {
+        "header": "Hand Off Your Marketing",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "outsource-your-marketing-department"
+    },
+    "seo": {
+        "title": "Outsource Your Marketing Department from $1,000/mo - Content Cucumber",
+        "meta_description": "Outsource your marketing department for $1,000/mo, all-in. One monthly interview becomes 4 articles, daily social posts, captioned video clips, and a curated newsletter.",
+        "og_description": "Hand off your marketing for $1,000/mo. Six channels of content built every month from one hour-long conversation with your dedicated writer.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/content-flywheel-plan-assets/content-flywheel-card.jpg",
+        "noindex": true,
+        "nofollow": true,
+        "slug": "outsource-your-marketing-department"
+    },
+    "thankyou": {
+        "title": "Thanks. We'll be in touch.",
+        "text": "We received your information. A member of our team will reach out shortly to schedule your call.",
+        "link_text": "",
+        "link_anchor": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "The Content Flywheel from Content Cucumber",
+                "title": "Outsource Your <em>Marketing Department</em>",
+                "subtitle": "One hour-long interview a month with your dedicated writer becomes six channels of marketing. Articles, daily social posts, a curated newsletter, captioned video clips, illustrated graphics, and a plain-English monthly report. All-in, no tiers, no upsells.",
+                "bullets": [
+                    "<strong>Six channels of content built every month.</strong> Four SEO articles plus a multimedia pillar post. Daily social posts on the platforms your audience uses. Captioned video clips, a curated newsletter, and illustrated graphics that repurpose every key idea.",
+                    "<strong>One hour-long monthly interview powers everything.</strong> Your dedicated writer pulls Google Search Console data, surfaces the keyword opportunities sitting on page two, and combines that with what's happening in your business to build the month's content map.",
+                    "<strong>A dedicated writer who learns your voice.</strong> The same writer every month, backed by RequestDesk's Brand Voice Engine so consistency survives staff changes. No drift. No agency rotation.",
+                    "<strong>Real human writers, no AI slop.</strong> Every word is written by a person who read your interview, knows your offer, and is paid to make it sound like you.",
+                    "<strong>Mid-month check-in plus anytime communication.</strong> Halfway through the month, a call to adjust. End of month, a plain-English report on what ranked and what to push on next. Anything else, just message your writer.",
+                    "<strong>$1,000/mo, all-in. Save with a six-month or annual commitment.</strong> Five specialists working on your business every month for less than the loaded cost of one in-house marketer."
+                ],
+                "video_id": "Imi2EXVDpzI",
+                "video_title": "How the Content Flywheel Works",
+                "authors": "Built by Content Cucumber. The same Flywheel system already running for our retainer clients.",
+                "form_title": "Hand Off Your Marketing",
+                "form_subtitle": "Tell us about your business. We'll build a plan together.",
+                "cta_button": {
+                    "text": "Let's Get Started Now",
+                    "url": "https://get.contentcucumber.com/hs/payments/gskm4V7qbg?referrer=PAYMENT_LINK",
+                    "subtitle": "Buy your first month and we'll book your interview. Or fill out the form to talk first."
+                }
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "Why outsource the marketing",
+                "heading": "The math of doing it yourself",
+                "items": [
+                    {
+                        "title": "Hiring one in-house marketer costs five times this.",
+                        "body": "A loaded marketing salary runs $5,000 a month or more before they ship a single article, post, or newsletter. The Flywheel puts a writer, a videographer, a designer, an email person, and an SEO analyst on your account every month. For $1,000."
+                    },
+                    {
+                        "title": "Marketing happens when there's time. Which is never.",
+                        "body": "You know the work matters. You also have payroll, customer support, vendor calls, and the product itself competing for the same hours. The marketing always loses. The Flywheel is the thing that gets done while you run the business."
+                    },
+                    {
+                        "title": "Six channels from one conversation.",
+                        "body": "The interview is the source. Articles get written from it. Social posts get pulled from it. Video clips get cut from it. The newsletter is curated from it. One hour-long conversation a month builds a calendar that previously took a five-person team."
+                    },
+                    {
+                        "title": "Consistency is the value, not heroic launches.",
+                        "body": "The brands that win in search and AI citations are the ones that show up every week for years. The Flywheel is built for that cadence. Six months in, search rankings climb. Twelve months in, the shape of the year is different."
+                    }
+                ]
+            }
+        }
+    ]
+}

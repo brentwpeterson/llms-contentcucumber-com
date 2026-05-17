@@ -1,0 +1,111 @@
+{
+  "form": {
+    "header": "Get Your Free SEO Audit",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "SEO Content Strategy Services - Content Cucumber",
+    "meta_description": "Data-driven SEO content strategy for ecommerce brands. Keyword research, competitor analysis, content gap identification, and editorial calendars tied to business goals.",
+    "slug": "content-strategy"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "SEO Services",
+        "title": "SEO Content Strategy<br><em>That Drives Results</em>",
+        "paragraphs": [
+          "Every successful SEO campaign starts with research. We analyze your rankings, study your competitors, and build a prioritized content roadmap tied to your business goals."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What's Included",
+        "subtitle": "Our SEO content strategy goes beyond a keyword list. We build the complete roadmap for your organic growth.",
+        "items": [
+          {
+            "icon": "search",
+            "title": "Keyword Research",
+            "text": "Deep analysis of search volume, competition, and intent. We find the keywords with the best ROI potential and map them to your sales funnel."
+          },
+          {
+            "icon": "chart",
+            "title": "Competitor Analysis",
+            "text": "Study what's ranking for your target keywords. Identify content gaps your competitors haven't filled. Find opportunities they're missing."
+          },
+          {
+            "icon": "layers",
+            "title": "Topic Clusters",
+            "text": "Build topic clusters that establish authority. Pillar pages linked to supporting content that signals expertise to Google and AI platforms."
+          },
+          {
+            "icon": "calendar",
+            "title": "Editorial Calendar",
+            "text": "A prioritized publishing schedule tied to business goals. Quick wins first, then long-term authority plays. Every piece has a clear purpose."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How Our Strategy Process Works",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Discovery",
+            "text": "We learn your business, audience, competitors, and goals. Audit your current content and rankings to understand where you stand."
+          },
+          {
+            "number": "02",
+            "title": "Research",
+            "text": "Comprehensive keyword research, competitor content analysis, and search intent mapping. We identify every opportunity worth pursuing."
+          },
+          {
+            "number": "03",
+            "title": "Strategy",
+            "text": "Build your content roadmap: topic clusters, editorial calendar, internal linking plan, and success metrics. You approve before we write a word."
+          },
+          {
+            "number": "04",
+            "title": "Execute",
+            "text": "Our writers create the content. We publish on schedule, track rankings, and adjust the strategy based on what performs."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "Do I need a content strategy before you start writing?",
+            "answer": "We include strategy as part of every engagement. If you already have a strategy, we review and build on it. If you don't, we create one from scratch. Either way, no content gets written without a clear plan."
+          },
+          {
+            "question": "How long does the strategy phase take?",
+            "answer": "Typically 2-3 weeks for the initial strategy. This includes keyword research, competitor analysis, and editorial calendar. You review and approve before writing begins."
+          },
+          {
+            "question": "Do you provide the keyword research or do we need to?",
+            "answer": "We handle all keyword research. If you have existing keyword data or priorities, we incorporate those. The best results come from combining your business knowledge with our SEO analysis."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Ready to Build Your SEO Strategy?",
+        "text": "Stop guessing what to publish. Get a data-driven content roadmap that drives organic growth."
+      }
+    }
+  ]
+}

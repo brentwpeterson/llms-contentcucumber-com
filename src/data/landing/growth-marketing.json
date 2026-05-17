@@ -1,0 +1,239 @@
+{
+    "seo": {
+        "meta_description": "Growth marketing for ecommerce brands. 40+ human writers, full HubSpot attribution, and AIO optimization. Content that drives revenue, not just traffic.",
+        "og_description": "Content Cucumber builds growth marketing systems on HubSpot for ecommerce brands. Human writers, full revenue attribution, and AI search optimization.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Get Your Free Growth Audit",
+        "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+        "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "HubSpot Solutions Partner for Ecommerce Brands",
+                "title": "AI made content cheap.<br>We make it <em>drive revenue</em>.",
+                "paragraphs": [
+                    "Your competitors are flooding the internet with AI-generated content that all sounds the same. Meanwhile, your organic traffic metrics are dropping and you can't connect content to actual sales.",
+                    "We're 40+ human writers backed by AI tools, powered by HubSpot Marketing Hub Pro for full attribution. We create content that stands out, tracks to revenue, and shows up where your buyers actually look."
+                ],
+                "platforms_label": "Powering growth on",
+                "platforms": "Shopify &bull; BigCommerce &bull; Magento &bull; WooCommerce"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "40+", "label": "Human Writers" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "500+", "label": "Podcast Episodes" },
+                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Sound Familiar?",
+                "subtitle": "These are the four problems we hear from ecommerce brands every week.",
+                "items": [
+                    {
+                        "number": "01",
+                        "title": "Your Content Sounds Like Everyone Else's",
+                        "text": "Other agencies undercut with ChatGPT output. Your brand can't differentiate when every competitor is publishing the same generic content. In a market flooded with AI content, human-crafted content is the competitive advantage."
+                    },
+                    {
+                        "number": "02",
+                        "title": "You Can't Connect Content to Revenue",
+                        "text": "You're creating content but have no idea what's driving sales. No attribution. No measurement. Ecommerce has the clearest content-to-revenue path of any industry. You should be able to see exactly which content drives which sales."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Your Organic Traffic Metrics Are Dropping",
+                        "text": "Here's the thing: your revenue is probably stable. AI search is driving traffic that doesn't get tracked the same way. Google AI overviews, zero-click results, ChatGPT recommendations. The content is still working. The attribution is broken."
+                    },
+                    {
+                        "number": "04",
+                        "title": "You Think You Can Handle It In-House",
+                        "text": "ChatGPT makes it feel like you don't need a content team. You try in-house, it stalls, quality drops, nobody owns it. By the time brands come back, they've lost months of momentum. Consistent, expert content at scale needs a dedicated team."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "The Shift",
+                "title": "Content was king.<br>Now <em>context</em> is the real advantage.",
+                "paragraphs": [
+                    "The old playbook: write blog posts, optimize for keywords, wait for Google traffic. That era is ending.",
+                    "The new reality is non-linear. Your buyers don't follow a funnel. They research across AI search, social, email, and your site before they ever talk to you. The right message, to the right person, with the right context, on the right channel. That's what drives revenue in 2026.",
+                    "We build growth marketing systems on HubSpot Marketing Hub Pro that connect content to revenue with full attribution, nurturing, and campaign tracking."
+                ],
+                "old_way": {
+                    "heading": "The Old Way",
+                    "items": [
+                        "Publish blog posts and hope",
+                        "SEO keywords only",
+                        "Traffic reports (not revenue)",
+                        "Same message to everyone",
+                        "Google-only strategy"
+                    ]
+                },
+                "new_way": {
+                    "heading": "The Content Cucumber Way",
+                    "items": [
+                        "Content tied to revenue outcomes",
+                        "AIO + SEO optimization",
+                        "Full attribution via HubSpot",
+                        "Context-driven personalization",
+                        "Visible in AI search + Google"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Growth Packages Built for Ecommerce",
+                "subtitle": "We package outcomes, not line items. No \"10 blog posts per month\" proposals. Each package is tied to your specific growth challenges.",
+                "items": [
+                    {
+                        "name": "Content + Attribution",
+                        "target": "For ecommerce brands ready to connect content to revenue. You know content matters but can't prove what's working.",
+                        "outcomes": [
+                            "Human-written content that stands out from AI noise",
+                            "Full revenue attribution via HubSpot Marketing Hub Pro",
+                            "AIO optimization for AI search visibility",
+                            "Monthly reporting tied to actual sales, not just traffic"
+                        ]
+                    },
+                    {
+                        "name": "Full-Service Growth",
+                        "target": "For brands that want one team owning the entire growth engine. Content, conversion, email, and optimization under one roof.",
+                        "featured": true,
+                        "badge": "Most Popular",
+                        "outcomes": [
+                            "Everything in Content + Attribution",
+                            "Website and conversion optimization",
+                            "Email campaigns and lead nurturing",
+                            "HubSpot Marketing Hub Pro + Content Hub Pro",
+                            "Context-driven personalization across channels"
+                        ]
+                    },
+                    {
+                        "name": "Growth + Data Clean-Up",
+                        "target": "For established brands with 20K+ contacts and messy data dragging down campaign performance.",
+                        "outcomes": [
+                            "Everything in Full-Service Growth",
+                            "HubSpot Data Hub integration",
+                            "Contact data cleanup and deduplication",
+                            "Reduced bounce rates and unsubscribes",
+                            "Clean data powering smarter campaigns"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What Changes When You Work With Us",
+                "subtitle": "Not services. Outcomes. Here's what our ecommerce clients actually get.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Content That Differentiates",
+                        "text": "40+ human writers create content with real expertise and editorial quality. AI is our tool, not our workforce. Your brand voice stays yours. Your competitors can't copy what's genuinely human."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Revenue You Can See",
+                        "text": "HubSpot Marketing Hub Pro powers full attribution. See which content drives actual sales. Content becomes a revenue channel, not a cost center. The clearest content-to-revenue path in any industry."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Visible in AI Search",
+                        "text": "We're not just focusing on SEO anymore, we're focusing on AIO. Your products show up in ChatGPT, Claude, Perplexity, and Google AI overviews. We optimize for where buyers actually look in 2026."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "One Team, Full Journey",
+                        "text": "Content creation, website optimization, email campaigns, conversion optimization. Most marketing agencies don't want to write. We have 40+ writers who do. The more of the journey we cover, the better everything works together."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "HubSpot Solutions Partner",
+                "title": "We're ecommerce people, not a generic content shop.",
+                "paragraphs": [
+                    "Led by Brent Peterson with 30+ years in ecommerce, Content Cucumber works exclusively with online brands. We speak at eTail, Shoptalk, and industry events. We host Talk Commerce, a podcast with 500+ episodes featuring ecommerce leaders.",
+                    "We understand the difference between Shopify and Magento. We know what a 2% conversion rate means. We've seen what works and what doesn't across hundreds of ecommerce brands.",
+                    "As a HubSpot Solutions Partner, we implement Marketing Hub Pro, Content Hub Pro, and Data Hub to give our clients the infrastructure that turns content into measurable revenue."
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Years in Ecommerce" },
+                    { "number": "40+", "label": "Human Writers" },
+                    { "number": "500+", "label": "Podcast Episodes" },
+                    { "number": "5", "label": "Ecommerce Platforms" }
+                ]
+            }
+        },
+        {
+            "type": "reviews",
+            "data": {
+                "eyebrow": "Real ratings from real clients",
+                "title": "What Our Clients Say",
+                "count": 4,
+                "columns": 2,
+                "layout": "grid",
+                "has_text": true,
+                "show_trust_bar": true,
+                "show_rating": true,
+                "show_org": true
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions We Hear",
+                "items": [
+                    {
+                        "question": "\"We can handle content in-house.\"",
+                        "answer": "You can start it. But at scale, it stalls. Nobody owns it, quality drops, it falls off the priority list. We've seen this pattern dozens of times. By the time brands come back, they've lost months. We're the team that keeps content running consistently while you focus on your business."
+                    },
+                    {
+                        "question": "\"AI can write our content for us.\"",
+                        "answer": "It can. And so can everyone else's AI. When every brand publishes the same generic AI output, none of it stands out. We use AI as a tool in our process, not the workforce. 40+ human writers bring expertise, nuance, and your brand voice. That's what differentiates."
+                    },
+                    {
+                        "question": "\"We tried an agency before and it didn't work.\"",
+                        "answer": "Most agencies don't understand ecommerce. They write generic content that doesn't convert. We specialize in ecommerce brands. We understand your platforms, your customers, and what moves the needle on revenue. And with HubSpot attribution, we prove what's working."
+                    },
+                    {
+                        "question": "\"SEO is dying. Is content still worth it?\"",
+                        "answer": "Traditional SEO traffic looks lower because AI search doesn't get tracked the same way. Your revenue is probably stable. The content is still working. It's just working through new channels: AI answers, zero-click results, voice search. We optimize for AIO, not just SEO, so you're visible everywhere buyers look."
+                    },
+                    {
+                        "question": "\"Why do we need HubSpot?\"",
+                        "answer": "Without attribution, content is a cost center. You're guessing what works. HubSpot Marketing Hub Pro connects every piece of content to actual revenue. You see which blog post led to which sale. Which email drove which conversion. One platform, full visibility. No more cobbled-together tools with separate logins."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to see what's working and what's not?",
+                "text": "Get a free growth audit for your ecommerce brand. We'll show you where your content drives revenue, where you're invisible in AI search, and what to fix first. No sales pitch. Just a consultant who's been in ecommerce for 30+ years sharing what they see."
+            }
+        }
+    ]
+}

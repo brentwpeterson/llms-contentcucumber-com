@@ -1,0 +1,179 @@
+{
+    "form": {
+        "header": "Get a turnkey site that actually performs",
+        "subtitle": "",
+        "trust_text": "90+ Lighthouse guaranteed. Live in 1-2 weeks. Starting at $3,500.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "Turnkey Website Development - WordPress and Astro - Content Cucumber",
+        "meta_description": "Turnkey websites with 90+ Lighthouse scores and AEO optimization from day one. WordPress or Astro. Live in 1-2 weeks. Starting at $3,500.",
+        "slug": "website-development"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Website Development",
+                "title": "Sites Built for<br><em>Speed and AI Visibility</em>",
+                "paragraphs": [
+                    "We don't just build websites. We build sites with 90+ Lighthouse scores and AEO optimization from day one. WordPress or Astro. Live in 1-2 weeks. Starting at $3,500.",
+                    "Every site we build ships with:",
+                    "<ul><li>90+ Lighthouse scores guaranteed across performance, accessibility, SEO, and best practices</li><li>AEO optimization (structured data, JSON-LD, llms.txt, schema markup) for ChatGPT, Claude, Perplexity, and Google AI Overviews</li><li>HubSpot tracking and CRM integration installed</li><li>Mobile-responsive design tested across viewports</li><li>Brand voice profile in RequestDesk so content publishes directly to the site</li><li>Written launch checklist and Lighthouse validation report</li></ul>"
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Three Packages. One Promise.",
+                "subtitle": "Every package ships with the same performance, accessibility, and AEO standards.",
+                "items": [
+                    {
+                        "icon": "zap",
+                        "title": "Starter Site - $3,500",
+                        "text": "5-page site (WordPress or Astro). Mobile responsive. 90+ Lighthouse scores guaranteed. AEO optimized. HubSpot tracking installed. Basic SEO setup. Live in 1-2 weeks."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Growth Site - $7,500-$12K",
+                        "text": "10-25 pages with custom design. HubSpot forms + CRM integration. Full AEO/SEO optimization. Content strategy included. Blog setup. Performance monitoring baseline. Live in 2-4 weeks."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Ecommerce Site - $15K-$25K",
+                        "text": "Full Shopify or WooCommerce build. Product content optimization. SEO/AEO for product and category pages. HubSpot CRM integration. Conversion optimization. Checkout setup. Live in 4-6 weeks."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Why Our Builds Are Different",
+                "subtitle": "Most agencies don't measure these. We guarantee them.",
+                "items": [
+                    {
+                        "icon": "zap",
+                        "title": "90+ Lighthouse Scores Guaranteed",
+                        "text": "Every page ships with 90+ scores across performance, accessibility, SEO, and best practices. Most agencies don't even measure this. We make it the contract."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "AEO Optimized From Day One",
+                        "text": "Structured data, JSON-LD, llms.txt, and schema markup for AI crawlers. Your site shows up in ChatGPT, Claude, Perplexity, and Google AI Overviews. Built into the foundation, not bolted on after."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Live in 1-2 Weeks",
+                        "text": "AI-leveraged development delivers in 1-2 weeks what traditional agencies take 8-12 weeks to build. Same quality, fraction of the time."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Two Platform Options",
+                        "text": "WordPress for teams that need a CMS and content team. Astro for blazing-fast, zero-maintenance sites. We recommend the right platform for your business."
+                    },
+                    {
+                        "icon": "chat",
+                        "title": "HubSpot Integration Standard",
+                        "text": "Forms, tracking, and CRM connection come with every build. Your site captures leads from day one. Marketing automation ready out of the gate."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Content Pipeline via RequestDesk",
+                        "text": "Every site connects to RequestDesk for brand voice management and content publishing. Content goes from writer to live site without manual uploads."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How It Works",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Discovery",
+                        "text": "We learn your goals, audience, and brand. You tell us what you need. We figure out how to build it. Platform recommendation comes out of this call."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Design",
+                        "text": "Custom design that matches your brand. Mobile-first, optimized for speed and conversions. You review one round before we build."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Build",
+                        "text": "AI-leveraged development on WordPress or Astro. AEO and SEO baked in from the first line of code. You see progress on a staging site as we build."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Launch",
+                        "text": "Final review, Lighthouse validation, and go-live. Your site is fast, findable, and ready for traffic. Lighthouse report goes in your hands as proof."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Ongoing Maintenance",
+                "subtitle": "Three retainer tiers so the site stays healthy after launch.",
+                "items": [
+                    {
+                        "icon": "settings",
+                        "title": "Basic - $500/mo",
+                        "text": "Hosting and security updates. Uptime monitoring. 1 hour of content changes per month."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Growth - $1,000/mo",
+                        "text": "Everything in Basic. Performance monitoring. Monthly Lighthouse audit. 3 hours of content changes per month."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Premium - $1,500/mo",
+                        "text": "Everything in Growth. AEO monitoring. Weekly content updates. Priority support."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "items": [
+                    {
+                        "question": "WordPress or Astro?",
+                        "answer": "WordPress if you need a CMS your team can edit daily and you publish content frequently. Astro if speed and SEO are paramount, and your team is comfortable with structured content. We recommend on the discovery call based on your team and content cadence."
+                    },
+                    {
+                        "question": "Can you really deliver in 1-2 weeks?",
+                        "answer": "Yes, for the Starter package. We use AI-leveraged development to compress the build phase. Discovery and design happen first, then build runs in days, not weeks. Larger packages take longer because there's more to design and build."
+                    },
+                    {
+                        "question": "What's included in 90+ Lighthouse scores?",
+                        "answer": "Performance, accessibility, SEO, and best practices each scoring 90+ on Google's Lighthouse audit. We test on production before handoff and include the report in your launch package. If the site drops below 90 within 30 days for reasons under our control, we fix it free."
+                    },
+                    {
+                        "question": "Will the site rank in AI search?",
+                        "answer": "We optimize for AI crawler visibility (GPTBot, ClaudeBot, PerplexityBot), implement llms.txt, and structure content for passage-level citation. Whether you rank for a specific query depends on content depth and competitive landscape, but we set you up to compete properly. Most sites we build start showing up in AI responses within 60-90 days."
+                    },
+                    {
+                        "question": "Can you migrate my existing site?",
+                        "answer": "Yes. Migration is included in Growth and Ecommerce packages and available as an add-on for Starter. We preserve content, redirects, SEO equity, and analytics history."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to launch a site that performs?",
+                "text": "Tell us about your project. We'll come back with a recommended package, timeline, and price."
+            }
+        }
+    ]
+}

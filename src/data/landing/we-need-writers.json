@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "meta_description": "Join Content Cucumber's growing team of talented creators. We produce content for ecommerce brands, marketing agencies, and specialty retailers. Human-powered, AI-assisted.",
+        "og_description": "Content Cucumber is hiring native English-speaking creators. Steady contract work producing blogs, product content, social, email, video, and more for real brands.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Apply to Join Our Team",
+        "subtitle": "Tell us what you do and how you like to create. We review every application.",
+        "bottom_only": true,
+        "trust_text": "We respond to every application. No ghosting.",
+        "portal_id": "39487190",
+        "form_id": "7e0a3558-d4e8-4cfb-9826-b58ee8d1c3c7",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Join the Content Cucumber Team",
+                "title": "We need creators who <em>get it</em>.",
+                "paragraphs": [
+                    "Content Cucumber is a growing team of talented creators. We hire native English-speaking contractors and maintain a small team of full-time writers. Our clients are ecommerce brands, marketing agencies, and specialty retailers who need consistent, quality content they can count on.",
+                    "You'll write blog posts for a DTC brand one week, product descriptions for a Shopify store the next, and newsletter copy for an agency's client after that. The work is varied, the brands are real, and every piece you create goes in front of actual customers.",
+                    "We believe the best content comes from real people. While other agencies replace writers with AI, Content Cucumber is dedicated to human creators. AI is a tool in our process, not a substitute for the people who do the work."
+                ],
+                "platforms_label": "We create content for",
+                "platforms": "eCommerce &bull; CMS &bull; Marketing &bull; SaaS &bull; B2B &bull; Retail &bull; DTC &bull; and more"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "70+", "label": "Creators on the Team" },
+                { "number": "100+", "label": "Clients Served" },
+                { "number": "600+", "label": "Podcast Episodes Produced" },
+                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What We're Looking For",
+                "subtitle": "You don't need to check every box. If a few of these sound like you, keep reading.",
+                "items": [
+                    {
+                        "number": "",
+                        "title": "You're a Skilled Creator",
+                        "text": "You have a craft. Whether that's writing blog posts, producing podcasts, editing video, or creating product content, you take pride in your work and you're always looking to get better."
+                    },
+                    {
+                        "number": "",
+                        "title": "You Can Learn a Brand Fast",
+                        "text": "Our clients range from ecommerce brands to marketing agencies to specialty retailers. You'll need to learn different brand voices, audiences, and industries. Curiosity matters more than a specific background."
+                    },
+                    {
+                        "number": "",
+                        "title": "You Hit Deadlines",
+                        "text": "Our clients are on retainer and depend on consistent publishing schedules. We need people who deliver on time, communicate early if something changes, and treat every assignment like it matters."
+                    },
+                    {
+                        "number": "",
+                        "title": "You Want Steady Work",
+                        "text": "This isn't a one-off gig board. We match creators with ongoing client accounts. You build a relationship with the brands you serve, and the work comes month after month."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "How We Work",
+                "title": "This isn't a content mill.<br>It's a <em>real team</em>.",
+                "paragraphs": [
+                    "Most freelance content work is transactional. You get a brief, you write it, you get paid, you never hear from the client again.",
+                    "We do things differently. You get matched with client accounts and work with them month after month. You learn their brand voice, their customers, their products. An ecommerce brand that trusts you with their blog this month will trust you with their product launch next month."
+                ],
+                "old_way": {
+                    "heading": "Typical Freelance Gig",
+                    "items": [
+                        "Random one-off assignments",
+                        "No relationship with the brand",
+                        "Race to the bottom on pricing",
+                        "Competing with AI-generated content",
+                        "No feedback, no growth"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Working with Content Cucumber",
+                    "items": [
+                        "Ongoing client relationships",
+                        "Deep knowledge of the brands you serve",
+                        "Fair rates for quality work",
+                        "AI is a tool, not your replacement",
+                        "Editorial feedback and skill development"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What You Get",
+                "subtitle": "Beyond the assignments. This is what being on the team looks like.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Steady Work",
+                        "text": "Our clients are on retainer. Consistent assignments, month after month. No guessing where your next check comes from."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "See Your Impact",
+                        "text": "We track content to revenue through HubSpot. You see how your work performs. The feedback loop makes you a better creator."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Work With Modern Tools",
+                        "text": "AIO optimization, AI search visibility, HubSpot content strategy. You'll work with tools and techniques most creators don't have access to yet."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Grow With Us",
+                        "text": "The team is growing. Creators who deliver get more work, better clients, and opportunities to lead content for major brands."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "Is this freelance or full-time?",
+                        "answer": "Contract work. You set your own schedule and take on as much work as fits. Many of our creators use us as a steady anchor client alongside other work."
+                    },
+                    {
+                        "question": "Do I need ecommerce experience?",
+                        "answer": "It helps. If you've written about ecommerce, SaaS, or B2B tech, you'll ramp up fast. Strong writers with genuine curiosity about new industries do well here too."
+                    },
+                    {
+                        "question": "What content formats do you need?",
+                        "answer": "All of them. Written, audio, video, social, email, ecommerce, technical, and anything else you bring to the table. Tell us what you do and we'll find the right fit."
+                    },
+                    {
+                        "question": "How does the application process work?",
+                        "answer": "Submit the form on this page. We review every application. If there's a fit, we'll reach out to discuss a paid trial assignment. No unpaid spec work."
+                    },
+                    {
+                        "question": "What are the rates?",
+                        "answer": "Rates depend on content type, complexity, and your experience. We pay fair rates for quality work. We'll discuss specifics when we connect."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to create content that matters?",
+                "text": "Fill out the form and tell us what you do. We read every application. If there's a fit, you'll hear from us within a week."
+            }
+        }
+    ]
+}

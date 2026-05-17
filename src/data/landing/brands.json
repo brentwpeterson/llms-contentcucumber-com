@@ -1,0 +1,70 @@
+{
+    "form": {
+        "header": "Let's write your success story!",
+        "subtitle": "",
+        "trust_text": "40+ human writers. 500+ podcast episodes. 30+ years in commerce. Zero AI slop.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "seo": {
+        "title": "Our Brands - Content Cucumber, RequestDesk, Talk Commerce",
+        "meta_description": "Three brands working together to solve the full content problem. Content Cucumber for human writing, RequestDesk for the platform, Talk Commerce for media and podcasts.",
+        "slug": "brands"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Brand Family",
+                "title": "Three Brands.<br><em>One Mission.</em>",
+                "paragraphs": [
+                    "Content Cucumber. RequestDesk. Talk Commerce. Three brands that work together to solve the full content problem. From strategy to creation to distribution.",
+                    "Each brand is sharp on what it does. Together they cover everything a commerce, B2B, or enterprise brand needs to grow with content."
+                ]
+            }
+        },
+        {
+            "type": "ecosystem",
+            "data": {
+                "title": "How the Brands Work Together",
+                "subtitle": "Three brands. One team. Each plays a role.",
+                "brands": [
+                    {
+                        "name": "Content Cucumber",
+                        "role": "Human Content Creation",
+                        "description": "Real human writers, editors, and designers creating content at scale. 40+ writers learning your brand voice and shipping work every week. Blog posts, case studies, white papers, social, email, and more. You're here.",
+                        "current": true
+                    },
+                    {
+                        "name": "RequestDesk",
+                        "role": "The Content Platform",
+                        "description": "The platform that powers content operations. Brand voice profiles, content pipelines, HubSpot CRM integration, and multi-channel publishing. RequestDesk is the engine that lets human writers operate at platform scale."
+                    },
+                    {
+                        "name": "Talk Commerce",
+                        "role": "Media and Podcasts",
+                        "description": "Podcasts, news, and industry insights for commerce professionals. 500+ podcast episodes, original reporting, and thought leadership that keeps the commerce community informed."
+                    }
+                ],
+                "cross_ctas": [
+                    {
+                        "text": "Visit RequestDesk →",
+                        "url": "https://requestdesk.ai"
+                    },
+                    {
+                        "text": "Visit Talk Commerce →",
+                        "url": "https://talk-commerce.com"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to Get Started?",
+                "text": "Whether you need human writers, a content platform, or industry media coverage, our brands work together to deliver. Let's talk about what you need."
+            }
+        }
+    ]
+}

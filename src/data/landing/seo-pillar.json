@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "title": "SEO Services for the AI Search Era - Content Cucumber",
+    "meta_description": "SEO services that cover Google rankings, AI search visibility, and content strategy. Keyword research, technical audits, content writing, and ongoing optimization for ecommerce brands."
+  },
+  "form": {
+    "header": "Get Your Free SEO Audit",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "hero": {
+    "eyebrow": "SEO Services",
+    "title": "SEO Services for<br><em>the AI Search Era</em>",
+    "subtitle": "Search has changed. Your customers find you through Google, ChatGPT, Perplexity, and AI Overviews. We build SEO strategies that cover all of them."
+  },
+  "sections": [
+    {
+      "id": "content-strategy",
+      "title": "SEO Content Strategy",
+      "content": [
+        "Every successful SEO campaign starts with research. We analyze your current rankings, study your competitors, and identify the keyword opportunities with the highest ROI potential.",
+        "Our strategy process goes beyond a keyword list. We map search intent to your sales funnel, identify content gaps your competitors haven't filled, build topic clusters that establish authority, and create an editorial calendar tied to business goals.",
+        "The result is a prioritized roadmap. You know exactly what to publish, when, and why. No guessing. No wasted content."
+      ],
+      "link_url": "/seo/content-strategy/",
+      "link_text": "Learn more about SEO Content Strategy"
+    },
+    {
+      "id": "content-writing",
+      "title": "SEO Content Writing",
+      "content": [
+        "Strategy without execution is a PowerPoint deck. We have 40+ human writers who create SEO-optimized content that ranks, engages, and converts.",
+        "Every article targets specific keywords with proper heading structure, internal linking, and meta data built in from the start. Our writers learn your brand voice and industry. No rotating freelancers. Your dedicated writer knows your business inside out.",
+        "We deliver publish-ready content on a consistent schedule. Blog posts, pillar content, and long-form guides that compound in value over time."
+      ],
+      "link_url": "/services/content-creation/blog-writing/",
+      "link_text": "Learn more about SEO Content Writing"
+    },
+    {
+      "id": "page-copy",
+      "title": "SEO Page Copy",
+      "content": [
+        "Your website pages are the foundation of your search presence. Homepage, service pages, landing pages, product pages. Each one is an opportunity to rank for keywords that drive revenue.",
+        "We write website copy that serves both visitors and search engines. Clear messaging that communicates your value proposition, optimized for the terms your customers actually search for.",
+        "Whether it's 5 pages or 50, we deliver copy formatted for your platform (WordPress, Shopify, custom) with heading structure, meta tags, and internal linking recommendations included."
+      ],
+      "link_url": "/services/content-creation/website-copy/",
+      "link_text": "Learn more about SEO Page Copy"
+    },
+    {
+      "id": "technical-audit",
+      "title": "Technical SEO Audit",
+      "content": [
+        "Great content can't rank if your technical foundation is broken. Slow page speed, crawl errors, missing schema markup, broken redirects, and indexation issues all prevent Google from finding and ranking your pages.",
+        "Our technical audit covers site speed and Core Web Vitals (using INP, not the deprecated FID), crawlability and indexation status, schema markup validation and opportunities, security headers and HTTPS configuration, XML sitemap structure and completeness, and mobile optimization.",
+        "You get a prioritized fix list ranked by impact. We can also implement the fixes for WordPress and Shopify sites."
+      ],
+      "link_url": "/seo/technical-audit/",
+      "link_text": "Learn more about Technical SEO Audits"
+    },
+    {
+      "id": "content-refresh",
+      "title": "SEO Content Refresh",
+      "content": [
+        "Sometimes the highest-ROI SEO work is improving what you already have. Pages that used to rank but slipped. Articles with good bones but outdated information. Content that targets the right keywords but doesn't match current search intent.",
+        "We audit your existing content library, identify pages with the highest ranking potential, and rewrite or re-optimize them. Updated statistics, refreshed examples, better heading structure, and stronger internal linking.",
+        "Content refresh is often faster and cheaper than creating new content from scratch, and it preserves the link equity and authority your existing pages have already built."
+      ],
+      "link_url": "/seo/content-refresh/",
+      "link_text": "Learn more about Content Refresh"
+    },
+    {
+      "id": "llm-discovery",
+      "title": "AI Search & LLM Discovery",
+      "content": [
+        "SEO alone isn't enough anymore. 900 million people use ChatGPT every week. Perplexity handles 500 million queries per month. Google AI Overviews appear on over 50% of searches. Your customers are using AI to find products, compare services, and make buying decisions.",
+        "We optimize your content for these AI platforms alongside traditional Google SEO. Structured schema markup that AI can read, llms.txt implementation, content structured for AI citation, and monitoring of when and where AI mentions your brand.",
+        "This isn't a separate service. It's the evolution of SEO. And we're one of the few agencies that does both."
+      ],
+      "link_url": "/ai-search/",
+      "link_text": "Explore our LLM Discovery services"
+    },
+    {
+      "id": "case-study",
+      "title": "Case Study: Silicone Depot",
+      "content": [
+        "Silicone Depot is an ecommerce supplier of silicone sealants and caulking. They started publishing weekly SEO-optimized articles with Content Cucumber in 2018.",
+        "At the time, organic traffic was roughly 500 visitors per month. Today, Silicone Depot averages over 10,000 organic visitors per month. That's 20x growth from consistent, human-written SEO content.",
+        "Ad spend is down. Revenue is up. Brand authority compounds with every new article. That is what a real content engine looks like. And it started with keyword research and a content strategy."
+      ]
+    }
+  ],
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Do you do keyword research or just content writing?",
+        "answer": "Both. We start with comprehensive keyword research, competitor analysis, and content gap identification. Then we write the content to target those keywords. Research and writing are one integrated service."
+      },
+      {
+        "question": "How is this different from other SEO agencies?",
+        "answer": "Most agencies outsource writing or use AI. We have 40+ human writers on staff who specialize in ecommerce. We also optimize for AI search platforms (ChatGPT, Perplexity, AI Overviews), not just Google. And we track revenue attribution through HubSpot."
+      },
+      {
+        "question": "How long does it take to see SEO results?",
+        "answer": "Most clients see meaningful ranking improvements within 3-6 months of consistent publishing. SEO compounds over time. Our Silicone Depot case study shows what 7 years of consistent content looks like."
+      },
+      {
+        "question": "Do you offer technical SEO audits?",
+        "answer": "Yes. Our technical audit covers site speed, crawlability, schema markup, Core Web Vitals, security headers, and indexation issues. We provide a prioritized fix list and can implement fixes for WordPress and Shopify sites."
+      },
+      {
+        "question": "What about AI search? Do you optimize for ChatGPT and Perplexity?",
+        "answer": "Yes. We call it LLM Discovery. We optimize your content structure, schema markup, and llms.txt so AI assistants can accurately cite your expertise. It's a complementary service to traditional SEO."
+      },
+      {
+        "question": "How much do SEO services cost?",
+        "answer": "SEO content strategy and writing starts with our Content Flywheel plan. Website page copy projects are quoted per project. Technical audits and LLM Discovery can be standalone or bundled. Contact us for a custom quote."
+      },
+      {
+        "question": "Can you help with an existing site or only new content?",
+        "answer": "Both. Our Content Refresh service audits your existing pages, identifies ranking potential, and rewrites or re-optimizes. Sometimes the highest-ROI SEO work is improving what you already have."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Get Found?",
+    "text": "Whether it's Google page one or a ChatGPT recommendation, your customers are searching. Let's make sure they find you."
+  }
+}

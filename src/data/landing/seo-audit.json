@@ -1,0 +1,154 @@
+{
+  "form": {
+    "header": "Request your free audit",
+    "subtitle": "Send us your URL. A real human runs the 56+ point audit and emails you the PDF within one business day.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in commerce.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Free SEO Audit | 24-Hour Human-Written Report | Content Cucumber",
+    "meta_description": "We run a free SEO and AEO audit on your website and deliver a written report to your inbox within one business day. 56+ point checklist. No sales call required.",
+    "slug": "seo-audit"
+  },
+  "thankyou": {
+    "title": "Your audit is in the queue",
+    "text": "We received your request and a real human is on it. Your full 56+ point audit lands in your inbox within one business day. Check your email shortly for a confirmation with your request reference.",
+    "link_anchor": "/aeo-seo-checklist/",
+    "link_text": "While you wait, read the 56+ point methodology"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Free Audit, Run by Humans",
+        "title": "Free SEO + AEO audit of <em>your website</em>. In your inbox in 24 hours.",
+        "paragraphs": [
+          "Send us your URL. A real human applies our 56+ point checklist to your site and emails you the PDF report within one business day.",
+          "No CMS access. No analytics login. No sales call required. The audit is the deliverable."
+        ],
+        "content_image": "/wp-content/themes/cucumber-gp-child/landing-data/aeo-seo-audit-checklist-cover.png",
+        "content_image_alt": "Cover of the 56+ point AEO + SEO audit checklist PDF that Content Cucumber delivers"
+      }
+    },
+    {
+      "type": "content-list",
+      "data": {
+        "title": "What lands in your inbox tomorrow",
+        "subtitle": "Every deliverable comes from public sources. We do not need any access to your systems to run this.",
+        "items": [
+          {
+            "title": "A 56+ point scorecard",
+            "text": "Pass, Partial, or Fail on every item across twelve categories: technical, on-page, schema, performance, content quality, AI search readiness, local SEO, and migration."
+          },
+          {
+            "title": "An AI citation check",
+            "text": "Your target queries run through ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews. You see who gets cited and what your competitors do differently."
+          },
+          {
+            "title": "Core Web Vitals diagnostics",
+            "text": "LCP, INP, and CLS measured from public PageSpeed Insights. A Pixel 5 emulated view of what Google's mobile crawler renders before any user interaction."
+          },
+          {
+            "title": "A prioritized fix list",
+            "text": "Every issue tagged Critical, High, Medium, or Low. Implementation guidance for WordPress, Shopify, Magento, BigCommerce, and custom platforms. Your team can ship it without translation."
+          }
+        ]
+      }
+    },
+    {
+      "type": "intro",
+      "data": {
+        "eyebrow": "Why a human runs this, not a tool",
+        "title": "Tools flag issues. They do not fix them.",
+        "paragraphs": [
+          "A typical SEO tool returns 400 issues on a mid-size site. Some are critical. Most are noise. None come with the judgment to tell you which 40 actually move rankings and revenue this quarter.",
+          "Our audit adds the layer the tool cannot. Every finding is graded against the 56+ checks, ranked by impact, and written in plain language your team can act on this week.",
+          "You get the tool data. You also get the read on what to do about it."
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "From request to report in 24 hours",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Submit your URL",
+            "text": "Email and website only. Company name is optional. No CMS, no analytics, no Search Console access required."
+          },
+          {
+            "number": "02",
+            "title": "We confirm receipt",
+            "text": "You get a confirmation email immediately with your request reference. Includes the expected delivery window."
+          },
+          {
+            "number": "03",
+            "title": "A human runs the audit",
+            "text": "We apply the full 56+ point checklist to your site, score every item Pass / Partial / Fail, and write the implementation guidance for your platform."
+          },
+          {
+            "number": "04",
+            "title": "PDF in your inbox",
+            "text": "The full audit lands in your inbox within one business day. Yours to act on, hand to your team, or talk to us about implementation."
+          }
+        ]
+      }
+    },
+    {
+      "type": "two-column",
+      "data": {
+        "title": "Want to see our methodology first?",
+        "text": "Every audit applies the same 56+ checks across 12 categories. The full methodology is documented in the checklist. Read it before you submit your URL, or hand it to your team to run themselves.",
+        "button_text": "Read the 56+ point checklist",
+        "button_link": "/aeo-seo-checklist/",
+        "image": "landing-data/aeo-seo-audit-checklist-cover.png"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Common questions",
+        "items": [
+          {
+            "question": "What does the free audit include?",
+            "answer": "The full 56+ point checklist applied to your site, with Pass, Partial, or Fail scoring on every item, plus a prioritized remediation plan. No obligation. No sales call required."
+          },
+          {
+            "question": "What platforms do you audit?",
+            "answer": "WordPress, Shopify, Magento, BigCommerce, WooCommerce, and custom platforms. The audit methodology works on any website. Implementation support is strongest on WordPress and Shopify."
+          },
+          {
+            "question": "How long does it take?",
+            "answer": "Within 24 business hours from when we receive your request. Complex sites (1,000+ pages, multiple subdomains, multi-location) may take longer. We confirm timing in the confirmation email."
+          },
+          {
+            "question": "How is this different from a tool report?",
+            "answer": "A tool flags 400 issues. It cannot tell you which 40 matter, which take five minutes to fix, and which need a sprint. We add the human judgment. Same data, different output."
+          },
+          {
+            "question": "Do you cover AI search and citations?",
+            "answer": "Yes. We audit your llms.txt, your passage-level structuring, and we check whether ChatGPT, Perplexity, and Google AI Overviews are surfacing your brand for target queries."
+          },
+          {
+            "question": "Do you handle migrations?",
+            "answer": "Yes. Migration recovery is one of our most-requested engagements. If you have a traffic cliff, the first 30 days are usually recoverable. Waiting six months usually is not."
+          },
+          {
+            "question": "What happens after I get the audit?",
+            "answer": "Nothing automatic. You can act on the findings yourself, hand them to your existing team, or talk to us about a paid engagement to implement the fixes."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Want to see where your site stands?",
+        "text": "The full 56+ point audit. Pass, Partial, or Fail on every item. Prioritized fixes ranked by impact. In your inbox within 24 hours."
+      }
+    }
+  ]
+}

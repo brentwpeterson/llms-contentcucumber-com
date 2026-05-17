@@ -1,0 +1,42 @@
+{
+    "no_nav": true,
+    "seo": {
+        "title": "Grow With HubSpot and the Loop | Free Loop Marketing Review",
+        "meta_description": "Free Loop Marketing review for ecommerce brands. Score your marketing across Express, Tailor, Amplify, and Evolve. Includes a 30-minute call and a written deliverable. HubSpot Solutions Partner.",
+        "og_description": "Free Loop Marketing review. Express, Tailor, Amplify, Evolve scorecard plus a prioritized fix list and a 30-minute call with an ecommerce marketing expert.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    },
+    "form": {
+        "header": "Get Your Free Loop Marketing Review",
+        "portal_id": "39487190",
+        "form_id": "60772228-1ef9-471a-96e6-6e3aa92ce039",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Check your inbox",
+        "text": "Your Loop Marketing Review request is in. We'll be in touch within one business day to schedule the 30-minute call and confirm the scorecard delivery.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Growth Marketing for Ecommerce Brands",
+                "title": "Grow With HubSpot<br>and <em>the Loop</em>.",
+                "subtitle": "Your buyers research on Reddit, YouTube, and ChatGPT before they ever visit your site. The funnel is dead. The loop is how you grow now. Get a free Loop Marketing review and see exactly where your marketing stands across all four stages.",
+                "bullets": [
+                    "<strong>Scorecard mapping your marketing to the four loop stages:</strong> Express, Tailor, Amplify, and Evolve",
+                    "<strong>Express score:</strong> how differentiated is your content in a market flooded with AI output?",
+                    "<strong>Tailor score:</strong> where is personalization missing in the path from first touch to checkout?",
+                    "<strong>Amplify score:</strong> how well are you distributing across the channels your buyers actually use (ChatGPT, Claude, Perplexity, Google AI overviews, email, social)?",
+                    "<strong>Evolve score:</strong> are you optimizing based on what works, or waiting for the next quarterly review?",
+                    "<strong>Prioritized list of fixes</strong> ranked by revenue impact, plus a 30-minute call with an ecommerce marketing expert and a written deliverable you can act on immediately"
+                ],
+                "authors": "Content Cucumber is a HubSpot Solutions Partner with 30+ years in ecommerce. We implement Loop Marketing with full revenue attribution. Already on HubSpot? Great. Not yet? We set it up as part of the engagement.",
+                "form_title": "Get Your Free Loop Marketing Review",
+                "form_subtitle": "Free. Scorecard, prioritized fixes, and a 30-minute call."
+            }
+        }
+    ]
+}

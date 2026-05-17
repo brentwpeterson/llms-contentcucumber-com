@@ -1,0 +1,85 @@
+{
+    "no_nav": true,
+    "noindex": true,
+    "seo": {
+        "title": "Name Your Price for a Case Study | Content Cucumber",
+        "meta_description": "Pay what works for you. We write your case study at any budget level so you can see what real customer storytelling does for your pipeline.",
+        "og_description": "Standard rate is $1,500. Name your price. Get a real Content Cucumber case study that shows what your customer storytelling can do.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    },
+    "form": {
+        "header": "Name Your Price",
+        "portal_id": "39487190",
+        "form_id": "d980b539-219e-46d6-a456-b59cab4f7a4c",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Got it",
+        "text": "We'll review your details and reach back out within one business day to schedule the interview and confirm the scope.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Content Cucumber Case Study POC",
+                "title": "Name Your Price for a <em>Real Case Study</em>",
+                "subtitle": "Our standard case study runs $1,500. We're opening this work to anyone, at any price. Bring us the story you want told. We're not pushing a template or a script. You shape the angle, we listen, and we write a case study that earns its keep.",
+                "bullets": [
+                    "<strong>One full case study, written by a human writer.</strong> 800 to 1,200 words on the customer story you choose.",
+                    "<strong>Hard numbers included.</strong> We pull the metrics that matter from your customer's results. Adjectives don't carry case studies. Numbers do.",
+                    "<strong>A quote spreadsheet from the interview.</strong> Every usable line, captured and tagged. Reuse it on social, in decks, in ads, anywhere your team needs proof.",
+                    "<strong>We interview anyone you point us to.</strong> Customer, partner, or someone on your team. Customer interviews land best, but the choice is yours. 30-minute call, recorded and transcribed.",
+                    "<strong>11 rounds of revisions.</strong> Because 11 is one better than 10. We don't stop until you like it.",
+                    "<strong>Schema.org JSON-LD delivered as a separate file.</strong> Drop it into your CMS and the case study earns rich results in Google and clean citations from AI search. Most case study writers don't ship this.",
+                    "<strong>Standard rate is $1,500.</strong> You name a number that works for you. Open to any company at any budget."
+                ],
+                "thumbnail": "",
+                "authors": "Brent Peterson, CEO of Content Cucumber",
+                "form_title": "Tell us about the story",
+                "form_subtitle": "Tell us who to interview, the angle, and what you can pay. We'll handle the rest.",
+                "testimonials_heading": "What our clients are saying",
+                "testimonials": [
+                    {
+                        "text": "Here at Shopware we lean heavily on Content Cucumber to help us with the creation of our case studies. You always know how to capture the unique perspective of the merchant, and power of both Shopware and our ecosystem.",
+                        "client": "Jason Nyhus",
+                        "role": "General Manager US",
+                        "org": "Shopware"
+                    },
+                    {
+                        "text": "Tremendous help balancing the speed and efficiency of AI-supported content with real, valuable industry knowledge.",
+                        "client": "Frank Thompson",
+                        "role": "VP of Digital Account Management",
+                        "org": "THE TEAM (formerly Wasserman)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "Why a case study now",
+                "heading": "Cold outreach is cooling. Stories still work.",
+                "items": [
+                    {
+                        "title": "Buyers ignore pitches. They read stories about people like them.",
+                        "body": "A case study is the rare outbound asset that earns a reply. It puts the buyer in someone else's seat and lets them see the outcome before they commit."
+                    },
+                    {
+                        "title": "AI search wants citations, not adjectives.",
+                        "body": "ChatGPT, Perplexity, and Google AI Overviews quote case studies because they have specific names, numbers, and outcomes. Your About Us page does not get cited. A case study with hard data does."
+                    },
+                    {
+                        "title": "Sales loses deals at the proof stage.",
+                        "body": "The question that closes or kills a deal is, do you have a customer like me? Without a case study, the answer is trust us. With one, it is a link."
+                    },
+                    {
+                        "title": "One interview gives you five assets.",
+                        "body": "The full case study for the website. Pull-quotes for ads. A slide for the sales deck. An email for the nurture sequence. A LinkedIn post for the founder. The interview pays for itself five times over."
+                    }
+                ]
+            }
+        }
+    ]
+}

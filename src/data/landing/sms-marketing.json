@@ -1,0 +1,101 @@
+{
+    "seo": {
+        "title": "SMS Marketing Services - Content Cucumber",
+        "meta_description": "Compliant SMS programs paired with email. TCPA opt-in, smart cadence, and content that respects the channel. Built for ecommerce and B2B."
+    },
+    "form": {
+        "header": "Book a 15-minute audit (covers email + SMS)",
+        "subtitle": "We pull the last 90 days of your sends across both channels, identify the three biggest leaks, and tell you what to fix first.",
+        "trust_text": "Mailchimp + HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sidebar": {
+        "title": "Book the email + SMS audit.",
+        "text": "One audit covers both channels. Three biggest leaks, fix plan, 15 minutes.",
+        "button_text": "Book your audit",
+        "button_url": "/services/email-marketing/email-audit/",
+        "trust_text": "TCPA and 10DLC compliant builds. Free, no obligation."
+    },
+    "hero": {
+        "eyebrow": "Compliant SMS programs",
+        "title": "SMS Marketing Services",
+        "subtitle": "Compliant by default, paired with email by design, written for the moments that earn the interruption."
+    },
+    "sections": [
+        {
+            "id": "what-we-do",
+            "title": "What SMS marketing means at Content Cucumber",
+            "content": "<p>SMS is an interruption channel. The brand earns the right to interrupt by being relevant. That narrows the use cases, and that is a feature.</p><p>We build SMS programs that pair with email, clear TCPA compliance from day one, and respect the channel by sending less, not more. Cart recovery, shipping updates, back-in-stock, VIP-tier alerts. The moments that earn the buzz on the phone.</p>"
+        },
+        {
+            "id": "tcpa-compliance",
+            "title": "TCPA, opt-in, and 10DLC. Compliance is not optional.",
+            "content": "<p>TCPA violations carry $500 to $1,500 per text in statutory damages. Class-action settlements routinely run into eight figures. Every SMS program we build clears TCPA, carrier, and 10DLC requirements before the first message goes out.</p><h3>Express written consent</h3><p>TCPA requires express written consent for marketing texts. Implied consent that works for email does not work for SMS. Consent must be specific to SMS marketing as a use case, must disclose message frequency and data rates, and must be revocable on the same surface where it was granted.</p><p>We build the consent flow into the brand's existing capture points (checkout, newsletter signup, account creation) so the language meets TCPA on every entry path. Double opt-in is the default for new programs even where single opt-in is technically permitted, because it cuts complaint rates and keeps carrier reputation clean.</p><h3>STOP and HELP responses</h3><p>Every program must respond to STOP, UNSUBSCRIBE, CANCEL, END, and QUIT keywords with an immediate opt-out confirmation. HELP must return contact information and a description of the program. These responses are non-negotiable, automated, and audited on every campaign.</p><h3>Quiet hours and time zones</h3><p>TCPA prohibits marketing calls and texts before 8am or after 9pm in the recipient's local time zone. SMS platforms enforce this when the timezone is on the subscriber record. Our programs send timezone-aware by default and never schedule a marketing send that crosses a quiet-hours boundary.</p><h3>10DLC registration (United States)</h3><p>Long-code SMS in the US runs on 10DLC infrastructure. Brands must register the campaign with The Campaign Registry through their messaging provider, declaring use case, sample messages, opt-in flow, and expected throughput. Unregistered traffic gets filtered. We handle the registration as part of onboarding.</p><h3>Short codes vs long codes vs toll-free</h3><p>Short codes (5-6 digits) cost more, throughput is highest, and carriers treat them as marketing-ready. Long codes (10DLC) are cheaper but require registration. Toll-free messaging is the middle ground for B2B brands. We recommend the channel based on send volume, geography, and brand recognition needs.</p>"
+        },
+        {
+            "id": "use-cases",
+            "title": "When SMS works (and when it does not)",
+            "content": "<p>SMS earns a place in the program when the message is short, the timing matters, and the action is one tap.</p><h3>Cart abandonment with a tight window</h3><p>Cart SMS works when it triggers fast (within an hour) and links straight back to the cart. The message says what is in the cart, why the brand is reaching out, and the link to complete. Discount-led cart SMS trains the audience to abandon for a coupon. Friction-removal-led cart SMS recovers more revenue and protects margin.</p><h3>Shipping notifications and delivery updates</h3><p>Transactional SMS for order confirmation, ship-out, out-for-delivery, and delivery-complete events has the highest open and engagement rate of any channel. We treat these as branded touchpoints, not just operational messages. They are the most reliable way to layer in a second-purchase ask without feeling promotional.</p><h3>Back-in-stock and restock alerts</h3><p>Subscribers who opt in to back-in-stock alerts have given the highest signal of intent in the entire database. SMS converts these at multiples of email rates because the inventory window is short and the channel is immediate.</p><h3>VIP tier and loyalty triggers</h3><p>SMS is the channel for the top 5 percent of customers. Early access to drops, members-only promos, restock priority. The relationship justifies the interruption.</p><h3>Where SMS does not work</h3><p>Generic batch promotions to the full list. Long copy that does not fit in 160 characters cleanly. B2B audiences where personal mobile numbers are not the right surface. Programs that send more than three to five marketing messages per month. Each of these patterns drives opt-out rates higher than acquisition cost can recover.</p>"
+        },
+        {
+            "id": "cadence",
+            "title": "Cadence, frequency, and message design",
+            "content": "<p>SMS frequency is the single biggest driver of opt-out rate. Send too often and the channel collapses. Send too rarely and the platform fee outpaces the revenue. We tune cadence to the program and to the cohort, not to a calendar.</p><h3>Frequency benchmarks by program type</h3><p>Mature programs typically run 4-8 marketing messages per month, plus transactional triggers (which do not count against the cap because they are expected). New programs ramp from 2 messages per month and add cadence as engagement signals support it.</p><p>Cohort-aware cadence beats one-size-fits-all. VIP subscribers tolerate (and want) higher frequency. New subscribers need a slower ramp. We segment frequency caps by engagement tier so the brand does not lose its best subscribers to over-sending.</p><h3>Character limits and message structure</h3><p>SMS is 160 characters. MMS extends to 1,600. Above 160 the message splits into multiple SMS segments and gets billed per segment. We write to the 160-character constraint by default. Every word earns its place. A clear ask and one link.</p><p>Link previews matter. Branded link shorteners (the brand domain, not bit.ly) lift click-through and signal legitimacy to carrier filters. We set up the brand link domain on every program and route every send through it.</p><h3>Personalization that does not feel creepy</h3><p>First name in an SMS works once. Order context (the product they bought, the cart they left) works every time. We use commerce data, not demographic data, because the former feels useful and the latter feels like surveillance. The line is whether the personalization helps the subscriber complete an action they already intended.</p><h3>A/B testing and measurement</h3><p>SMS A/B testing is constrained because the channel does not support open tracking. We test on click-through rate, conversion rate, opt-out rate, and revenue per send. The opt-out signal is the leading indicator. A test that lifts CTR but doubles opt-out rate is destroying the program.</p>"
+        },
+        {
+            "id": "email-pair",
+            "title": "Pair SMS with email",
+            "content": "<p>SMS works best as a coordinated channel, not a standalone. Cart recovery sends an email at hour 1 and an SMS at hour 4. Shipping updates split between transactional email (full content) and SMS (one-line status). Back-in-stock waits on signals across both channels before deciding which one fires first.</p><p>Programs run in coordination, not in parallel. The audit covers both channels because the measurement and compliance signals overlap.</p>",
+            "link_url": "/services/email-marketing/",
+            "link_text": "See Email Marketing pillar"
+        },
+        {
+            "id": "audit-link",
+            "title": "Run the email and SMS audit first",
+            "content": "<p>The audit covers both channels. Free, 15 minutes, comes back with the three biggest leaks across email and SMS combined and a fix plan you can run yourself or hand to us.</p>",
+            "link_url": "/services/email-marketing/email-audit/",
+            "link_text": "Book the audit"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "Do we have to pair SMS with email?",
+                "answer": "It can stand alone, but it runs better next to email. Our programs typically run both channels coordinated. If you only want SMS, we can scope that too."
+            },
+            {
+                "question": "How often will we send?",
+                "answer": "Programs that overshoot cadence drive opt-outs. We tune cadence to retention metrics, not vanity volume. Typical mature programs send 1-3 marketing texts per week plus transactional triggers."
+            },
+            {
+                "question": "What happens if a customer texts STOP?",
+                "answer": "They are immediately opted out and receive a confirmation. The platform suppresses them from all future marketing sends. Re-opt-in requires fresh express consent."
+            },
+            {
+                "question": "Are short codes worth the cost?",
+                "answer": "If the brand sends more than 50,000 marketing messages per month or runs time-sensitive campaigns where throughput matters, yes. Below that, 10DLC is the right call."
+            },
+            {
+                "question": "Do you handle the 10DLC registration?",
+                "answer": "Yes. We submit the registration through your messaging provider as part of onboarding. Approval typically takes 5-10 business days and we coordinate the wait into the launch timeline."
+            },
+            {
+                "question": "What about international SMS?",
+                "answer": "Each country has its own consent and registration rules. We scope international SMS as a separate workstream because the compliance load is country-specific. The US program ships first; international follows on a separate timeline."
+            },
+            {
+                "question": "How is success measured?",
+                "answer": "Click-through rate, conversion rate, revenue per send, and opt-out rate. The opt-out rate is the leading indicator of program health. A program that lifts CTR but doubles opt-outs is failing, not winning."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Ready to launch SMS the right way?",
+        "text": "Book the free audit. We come back with three things to fix across email and SMS and a fix plan you can run.",
+        "button_text": "Book your audit",
+        "button_url": "/services/email-marketing/email-audit/"
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "meta_description": "Únete al equipo de creadores de Content Cucumber. Producimos contenido para marcas de ecommerce, agencias de marketing y retailers especializados. Impulsado por personas, asistido por IA.",
+        "og_description": "Content Cucumber está contratando creadores que hablen inglés nativo. Trabajo estable por contrato produciendo blogs, contenido de productos, redes sociales, email, video y más para marcas reales.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Aplica para unirte a nuestro equipo",
+        "subtitle": "Cuéntanos qué haces y cómo te gusta crear. Revisamos cada solicitud.",
+        "bottom_only": true,
+        "trust_text": "Respondemos a cada solicitud. No dejamos a nadie sin respuesta.",
+        "portal_id": "39487190",
+        "form_id": "7e0a3558-d4e8-4cfb-9826-b58ee8d1c3c7",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Únete al equipo de Content Cucumber",
+                "title": "Buscamos creadores que <em>la entiendan</em>.",
+                "paragraphs": [
+                    "Content Cucumber es un equipo en crecimiento de creadores con talento. Contratamos colaboradores que hablen inglés nativo y mantenemos un equipo pequeño de escritores de tiempo completo. Nuestros clientes son marcas de ecommerce, agencias de marketing y retailers especializados que necesitan contenido consistente y de calidad con el que puedan contar.",
+                    "Una semana escribirás artículos de blog para una marca DTC, la siguiente harás descripciones de producto para una tienda en Shopify, y después redactarás el newsletter para el cliente de una agencia. El trabajo es variado, las marcas son reales y cada pieza que creas llega a clientes de verdad.",
+                    "Creemos que el mejor contenido viene de personas reales. Mientras otras agencias reemplazan escritores con IA, en Content Cucumber estamos comprometidos con los creadores humanos. La IA es una herramienta en nuestro proceso, no un sustituto de las personas que hacen el trabajo."
+                ],
+                "platforms_label": "Creamos contenido para",
+                "platforms": "eCommerce &bull; CMS &bull; Marketing &bull; SaaS &bull; B2B &bull; Retail &bull; DTC &bull; y más"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "70+", "label": "Creadores en el equipo" },
+                { "number": "100+", "label": "Clientes atendidos" },
+                { "number": "600+", "label": "Episodios de podcast producidos" },
+                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Qué buscamos",
+                "subtitle": "No necesitas cumplir con todo. Si algunos de estos puntos te describen, sigue leyendo.",
+                "items": [
+                    {
+                        "number": "",
+                        "title": "Eres un creador con oficio",
+                        "text": "Tienes una especialidad. Ya sea escribir artículos de blog, producir podcasts, editar video o crear contenido de productos, te enorgulleces de tu trabajo y siempre buscas mejorar."
+                    },
+                    {
+                        "number": "",
+                        "title": "Aprendes rápido la voz de una marca",
+                        "text": "Nuestros clientes van desde marcas de ecommerce hasta agencias de marketing y retailers especializados. Vas a necesitar adaptarte a distintas voces de marca, audiencias e industrias. La curiosidad importa más que un trasfondo específico."
+                    },
+                    {
+                        "number": "",
+                        "title": "Cumples con las fechas",
+                        "text": "Nuestros clientes trabajan con retainer y dependen de calendarios de publicación consistentes. Necesitamos personas que entreguen a tiempo, avisen temprano si algo cambia y traten cada asignación como si importara."
+                    },
+                    {
+                        "number": "",
+                        "title": "Quieres trabajo estable",
+                        "text": "Esto no es un tablero de proyectos sueltos. Asignamos creadores a cuentas de clientes de manera continua. Construyes una relación con las marcas que atiendes, y el trabajo llega mes con mes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Cómo trabajamos",
+                "title": "Esto no es una fábrica de contenido.<br>Es un <em>equipo de verdad</em>.",
+                "paragraphs": [
+                    "La mayoría del trabajo freelance de contenido es puro trámite. Recibes un brief, lo escribes, te pagan y nunca vuelves a saber del cliente.",
+                    "Nosotros hacemos las cosas diferente. Te asignamos cuentas de clientes y trabajas con ellos mes con mes. Aprendes su voz de marca, sus clientes, sus productos. Una marca de ecommerce que te confía su blog este mes te va a confiar el lanzamiento de su producto el mes que viene."
+                ],
+                "old_way": {
+                    "heading": "Trabajo freelance típico",
+                    "items": [
+                        "Asignaciones sueltas y al azar",
+                        "Sin relación con la marca",
+                        "Competencia por quién cobra menos",
+                        "Compitiendo contra contenido generado por IA",
+                        "Sin retroalimentación, sin crecimiento"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Trabajar con Content Cucumber",
+                    "items": [
+                        "Relaciones continuas con clientes",
+                        "Conocimiento profundo de las marcas que atiendes",
+                        "Tarifas justas por trabajo de calidad",
+                        "La IA es una herramienta, no tu reemplazo",
+                        "Retroalimentación editorial y desarrollo profesional"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Qué obtienes",
+                "subtitle": "Más allá de las asignaciones. Así es ser parte del equipo.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Trabajo estable",
+                        "text": "Nuestros clientes trabajan con retainer. Asignaciones consistentes, mes con mes. Sin adivinar de dónde viene tu próximo pago."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Ve tu impacto",
+                        "text": "Rastreamos el contenido hasta los ingresos a través de HubSpot. Ves cómo rinde tu trabajo. Ese ciclo de retroalimentación te hace mejor creador."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Trabaja con herramientas modernas",
+                        "text": "Optimización AIO, visibilidad en búsquedas con IA, estrategia de contenido de HubSpot. Vas a trabajar con herramientas y técnicas a las que la mayoría de los creadores todavía no tienen acceso."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Crece con nosotros",
+                        "text": "El equipo está creciendo. Los creadores que entregan buenos resultados reciben más trabajo, mejores clientes y oportunidades de liderar contenido para grandes marcas."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas frecuentes",
+                "items": [
+                    {
+                        "question": "¿Es trabajo freelance o de tiempo completo?",
+                        "answer": "Es trabajo por contrato. Tú defines tu horario y tomas la cantidad de trabajo que te funcione. Muchos de nuestros creadores nos usan como un cliente ancla estable junto con otros proyectos."
+                    },
+                    {
+                        "question": "¿Necesito experiencia en ecommerce?",
+                        "answer": "Ayuda bastante. Si has escrito sobre ecommerce, SaaS o tecnología B2B, te vas a adaptar rápido. Escritores fuertes con genuina curiosidad por nuevas industrias también les va muy bien aquí."
+                    },
+                    {
+                        "question": "¿Qué formatos de contenido necesitan?",
+                        "answer": "De todo. Escrito, audio, video, redes sociales, email, ecommerce, técnico y lo que traigas a la mesa. Cuéntanos qué haces y encontraremos dónde encajas."
+                    },
+                    {
+                        "question": "¿Cómo funciona el proceso de solicitud?",
+                        "answer": "Envía el formulario en esta página. Revisamos cada solicitud. Si hay buen ajuste, te contactamos para platicar sobre una asignación de prueba pagada. Nada de trabajo especulativo sin pago."
+                    },
+                    {
+                        "question": "¿Cuáles son las tarifas?",
+                        "answer": "Las tarifas dependen del tipo de contenido, la complejidad y tu experiencia. Pagamos tarifas justas por trabajo de calidad. Los detalles los platicamos cuando nos conectemos."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para crear contenido que importa?",
+                "text": "Llena el formulario y cuéntanos qué haces. Leemos cada solicitud. Si hay buen ajuste, sabrás de nosotros en menos de una semana."
+            }
+        }
+    ]
+}

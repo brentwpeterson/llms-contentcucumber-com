@@ -1,0 +1,171 @@
+{
+    "seo": {
+        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $100 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
+        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $100, or custom packages.",
+        "og_image": ""
+    },
+    "form": {
+        "bottom_only": true
+    },
+    "thankyou": {
+        "title": "You're on the list.",
+        "text": "We'll reach out shortly to confirm your interview slot and send a short prep guide."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Conference Interview Packages",
+                "youtube_id": "B2DTOLMkzf4",
+                "youtube_layout": "grid",
+                "youtube_title": "Content Cucumber Conference Interviews",
+                "title": "One interview.<br><em>Months of content</em>.",
+                "paragraphs": [
+                    "Talk Commerce records a professional podcast interview with your team at the conference. Content Cucumber's 40+ writers turn that conversation into blog articles, social clips, case studies, and SEO content.",
+                    "Three packages. Limited to 8 interviews per event. <a href=\"/conference-coverage/\">See our full conference video production service</a>."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "500+", "label": "Podcast Episodes" },
+                { "number": "40+", "label": "Human Writers" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "8", "label": "Slots Per Event" }
+            ]
+        },
+        {
+            "type": "bundles",
+            "anchor": "packages",
+            "data": {
+                "title": "Interview Packages",
+                "subtitle": "Every package includes a professional on-camera interview at your booth. We bring the gear and guide the conversation. Higher tiers add written content from Content Cucumber's team.",
+                "items": [
+                    {
+                        "name": "Spotlight",
+                        "badge": "Free",
+                        "target": "A quick, professional interview that introduces your brand to the Talk Commerce podcast audience.",
+                        "price": "Free",
+                        "form_modal": {
+                            "heading": "Book Your Free Interview",
+                            "subtitle": "Tell us which event you're attending and we'll confirm your slot.",
+                            "button_text": "Book Free Interview",
+                            "portal_id": "39487190",
+                            "form_id": "c558d377-b3be-4091-87ff-da48f320145c",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "3-minute guided interview at your booth",
+                            "Professional camera and audio",
+                            "Published on the Talk Commerce podcast",
+                            "Shareable video clip for your channels"
+                        ]
+                    },
+                    {
+                        "name": "Deep Dive",
+                        "badge": "Most Popular",
+                        "featured": true,
+                        "target": "A full-length conversation. Tell your story, explain your product, and share your perspective on the industry.",
+                        "price": "$100",
+                        "form_modal": {
+                            "heading": "Book Your Deep Dive Interview",
+                            "subtitle": "15-minute in-depth interview. $100 per session.",
+                            "button_text": "Book Now - $100",
+                            "portal_id": "39487190",
+                            "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "15-minute in-depth interview",
+                            "Published as a full podcast episode",
+                            "Multiple edited clips for social media",
+                            "B-roll footage of your booth included",
+                            "Raw footage delivered to your team"
+                        ]
+                    },
+                    {
+                        "name": "Full Content Package",
+                        "target": "Talk Commerce records. Content Cucumber writes. One interview becomes a complete content library for your marketing team.",
+                        "price": "Custom",
+                        "form_modal": {
+                            "heading": "Let's Build Your Content Package",
+                            "subtitle": "Tell us about your event and goals. We'll schedule a quick call to scope your package.",
+                            "button_text": "Schedule a Call",
+                            "portal_id": "39487190",
+                            "form_id": "39446d06-5fd2-4464-9e6f-ed642fb34d3a",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Everything in Deep Dive, plus:",
+                            "Case study written by Content Cucumber",
+                            "SEO-optimized blog article",
+                            "Social media content calendar with clips",
+                            "Post-event email campaign assets",
+                            "Content distribution support"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How It Works",
+                "subtitle": "No scripts. No awkward setups. We come to you.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Pick Your Package",
+                        "text": "Choose Spotlight (free), Deep Dive ($100), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We Come to Your Booth",
+                        "text": "Talk Commerce shows up with pro gear and guides a natural, relaxed conversation. No scripts, no teleprompters. Just your team talking about what they know."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Content Delivered",
+                        "text": "Talk Commerce edits and publishes the episode. For Full Content packages, Content Cucumber's writers produce blog articles, case studies, and social content from the interview."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "What if our team isn't comfortable on camera?",
+                        "answer": "That's exactly why we guide the conversation. No scripts, no teleprompters. We ask questions your team already knows the answers to and keep it relaxed. We've done hundreds of these."
+                    },
+                    {
+                        "question": "When will we receive the final content?",
+                        "answer": "Video clips and published episodes within two weeks. Written content (blog articles, case studies) within three weeks. Rush delivery available."
+                    },
+                    {
+                        "question": "Can we use the footage for our own marketing?",
+                        "answer": "Yes. You receive all clips, raw footage, and full permission to use them across your channels. Social media, website, email campaigns, sales decks. It's your content."
+                    },
+                    {
+                        "question": "Which conferences do you cover?",
+                        "answer": "We cover major ecommerce and B2B conferences across the US, including Shop Talk, eTail, and industry-specific shows. Tell us which event you're attending and we'll confirm availability."
+                    },
+                    {
+                        "question": "What are Talk Commerce and Content Cucumber?",
+                        "answer": "Talk Commerce is a podcast and media platform with 500+ episodes focused on ecommerce. Content Cucumber is a content creation agency with 40+ human writers. Talk Commerce records the interview. Content Cucumber turns it into written content. One conversation, a full marketing library."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to book your interview?",
+                "text": "8 slots per event. Tell us which conference you're attending and which package you want. <a href=\"/conference-pr/\">PR agencies: see our agency content services</a>."
+            }
+        }
+    ]
+}

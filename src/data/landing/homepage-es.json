@@ -1,0 +1,246 @@
+{
+    "form": {
+        "header": "¡Escribamos juntos tu historia de éxito!",
+        "subtitle": "",
+        "trust_text": "Más de 40 redactores humanos. Más de 500 episodios de podcast. Más de 30 años en ecommerce. Cero contenido genérico de IA.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero-terminal",
+            "data": {
+                "slots": [
+                    {
+                        "headline": "Contenido Sin<br>Atajos",
+                        "terminal": [
+                            {
+                                "text": "Más redacción, menos prompts.",
+                                "delay": 500
+                            },
+                            {
+                                "text": "\nNada de contenido genérico de IA.",
+                                "delay": 500
+                            },
+                            {
+                                "text": "\nPersonas reales en cada paso. Siempre.",
+                                "delay": 1200
+                            }
+                        ],
+                        "cta_headline": "Redactores reales. Resultados reales.",
+                        "cta_text": "Creamos motores de contenido para marcas en crecimiento. Redactores humanos que aprenden la voz de tu marca, cumplen con los plazos y generan resultados que se acumulan con el tiempo.",
+                        "cta_button_text": "Platiquemos",
+                        "cta_button_link": "/es/contacto/"
+                    },
+                    {
+                        "headline": "Tu Voz de Marca,<br>Amplificada",
+                        "terminal": [
+                            {
+                                "text": "> motor_contenido.iniciar()",
+                                "delay": 500
+                            },
+                            {
+                                "text": "\nCargando voz de marca...",
+                                "delay": 700
+                            },
+                            {
+                                "text": "\nRedactores humanos listos.",
+                                "delay": 900
+                            },
+                            {
+                                "text": "\nListo.",
+                                "delay": 1200
+                            }
+                        ],
+                        "cta_headline": "Tu voz, no la nuestra.",
+                        "cta_text": "Nos tomamos el tiempo de entender cómo suena tu marca, qué necesita tu audiencia y qué te hace diferente. Después escribimos como tú, a gran escala.",
+                        "cta_button_text": "Conoce Cómo Funciona",
+                        "cta_button_link": "/es/servicios/"
+                    },
+                    {
+                        "headline": "Todos los Canales<br>Cubiertos",
+                        "terminal": [
+                            {
+                                "text": "Blogs. Páginas de aterrizaje.",
+                                "delay": 500
+                            },
+                            {
+                                "text": "\nRedes sociales. Email. SEO.",
+                                "delay": 500
+                            },
+                            {
+                                "text": "\nTodo escrito por personas reales.",
+                                "delay": 1200
+                            }
+                        ],
+                        "cta_headline": "Un equipo. Todas las plataformas.",
+                        "cta_text": "Blogs, redes sociales, campañas de email, páginas de aterrizaje, contenido en video. Un solo equipo de contenido que se encarga de todo, puntualmente, cada semana.",
+                        "cta_button_text": "Explorar Servicios",
+                        "cta_button_link": "/es/servicios/"
+                    }
+                ],
+                "cta_proof": "Más de 40 redactores. Más de 500 episodios. Más de 30 años en ecommerce.",
+                "seo_text": "Personas reales en cada paso. Creemos que la IA debe potenciar la creatividad humana, no reemplazarla. Nuestro enfoque: creación de contenido con apoyo de IA y editores humanos revisando cada pieza. Ejecución precisa. Consistencia total de marca en todas las plataformas.",
+                "type_speed_min": 45,
+                "type_speed_max": 95,
+                "bg_color": "#000000",
+                "headline_color": "#58c558"
+            }
+        },
+        {
+            "type": "lede",
+            "data": {
+                "title": "Personas reales escriben tu contenido.",
+                "text": "Contenido a demanda para marcas de comercio electrónico y B2B. Más de 40 escritores humanos investigan, redactan y editan artículos de blog, casos de estudio, programas de email y páginas de aterrizaje con cadencia semanal. La IA ayuda con investigación e ideación. Los humanos sostienen la pluma."
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "500+",
+                    "label": "Episodios de Podcast"
+                },
+                {
+                    "number": "30+",
+                    "label": "Años en Ecommerce"
+                },
+                {
+                    "number": "40+",
+                    "label": "Redactores Humanos"
+                },
+                {
+                    "number": "100s",
+                    "label": "Marcas Atendidas"
+                }
+            ]
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "Contenido que Funciona de Verdad",
+                "subtitle": "Construimos un inventario de marketing que crece con el tiempo. Cada pieza la escriben personas reales que conocen tu marca.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Blog y Contenido SEO",
+                        "text": "Artículos de blog consistentes y de alta calidad, optimizados para buscadores y escritos por personas que conocen tu industria. Entrega semanal, todas las semanas.",
+                        "link": "/es/servicios/redaccion-de-blogs/",
+                        "link_text": "Más información"
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Contenido para Redes Sociales",
+                        "text": "Publicaciones pensadas para cada plataforma que suenan como tu marca, no como una plantilla. Nosotros escribimos, tú apruebas, nosotros publicamos. Así de sencillo.",
+                        "link": "/es/servicios/redes-sociales/",
+                        "link_text": "Más información"
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Video en Conferencias",
+                        "text": "Llegamos a tu stand, grabamos entrevistas profesionales y te entregamos videos listos para publicar. Una sola sesión de grabación, meses de contenido.",
+                        "link": "/es/video-de-conferencias/",
+                        "link_text": "Más información"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "partner-carousel",
+            "data": {
+                "title": "Marcas en Crecimiento Confían en Nosotros",
+                "subtitle": "Trabajamos con empresas de ecommerce y B2B que se toman el contenido en serio.",
+                "max_partners": 12,
+                "show_blurb": true,
+                "fallback": []
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "¿Cómo Funciona?",
+                "subtitle": "De la primera llamada al primer borrador en días, no en semanas.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Descubrimiento",
+                        "text": "Conocemos la voz de tu marca, tus objetivos y tu audiencia. Tú nos cuentas qué es lo que importa. Nosotros escuchamos."
+                    },
+                    {
+                        "number": "2",
+                        "title": "Estrategia",
+                        "text": "Armamos un calendario de contenido y un plan de temas basado en tus objetivos, palabras clave y el panorama competitivo."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Creación",
+                        "text": "Redactores humanos crean tu contenido. Cada pieza pasa por revisión editorial antes de entregarse."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Resultados",
+                        "text": "El contenido se publica a tiempo. El tráfico crece. Tu marca construye autoridad que se acumula con el tiempo."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "case-study",
+            "data": {
+                "eyebrow": "Caso de Éxito",
+                "title": "Silicone Depot: De 500 a Más de 10,000 Visitantes Orgánicos",
+                "text": [
+                    "Silicone Depot es un proveedor de ecommerce de selladores y calafateo de silicona, que atiende tanto a clientes B2C como B2B.",
+                    "Empezaron a publicar artículos semanales con Content Cucumber en 2018. En ese momento, su tráfico orgánico era de aproximadamente 500 visitantes al mes.",
+                    "Hoy, Silicone Depot promedia más de 10,000 visitantes orgánicos mensuales. El gasto en publicidad bajó, los ingresos subieron y su marca es más fuerte que nunca.",
+                    "El contenido consistente y de alta calidad se acumula con el tiempo. Así es como se ve un verdadero motor de contenido."
+                ],
+                "image": "/wp-content/uploads/2025/07/silicone-depot-organic-traffic-growth-content-cucumber-case-study.png",
+                "image_width": 1188,
+                "image_height": 1094,
+                "image_alt": "Gráfica de crecimiento del tráfico orgánico de Silicone Depot mostrando el aumento de 500 a más de 10,000 visitantes mensuales tras asociarse con Content Cucumber",
+                "stats": [
+                    {
+                        "number": "10,000+",
+                        "label": "Visitantes Orgánicos Mensuales"
+                    },
+                    {
+                        "number": "12,793",
+                        "label": "Palabras Clave Orgánicas"
+                    },
+                    {
+                        "number": "2018",
+                        "label": "Año de Inicio"
+                    }
+                ],
+                "cta_text": "Comienza Tu Historia de Crecimiento",
+                "cta_link": "/es/contacto/"
+            }
+        },
+        {
+            "type": "comparison-table",
+            "data": {
+                "title": "¿Por Qué Elegir Content Cucumber?",
+                "subtitle": "Mira cómo nos comparamos con otras soluciones de contenido."
+            }
+        },
+        {
+            "type": "latest-posts",
+            "data": {
+                "title": "Desde el Blog",
+                "subtitle": "Lo más reciente sobre marketing de contenido, SEO y cómo construir marcas que perduren.",
+                "count": 3,
+                "cta_text": "Ver Todas las Publicaciones",
+                "cta_link": "/es/blog/"
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para construir tu motor de contenido?",
+                "text": "Cuéntanos sobre tu negocio y tus objetivos de contenido. Vamos a armar un plan que tenga sentido para tu marca."
+            }
+        }
+    ]
+}

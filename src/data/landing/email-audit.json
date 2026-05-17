@@ -1,0 +1,200 @@
+{
+    "seo": {
+        "meta_description": "Scored audit of your email and SMS programs. Free 15-minute version. Paid version includes 40+ checkpoints, action plan, and review call. Mailchimp partner.",
+        "og_description": "Get a scored audit of your email and SMS programs. Free 15-minute version available. Mailchimp partner.",
+        "og_image": "/wp-content/uploads/email-audit/og-email-audit.webp"
+    },
+    "form": {
+        "header": "Book Your Free 15-Minute Audit",
+        "subtitle": "We pull your last 90 days of email and SMS sends, identify the three biggest leaks, and tell you if a deeper engagement makes sense.",
+        "trust_text": "Mailchimp + HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
+        "portal_id": "REPLACE_WITH_REAL_PORTAL_ID",
+        "form_id": "REPLACE_WITH_REAL_FORM_ID",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Audit booked",
+        "text": "We will reach out within one business day to schedule your 15-minute review.",
+        "link_anchor": "what-you-get",
+        "link_text": "While you wait, see what is in the paid audit"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Free email + SMS audit",
+                "title": "The Audit That <em>Tells You</em> What to Fix",
+                "paragraphs": [
+                    "A scored, written audit of your email and SMS programs. Real findings. Real fixes. No 90-page PDFs that nobody reads.",
+                    "Email programs rarely need a rebuild. They need a read. The welcome series ends after one email. Half the list has not been emailed in six months. The abandoned cart fires at the wrong time. We find the leaks.",
+                    "One audit covers both pillars. Email findings, SMS findings, and the cross-channel coordination findings. Same engagement, same report, same scoring."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "logo": "/wp-content/plugins/requestdesk-connector/includes/data/logos/mailchimp.png",
+                    "label": "Mailchimp Partner"
+                },
+                {
+                    "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+                    "label": "HubSpot Solutions Partner"
+                },
+                {
+                    "number": "40+",
+                    "label": "Audit Checkpoints"
+                },
+                {
+                    "number": "10",
+                    "label": "Business Days"
+                }
+            ]
+        },
+        {
+            "type": "bundles",
+            "anchor": "tiers",
+            "data": {
+                "title": "Three Ways to Audit",
+                "subtitle": "Free 15-minute version. Paid full audit. Implementation retainer.",
+                "items": [
+                    {
+                        "name": "Free 15-Minute Audit",
+                        "target": "Teams who want a fast read before deciding to invest.",
+                        "outcome": "Three biggest leaks, written summary, same-day delivery.",
+                        "outcomes": [
+                            "We pull your last 90 days of email and SMS sends",
+                            "Screen-share review",
+                            "Three findings, one written summary",
+                            "One decision: do you want to go deeper"
+                        ]
+                    },
+                    {
+                        "name": "Paid Audit",
+                        "target": "Teams who want a full read before they invest in a bigger build.",
+                        "outcome": "Scored report, 60-minute review call, 90-day action plan.",
+                        "featured": true,
+                        "badge": "Most Common",
+                        "outcomes": [
+                            "40+ checkpoints across email and SMS",
+                            "Co-branded with your platform",
+                            "Scored report, PDF format",
+                            "60-minute review call",
+                            "90-day action plan",
+                            "10 business day turnaround"
+                        ]
+                    },
+                    {
+                        "name": "Implementation Retainer",
+                        "target": "Teams who want the audit findings fixed by the team that found them.",
+                        "outcome": "Monthly program work scoped from audit findings.",
+                        "outcomes": [
+                            "Audit becomes the SOW",
+                            "Monthly retainer with defined scope",
+                            "Weekly check-ins, quarterly reviews",
+                            "Email content, automation, deliverability, or full program management"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "anchor": "what-you-get",
+            "data": {
+                "title": "What the Paid Audit Covers",
+                "subtitle": "40+ checkpoints across email, SMS, and cross-channel coordination.",
+                "items": [
+                    {
+                        "icon": "chart",
+                        "title": "Email Checkpoints",
+                        "text": "List health, authentication (SPF, DKIM, DMARC), segmentation, automation coverage, content quality, performance benchmarks, deliverability, compliance (CAN-SPAM, GDPR), integration health, and reporting maturity."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "SMS Checkpoints",
+                        "text": "Opt-in compliance (TCPA, express written consent), opt-in flow, cadence and time-zone respect, segmentation, automation triggers, carrier compliance (10DLC, toll-free), and performance metrics."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Cross-Channel Checkpoints",
+                        "text": "Email and SMS hand-off mapping, duplication risk, timing conflicts, customer experience for new opt-ins, brand voice consistency, and revenue attribution across channels."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How the Paid Audit Works",
+                "subtitle": "Four steps from kickoff to review call.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Kickoff Call",
+                        "text": "Day 1. Platform access, scope, timeline. 30 minutes."
+                    },
+                    {
+                        "number": "2",
+                        "title": "Data Pull and Scoring",
+                        "text": "Days 2-7. We pull data, score the program, document findings against 40+ checkpoints."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Report Writing",
+                        "text": "Days 8-10. We write the report, prep the review call, and co-brand with your platform."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Review Call",
+                        "text": "Day 10. 60 minutes. We walk through findings, answer questions, recommend the next step. No pressure."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Audit FAQ",
+                "items": [
+                    {
+                        "question": "Will you try to upsell me?",
+                        "answer": "We will recommend a next step. If the right next step is do nothing, we will say that. The audit is the deliverable. Whether you hire us after is a separate decision."
+                    },
+                    {
+                        "question": "Do I need to be on Mailchimp?",
+                        "answer": "No. We audit programs on Mailchimp, HubSpot, Klaviyo, ActiveCampaign, Salesforce, Customer.io, Drip, and more. Co-branding is platform-specific."
+                    },
+                    {
+                        "question": "How much access do you need?",
+                        "answer": "Read-only access to your email and SMS platform. We do not need your CRM admin."
+                    },
+                    {
+                        "question": "Can the audit be done without disrupting my program?",
+                        "answer": "Yes. We work from your data and your reports. No sends are paused."
+                    },
+                    {
+                        "question": "What happens to the data after the audit?",
+                        "answer": "We retain the report and our notes for 12 months. We do not retain customer-level data. Full data retention policy in our privacy notice."
+                    },
+                    {
+                        "question": "How is the paid audit priced?",
+                        "answer": "Pricing depends on list size and program complexity. Quote provided after the kickoff call. Audits typically sit in the low four-figure range for SMB and grow with program size."
+                    },
+                    {
+                        "question": "Is the audit just for email, or does it cover SMS too?",
+                        "answer": "Both. The audit is shared across our two channel pillars. One engagement, one report, with email findings, SMS findings, and cross-channel coordination findings inside it. We do not run two separate audits because the channels do not run two separate programs."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to Read Your Program?",
+                "text": "Start with the free 15-minute version. If it makes sense to go deeper, we will tell you."
+            }
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "seo": {
+        "meta_description": "Welcome, abandoned cart, post-purchase, win-back, replenishment programs. Email and SMS coordinated. Mailchimp partner. Free audit.",
+        "og_description": "Lifecycle email and SMS programs built for eCommerce. Coordinated across both channels. Mailchimp partner.",
+        "og_image": "/wp-content/uploads/lifecycle-programs/og-lifecycle-programs.webp"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Email + SMS lifecycle",
+                "title": "Lifecycle Programs That Run <em>Email and SMS</em> Together",
+                "paragraphs": [
+                    "Welcome series, abandoned cart, post-purchase, win-back, and replenishment. Coordinated across both channels. Built in your platform. Run by humans.",
+                    "Email and SMS run as two programs in most teams. They are one program. The customer does not see channels. They see your brand. The brand that texts them an hour after it just emailed them. We fix the disconnect.",
+                    "This is the page where the email pillar and the SMS pillar converge. One program map, two channels, one customer experience."
+                ],
+                "content_image": "/wp-content/uploads/lifecycle-programs/hero-lifecycle.webp",
+                "content_image_alt": "Content Cucumber lifecycle program flow"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "logo": "/wp-content/plugins/requestdesk-connector/includes/data/logos/mailchimp.png",
+                    "label": "Mailchimp Partner"
+                },
+                {
+                    "number": "6",
+                    "label": "Programs Built"
+                },
+                {
+                    "number": "2",
+                    "label": "Channels Coordinated"
+                },
+                {
+                    "number": "10+",
+                    "label": "Years in Lifecycle"
+                }
+            ]
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "Six Programs, Two Channels Each",
+                "subtitle": "Welcome, cart, browse, post-purchase, win-back, replenishment. Email and SMS in their right roles.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Welcome Series",
+                        "text": "The first 30 days. Sets expectations, introduces the brand, captures the first conversion. Email day 0, 2, 5, 10, 21. SMS day 0, 7, 14."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Abandoned Cart",
+                        "text": "The customer left items. We bring them back. Email at hour 1 and 24. SMS at hour 24 with discount code, after the email did not convert."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Browse Abandon",
+                        "text": "The customer viewed but did not add. We bring back the curious. Email at hour 2, day 3, day 7. SMS day 3 for high-intent browsers only."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Post-Purchase",
+                        "text": "The order is placed. The relationship starts now. Email at order, ship, deliver, plus 14 and 30 days. SMS at ship and deliver. Highest-value SMS use case."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Win-Back",
+                        "text": "The customer has not engaged in 90+ days. Email day 0, 7, 14, 21. SMS day 21 as the final nudge."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Replenishment + VIP",
+                        "text": "The customer is on a buying cycle. Triggered by purchase cycle, not the calendar. Email for the story, SMS for the one-tap reorder."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "youtube_id": "PLACEHOLDER_YOUTUBE_ID",
+                "title": "[CASE STUDY VIDEO PLACEHOLDER. Full lifecycle build with revenue lift metric.]",
+                "aspect": "16x9",
+                "caption": "Replace with real Mailchimp lifecycle program case study",
+                "label": "Case Study",
+                "heading": "How [CLIENT] coordinated email + SMS across <em>six programs</em>",
+                "paragraphs": [
+                    "Replace this section with a real lifecycle program case study. The before/after across email-only baseline vs. coordinated email + SMS, the program elements, the LTV impact.",
+                    "Strong candidates: any client where a full lifecycle build moved retention or AOV by 20%+ over the prior baseline."
+                ],
+                "points": [
+                    "[Result 1: revenue per subscriber lift]",
+                    "[Result 2: retention or LTV impact]",
+                    "[Result 3: cart recovery rate vs. email-only]"
+                ]
+            }
+        },
+        {
+            "type": "ecosystem",
+            "data": {
+                "title": "The Two-Pillar Channel Architecture",
+                "subtitle": "Lifecycle programs sit on top of both channel pillars. Email and SMS each have their own pillar page. This page is where they converge into integrated programs.",
+                "brands": [
+                    {
+                        "name": "Email Marketing",
+                        "role": "Channel pillar",
+                        "description": "The email half of every lifecycle program. Strategy, content, automation, reporting.",
+                        "url": "/services/email-marketing/",
+                        "link_text": "See email marketing"
+                    },
+                    {
+                        "name": "SMS Marketing",
+                        "role": "Channel pillar",
+                        "description": "The SMS half. Compliance-first, coordinated with email so the channels reinforce.",
+                        "url": "/services/sms-marketing/",
+                        "link_text": "See SMS marketing"
+                    },
+                    {
+                        "name": "Mailchimp Partnership",
+                        "role": "Featured platform",
+                        "description": "Lifecycle programs built directly inside your Mailchimp account. Email + SMS bundle ready.",
+                        "url": "/partners/mailchimp/",
+                        "link_text": "See Mailchimp partnership"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Lifecycle Program FAQ",
+                "items": [
+                    {
+                        "question": "Do all six programs need to be built at once?",
+                        "answer": "No. Engagements typically start with welcome, cart, and post-purchase, then add browse abandon, win-back, and replenishment as the program matures. We can scope a phased build."
+                    },
+                    {
+                        "question": "Do you coordinate email and SMS or just one?",
+                        "answer": "We default to coordinated. The hand-off rules are documented up front. If you only want one channel, we can scope that, but most programs leave revenue on the table single-channel."
+                    },
+                    {
+                        "question": "What platforms do you build in?",
+                        "answer": "Mailchimp featured. Also HubSpot, Klaviyo, ActiveCampaign, Klaviyo SMS, Postscript, Customer.io, and combinations of email + SMS platforms."
+                    },
+                    {
+                        "question": "How do you avoid sending email and SMS at the same time?",
+                        "answer": "Hand-off rules. Email leads, SMS reinforces. SMS owns urgency, email owns story. Never both within 4 hours unless the journey explicitly requires it. If email converts, SMS does not fire."
+                    },
+                    {
+                        "question": "How long does a full build take?",
+                        "answer": "Welcome, cart, and post-purchase usually go live in 30-45 days. Adding browse, win-back, and replenishment typically extends to 60-90 days for full coverage."
+                    },
+                    {
+                        "question": "Do you own the program after launch?",
+                        "answer": "You own the program. Everything is built inside your platform. We can run it as a managed service, or hand off to your team after the build."
+                    },
+                    {
+                        "question": "How does this page relate to the email and SMS pillars?",
+                        "answer": "The email pillar and the SMS pillar each describe a single channel as a service. This page is where they converge. Lifecycle programs are built on both pillars at once, with one program map, two channels, and one customer experience. Same architecture as the pillars, applied across both."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to Run Email and SMS as One Program?",
+                "text": "Start with a free 15-minute audit. We will tell you what is built, what is missing, and what to fix first."
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "no_nav": true,
+    "seo": {
+        "title": "AI-Ready Plan: Future-Proof Your Store with AI-Driven Visibility | Content Cucumber",
+        "meta_description": "Download the AI-Ready Plan. Learn how AI visibility works for eCommerce, what makes a store AI-ready, and build a 30-day plan to drive more traffic.",
+        "og_description": "Free 43-page AI visibility plan for eCommerce. Understand how LLMs discover your store, make your pages AI-ready, and build a 30-day content plan.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    },
+    "form": {
+        "header": "Download the AI-Ready Plan",
+        "portal_id": "39487190",
+        "form_id": "cf158940-fae5-4ca2-9648-b7f482e8e399",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Check your inbox",
+        "text": "The AI-Ready Plan is on its way. You'll receive a download link within a few minutes.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Content Cucumber",
+                "title": "Future-Proof Your Store with<br><em>AI-Driven Visibility</em>",
+                "subtitle": "A 43-page plan covering how AI visibility works for eCommerce, what makes a store AI-ready, and a 30-day roadmap to drive more traffic.",
+                "bullets": [
+                    "<strong>Understand AI Visibility:</strong> How AI-powered answers capture early queries, where discovery happens today, and why visibility depends on being understood by LLMs",
+                    "<strong>Make Your Store AI-Ready:</strong> Build answer-ready web pages, optimize product pages as knowledge assets, and apply E-E-A-T principles that both humans and machines trust",
+                    "<strong>Build a 30-Day Plan:</strong> Create a content flywheel with pillar topics, design your weekly content mix, and run a technical audit to drive consistent traffic growth"
+                ],
+                "thumbnail": "landing-data/ai-ready-workshop-cover.png",
+                "authors": "Content Cucumber has helped eCommerce brands publish over 55 million words of optimized content. This plan distills years of AI visibility strategy into a practical 30-day roadmap.",
+                "form_title": "Download the AI-Ready Plan",
+                "form_subtitle": "Free. 43 pages. Straight to your inbox."
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+  "form": {
+    "header": "Get the checklist, or have us run it",
+    "subtitle": "Email gets you the 56+ point AEO + SEO checklist. Add your URL and we will run it on your site for free.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in commerce.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "The 56+ Point AEO + SEO Audit Checklist | Content Cucumber",
+    "meta_description": "The full 56+ point AEO and SEO audit checklist Content Cucumber runs for every client. Twelve categories, Pass / Partial / Fail thresholds on every check.",
+    "slug": "aeo-seo-checklist"
+  },
+  "thankyou": {
+    "title": "Check your inbox",
+    "text": "The 56+ point checklist is on its way to your email. If you shared your URL, your free audit is in the queue and will land in your inbox within one business day.",
+    "link_anchor": "",
+    "link_text": ""
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "SEO + AEO Methodology",
+        "title": "The 56+ Point <em>SEO + AEO Audit Checklist</em>",
+        "paragraphs": [
+          "The full methodology Content Cucumber applies on every audit. Twelve categories, 56+ discrete checks, Pass / Partial / Fail thresholds on every item.",
+          "Work it line by line yourself, or hand it to your team. If you want us to run it for you, the audit is free. See <a href=\"/seo-audit/\">request a free audit</a>.",
+          "What the checklist covers:",
+          "<ul><li>56+ point technical, on-page, schema, and content-quality checklist</li><li>Pass, Partial, or Fail thresholds on every item</li><li>AI search readiness: ChatGPT, Perplexity, and Google AI Overviews citation analysis</li><li>Core Web Vitals, mobile, and crawlability diagnostics</li><li>Local SEO and migration recovery checks</li><li>Severity ranks (Critical, High, Medium, Low)</li><li>Implementation guidance for WordPress, Shopify, Magento, and custom platforms</li></ul>"
+        ]
+      }
+    },
+    {
+      "type": "two-column",
+      "data": {
+        "title": "See inside the checklist",
+        "text": "Cover and contents of the actual PDF we deliver. Twelve categories, 56+ checks, Pass / Partial / Fail thresholds, severity tags. Everything CC applies on every paid audit.",
+        "button_text": "Get the PDF",
+        "button_link": "#form",
+        "image": "landing-data/aeo-seo-audit-checklist-cover.png"
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What the Checklist Audits",
+        "subtitle": "Twelve categories. 56+ discrete checks. Every item includes the why, the how, and the priority.",
+        "items": [
+          {
+            "image": "checklist-thumbnails/crawlability-indexing.png",
+            "image_alt": "Sample page from the 56+ point checklist showing Category 01 Crawlability and Indexing with robots.txt sanity check",
+            "title": "Crawlability & Indexing",
+            "text": "Robots.txt, XML sitemaps, noindex audit, and IndexNow. AI bot accessibility (GPTBot, ClaudeBot, PerplexityBot). Make sure every page that should be indexed actually is."
+          },
+          {
+            "image": "checklist-thumbnails/on-page-schema.png",
+            "image_alt": "Sample page from the 56+ point checklist showing Category 03 On-Page SEO with title tag uniqueness and meta description checks",
+            "title": "On-Page & Schema",
+            "text": "Title tags, meta descriptions, H1 uniqueness, alt text, and JSON-LD schema. AggregateRating placement, Review schema, BreadcrumbList. The signals AI engines parse first."
+          },
+          {
+            "image": "checklist-thumbnails/performance-core-web-vitals.png",
+            "image_alt": "Sample page from the 56+ point checklist showing Performance and Core Web Vitals checks for CLS and image optimization",
+            "title": "Performance & Core Web Vitals",
+            "text": "LCP, INP, CLS measurements. Image optimization, render-blocking resources, third-party script audit. Every 500ms recovered is measurable revenue."
+          },
+          {
+            "image": "checklist-thumbnails/mobile-social.png",
+            "image_alt": "Sample page from the 56+ point checklist showing Social and Open Graph debugger verification with How CC Fixes This callout",
+            "title": "Mobile & Social",
+            "text": "Mobile-first indexing parity, viewport, touch targets, og:image and Twitter cards. The page Google indexes is the page it sees on a phone, before the user touches anything."
+          },
+          {
+            "image": "checklist-thumbnails/content-quality-ai-search.png",
+            "image_alt": "Sample page from the 56+ point checklist showing Content Quality keyword cannibalization check with a real Field Note from a brand-search audit",
+            "title": "Content Quality & AI Search",
+            "text": "E-E-A-T signals, thin content audit, cannibalization, llms.txt, and passage-level structuring for ChatGPT, Perplexity, and Google AI Overviews citations."
+          },
+          {
+            "image": "checklist-thumbnails/local-seo-migration.png",
+            "image_alt": "Sample page from the 56+ point checklist showing Category 12 Migration-Specific with redirect mapping and sitemap resubmission checks",
+            "title": "Local SEO & Migration",
+            "text": "Google Business Profile completeness, NAP consistency across citations, local schema, review velocity. Migration recovery for the highest-ROI fixes after a traffic cliff."
+          }
+        ]
+      }
+    },
+    {
+      "type": "content-list",
+      "data": {
+        "title": "What Every Audit Produces",
+        "subtitle": "The same six deliverables every time. Every input comes from public sources. No access to your CMS, analytics, or Search Console required.",
+        "items": [
+          {
+            "title": "56+ Point Scorecard",
+            "text": "Pass, Partial, or Fail on every item across all twelve categories. A one-line finding on each item so you know exactly where you stand."
+          },
+          {
+            "title": "Crawl & Schema Report",
+            "text": "A crawl of your public pages with sitemap, robots.txt, and llms.txt review. Every JSON-LD schema block on every page, plus the schema you are missing."
+          },
+          {
+            "title": "AI Citation Check",
+            "text": "Your target queries tested across ChatGPT, Claude, Perplexity, Gemini, and Google AI Overviews. Who gets cited and what your competitors do differently."
+          },
+          {
+            "title": "Core Web Vitals & Mobile View",
+            "text": "LCP, INP, and CLS measured from public PageSpeed Insights data. A Pixel 5 emulated view of what Google's smartphone crawler renders before any user interaction."
+          },
+          {
+            "title": "Backlink & Local Snapshot",
+            "text": "Top referring domains and anchor text patterns from public backlink tools. For local businesses: Google Business Profile completeness, NAP consistency in public citations, review velocity."
+          },
+          {
+            "title": "Prioritized Fix List",
+            "text": "Every issue tagged Critical, High, Medium, or Low. Implementation guidance for WordPress, Shopify, Magento, BigCommerce, and custom platforms. Your team can ship it without translation."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How the Audit Runs",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Crawl & Analyze",
+            "text": "We run the full 56+ point checklist on your site. Every signal: technical, on-page, schema, content quality, AI search readiness, and local SEO. No tool dump, no spreadsheet pile."
+          },
+          {
+            "number": "02",
+            "title": "Prioritized Report",
+            "text": "Every issue categorized as Pass, Partial, or Fail with a severity rank. Critical (fix this week), High (this month), Medium (this quarter), Low (backlog)."
+          },
+          {
+            "number": "03",
+            "title": "Implementation Roadmap",
+            "text": "You get a written deliverable: every fix described with implementation guidance for WordPress, Shopify, Magento, and custom platforms, severity-ranked so your team can ship it. The roadmap is yours."
+          },
+          {
+            "number": "04",
+            "title": "Implement & Verify (Paid Engagement)",
+            "text": "If you hire us to execute the fixes, we ship them and verify each one against the original audit findings. You see exactly what changed and the impact in the data."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "Is the checklist itself free to use?",
+            "answer": "Yes. This page documents the full methodology. You can apply it line by line to your own site. If you want us to run it for you, the audit itself is also free."
+          },
+          {
+            "question": "What platforms does the checklist apply to?",
+            "answer": "WordPress, Shopify, Magento, BigCommerce, WooCommerce, and custom platforms. The checks themselves are platform-agnostic. Implementation guidance is strongest on WordPress and Shopify."
+          },
+          {
+            "question": "How long does running the full 56+ point checklist take?",
+            "answer": "If you run it yourself: budget a full working day for a mid-size site. If we run it for you: within one business day, delivered as a PDF to your inbox."
+          },
+          {
+            "question": "How is this different from a tool report?",
+            "answer": "A tool flags 400 issues. It cannot tell you which 40 matter, which can be fixed in five minutes, and which need a full sprint. The checklist adds human judgment on top of the tool data."
+          },
+          {
+            "question": "Do the checks cover AI search and citations?",
+            "answer": "Yes. The Content Quality & AI Search category covers llms.txt, passage-level structuring, and whether ChatGPT, Perplexity, and Google AI Overviews are surfacing your brand for target queries."
+          },
+          {
+            "question": "Do the checks cover migrations?",
+            "answer": "Yes. The Local SEO & Migration category includes migration recovery checks. If you have a traffic cliff, the first 30 days are usually recoverable. Waiting six months usually is not."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Want us to run this audit for you?",
+        "text": "The full 56+ point audit, delivered to your inbox within 24 business hours. Free. No sales call required.",
+        "button_text": "Request a free audit",
+        "button_link": "/seo-audit/"
+      }
+    }
+  ]
+}

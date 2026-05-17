@@ -1,0 +1,171 @@
+{
+    "seo": {
+        "meta_description": "Agenda una entrevista profesional de podcast en tu próxima conferencia de ecommerce. Spotlight gratuito de 3 minutos, Deep Dive por $100 o paquete completo de contenido. Talk Commerce graba, Content Cucumber escribe.",
+        "og_description": "Talk Commerce te entrevista en cámara en la conferencia. Content Cucumber lo convierte en artículos de blog, clips para redes y casos de estudio. Paquetes gratuitos, de $100 o personalizados.",
+        "og_image": ""
+    },
+    "form": {
+        "bottom_only": true
+    },
+    "thankyou": {
+        "title": "¡Ya estás en la lista!",
+        "text": "Te contactaremos pronto para confirmar tu espacio de entrevista y enviarte una guía rápida de preparación."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Paquetes de Entrevista en Conferencias",
+                "youtube_id": "B2DTOLMkzf4",
+                "youtube_layout": "grid",
+                "youtube_title": "Content Cucumber Conference Interviews",
+                "title": "Una entrevista.<br><em>Meses de contenido</em>.",
+                "paragraphs": [
+                    "Talk Commerce graba una entrevista profesional de podcast con tu equipo en la conferencia. Los más de 40 escritores de Content Cucumber convierten esa conversación en artículos de blog, clips para redes sociales, casos de estudio y contenido SEO.",
+                    "Tres paquetes disponibles. Limitado a 8 entrevistas por evento. <a href=\"/conference-coverage/\">Conoce nuestro servicio completo de producción de video para conferencias</a>."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "500+", "label": "Episodios de podcast" },
+                { "number": "40+", "label": "Escritores profesionales" },
+                { "number": "30+", "label": "Años en ecommerce" },
+                { "number": "8", "label": "Espacios por evento" }
+            ]
+        },
+        {
+            "type": "bundles",
+            "anchor": "packages",
+            "data": {
+                "title": "Paquetes de entrevista",
+                "subtitle": "Cada paquete incluye una entrevista profesional en cámara en tu stand. Nosotros llevamos el equipo y guiamos la conversación. Los niveles superiores agregan contenido escrito por el equipo de Content Cucumber.",
+                "items": [
+                    {
+                        "name": "Spotlight",
+                        "badge": "Gratis",
+                        "target": "Una entrevista rápida y profesional que presenta tu marca ante la audiencia del podcast Talk Commerce.",
+                        "price": "Gratis",
+                        "form_modal": {
+                            "heading": "Agenda tu entrevista gratuita",
+                            "subtitle": "Cuéntanos a qué evento asistirás y confirmaremos tu espacio.",
+                            "button_text": "Agendar entrevista gratuita",
+                            "portal_id": "39487190",
+                            "form_id": "c558d377-b3be-4091-87ff-da48f320145c",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Entrevista guiada de 3 minutos en tu stand",
+                            "Cámara y audio profesional",
+                            "Publicada en el podcast Talk Commerce",
+                            "Clip de video para compartir en tus canales"
+                        ]
+                    },
+                    {
+                        "name": "Deep Dive",
+                        "badge": "Más popular",
+                        "featured": true,
+                        "target": "Una conversación a fondo. Cuenta tu historia, explica tu producto y comparte tu visión sobre la industria.",
+                        "price": "$100",
+                        "form_modal": {
+                            "heading": "Agenda tu entrevista Deep Dive",
+                            "subtitle": "Entrevista a profundidad de 15 minutos. $100 por sesión.",
+                            "button_text": "Agendar ahora - $100",
+                            "portal_id": "39487190",
+                            "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Entrevista a profundidad de 15 minutos",
+                            "Publicada como episodio completo de podcast",
+                            "Múltiples clips editados para redes sociales",
+                            "Material B-roll de tu stand incluido",
+                            "Material en bruto entregado a tu equipo"
+                        ]
+                    },
+                    {
+                        "name": "Paquete completo de contenido",
+                        "target": "Talk Commerce graba. Content Cucumber escribe. Una sola entrevista se convierte en una biblioteca completa de contenido para tu equipo de marketing.",
+                        "price": "Personalizado",
+                        "form_modal": {
+                            "heading": "Armemos tu paquete de contenido",
+                            "subtitle": "Cuéntanos sobre tu evento y tus objetivos. Programaremos una llamada rápida para definir tu paquete.",
+                            "button_text": "Programar una llamada",
+                            "portal_id": "39487190",
+                            "form_id": "39446d06-5fd2-4464-9e6f-ed642fb34d3a",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Todo lo del Deep Dive, más:",
+                            "Caso de estudio escrito por Content Cucumber",
+                            "Artículo de blog optimizado para SEO",
+                            "Calendario de contenido para redes sociales con clips",
+                            "Materiales de campaña de email post-evento",
+                            "Apoyo en distribución de contenido"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Cómo funciona",
+                "subtitle": "Sin guiones. Sin montajes forzados. Nosotros vamos a ti.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Elige tu paquete",
+                        "text": "Elige Spotlight (gratis), Deep Dive ($100) o Paquete completo de contenido (personalizado). Llena el formulario y confirmamos tu espacio."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Llegamos a tu stand",
+                        "text": "Talk Commerce llega con equipo profesional y guía una conversación natural y relajada. Sin guiones, sin teleprompters. Solo tu equipo hablando de lo que sabe."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Contenido entregado",
+                        "text": "Talk Commerce edita y publica el episodio. Para los paquetes completos, los escritores de Content Cucumber producen artículos de blog, casos de estudio y contenido para redes a partir de la entrevista."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas frecuentes",
+                "items": [
+                    {
+                        "question": "¿Qué pasa si nuestro equipo no se siente cómodo frente a cámara?",
+                        "answer": "Justo por eso nosotros guiamos la conversación. Sin guiones, sin teleprompters. Hacemos preguntas que tu equipo ya sabe responder y mantenemos un ambiente relajado. Hemos hecho cientos de estas entrevistas."
+                    },
+                    {
+                        "question": "¿Cuándo recibimos el contenido final?",
+                        "answer": "Clips de video y episodios publicados en un máximo de dos semanas. Contenido escrito (artículos de blog, casos de estudio) en un máximo de tres semanas. Entrega urgente disponible."
+                    },
+                    {
+                        "question": "¿Podemos usar el material para nuestro propio marketing?",
+                        "answer": "Sí. Recibes todos los clips, material en bruto y permiso completo para usarlos en tus canales. Redes sociales, sitio web, campañas de email, presentaciones de ventas. Es tu contenido."
+                    },
+                    {
+                        "question": "¿En qué conferencias trabajan?",
+                        "answer": "Cubrimos las principales conferencias de ecommerce y B2B en Estados Unidos, incluyendo Shop Talk, eTail y eventos especializados de la industria. Cuéntanos a qué evento asistirás y confirmamos disponibilidad."
+                    },
+                    {
+                        "question": "¿Qué son Talk Commerce y Content Cucumber?",
+                        "answer": "Talk Commerce es un podcast y plataforma de medios con más de 500 episodios enfocados en ecommerce. Content Cucumber es una agencia de creación de contenido con más de 40 escritores profesionales. Talk Commerce graba la entrevista. Content Cucumber la convierte en contenido escrito. Una conversación, una biblioteca completa de marketing."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para agendar tu entrevista?",
+                "text": "8 espacios por evento. Cuéntanos a qué conferencia asistirás y qué paquete te interesa. <a href=\"/conference-pr/\">Agencias de PR: conozcan nuestros servicios de contenido para agencias</a>."
+            }
+        }
+    ]
+}

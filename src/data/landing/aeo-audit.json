@@ -1,0 +1,163 @@
+{
+    "seo": {
+        "meta_description": "Free AEO Audit. Measure how ChatGPT, Perplexity, and Gemini represent your brand. Get a scored report across five dimensions with actionable recommendations.",
+        "og_description": "Answer engines are shaping how buyers see your brand. Find out what ChatGPT, Perplexity, and Gemini say about you with a free AEO brand report.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Get Your Free AEO Audit",
+        "subtitle": "Enter your details. We'll analyze how AI platforms represent your brand.",
+        "trust_text": "Your report will be ready within one business day. No obligation.",
+        "portal_id": "39487190",
+        "form_id": "8328caca-fe96-4d06-9c76-d31486fb2d89",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Free AEO Audit",
+                "title": "Measure How Answer Engines <em>Represent Your Brand</em>",
+                "paragraphs": [
+                    "Answer engines like ChatGPT, Perplexity, and Gemini have changed how buyers research brands. When a prospect asks \"what's the best CRM software\" or \"is your brand trustworthy,\" they get a synthesized response, often without clicking a single website.",
+                    "This is the zero-click funnel. Answer engines act as the first and sometimes only touchpoint between your brand and a potential customer. Measuring your brand visibility in AI is now a prerequisite for any effective marketing strategy."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "3", "label": "AI Platforms Analyzed" },
+                { "number": "5", "label": "Scoring Dimensions" },
+                { "number": "100", "label": "Point Scale" },
+                { "number": "Free", "label": "Full Analysis" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What Your AEO Report Covers",
+                "subtitle": "Your brand is scored across five dimensions, each contributing to an overall score out of 100.",
+                "items": [
+                    {
+                        "title": "Sentiment Analysis (up to 40 points)",
+                        "text": "The highest-weighted dimension. We assess the overall tone AI platforms use when describing your brand: general sentiment, contextual sentiment across topics and use cases, and the credibility of sources influencing your AI representation."
+                    },
+                    {
+                        "title": "Presence Quality (up to 20 points)",
+                        "text": "How substantively answer engines discuss your brand beyond surface mentions. We measure mention depth, source authority, and the variety and completeness of information available about your brand in AI training data."
+                    },
+                    {
+                        "title": "Brand Recognition (up to 20 points)",
+                        "text": "How widely recognized your brand is across AI training data. A high recognition score means answer engines can discuss your brand with depth and specificity, not just acknowledge that it exists."
+                    },
+                    {
+                        "title": "Share of Voice (up to 10 points)",
+                        "text": "Your brand's competitive presence in AI-generated responses relative to your category. We estimate your percentage of category voice and rank you against competitors."
+                    },
+                    {
+                        "title": "Market Competition (up to 10 points)",
+                        "text": "How answer engines position your brand competitively: Leader, Challenger, or Niche Player. Plus your innovation perception: Innovator, Disruptor, or Traditionalist."
+                    },
+                    {
+                        "title": "Actionable Recommendations",
+                        "text": "Your report includes a written interpretation of what your scores mean and specific next steps for improving your AI visibility through content strategy, schema markup, and answer engine optimization."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How It Works",
+                "subtitle": "Four steps from submission to actionable insights.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Enter Your Brand Information",
+                        "text": "Tell us your company name, location, industry, and product or service. You can analyze your own company or evaluate a competitor's AI positioning."
+                    },
+                    {
+                        "number": "2",
+                        "title": "Cross-Platform AI Analysis",
+                        "text": "We send your brand information to ChatGPT, Perplexity, and Gemini and evaluate how each model characterizes your brand based on its training data."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Composite Score Calculation",
+                        "text": "Your results are calculated across all five dimensions, producing a total score out of 100 with validated, consistent scoring."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Full Brand Assessment Report",
+                        "text": "You receive your composite score, a breakdown across all five scoring dimensions, and a written interpretation of what your scores mean for your brand's current AI representation."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Why This Matters",
+                "subtitle": "Traditional SEO metrics don't reflect how answer engines represent your brand.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The Zero-Click Funnel",
+                        "text": "900 million people use ChatGPT weekly. Perplexity handles 500 million queries per month. Google AI Overviews appear on over 50% of searches. Your buyers are getting answers without visiting your website."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Beyond Traffic Metrics",
+                        "text": "Click-through rates and organic traffic don't tell you what AI platforms say about your brand. You need a measurement tool built specifically for answer engine visibility."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Control Your Narrative",
+                        "text": "Answer engines are defining your brand narrative whether you participate or not. Understanding how they represent you is the first step to influencing it."
+                    },
+                    {
+                        "icon": "target",
+                        "title": "Benchmark Against Competitors",
+                        "text": "Your competitors are already showing up in AI-generated answers. Knowing where you rank in share of voice and how AI platforms position you relative to alternatives gives you a concrete starting point."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "Is this really free?",
+                        "answer": "Yes, completely free with no obligation. We believe in showing value first. The audit gives you actionable insights whether or not you ever work with us."
+                    },
+                    {
+                        "question": "How long does it take to get my report?",
+                        "answer": "Your report will be ready within one business day. We run a thorough cross-platform analysis and include written interpretation of your results, not just raw scores."
+                    },
+                    {
+                        "question": "Can I analyze a competitor's brand?",
+                        "answer": "Yes. Enter any company name, industry, and product/service. The audit works for any brand, not just your own. Use it to benchmark against competitors."
+                    },
+                    {
+                        "question": "What AI platforms do you analyze?",
+                        "answer": "We evaluate your brand across ChatGPT, Perplexity, and Gemini. These three platforms represent the largest share of AI-powered search and answer engine usage."
+                    },
+                    {
+                        "question": "What can I do with the results?",
+                        "answer": "Your report identifies specific areas where your brand's AI representation is strong and where it needs improvement. We include actionable recommendations for improving your scores through content, schema markup, and AI optimization strategies."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Find Out How AI Sees Your Brand",
+                "text": "Answer engines are shaping buyer perception right now. Get your free AEO audit and see exactly how ChatGPT, Perplexity, and Gemini represent your brand across five scored dimensions."
+            }
+        }
+    ]
+}

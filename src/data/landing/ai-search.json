@@ -1,0 +1,130 @@
+{
+  "seo": {
+    "title": "AI Search Optimization Services - Content Cucumber",
+    "meta_description": "AI search optimization for ecommerce brands. Get cited by ChatGPT, Perplexity, and Google AI Overviews. LLM Discovery, AEO audits, AI citation optimization, and commerce discovery."
+  },
+  "form": {
+    "header": "Get Your Free AI Visibility Check",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "hero": {
+    "eyebrow": "AI Search Services",
+    "title": "AI Search<br><em>Optimization</em>",
+    "subtitle": "900 million people use ChatGPT every week. Perplexity handles 500 million queries per month. Google AI Overviews appear on over 50% of searches. Your customers are getting answers without clicking a single website."
+  },
+  "sections": [
+    {
+      "id": "llm-discovery",
+      "title": "LLM Discovery",
+      "content": [
+        "LLM Discovery is the practice of optimizing your brand's online presence so that large language models can accurately describe, recommend, and cite your business. Think of it as SEO for AI search.",
+        "We implement structured schema markup that AI can parse, llms.txt files that tell AI crawlers what your business does, and content structured for direct citation. The goal is simple: when someone asks ChatGPT or Perplexity about your category, your brand shows up in the answer.",
+        "This is not a rebrand of SEO. It requires different signals, different content structure, and different measurement. We optimize for both channels simultaneously."
+      ],
+      "link_url": "/ai-search/llm-discovery/",
+      "link_text": "Learn more about LLM Discovery"
+    },
+    {
+      "id": "aeo-optimization",
+      "title": "Answer Engine Optimization (AEO)",
+      "content": [
+        "AEO focuses on how answer engines like ChatGPT, Perplexity, and Google AI Overviews represent your brand. Not just whether they mention you, but what they say about you.",
+        "We analyze sentiment, accuracy, and completeness across all major AI platforms. Then we optimize your content, schema markup, and digital footprint to improve how AI describes your brand, products, and expertise.",
+        "AEO is the measurement layer for AI search. You can't improve what you can't measure. Our AEO audits give you a scored baseline across five dimensions so you know exactly where to focus."
+      ],
+      "link_url": "/ai-search/aeo-optimization/",
+      "link_text": "Learn more about AEO"
+    },
+    {
+      "id": "ai-citation-audit",
+      "title": "AI Citation Audit",
+      "content": [
+        "An AI citation audit examines every place where AI platforms mention (or fail to mention) your brand. We query ChatGPT, Perplexity, and Gemini with the questions your customers actually ask and document exactly how each platform responds.",
+        "The audit reveals gaps: competitors getting cited where you're absent, inaccurate information being repeated, and opportunities where a structured content change could earn you a citation.",
+        "Every citation audit includes a prioritized action plan. Not just what's wrong, but exactly what to change and in what order."
+      ],
+      "link_url": "/ai-search/ai-citation-audit/",
+      "link_text": "Learn more about AI Citation Audits"
+    },
+    {
+      "id": "commerce-discovery",
+      "title": "Commerce LLM Discovery",
+      "content": [
+        "AI shopping assistants are changing how consumers discover products. When someone asks an AI \"what's the best silicone sealant for bathrooms\" or \"compare CRM platforms for small business,\" the AI generates a product recommendation on the spot.",
+        "Commerce LLM Discovery optimizes your product catalog, reviews, and brand content so AI shopping assistants recommend your products. Product schema, review markup, competitive positioning, and category authority all factor into whether AI picks your brand or a competitor's.",
+        "This is product SEO for the AI era. If you sell products online, this is where your next wave of discovery traffic is coming from."
+      ],
+      "link_url": "/ai-search/commerce-llm-discovery/",
+      "link_text": "Learn more about Commerce Discovery"
+    },
+    {
+      "id": "free-aeo-audit",
+      "title": "Free AEO Audit",
+      "content": [
+        "Not sure where to start? Our free AEO audit scores your brand across five dimensions: sentiment analysis, presence quality, brand recognition, share of voice, and market competition. You get a composite score out of 100 with a written interpretation.",
+        "We analyze your brand across ChatGPT, Perplexity, and Gemini. The audit takes one business day and comes with actionable recommendations. No obligation.",
+        "It's the fastest way to understand how AI sees your brand today and what you can do about it."
+      ],
+      "link_url": "/aeo-audit/",
+      "link_text": "Get your free AEO audit"
+    },
+    {
+      "id": "why-ai-search",
+      "title": "Why AI Search Matters Now",
+      "content": [
+        "This is not a future trend. AI search is already shaping buying decisions today. Google AI Overviews appear on over half of all searches. ChatGPT has 900 million weekly users. Perplexity is the fastest-growing search product in a decade.",
+        "The brands that show up in AI-generated answers get the consideration. The brands that don't get skipped entirely. There is no page two of a ChatGPT response.",
+        "Traditional SEO is necessary but no longer sufficient. The companies investing in AI search visibility now are building a competitive advantage that will compound for years."
+      ]
+    }
+  ],
+  "reviews": {
+    "eyebrow": "Real ratings from real clients",
+    "title": "What Our Clients Say",
+    "toc_label": "Reviews",
+    "count": 4,
+    "columns": 2,
+    "layout": "grid",
+    "has_text": true,
+    "show_trust_bar": true,
+    "show_rating": true,
+    "show_org": true
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How is AI search optimization different from SEO?",
+        "answer": "SEO optimizes for Google's ranked results pages. AI search optimization ensures your brand appears in conversational AI responses from ChatGPT, Perplexity, and Google AI Overviews. Different signals, different content structure, complementary results. We do both."
+      },
+      {
+        "question": "Which AI platforms do you optimize for?",
+        "answer": "ChatGPT, Perplexity, Google AI Overviews (Gemini), and Claude. These represent the largest share of AI-powered search traffic. As new platforms emerge, we add them to our optimization process."
+      },
+      {
+        "question": "How do you measure AI search visibility?",
+        "answer": "We use AEO scoring across five dimensions: sentiment analysis, presence quality, brand recognition, share of voice, and market competition. This gives you a composite score out of 100 with specific areas to improve."
+      },
+      {
+        "question": "Do I need AI search optimization if I already do SEO?",
+        "answer": "Yes. Good SEO content gives you a foundation, but AI platforms use different signals to decide which brands to cite. Schema markup, llms.txt, content structure, and citation patterns all require specific optimization beyond traditional SEO."
+      },
+      {
+        "question": "How long does it take to see results?",
+        "answer": "AI platforms index structured content faster than Google indexes web pages. Some improvements in AI visibility can appear within weeks of implementing schema and structural changes. Sustained improvement requires ongoing optimization."
+      },
+      {
+        "question": "What is llms.txt?",
+        "answer": "llms.txt is a file (similar to robots.txt) that tells AI crawlers what your business does, what you sell, and how to describe you. It gives AI platforms a structured, authoritative source of information about your brand. We implement and maintain it as part of every AI search engagement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Find Out How AI Sees Your Brand",
+    "text": "AI is already shaping how buyers discover and evaluate your business. Start with a free AEO audit to see exactly how ChatGPT, Perplexity, and Gemini represent your brand today."
+  }
+}

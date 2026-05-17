@@ -1,0 +1,274 @@
+{
+    "seo": {
+        "meta_description": "Producción profesional de video en conferencias para marcas de ecommerce. Filmamos en tu stand, te entregamos clips listos para publicar y convertimos 3 días de evento en 3 meses de contenido.",
+        "og_description": "Llegamos a tu stand, grabamos entrevistas profesionales con tu equipo y te entregamos videos listos para usar. Cuando regreses a casa, ya tendrás contenido de marketing que sigue generando resultados.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Agenda tu cobertura de conferencia",
+        "subtitle": "",
+        "trust_text": "Cientos de entrevistas grabadas. Más de 30 años en ecommerce. Sin relleno.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "¡Listo, ya estás agendado! Esto es lo que sigue.",
+        "text": "Te contactaremos pronto con los detalles logísticos y una guía rápida de preparación para que tu equipo se vea increíble frente a cámara.",
+        "link_anchor": "lookslike",
+        "link_text": "Mira cómo se ve tu cobertura de conferencia"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Producción de Video en Conferencias",
+                "title": "Convierte tu evento de 3 días en<br><em>3 meses de marketing</em>.",
+                "paragraphs": [
+                    "Ya estás invirtiendo fuerte en exhibir: stand, viajes, hotel, material promocional, tiempo de tu equipo. Nuestro servicio te ayuda a regresar con mucho más que escaneos de gafetes.",
+                    "Llegamos a tu stand, grabamos entrevistas profesionales y te entregamos videos listos para publicar. Para cuando llegues a casa, ya tienes contenido de marketing que sigue trabajando mucho después de que desmontas el stand."
+                ],
+                "video_bg": "images/conference-bg.mp4",
+                "video_bg_poster": "images/conference-bg-poster.jpg"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "100s", "label": "Entrevistas grabadas" },
+                { "number": "30+", "label": "Años en ecommerce" },
+                { "number": "500+", "label": "Episodios de podcast" },
+                { "number": "8", "label": "Tipos de entregables" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Qué hacemos en el evento",
+                "subtitle": "Llegamos a tu stand con equipo profesional, un plan claro y la experiencia para que tu equipo se vea genial frente a cámara.",
+                "items": [
+                    {
+                        "title": "Entrevistas naturales",
+                        "text": "Guiamos conversaciones relajadas, sin guión, para que tu equipo se escuche seguro, claro y auténtico en cámara. Nada de scripts ni teleprompters incómodos. Solo personas reales hablando de lo que dominan.",
+                        "image": "conference-video-assets/interview.jpg"
+                    },
+                    {
+                        "title": "Video y audio profesional",
+                        "text": "Utilizamos cámaras y micrófonos profesionales para que tu mensaje se vea y se escuche a la altura. Imagen nítida, audio claro, listo para cualquier plataforma.",
+                        "image": "conference-video-assets/pro-video-audio.jpg"
+                    },
+                    {
+                        "title": "Dirección estratégica",
+                        "text": "Ayudamos a moldear las respuestas en tiempo real para que los videos finales queden enfocados, útiles y fáciles de reutilizar en distintas áreas de tu negocio. Hacemos las preguntas correctas y dirigimos la conversación.",
+                        "image": "conference-video-assets/strategic-guidance.jpg"
+                    },
+                    {
+                        "title": "B-Roll del stand y el evento",
+                        "text": "Capturamos el contexto y la energía alrededor de tu stand para que tus videos reflejen todo el evento, no solo la entrevista. Demos de productos, momentos del equipo, el movimiento del piso, la experiencia completa.",
+                        "image": "conference-video-assets/broll.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "anchor": "lookslike",
+            "data": {
+                "label": "Míralo en acción",
+                "heading": "Así es como <em>realmente se ve</em>.",
+                "paragraphs": [
+                    "Las conferencias son atención concentrada. Tus clientes están ahí, tu equipo está con toda la energía y tu mensaje está afilado. Nosotros capturamos esa energía antes de que se pierda.",
+                    "Sin guiones. Sin montajes forzados. Guiamos conversaciones naturales que hacen que tu equipo suene como los expertos que son."
+                ],
+                "points": [
+                    "Grabado directo en tu stand, entre reuniones",
+                    "Cámaras y audio profesional, cero interrupciones",
+                    "Tu equipo habla de lo que ya domina",
+                    "Nosotros nos encargamos de cada pregunta, ángulo y edición"
+                ],
+                "youtube_id": "LEmlZ46f6EM",
+                "aspect": "9x16",
+                "title": "Conference interview example",
+                "caption": "Entrevista real. Cliente real. Piso de conferencia."
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Qué recibes",
+                "subtitle": "Cada paquete de cobertura de conferencia incluye materiales pulidos y listos para usar. Agrega servicios de distribución para extender la vida útil de tu contenido.",
+                "items": [
+                    {
+                        "name": "Clips de video cortos",
+                        "badge": "Siempre incluido",
+                        "featured": true,
+                        "target": "Clips de entrevista editados profesionalmente, diseñados para comunicar tu experiencia y reutilizarse en múltiples contextos.",
+                        "outcomes": [
+                            "Cortes verticales para redes sociales",
+                            "Cortes horizontales para web y presentaciones",
+                            "Subtítulos y títulos limpios",
+                            "Branding sutil aplicado",
+                            "Material en bruto y archivos de audio incluidos"
+                        ]
+                    },
+                    {
+                        "name": "Campaña de email post-evento",
+                        "target": "Una secuencia de emails corta y estructurada, creada a partir del material grabado en la conferencia para que des seguimiento mientras el evento todavía está fresco.",
+                        "outcomes": [
+                            "Secuencia de seguimiento con tus clips de video",
+                            "Personalizada para los prospectos que conociste en el evento",
+                            "Mantiene el impulso después del evento",
+                            "Dirige tráfico a tus páginas de destino"
+                        ]
+                    },
+                    {
+                        "name": "Distribución de contenido",
+                        "target": "Nos encargamos de llevar tu contenido de video al mundo para que tú puedas enfocarte en tu negocio.",
+                        "outcomes": [
+                            "Publicación y programación en redes sociales",
+                            "Artículos de blog con SEO y AEO basados en las entrevistas",
+                            "Configuración de anuncios para promoción pagada",
+                            "Adaptado para múltiples canales y formatos"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Por qué funciona",
+                "title": "Las conferencias son <em>atención concentrada</em>.",
+                "paragraphs": [
+                    "Tus clientes están ahí. Tu equipo está con toda la energía. Tu mensaje está afilado. Es uno de los pocos momentos en que tu empresa está completamente \"encendida\".",
+                    "La mayoría de las empresas se van con un montón de gafetes escaneados y un plan vago de \"dar seguimiento la próxima semana\". Para cuando el equipo llega a casa, la energía ya se fue. Los puntos clave se mezclan. Las conversaciones que se sentían tan prometedoras en el stand se convierten en contacto frío.",
+                    "Nosotros capturamos esa energía mientras está viva y la convertimos en autoridad, prueba social, impulso y contenido que se acumula. Una sesión de grabación. Meses de marketing.",
+                    "La diferencia no es solo tener video. Es tener video grabado cuando tu equipo estaba en su mejor momento, hablando con personas reales, sobre problemas reales, con entusiasmo genuino."
+                ],
+                "old_way": {
+                    "heading": "Sin cobertura de conferencia",
+                    "items": [
+                        "Te vas solo con gafetes escaneados",
+                        "El impulso se muere después del evento",
+                        "Sin material de video para mostrar",
+                        "El equipo olvida los puntos clave",
+                        "La inversión en la conferencia queda desaprovechada"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Con cobertura de conferencia",
+                    "items": [
+                        "Te vas con una biblioteca de contenido en video",
+                        "3 meses de marketing a partir de 3 días",
+                        "Clips profesionales listos para publicar",
+                        "Testimonios reales de conversaciones reales",
+                        "Cada peso invertido sigue generando resultados"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "label": "Del stand a la marca",
+                "heading": "Una sesión de grabación. <em>Meses de contenido</em>.",
+                "paragraphs": [
+                    "Cada entrevista que grabamos se convierte en una biblioteca de materiales. Clips verticales para redes sociales. Cortes horizontales para tu sitio web. Subtítulos, branding, material en bruto. Todo incluido.",
+                    "Y lo mejor es que nosotros nos encargamos de todo. Tu equipo se enfoca en el evento. Nosotros nos ocupamos del contenido."
+                ],
+                "points": [
+                    "Clips para redes sociales listos para publicar",
+                    "Videos de seguimiento de ventas que cierran negocios",
+                    "Testimonios para tu sitio web de conversaciones reales",
+                    "Contenido para campañas de email que destaca"
+                ],
+                "youtube_id": "-n0fAi5P8K4",
+                "aspect": "9x16",
+                "title": "Conference interview example 2",
+                "caption": "Cliente real. Calidad profesional. Listo para usar."
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Dónde usan los equipos estos videos de conferencia",
+                "subtitle": "Nos enfocamos en capturar video de alta calidad en el evento porque es lo más difícil de recrear después. Una vez que se graban esas conversaciones, impulsan prácticamente cada área de tus ventas y marketing.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Seguimiento de ventas y prospección",
+                        "text": "Envía a tus prospectos un clip personalizado de la conversación que tuvieron en el stand. Nada cierra mejor que el recuerdo cara a cara. Contacto con socios, aplicaciones como ponente, reportes para inversionistas."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Landing pages y sitio web",
+                        "text": "Agrega testimonios en video reales y demos de producto a tu sitio. El contenido escrito se vuelve más fácil cuando tienes el video como base. Todo lo demás se construye a partir del material grabado."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Redes sociales y anuncios pagados",
+                        "text": "Clips verticales cortos listos para LinkedIn, Instagram, TikTok y YouTube Shorts. Lanza campañas con material real en lugar de video de stock. Destaca en cada feed."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Secuencias de email y nurturing",
+                        "text": "Crea campañas de email post-evento con video integrado. La reutilización se vuelve opcional, no obligatoria. La distribución se vuelve flexible. El video hace el trabajo pesado."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Más que solo videografía",
+                "title": "Entendemos posicionamiento, mensajes y estrategia de contenido.",
+                "paragraphs": [
+                    "Hemos creado contenido para cientos de negocios y grabado cientos de entrevistas en ecommerce y B2B. No solo apuntamos una cámara. Entendemos qué hace una buena historia, qué necesitan escuchar tus compradores y cómo sacarle jugo a una conversación de 5 minutos.",
+                    "Content Cucumber ayuda a marcas de ecommerce y B2B en crecimiento a convertir ideas en materiales que generan resultados reales. Desde redacción y estrategia hasta video y distribución, nos especializamos en construir un inventario de marketing que se acumula con el tiempo.",
+                    "Mensajes claros. Ejecución inteligente. Contenido que funciona."
+                ],
+                "stats": [
+                    { "number": "30+", "label": "Años en ecommerce" },
+                    { "number": "100s", "label": "Entrevistas grabadas" },
+                    { "number": "500+", "label": "Episodios de podcast" },
+                    { "number": "40+", "label": "Escritores profesionales" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas que nos hacen seguido",
+                "items": [
+                    {
+                        "question": "\"Ya tenemos un videógrafo.\"",
+                        "answer": "La mayoría de los videógrafos capturan tomas. Nosotros capturamos historias. Sabemos qué preguntas hacer, cómo guiar la conversación y cómo convertir entrevistas en bruto en meses de contenido de marketing. La estrategia es lo que hace diferente a nuestra cobertura de conferencia."
+                    },
+                    {
+                        "question": "\"Nuestro equipo no se siente cómodo frente a cámara.\"",
+                        "answer": "Justo por eso nosotros guiamos las conversaciones. Sin guiones, sin teleprompters. Hacemos preguntas que tu equipo ya sabe responder y mantenemos todo relajado. La gente siempre se sorprende de lo natural que se siente."
+                    },
+                    {
+                        "question": "\"No estamos seguros de que valga la inversión.\"",
+                        "answer": "Ya estás gastando miles en el stand, viajes, hotel y tiempo de tu equipo. La cobertura de conferencia convierte esa inversión que ya hiciste en contenido que trabaja durante meses. La pregunta no es si puedes pagarlo. Es si puedes darte el lujo de irte sin ello."
+                    },
+                    {
+                        "question": "\"¿Qué tan rápido recibimos los materiales finales?\"",
+                        "answer": "Entregamos clips editados, material en bruto y video con subtítulos en un máximo de dos semanas después del evento. Si necesitas entrega urgente para una campaña específica, también podemos adaptarnos."
+                    },
+                    {
+                        "question": "\"¿En qué conferencias trabajan?\"",
+                        "answer": "Cubrimos eventos en todo Estados Unidos, con amplia experiencia en conferencias de ecommerce y B2B como Shop Talk, eTail y eventos especializados de la industria. Si vas a exhibir, podemos estar ahí."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "¿Listo para convertir tu próxima conferencia en una máquina de contenido?",
+                "text": "Cuéntanos a qué evento vas a asistir. Armaremos un plan de cobertura que convierta tu presencia en el stand en meses de materiales de marketing. <a href=\"/conference-interview/\">Conoce nuestros paquetes de entrevista con precios</a>. <a href=\"/conference-pr/\">Agencias de PR: conozcan nuestros servicios para agencias</a>."
+            }
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "seo": {
+        "meta_description": "Audio Storytelling for your brand. We interview your founders, operators, and customers, then turn the conversations into story arcs and content you can use on stage, in sales, and on the Talk Commerce podcast network.",
+        "og_description": "Your story already exists. It is stuck in your head. We interview, capture, and turn the conversation into branded story assets you can actually use.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Book an Audio Storytelling Session",
+        "subtitle": "",
+        "trust_text": "500+ podcast episodes produced. 100+ founders interviewed on the Talk Commerce network.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "You're booked. Here's what happens next.",
+        "text": "We'll confirm a discovery interview slot, walk through who should sit at the mic, and send a short prep guide so you arrive ready to talk, not perform.",
+        "link_anchor": "lookslike",
+        "link_text": "See what Audio Storytelling sounds like in practice"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Audio Storytelling",
+                "title": "Audio Story Telling <em>for your Brand</em>",
+                "paragraphs": [
+                    "You have a story. It is sitting in your head, in your founder's head, in three customer conversations from last week, and in the slack messages your sales team sends each other when a deal closes. Nobody outside the building has heard it.",
+                    "We sit you down. We interview. We turn the conversation into a story arc you can use on stage, in webinars, in sales calls, and on a podcast feed if you want one. Audio is the hardest content to fake and the easiest to repurpose. Once your story exists as recorded conversation, it works everywhere else."
+                ],
+                "video_bg": "",
+                "video_bg_poster": ""
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "500+", "label": "Podcast Episodes Produced" },
+                { "number": "100+", "label": "Founders Interviewed" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "0", "label": "Scripts or Teleprompters" }
+            ]
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What We Do",
+                "subtitle": "We bring the questions, the microphone, and the host. You bring the people who hold the story.",
+                "items": [
+                    {
+                        "title": "Story Discovery Interview",
+                        "text": "A structured conversation, not a script. We come in with the questions that pull out the real story instead of the polished one. Founders, operators, customers, partners. Whoever holds the story sits at the mic.",
+                        "image": ""
+                    },
+                    {
+                        "title": "Story Arc Development",
+                        "text": "The interview becomes a usable narrative. Beginning, tension, turn, payoff. The version you would tell on stage. The version that closes the deal. The version your team can repeat without sounding rehearsed.",
+                        "image": ""
+                    },
+                    {
+                        "title": "Content Assets From One Conversation",
+                        "text": "Edited audio, transcript, written summary, pull quotes, short-form clips for social. One interview produces a month of content without anyone writing from a blank page.",
+                        "image": ""
+                    },
+                    {
+                        "title": "Optional Distribution",
+                        "text": "Publish on your own podcast feed, on the <a href=\"https://talk-commerce.com\">Talk Commerce</a> network for ecommerce reach, or both. You do not need to launch a podcast to do this. You also do not have to keep it to yourself.",
+                        "image": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Why It Works",
+                "title": "Your story already exists. <em>It is stuck in your head.</em>",
+                "paragraphs": [
+                    "Founders write a blog post and it sounds like a brochure. They sit in front of a microphone and the actual story comes out. The version with the timing, the embarrassing first attempt, the customer who almost walked away, the moment the team realized what they were really selling.",
+                    "That version closes deals. That version gets remembered after a keynote. That version is the one your sales team wishes they had on the next call.",
+                    "Audio captures it because conversation defeats the blank page. The story was always there. It just needed someone in the room asking the right questions."
+                ],
+                "old_way": {
+                    "heading": "Without Audio Storytelling",
+                    "items": [
+                        "Blank-page copywriting that sounds like a brochure",
+                        "Ghostwriters guessing at your voice",
+                        "Generic founder stories that sound like everyone else's",
+                        "The same case study language across the whole industry",
+                        "A keynote that gets polite claps and forgotten by Monday"
+                    ]
+                },
+                "new_way": {
+                    "heading": "With Audio Storytelling",
+                    "items": [
+                        "Real conversation captured at studio quality",
+                        "A story arc your team can actually repeat",
+                        "Content assets that sound like you because they are you",
+                        "Distribution to an audience that already cares",
+                        "A keynote people quote back to you weeks later"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "How You Engage",
+                "subtitle": "One story is a story. A library of stories is a brand voice. Pick the engagement that matches what you actually need.",
+                "items": [
+                    {
+                        "name": "Story Session",
+                        "badge": "Option A",
+                        "target": "One interview, one story arc, the asset set that comes from it. Right when you have a specific story to capture: a launch, a milestone, a case study, a partner moment.",
+                        "outcomes": [
+                            "Recorded interview (audio, optional video)",
+                            "Written story arc for stage and sales use",
+                            "Full transcript and pull quotes",
+                            "Clip-ready segments for social"
+                        ]
+                    },
+                    {
+                        "name": "Brand Storytelling Retainer",
+                        "badge": "Option B",
+                        "featured": true,
+                        "target": "Ongoing story capture across six months. A cadence of interviews with your founder, customers, partners, and team that builds a library of branded story content. This is the engagement that produces a brand voice you can hear, not just read.",
+                        "outcomes": [
+                            "Regular interview cadence over six months",
+                            "Library of story arcs across the brand",
+                            "Content assets ready for sales, stage, web, and social",
+                            "Story coaching for the people at the mic"
+                        ]
+                    },
+                    {
+                        "name": "Brand Storytelling + Distribution",
+                        "badge": "Option C",
+                        "target": "Option B plus published episodes on the Talk Commerce network. Your story reaches the ecommerce audience already listening, and you keep the source files for everything else.",
+                        "outcomes": [
+                            "Everything in Option B",
+                            "Episodes published on the <a href=\"https://talk-commerce.com\">Talk Commerce</a> network",
+                            "Cross-promotion to the ecommerce listener base",
+                            "Release coordination with your team"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Where Teams Use the Story",
+                "subtitle": "Audio is the hardest content to fake and the easiest to repurpose. Once the conversation exists, it powers sales, marketing, and partner motions in parallel.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Sales Conversations",
+                        "text": "Send a prospect the episode where your founder explains exactly why the product exists. Send a partner the segment where their category was the turning point. Nothing warms a cold outreach like hearing a familiar voice tell a real story."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Stage and Webinars",
+                        "text": "The same story you told at the mic is the one you tell on stage. The arc is already there. The pacing is already there. You stop reciting bullet points and start telling the story that actually gets remembered."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Website and Case Studies",
+                        "text": "Transcripts become blog posts, case study quotes, and landing page copy without starting from a blank page. The interview already did the hard work. The writer's job is to choose, not to invent."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Social and YouTube",
+                        "text": "Short audiograms, video clips, and pull quotes fill a posting calendar for months. One interview becomes ten assets without anyone writing from scratch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Built on 500+ Conversations",
+                "title": "We have been telling brand stories on Talk Commerce since 2020.",
+                "paragraphs": [
+                    "Audio Storytelling is not a new service we invented for a landing page. It is the work that produced the <a href=\"https://talk-commerce.com\">Talk Commerce</a> podcast: hundreds of conversations with ecommerce founders, operators, agency leaders, and platform teams, each one a brand story captured live.",
+                    "Brent W Peterson hosts. 500+ episodes produced. 100+ founders interviewed. The interviews sound like conversations because they are.",
+                    "Your brand. Your people at the mic. Our team running the story arc and the distribution."
+                ],
+                "stats": [
+                    { "number": "500+", "label": "Podcast Episodes" },
+                    { "number": "100+", "label": "Founders Interviewed" },
+                    { "number": "30+", "label": "Years in Ecommerce" },
+                    { "number": "0", "label": "Scripts or Teleprompters" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions We Hear",
+                "items": [
+                    {
+                        "question": "\"Do we need a podcast for this to work?\"",
+                        "answer": "No. The interview is the source material. What you do with it is your call. Publish on your own feed, on the <a href=\"https://talk-commerce.com\">Talk Commerce</a> network, or just use the assets internally for sales and stage."
+                    },
+                    {
+                        "question": "\"What do we end up with?\"",
+                        "answer": "A finished interview (audio, optionally video), a written story arc you can use on stage and in sales, a transcript, pull quotes, and clip-ready segments. We can scope additional content from there."
+                    },
+                    {
+                        "question": "\"Who hosts the interviews?\"",
+                        "answer": "Brent W Peterson. 500+ episodes across ecommerce, SaaS, and B2B. No scripts, no teleprompter, no ten-question list the guest reads through. Real conversation."
+                    },
+                    {
+                        "question": "\"Can it be published on Talk Commerce?\"",
+                        "answer": "Yes. The <a href=\"https://talk-commerce.com\">Talk Commerce</a> network reaches the ecommerce audience already paying attention to founder and operator stories. Your episode can live there, on your own feed, or both."
+                    },
+                    {
+                        "question": "\"Is this a one-time project or ongoing?\"",
+                        "answer": "Both work, but the engagement that builds a real brand voice is the six-month retainer. One interview is a story. Six months is a body of work."
+                    },
+                    {
+                        "question": "\"What does it cost?\"",
+                        "answer": "Outcome-priced. We scope to what you want to capture and how far you want to take distribution. We send a fixed quote once we understand the scope."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Got a story stuck in your head?",
+                "text": "Tell us roughly who would sit at the mic (you, your founder, a customer, a partner) and what story you wish more people knew. We'll come back with a scoped plan and a fixed quote. <a href=\"/event-podcasting/\">Capturing stories at a live event instead? See Event Podcasting.</a>"
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "seo": {
+        "meta_description": "Content Cucumber pricing. Dedicated writer plans starting at $590/month. Content Flywheel multi-channel plans at $1,000/month. Managed services from $2,500/month.",
+        "og_description": "Pricing for human-written content. Three plans: Starter ($590/mo), Content Flywheel ($1,000/mo), and Managed Services ($2,500+/mo)."
+    },
+    "form": {
+        "header": "Questions About Pricing?",
+        "subtitle": "Tell us about your content needs and we will recommend the right plan.",
+        "trust_text": "No commitment required for Starter. Try us risk-free.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sections": [
+        {
+            "type": "pricing",
+            "data": {
+                "title": "Plans That Grow With Your Business",
+                "subtitle": "Three plans. One dedicated writing team. No AI slop. No rotating freelancers. No per-word pricing.",
+                "plans": [
+                    {
+                        "name": "Starter",
+                        "description": "A dedicated writer for your brand. Unlimited requests, unlimited revisions.",
+                        "price": "$590",
+                        "period": "/month",
+                        "annual": "Save 10%: $6,372/year",
+                        "features": [
+                            "Dedicated Writer",
+                            "Unlimited Revisions",
+                            "Unlimited Requests",
+                            "Topic Development",
+                            "SEO Best Practices",
+                            "Image Curation",
+                            "Blog Publishing"
+                        ],
+                        "cta_text": "Start Now",
+                        "cta_url": "https://get.contentcucumber.com/hs/payments/ZCGzzy4HxcnYQSr9?referrer=PAYMENT_LINK",
+                        "note": "No minimum commitment"
+                    },
+                    {
+                        "name": "Content Flywheel",
+                        "description": "Turn a short monthly interview into a full month of blogs, socials, emails, and video.",
+                        "price": "$1,000",
+                        "period": "/month",
+                        "annual": "<s>$12,000</s> Save 17%: $10,000/year",
+                        "featured": true,
+                        "badge": "Most Popular",
+                        "features": [
+                            "Everything in Starter",
+                            "Monthly Video Interview",
+                            "SEO Blog Articles",
+                            "Graphic Design & Slideshows",
+                            "Captioned Video Clips",
+                            "Social Media Posts",
+                            "Email Newsletters",
+                            "Monthly Progress Reports",
+                            "Custom AI Content Tools"
+                        ],
+                        "cta_text": "Start Now",
+                        "cta_url": "https://get.contentcucumber.com/hs/payments/gskm4V7qbg?referrer=PAYMENT_LINK",
+                        "note": "Monthly or annual billing"
+                    },
+                    {
+                        "name": "Managed",
+                        "description": "A dedicated account manager, writer team, and full content strategy.",
+                        "price": "$2,500+",
+                        "period": "/month",
+                        "features": [
+                            "Everything in Content Flywheel",
+                            "Dedicated Account Manager",
+                            "Keyword Research",
+                            "Content Scaling",
+                            "Writer Team Management",
+                            "Topic Pitching & Planning",
+                            "Custom Content Types",
+                            "Brand Voice Development",
+                            "Priority Support"
+                        ],
+                        "cta_text": "Contact Sales",
+                        "cta_url": "/contact/",
+                        "note": "6-month minimum commitment"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "40+", "label": "Human Writers" },
+                { "number": "55M+", "label": "Words Written" },
+                { "number": "200+", "label": "Brands Served" },
+                { "number": "7+", "label": "Years in Business" }
+            ]
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Need Something Specific?",
+                "subtitle": "Every plan can be paired with standalone services.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "SEO & AI Search",
+                        "text": "Technical audits, content strategy, keyword research, and AI search optimization. Show up in Google and in ChatGPT."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "HubSpot Marketing",
+                        "text": "Marketing automation, email campaigns, lead scoring, and CRM setup. We are a HubSpot Solutions Partner."
+                    },
+                    {
+                        "icon": "target",
+                        "title": "Case Study Writing",
+                        "text": "We handle the interviews, writing, and coordination across every stakeholder. You make the introduction, we deliver the story."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Live Event Content",
+                        "text": "Turn a 3-day event into 3 months of marketing. Video production, interviews, social content, and media outreach."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Research & White Papers",
+                        "text": "Data-driven research reports and white papers that position your brand as a thought leader. Written by humans who understand your industry."
+                    },
+                    {
+                        "icon": "target",
+                        "title": "Product Descriptions",
+                        "text": "SEO-optimized product descriptions, category pages, and ecommerce content for Shopify, BigCommerce, Magento, and WooCommerce."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Pricing Questions",
+                "items": [
+                    {
+                        "question": "What is the difference between Starter and Content Flywheel?",
+                        "answer": "Starter gives you a dedicated writer for blog posts and web content. Content Flywheel adds a monthly video interview that we turn into blogs, social media posts, email newsletters, graphic design, and video clips. It is a full multi-channel content engine, not just writing."
+                    },
+                    {
+                        "question": "What does Managed Services include that Flywheel does not?",
+                        "answer": "Managed Services adds a dedicated account manager who handles keyword research, content planning, writer team management, and content scaling. It is for businesses that want a fully outsourced content operation without managing the process themselves."
+                    },
+                    {
+                        "question": "Can I switch plans?",
+                        "answer": "Yes. Starter has no minimum commitment. You can upgrade to Flywheel or Managed at any time. Annual Flywheel customers can upgrade to Managed with prorated credit."
+                    },
+                    {
+                        "question": "Do you use AI to write the content?",
+                        "answer": "Our writers use AI as a research and outlining tool. Every piece of content is written, edited, and quality-checked by a human writer. No AI-generated drafts are published without human editorial judgment."
+                    },
+                    {
+                        "question": "How fast is turnaround?",
+                        "answer": "Starter requests are delivered in 24-48 hours. Flywheel content follows a monthly production schedule with weekly deliverables. Managed services follow a custom cadence set by your account manager."
+                    },
+                    {
+                        "question": "Is there a money-back guarantee?",
+                        "answer": "Starter has no minimum commitment. If you are not satisfied, you can cancel anytime. Flywheel annual plans and Managed agreements have specific terms outlined in your service agreement."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Not Sure Which Plan Is Right?",
+                "text": "Book a call with our team. We will learn about your content needs and recommend the plan that fits. No pressure, no obligation."
+            }
+        }
+    ]
+}

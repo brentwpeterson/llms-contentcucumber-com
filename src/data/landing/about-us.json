@@ -1,0 +1,308 @@
+{
+    "form": {
+        "portal_id": "39487190",
+        "form_id": "dfa053e1-3a7e-400f-82dc-8493781b3261",
+        "region": "na1"
+    },
+    "seo": {
+        "meta_description": "Content Cucumber is a human-powered marketing company with 30+ years in ecommerce. Content creation, SEO, AEO, and LLM discovery services. Real writers, real results.",
+        "og_description": "Content Cucumber builds authority for brands through human-created content, SEO, AEO optimization, and LLM discovery. Founded in 2018, powered by 40+ writers.",
+        "og_image": ""
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "About Content Cucumber",
+                "title": "Human-powered content.<br><em>Built on a partnership.</em>",
+                "paragraphs": [
+                    "Content Cucumber is a marketing company built on a simple belief: real humans create better content than machines. We build authority for brands through content creation, SEO, AEO, and LLM discovery services."
+                ],
+                "youtube_id": "JRqYE_4AHUc",
+                "youtube_layout": "grid",
+                "youtube_title": "Content Basis Joins Content Cucumber: Merger Announcement"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "2018",
+                    "label": "Founded"
+                },
+                {
+                    "number": "30+",
+                    "label": "Years in Ecommerce"
+                },
+                {
+                    "number": "40+",
+                    "label": "Human Writers"
+                },
+                {
+                    "number": "500+",
+                    "label": "Podcast Episodes"
+                }
+            ]
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Our Story",
+                "title": "Two chapters. One company.",
+                "paragraphs": [
+                    "Isaac Morey co-founded Content Cucumber with his brother Sam, and college friends Chris and Sarah, in 2018 around a simple bet. Real human writers, working as a curated team, would still be the best content investment a brand could make.",
+                    "Brent Peterson met Isaac that same year at IRCE Chicago, became one of CC's earliest clients through Wagento, and acquired the company through Content Basis in April 2025 after watching the bet pay off for seven years.",
+                    "<a href=\"/about-us/our-story/\">Read the full story &rarr;</a>"
+                ],
+                "stats": [
+                    {
+                        "number": "2018",
+                        "label": "Isaac founds Content Cucumber"
+                    },
+                    {
+                        "number": "2021",
+                        "label": "Brent sells Wagento, founds Content Basis"
+                    },
+                    {
+                        "number": "Apr 2025",
+                        "label": "Content Basis acquires Content Cucumber"
+                    },
+                    {
+                        "number": "2026",
+                        "label": "Commerce King launches"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "variant": "light",
+            "data": {
+                "title": "Our Mission",
+                "paragraphs": [
+                    "Make the internet a better place.",
+                    "We get there through data-driven storytelling. Stories that inform, entertain, and inspire the reader to do something. Stories that help the right people find the right brands. Stories that leave the reader smarter than they were before they clicked."
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "Our Core Values",
+                "subtitle": "What every Content Cucumber writer, designer, and strategist works toward on every project.",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "Inform",
+                        "subtitle": "We educate our audiences with well-researched information.",
+                        "text": "Every piece of content we publish starts with research. Real research, not a prompt and a hope. Our writers read the source material, talk to subject-matter experts, dig past the first page of search results, and build pieces that teach the reader something they did not know before opening the page. Informed readers come back. Surface-level summaries get scrolled past."
+                    },
+                    {
+                        "title": "Entertain",
+                        "subtitle": "We bring joy to content creation by telling stories that connect.",
+                        "text": "Marketing content does not have to read like marketing content. The pieces that get shared, saved, and remembered are the ones that move the reader. We build stories around real people, real problems, and real moments. Even when the topic is enterprise software or B2B logistics. If the reader smiles, you have already won the next click."
+                    },
+                    {
+                        "title": "Inspire",
+                        "subtitle": "We motivate readers to take action by showing what's possible.",
+                        "text": "A reader inspired by a piece of content goes and does something. Books a call. Tries the product. Tells a colleague. Our content is built to leave the reader with one specific next action, framed in a way that makes that action feel close enough to take. Possibility without specificity is just decoration."
+                    },
+                    {
+                        "title": "Elevate",
+                        "subtitle": "We grow clients from good to exceptional through strategy and tech.",
+                        "text": "Execution is table stakes. Elevation is the work. We look at the brand, the offer, the audience, and the channel mix together, and build content programs that move all of them up at once. We bring the strategy thinking, the tech stack (HubSpot, RequestDesk, the Brand Voice Engine), and the writing operation that turns one good idea into six channels of momentum."
+                    },
+                    {
+                        "title": "Optimize",
+                        "subtitle": "We use data and tech to deliver measurable results.",
+                        "text": "Every piece of content we ship gets measured. We watch what ranks, what gets shared, what drives form fills, and what gets cited in AI search. Then we feed those signals back into the next month's content map. The result is a marketing program that gets sharper every quarter instead of stalling at month three."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "Three Things That Set Us Apart",
+                "subtitle": "What clients tell us they could not find anywhere else.",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "Proprietary Tools",
+                        "text": "We built <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener\">RequestDesk</a>, the Brand Voice Engine, and a writer-augmenting toolchain that lets one writer do the work of three without losing your voice. Tech amplifies humans. Humans drive the work. The output reads like a person made every decision because a person did."
+                    },
+                    {
+                        "title": "Human Writers",
+                        "text": "Our writing team grows without losing voice. New writers onboard into your account through a documented brand-voice handoff so consistency survives turnover. The writer who covered you last year and the writer who covers you next year are working from the same brand fingerprint."
+                    },
+                    {
+                        "title": "Ecommerce Specialization",
+                        "text": "We have lived inside ecommerce as builders, operators, and writers across Shopify, BigCommerce, Magento, and custom platforms. We know the conversion patterns, the search landscape, the seasonality, and the platform-specific tactics because we have shipped against them ourselves."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What We Do",
+                "subtitle": "Content creation is the foundation. Everything else builds on it.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Content Creation",
+                        "text": "Blog posts, articles, web copy, product descriptions, newsletters, and landing pages. 40+ human writers matched to your brand voice. Consistent delivery, every week."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "SEO and AEO Optimization",
+                        "text": "Search engine optimization for Google and AI Engine Optimization for ChatGPT, Claude, Perplexity, and Google AI Overviews. Your content needs to be found everywhere buyers look."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "LLM Discovery Services",
+                        "text": "Make your brand visible in large language models. We optimize your content so AI systems reference and recommend your products and services when buyers ask."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "HubSpot Implementation",
+                        "text": "As a HubSpot Solutions Partner, we implement Marketing Hub, Content Hub, and Sales Hub. Full attribution so you can see which content drives revenue."
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Live Event Content",
+                        "text": "We show up at your booth, film professional interviews, and deliver polished video assets. One shoot, months of content."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Social Media Content",
+                        "text": "Platform-native posts that sound like your brand. We write, you approve, we publish. LinkedIn, Instagram, Facebook, and more."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "data": {
+                "eyebrow": "And Then Some",
+                "title": "We Do More Than Fits on This Page.",
+                "paragraphs": [
+                    "Six service cards barely scratch the surface. Here is a partial list of work we ship for clients that did not make the cut above:"
+                ],
+                "image": "about-us-assets/we-do-more.jpg",
+                "bullets": [
+                    "White papers, case studies, and in-depth thought leadership",
+                    "Podcast production, post-production, and distribution",
+                    "Email marketing automation and lifecycle flows",
+                    "Sales enablement decks and one-pagers",
+                    "Brand voice guidelines and editorial calendars",
+                    "Content audits and content strategy roadmaps",
+                    "Customer interviews turned into multi-format content"
+                ],
+                "cta_text": "Tell us what you need",
+                "cta_link": "#form"
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Our Belief",
+                "title": "Content is Queen (Or King).<br><em>It always has been.</em>",
+                "paragraphs": [
+                    "AI made content cheap. It did not make content good. When every brand publishes the same AI-generated output, none of it builds authority. The brands that win are the ones investing in content that stands out.",
+                    "We have watched this play out for 30+ years in ecommerce. The brands that commit to consistent, quality content build organic traffic, earn trust, and create a competitive advantage that compounds. There are no shortcuts."
+                ],
+                "comparison_style": "illustrated",
+                "old_way": {
+                    "heading": "The AI Content Approach",
+                    "image": "about-us-assets/ai-content-approach.jpg",
+                    "items": [
+                        "Generate content in seconds",
+                        "Same output as every competitor",
+                        "No brand voice, no differentiation",
+                        "Invisible in AI search results",
+                        "Zero authority built"
+                    ]
+                },
+                "new_way": {
+                    "heading": "The Content Cucumber Approach",
+                    "image": "about-us-assets/cc-content-approach.jpg",
+                    "items": [
+                        "Human writers matched to your brand",
+                        "Content that sounds like you, not a template",
+                        "SEO + AEO + LLM optimization",
+                        "Visible in Google and AI search",
+                        "Authority that compounds over time"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Why Brands Choose Us",
+                "subtitle": "30+ years of ecommerce experience behind every piece of content.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Real Human Writers",
+                        "text": "40+ writers who learn your brand voice, your industry, and your audience. Not AI output with a human label. Actual people creating actual content."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Authority That Compounds",
+                        "text": "Consistent content builds organic rankings over months and years. We have seen brands go from 500 to 10,000+ monthly organic visitors through disciplined content programs."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Found in AI Search",
+                        "text": "Your buyers are asking ChatGPT and Perplexity for recommendations. We optimize your content for LLM discovery so your brand shows up in those conversations."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Full Revenue Attribution",
+                        "text": "Through HubSpot, we connect every piece of content to actual revenue. Content stops being a cost center and becomes a measurable growth channel."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "reviews",
+            "data": {
+                "eyebrow": "What Our Clients Say",
+                "title": "Real People, Real Results",
+                "layout": "grid",
+                "columns": 3,
+                "count": 6,
+                "has_text": true,
+                "show_rating": true,
+                "show_org": true,
+                "show_trust_bar": true,
+                "min_rating": 4
+            }
+        },
+        {
+            "type": "credibility",
+            "variant": "guarantee",
+            "data": {
+                "eyebrow": "Our Guarantee",
+                "title": "14 days to decide.",
+                "paragraphs": [
+                    "Sign up. Get the first month going. If we are not the right fit within 14 days, we refund the work. We earn the next month every month."
+                ],
+                "cta_button": {
+                    "text": "Start the Flywheel Plan",
+                    "url": "https://get.contentcucumber.com/hs/payments/gskm4V7qbg?referrer=PAYMENT_LINK",
+                    "subtitle": "Buy your first month and we will book your interview."
+                }
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to build your content engine?",
+                "text": "Tell us about your brand and your goals. We will put together a content plan that builds authority, drives organic traffic, and makes your brand visible everywhere your buyers look."
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "seo": {
+        "title": "Content Creation Services - Content Cucumber",
+        "meta_description": "Real human writers, hand-picked teams, weekly delivery. Blog writing, SEO content, website copy, and social media for ecommerce and B2B brands."
+    },
+    "form": {
+        "header": "Start a conversation",
+        "subtitle": "Tell us what you publish and where you want to grow. We will come back with a scoped first month.",
+        "trust_text": "40+ human writers. 60,000+ pieces shipped. 4.9 of 5 average rating.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "sidebar": {
+        "title": "Hand off content to a real team.",
+        "text": "Tell us what you publish and where you want to grow. We will scope a first month and walk you through it.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/",
+        "trust_text": "40+ human writers. 60,000+ pieces shipped."
+    },
+    "hero": {
+        "eyebrow": "Content creation that compounds",
+        "title": "Content Creation Services",
+        "subtitle": "A hand-picked team of human writers learning your brand voice, an editor reading every piece, and weekly delivery against a topic plan you can see."
+    },
+    "sections": [
+        {
+            "id": "what-we-do",
+            "title": "What content creation means at Content Cucumber",
+            "content": "<p>Content creation here is people, process, and a topic plan that survives the calendar. A dedicated team of human writers, an editor who reads every piece, and a project manager who keeps the queue moving. The work ships every week. The voice is yours. The plan is built once and revisited every quarter.</p><p>The brand has been doing this since 2018. We have written more than 60,000 pieces of content for growth-stage commerce and B2B brands across Shopify, BigCommerce, Magento, WooCommerce, and HubSpot. Average client rating is 4.9 out of 5 across hundreds of engagements.</p><p>This page is the hub. Each section below covers one content discipline in depth and links to the spoke page where the work gets specific.</p>"
+        },
+        {
+            "id": "blog-writing",
+            "title": "Blog writing that earns its place in the queue",
+            "content": "<p>Long-form articles built around your real keyword opportunities and pillar topics. Every post goes through an editor before you read it. Every post gets a byline when you want one. Average turnaround from request to first draft is five business days for a 1,200 to 1,800 word article.</p><p>The team starts with your topic plan, not a content calendar pulled from a template. We map your real ranking opportunities, write the cornerstone pieces first, and layer the supporting content underneath in a sequence that compounds. Brands that ship 4 to 12 posts a month see the program become a primary acquisition channel inside two quarters.</p>",
+            "link_url": "/services/content-creation/blog-writing/",
+            "link_text": "Explore blog writing"
+        },
+        {
+            "id": "seo-content",
+            "title": "SEO content for Google rankings and AI search visibility",
+            "content": "<p>Articles structured for both Google and the AI search experiences (AI Overviews, ChatGPT, Perplexity, Gemini). The SEO craft is different than it was in 2022. Rankings still matter, but citation-readiness for AI-driven answer engines is the layer most teams have not yet wired in.</p><p>We map topic clusters, write the cornerstone pillar pieces first, then layer the supporting articles. We also ensure the on-page structure (H2 question framing, direct-answer paragraphs, FAQ schema, citation-worthy facts) clears the bar for AI citation. The same article ranks on Google and gets cited in AI summaries when the structure is right.</p>",
+            "link_url": "/services/content-creation/seo-content/",
+            "link_text": "Explore SEO content"
+        },
+        {
+            "id": "website-copy",
+            "title": "Website copy that treats every page as a sales asset",
+            "content": "<p>Homepage, service pages, product pages, about, contact, pricing. The copy that converts visitors into buyers, hires into applicants, and partners into deals. Conversion-aware writing built from a real understanding of the buyer in the seat.</p><p>We write the page brief first, then the draft, then revise with your team until the page ships. The deliverable includes meta titles and descriptions tuned for click-through rate, headline tests when the page is high-value, and copy variants for any testing framework you run on top.</p>",
+            "link_url": "/services/content-creation/website-copy/",
+            "link_text": "Explore website copy"
+        },
+        {
+            "id": "social-media-content",
+            "title": "Social media content written for the platform, not the spreadsheet",
+            "content": "<p>Platform-specific posts written for the audience that shows up there. LinkedIn for B2B and thought leadership. X for industry conversations. Instagram for brand. We write to a calendar that has a strategy underneath it, not a content schedule cobbled together day-of.</p><p>Each platform gets a voice that fits. The brand stays consistent across them. We do not cross-post the same caption to every channel and call it a strategy.</p>",
+            "link_url": "/services/content-creation/social-media-content/",
+            "link_text": "Explore social media content"
+        },
+        {
+            "id": "how-we-work",
+            "title": "How content gets made here",
+            "content": "<p>Every request runs through ManyRequests. You file the brief, your dedicated team picks it up, and you watch the work move through draft, edit, and ready-to-publish without a status meeting. The editor reads every piece before you do. If a draft misses the brand voice, we revise before you read it.</p><p>Brand voice is taught, not guessed. When you sign on, your team reads your brand guide, the last 90 days of your published content, and three pieces from competitors you want to outperform. We codify the voice in a style sheet your team writes against from day one. Month one is calibration. Months two through twelve are weekly delivery against a topic plan we revisit each quarter.</p><p>The writers do not rotate every quarter. The editor knows your voice. That stability is what compounds into ranking pages, returning newsletter readers, and product descriptions that do not need a rewrite three months later.</p>"
+        },
+        {
+            "id": "no-ai-slop",
+            "title": "Real humans writing real content",
+            "content": "<p>Every word ships from a human writer. AI shows up in the supporting layer. Research, fact-checking, SEO scoring, structural review. Never in the draft itself. The writer owns the work, the editor reads it, and the brand voice you signed on for is what lands in your inbox every week.</p><p>The internet is filling up with AI-generated filler. Buyers are starting to filter for it. Search engines are starting to filter for it. The content that compounds in 2026 is the content that reads like a person wrote it. We do not pretend that is easy. We do pretend that it is the work.</p>"
+        },
+        {
+            "id": "platforms",
+            "title": "Where the content ships",
+            "content": "<p>We publish directly into the systems you already run. Shopify product templates and pages, WordPress blogs, BigCommerce category pages, Magento PDPs, HubSpot CMS pages. Clients typically give the team editor access and we publish on the brand's schedule. The content lands where it ships, not in a Google Doc you have to copy and paste.</p><p>For commerce catalogs at scale, we work directly inside the platform with structured data, SEO meta, and variant-aware product copy. For B2B sites running HubSpot, we work inside the CMS templates and connect copy to the workflows your sales team runs.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "Are these pieces written by AI?",
+                "answer": "No. Every word is written by a human writer. AI shows up in research, fact-checking, and SEO scoring, but never in the draft itself. Our writers own their work."
+            },
+            {
+                "question": "Who owns the content I receive?",
+                "answer": "You do. All deliverables transfer fully on delivery, including the right to modify, repost, and republish under your name."
+            },
+            {
+                "question": "How fast can you start?",
+                "answer": "Onboarding takes one to two weeks. The first deliverable usually ships within ten business days of contract signature."
+            },
+            {
+                "question": "Can you publish directly to my CMS?",
+                "answer": "Yes. We work in Shopify, WordPress, BigCommerce, Magento, and HubSpot CMS. Clients typically give us editor access and we publish on the brand's schedule."
+            },
+            {
+                "question": "What if I do not love a piece?",
+                "answer": "Two rounds of revisions are included on every deliverable. If after that the piece still misses, we rewrite from the brief at no charge."
+            },
+            {
+                "question": "How many pieces a month is typical?",
+                "answer": "Clients typically run 12 to 40 pieces per month. Larger ecommerce catalogs run 100+ for product description work. The minimum commitment is one quarter so the brand voice has time to settle."
+            },
+            {
+                "question": "How does pricing work?",
+                "answer": "Three packages cover the range. The starter for brands publishing weekly. The growth plan for teams running content as a primary acquisition channel. The enterprise plan for catalogs and multi-brand publishers. See the pricing page for current rates."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Hand off content to a team that does this for a living",
+        "text": "Tell us what you publish and where you want to grow. We will scope a first month and walk you through it.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/"
+    }
+}

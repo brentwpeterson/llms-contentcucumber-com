@@ -1,0 +1,115 @@
+{
+    "seo": {
+        "title": "Email Marketing Services - Content Cucumber",
+        "meta_description": "Lifecycle email programs, audit, content, and compliance from a Mailchimp Solutions Partner. Real human writers + measurable revenue impact."
+    },
+    "form": {
+        "header": "Book a 15-minute email audit",
+        "subtitle": "We pull the last 90 days of your sends, identify the three biggest leaks, and tell you if a deeper engagement makes sense.",
+        "trust_text": "Mailchimp + HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "sidebar": {
+        "title": "Book a 15-minute email audit.",
+        "text": "We pull the last 90 days of your sends, identify the three biggest leaks, and tell you if a deeper engagement makes sense.",
+        "button_text": "Book your audit",
+        "button_url": "/services/email-marketing/email-audit/",
+        "trust_text": "Mailchimp Solutions Partner. Free, no obligation."
+    },
+    "hero": {
+        "eyebrow": "Lifecycle email programs",
+        "title": "Email Marketing Services",
+        "subtitle": "Welcome, cart, post-purchase, win-back, replenishment. The lifecycle programs that compound revenue, written by real humans, audited for deliverability, compliant by default."
+    },
+    "sections": [
+        {
+            "id": "what-we-do",
+            "title": "What email marketing means at Content Cucumber",
+            "content": "<p>Email marketing here is the lifecycle programs, the content, the audit, and the compliance work that sits underneath the platform. We build the programs that ship revenue every week, then write the emails that fill them.</p><p>We are a Mailchimp Solutions Partner. We also work in Klaviyo, HubSpot, Iterable, and ActiveCampaign because the platform is the tool, not the strategy. The same six lifecycle programs ship the same revenue regardless of which logo is on the dashboard.</p><p>This page is the hub. The cluster pages below are where the work gets specific.</p>"
+        },
+        {
+            "id": "lifecycle-programs",
+            "title": "Lifecycle programs that compound revenue",
+            "content": "<p>Every commerce or B2B brand has the same six lifecycle moments that ship revenue when the email lands and lose it when the email does not. We build them in a planned sequence, not as one-off blast campaigns.</p><h3>Welcome series</h3><p>The first email a subscriber gets sets the relationship. A welcome series introduces the brand, sets expectations on send frequency, and primes the first purchase. Three to five emails over seven to ten days is the working range for most ecommerce brands. B2B sequences run longer with a slower ramp from intro to product education to a soft conversion ask.</p><p>We write the sequence end to end. Subject lines, preview text, body copy, CTA framing. Each email earns its place in the inbox or it gets cut. The series is the foundation that every later program builds on, so we calibrate it once and revisit quarterly.</p><h3>Cart and browse abandonment</h3><p>Cart abandonment recovers the highest-intent revenue in the program. The window matters. The first email goes within an hour, the second within twenty-four, and a final reminder around forty-eight depending on AOV and category. Browse abandonment runs parallel for the segment that did not reach the cart but spent meaningful time on a product page.</p><p>Copy approach: lead with the product, not the pitch. The shopper already chose the product. The job of the email is to remove the friction, not to re-sell. Free-shipping reminders, simplified checkout links, and back-in-stock context outperform discount-first messaging in repeat-purchase analysis.</p><h3>Post-purchase and order confirmation</h3><p>Order confirmation has the highest open rate in the entire program. Treat it as content, not a receipt. We layer in care instructions, complementary product recommendations, and the next-purchase ask without making the email feel transactional. Brands that ignore this slot lose the second-purchase window.</p><h3>Win-back and re-engagement</h3><p>Subscribers who stop opening do not need more sends. They need a different message. Re-engagement runs at a 60-, 90-, or 180-day inactivity threshold depending on category cadence. The sequence asks once if the subscriber wants to stay, offers a content reset (preference center), and quietly removes the unresponsive after the third unanswered touch.</p><h3>Replenishment and second-purchase</h3><p>Consumable categories (skincare, supplements, pet food, household goods) have a known reorder window. The replenishment program triggers a reminder ahead of expected stockout, with the previously purchased product pre-loaded. Done well, replenishment is the highest-LTV program in the catalog.</p><h3>Birthday, anniversary, and VIP triggers</h3><p>These are the soft-touch programs that build brand affinity rather than direct revenue. They do not need to convert on send. They need to feel like the brand remembers.</p>",
+            "link_url": "/services/email-marketing/lifecycle-programs/",
+            "link_text": "Explore lifecycle programs"
+        },
+        {
+            "id": "email-audit",
+            "title": "The email and SMS audit",
+            "content": "<p>Free 15-minute audit. We pull the last 90 days of your sends, look at deliverability signals, list health, lifecycle program coverage, and revenue per send. We come back with the three biggest leaks and a fix plan you can run yourself or hand to us.</p><p>One audit covers both channels. Email and SMS share too many measurement and compliance signals to audit them in isolation.</p>",
+            "link_url": "/services/email-marketing/email-audit/",
+            "link_text": "Book your free audit"
+        },
+        {
+            "id": "measurement",
+            "title": "What we measure and why open rate is the wrong north star",
+            "content": "<p>Apple Mail Privacy Protection inflated open rates across the inbox. Programs that optimize for open rate now are optimizing for a polluted signal. We measure what correlates with revenue.</p><h3>Deliverability is the foundation</h3><p>If the email does not reach the inbox, every other metric is theater. We monitor sender reputation across major mailbox providers (Gmail, Yahoo, Outlook), inbox placement rate, and spam folder hits. Sender reputation is built over time and lost in days when a single sloppy send pushes complaint rates above the threshold.</p><h3>Click-through and revenue per send</h3><p>Click-through rate replaces open rate as the engagement signal that survives privacy changes. Revenue per send is the metric that ties email to business outcomes. We track both at the program level (welcome, cart, post-purchase) and the individual send level so the optimization loop runs on the right surface area.</p><h3>Retention metrics that matter long-term</h3><p>Repeat purchase rate, customer lifetime value, and time between purchases are the metrics that prove email is doing its job. A program that drives a great single-send conversion but does not move LTV is not earning its cost. We connect email behavior to commerce data so the team can see the line.</p><h3>List health and engagement decay</h3><p>We track engagement decay across cohorts so the team can see which acquisition sources produce subscribers who stay engaged versus subscribers who unsubscribe in 30 days. Unsubscribe rate, complaint rate, and active list percentage are the leading indicators that protect deliverability before reputation takes a hit.</p>"
+        },
+        {
+            "id": "compliance",
+            "title": "Compliant by default, authentic by design",
+            "content": "<p>Every email program has to clear three legal frames (CAN-SPAM, GDPR, CASL) and four technical frames (SPF, DKIM, DMARC, BIMI). We build to those gates from day one rather than retrofit when a complaint surfaces.</p><h3>CAN-SPAM (United States)</h3><p>Every commercial email needs a working unsubscribe, a physical postal address, a non-deceptive subject line, and clear sender identification. The unsubscribe must process within ten business days. We build the footer template once and audit it on every client onboarding so a stale physical address does not surface as a violation.</p><h3>GDPR (European Union and UK)</h3><p>If the brand sells to EU or UK customers, GDPR consent rules apply. Consent must be explicit (no pre-checked boxes), specific to email marketing as a use case, and revocable on the same surface where it was granted. We document consent at point-of-capture and configure the platform to honor data subject rights (access, deletion, portability) end to end.</p><h3>CASL (Canada)</h3><p>CASL is stricter than CAN-SPAM. Express consent is required, implied consent has narrow exceptions, and penalties scale with violation count. The cost of getting this wrong starts at $1,000,000 per violation.</p><h3>Authentication: SPF, DKIM, DMARC, BIMI</h3><p>SPF lists the IPs allowed to send for the domain. DKIM signs the message so recipients can verify it has not been tampered with. DMARC tells mailbox providers what to do when SPF or DKIM fails. We move clients through DMARC enforcement on a graduated path (none, quarantine, reject) so legitimate sends are not blocked during the transition.</p><p>BIMI puts the brand logo next to the sender name in the inbox once DMARC is at enforcement and a verified mark certificate is in place. It is not legally required, but it lifts open rate measurably for brands customers recognize.</p>"
+        },
+        {
+            "id": "content",
+            "title": "Email content writing",
+            "content": "<p>The lifecycle programs are the structure. The content is what ships in them. We write subject lines, body copy, preview text, and CTA framing for every program. Voice-trained on your brand. Edited before you read it.</p>",
+            "link_url": "/services/email-marketing/content/",
+            "link_text": "See email content services"
+        },
+        {
+            "id": "platform-mailchimp",
+            "title": "Mailchimp Solutions Partner",
+            "content": "<p>We partner with Mailchimp because the platform scales from welcome-series basics to predicted demographics and cross-channel SMS coordination, and Customer Journey Builder lets us deploy the lifecycle programs we wrote without rebuilding them from scratch.</p><p>We also build in Klaviyo, HubSpot, Iterable, and ActiveCampaign. The platform is the tool. The strategy and the content travel.</p>"
+        },
+        {
+            "id": "sms-pillar-link",
+            "title": "Pair email with SMS",
+            "content": "<p>Email and SMS coordinated outperform either in isolation. Cart recovery, shipping notifications, VIP tier alerts, and back-in-stock work better when both channels know what the other is doing.</p>",
+            "link_url": "/services/sms-marketing/",
+            "link_text": "See SMS Marketing pillar"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "Are these emails written by AI?",
+                "answer": "No. Every email is written by a human writer. AI shows up in research support, fact-checking, and SEO scoring, but never in the draft itself."
+            },
+            {
+                "question": "Do you write for any platform?",
+                "answer": "Yes. We are a Mailchimp Solutions Partner and work in Klaviyo, HubSpot, Iterable, and ActiveCampaign. The platform is your call. The strategy and the content travel."
+            },
+            {
+                "question": "How fast can we start?",
+                "answer": "Onboarding is one to two weeks. The first lifecycle program ships within ten business days of contract signature. The audit can run in parallel with onboarding."
+            },
+            {
+                "question": "What programs do you build first?",
+                "answer": "Engagements typically start with welcome, cart, and post-purchase, then add browse abandon, win-back, and replenishment as the program matures. We can scope a phased build."
+            },
+            {
+                "question": "How do you measure success?",
+                "answer": "Click-through rate, revenue per send, repeat purchase rate, and customer lifetime value. Open rate is reported but not optimized for, because Apple Mail Privacy Protection polluted that signal."
+            },
+            {
+                "question": "Who owns the content?",
+                "answer": "You do. Every email transfers fully on delivery, including the right to modify, repost, and republish."
+            },
+            {
+                "question": "How much does it cost?",
+                "answer": "Programs typically range from $2,500 to $15,000 per month depending on send volume, number of programs, and platform complexity. The audit is free."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Ready to ship a real email program?",
+        "text": "Book the free 15-minute audit. We come back with three things to fix and a clear next step.",
+        "button_text": "Book your audit",
+        "button_url": "/services/email-marketing/email-audit/"
+    }
+}

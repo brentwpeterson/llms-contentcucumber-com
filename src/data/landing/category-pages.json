@@ -1,0 +1,142 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Category Page Content Services - Content Cucumber",
+    "meta_description": "SEO-optimized category page content for ecommerce stores. Drive organic traffic to your product categories with human-written copy that ranks and converts.",
+    "slug": "category-pages"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content in Commerce",
+        "title": "Category Page Content<br><em>That Ranks and Converts</em>",
+        "paragraphs": [
+          "SEO-optimized category page content that drives organic traffic and guides shoppers to the right products."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "search",
+            "title": "SEO Foundation",
+            "text": "Category pages target high-volume commercial keywords that signal buying intent. We optimize each page to compete for the terms that drive revenue."
+          },
+          {
+            "icon": "cart",
+            "title": "Shopper Guidance",
+            "text": "Help visitors understand what's in each category, what to look for, and how to choose. Informed shoppers convert at higher rates."
+          },
+          {
+            "icon": "link",
+            "title": "Internal Linking Hub",
+            "text": "Category pages anchor your site's internal link structure. We build them as content hubs that distribute authority to product pages."
+          },
+          {
+            "icon": "layers",
+            "title": "Subcategory Strategy",
+            "text": "Organize your catalog with logical subcategories that match how customers search. More specific pages capture more specific (and valuable) keywords."
+          }
+        ],
+        "title": "Why Category Pages Matter",
+        "subtitle": "Category pages are often overlooked, but they're SEO goldmines. Proper category content helps you rank for high-value commercial keywords while guiding shoppers through your catalog. We combine ecommerce expertise with SEO strategy to create content that serves both search engines and shoppers."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Category Audit",
+            "text": "Analyze your current categories, competitor content, and keyword opportunities. Identify which categories have the highest SEO potential."
+          },
+          {
+            "number": "02",
+            "title": "Content Strategy",
+            "text": "Define word count, keyword targets, and content structure for each category. Prioritize by search volume and commercial value."
+          },
+          {
+            "number": "03",
+            "title": "Write and Optimize",
+            "text": "Our ecommerce writers create category descriptions that help shoppers and rank for target keywords. Includes heading structure, internal links, and schema recommendations."
+          },
+          {
+            "number": "04",
+            "title": "Publish and Monitor",
+            "text": "Deploy to your store and track rankings, traffic, and conversion impact. Update content based on seasonal trends and performance data."
+          }
+        ],
+        "title": "How Our Category Content Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Empty category pages with just product grids",
+            "Generic manufacturer descriptions copy-pasted everywhere",
+            "No idea which categories drive organic traffic"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Rich content that ranks for commercial keywords",
+            "Original content written for your specific audience",
+            "Data-driven prioritization by search volume and revenue potential"
+          ]
+        },
+        "title": "Why Choose Our Category Content?"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "Which ecommerce platforms do you write category content for?",
+            "answer": "Shopify, Magento, BigCommerce, WooCommerce, and custom platforms. We format content for your specific platform's category structure."
+          },
+          {
+            "question": "How long should category page content be?",
+            "answer": "150-300 words for most categories, 500+ for high-value competitive categories. Length depends on the keyword competition and what's currently ranking."
+          },
+          {
+            "question": "Do you handle subcategory pages too?",
+            "answer": "Yes. We create content for your entire category hierarchy, from top-level categories down to the most specific subcategories."
+          },
+          {
+            "question": "Can you write category content for thousands of categories?",
+            "answer": "Yes. We've scaled category content projects across catalogs with thousands of categories. We prioritize by search volume and work through them systematically."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop ignoring your highest-potential SEO pages. Our category content drives organic traffic while improving the shopper experience.",
+        "title": "Ready to Unlock Category Page Traffic?"
+      }
+    }
+  ]
+}

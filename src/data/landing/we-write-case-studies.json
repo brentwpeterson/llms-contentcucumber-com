@@ -1,0 +1,362 @@
+{
+    "seo": {
+        "meta_description": "White-label case study production for eCommerce platforms and agencies. Hundreds published since 2018. From kickoff to published in 2-4 weeks.",
+        "og_description": "Your case studies are stuck. We get them done. White-label case study production for eCommerce platforms and agencies.",
+        "og_image": ""
+    },
+    "form": {
+        "header": "Let's get your case studies done",
+        "subtitle": "Book a 15-minute call. We'll talk about your backlog, your timeline, and how to get your first case study published in 4 weeks.",
+        "trust_text": "No commitment. No pitch deck. Just a conversation.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "We'll be in touch",
+        "text": "Thanks for reaching out. We'll get back to you within 24 hours to schedule a call.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Case Studies for Commerce",
+                "title": "Your case studies are stuck.<br><em>We get them done.</em>",
+                "paragraphs": [
+                    "eCommerce platforms and agencies trust us to produce white-label case studies that close deals. Hundreds published since 2018."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "100s",
+                    "label": "Case studies published since 2018"
+                },
+                {
+                    "number": "1,000s",
+                    "label": "Client testimonials captured"
+                },
+                {
+                    "number": "100s",
+                    "label": "Hours of video recorded"
+                },
+                {
+                    "number": "26 hrs",
+                    "label": "Average production time"
+                },
+                {
+                    "number": "2-4 wks",
+                    "label": "Kickoff to published"
+                }
+            ]
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Why case studies never get done",
+                "subtitle": "You know you need them. Your sales team is asking for them. But three things keep getting in the way.",
+                "items": [
+                    {
+                        "title": "Your marketing team is already stretched thin",
+                        "text": "Your team is buried in product launches, partner events, and campaign deadlines. Case studies keep getting pushed to next quarter. Then the quarter after that.",
+                        "image": "case-study-stretched-thin.png"
+                    },
+                    {
+                        "title": "Generic writers produce generic stories",
+                        "text": "You hired a freelancer. They asked what headless commerce means. The draft read like a press release. The merchant hated it. You started over.",
+                        "image": "case-study-generic-writers.png"
+                    },
+                    {
+                        "title": "The merchant disappeared",
+                        "text": "You got internal approval. You drafted the outreach. The merchant said sure, let's do it. Then silence. Three follow-ups later, the project is dead.",
+                        "image": "case-study-merchant-ghosted.png"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "variant": "timeline",
+            "data": {
+                "title": "How we get your case studies from stuck to published",
+                "subtitle": "Writing starts at step 3. Not after all interviews. That's why we deliver in weeks, not months.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Brand Voice",
+                        "text": "We learn your brand standards, tone, and format preferences. This is a onetime investment that pays off across every case study."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Research",
+                        "text": "We dig into the merchant's business, industry, platform implementation, and tech stack before anyone gets on a call."
+                    },
+                    {
+                        "number": "03",
+                        "badge": "Draft starts here",
+                        "title": "Interview the Stakeholder",
+                        "text": "We interview your team. The draft starts here. Not after. Here. By the time we reach the merchant, the story is already taking shape."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Interview the Agency",
+                        "text": "We talk to the implementation partner. The draft gets sharper. Real technical details go in. Composable architecture, ERP integrations, checkout customization."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Interview the Merchant",
+                        "text": "By now the case study is 70% written. The merchant sees a draft, adds their perspective, and approves. If they can't participate, you still have a deliverable."
+                    },
+                    {
+                        "number": "06",
+                        "title": "Write and Refine",
+                        "text": "Our writer has been embedded since step 1. They go back for more detail, tighten the narrative, and run revision rounds with all parties."
+                    },
+                    {
+                        "number": "07",
+                        "title": "Extract Assets",
+                        "text": "We pull key metrics for graphics, create social proof snippets, and clip interview highlights for premium deliverables."
+                    },
+                    {
+                        "number": "08",
+                        "title": "Format and Brand",
+                        "text": "Final case study gets formatted to your brand template. PDF, web-ready, CMS-compatible. Whatever you need."
+                    },
+                    {
+                        "number": "09",
+                        "title": "Deliver",
+                        "text": "You get a finished, branded case study ready to publish under your name. We're never credited. That's the point."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "See the difference",
+                "title": "From backlog to published <em>in weeks</em>",
+                "paragraphs": [
+                    "Most companies do case studies sequentially. Schedule all interviews, wait, write, wait for approvals. We write in parallel and remove the biggest bottleneck: the merchant.",
+                    "Our parallel production process means writing starts at interview one. Roadblocks don't kill the project. Busy merchants don't stall the pipeline."
+                ],
+                "old_way": {
+                    "heading": "Without Content Cucumber",
+                    "items": [
+                        "15 merchants promised a case study",
+                        "0 published in the last 6 months",
+                        "Writer quit after 2 drafts",
+                        "Sales team has no proof content for RFPs"
+                    ]
+                },
+                "new_way": {
+                    "heading": "With Content Cucumber",
+                    "items": [
+                        "15 case studies in production pipeline",
+                        "First batch delivered in 6 weeks",
+                        "Each one technically credible and on-brand",
+                        "Sales team has proof for every vertical"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Why Content Cucumber",
+                "title": "The only case study team built for eCommerce",
+                "paragraphs": [
+                    "We speak B2B buyer portals, composable architecture, ERP integrations, and replatforming. Your writer won't ask what headless commerce means.",
+                    "Brent Peterson has conducted over 700 interviews with eCommerce leaders on Talk Commerce. Isaac brings professional journalism experience. The writing team are trained researchers. This is not a content mill.",
+                    "We've been in eCommerce and retail since 1992. When we interview a merchant about their BigCommerce migration or Shopware implementation, we already know the landscape. That's why the stories are technically credible and the merchants enjoy the process."
+                ],
+                "stats": [
+                    {
+                        "number": "700+",
+                        "label": "Executive interviews on Talk Commerce"
+                    },
+                    {
+                        "number": "30+",
+                        "label": "Years in eCommerce and retail"
+                    },
+                    {
+                        "number": "2018",
+                        "label": "Producing case studies since"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Pick the format that fits",
+                "subtitle": "From quick success stories to full production packages. Every tier includes white-label delivery.",
+                "items": [
+                    {
+                        "name": "Success Story",
+                        "target": "Agencies needing proof content fast",
+                        "outcome": "Short-form case study ready in days",
+                        "outcomes": [
+                            "500-800 words",
+                            "1-2 interviews",
+                            "Fast turnaround",
+                            "Social-ready format"
+                        ],
+                        "cta_text": "Let's talk",
+                        "cta_link": "#form"
+                    },
+                    {
+                        "name": "Standard Case Study",
+                        "target": "Platforms building a case study library",
+                        "outcome": "Full challenge/solution/results narrative",
+                        "featured": true,
+                        "badge": "Most Popular",
+                        "outcomes": [
+                            "2,000+ words",
+                            "3-4 interviews",
+                            "Social assets included",
+                            "Revision rounds until approved"
+                        ],
+                        "cta_text": "Let's talk",
+                        "cta_link": "#form"
+                    },
+                    {
+                        "name": "Premium Case Study",
+                        "target": "Flagship stories for events and sales decks",
+                        "outcome": "Everything in Standard plus video and data graphics",
+                        "outcomes": [
+                            "Everything in Standard",
+                            "Branded PDF delivery",
+                            "Video clips from interviews",
+                            "Data graphics and infographics",
+                            "Conference-ready format"
+                        ],
+                        "cta_text": "Let's talk",
+                        "cta_link": "#form"
+                    },
+                    {
+                        "name": "Anonymous Case Study",
+                        "target": "When the merchant can't be named",
+                        "outcome": "Full quality, identity removed",
+                        "outcomes": [
+                            "Same structure as Standard",
+                            "Client identity anonymized",
+                            "Industry and metrics preserved",
+                            "\"A mid-market B2B distributor...\""
+                        ],
+                        "cta_text": "Let's talk",
+                        "cta_link": "#form"
+                    },
+                    {
+                        "name": "White Paper",
+                        "target": "Partner recruitment, analyst relations, SEO",
+                        "outcome": "Thought leadership backed by real project data",
+                        "outcomes": [
+                            "Research-driven content",
+                            "Positions your platform as the expert",
+                            "No client named required",
+                            "Long-form authority piece"
+                        ],
+                        "cta_text": "Let's talk",
+                        "cta_link": "#form"
+                    },
+                    {
+                        "name": "Industry Report",
+                        "target": "Conferences, PR, executive briefings",
+                        "outcome": "Aggregate insights across multiple projects",
+                        "outcomes": [
+                            "Data from multiple implementations",
+                            "Trend analysis and benchmarks",
+                            "Presentation-ready format",
+                            "\"We've migrated 34 merchants. Here's what we learned.\""
+                        ],
+                        "cta_text": "Let's talk",
+                        "cta_link": "#form"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What makes us different",
+                "subtitle": "Why platforms and agencies choose Content Cucumber over generalist content agencies.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "We understand complex technology stories",
+                        "text": "eCommerce platforms, SaaS companies, B2B services. We understand replatforming, ERP integrations, composable architecture, and the three-party dynamic between platform, agency, and merchant."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "700+ executive interviews",
+                        "text": "Our team has conducted over 700 interviews with business and technology leaders on Talk Commerce. We know what questions to ask and when to dig deeper."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "We deliver in weeks, not months",
+                        "text": "Our parallel production process means writing starts during the first interview. By the time the client gets on the call, the draft is already taking shape."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Your writer from day one",
+                        "text": "The writer is assigned at kickoff, attends interviews, and refines continuously. No handoff gap. No briefing document that misses the point."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "30+ years in commerce and retail",
+                        "text": "Our team brings 30+ years of eCommerce and retail experience, professional journalism backgrounds, and trained research skills. This is not a content mill."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "We handle volume at scale",
+                        "text": "40+ writers on our bench. One platform client commissioned 34 case studies. Our parallel production process handles volume without sacrificing quality. Batch pricing with prepaid packages."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we hear from platforms and agencies",
+                "items": [
+                    {
+                        "question": "Can't we just do this in-house?",
+                        "answer": "You can. But can your marketing team dedicate 26 hours per case study? That's coordinating 3-4 stakeholder interviews, writing a technically credible story, producing social assets, and formatting to brand. Most teams say they will, then it sits in the backlog for months."
+                    },
+                    {
+                        "question": "How do you handle it when the merchant ghosts?",
+                        "answer": "We start writing at the stakeholder interview. By the time we reach the merchant, we already have a solid draft to show them. Clients who can see a draft are far more likely to participate than if they're starting from a blank page. And if they still can't participate, you still get a case study built from platform and agency interviews. The project doesn't die."
+                    },
+                    {
+                        "question": "How much does a case study cost?",
+                        "answer": "It depends on the format and scope. We offer everything from short success stories to full premium packages with video. Let's talk about what you need and we'll give you a straight answer."
+                    },
+                    {
+                        "question": "Do you only do eCommerce?",
+                        "answer": "No. Our roots are in eCommerce but we write case studies for SaaS companies, technology platforms, agencies, solar energy, HR tech, healthcare, and more. If your business has a complex story to tell, we know how to tell it."
+                    },
+                    {
+                        "question": "Can we see samples?",
+                        "answer": "Yes. We have samples available across multiple industries including eCommerce, SaaS, solar energy, HR tech, and appointment scheduling. Some are named with client permission, others are anonymized. Ask us and we'll share samples relevant to your industry."
+                    },
+                    {
+                        "question": "What if we need 20+ case studies?",
+                        "answer": "That's where we shine. Batch pricing with prepaid packages. One platform client commissioned 34 case studies. Our parallel production process handles volume without sacrificing quality."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Let's get your case studies done.",
+                "text": "Book a 15-minute call. We'll talk about your backlog, your timeline, and how to get your first case study published in 4 weeks."
+            }
+        }
+    ]
+}

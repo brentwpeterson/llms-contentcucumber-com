@@ -1,0 +1,142 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Social Media Content Services - Content Cucumber",
+    "meta_description": "Platform-native social media content that grows your following and builds brand awareness. Written by humans who understand each platform's culture.",
+    "slug": "social-media-content"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content Creation",
+        "title": "Social Media Content<br><em>That Builds Community</em>",
+        "paragraphs": [
+          "Consistent, engaging social content that grows your following and builds brand awareness. Platform-optimized copy that connects with your audience."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "linkedin",
+            "title": "LinkedIn Thought Leadership",
+            "text": "Position your leadership team as industry voices. Long-form posts, articles, and commentary that build professional credibility and generate B2B leads."
+          },
+          {
+            "icon": "instagram",
+            "title": "Instagram and Visual Platforms",
+            "text": "Captions, stories, and reels scripts that complement your visuals. Written for engagement with proper hashtag strategy and calls to action."
+          },
+          {
+            "icon": "megaphone",
+            "title": "Content Calendars",
+            "text": "Monthly content calendars with post copy, hashtags, and posting schedule. Approve everything in advance, then we handle the rest."
+          },
+          {
+            "icon": "refresh",
+            "title": "Content Repurposing",
+            "text": "Turn one blog post into 10 social posts. We extract key points, quotes, and insights from your existing content and format them for each platform."
+          }
+        ],
+        "title": "What is Social Media Content?",
+        "subtitle": "Social media demands constant fresh content. But quality shouldn't suffer for quantity. We create platform-specific social content that maintains your brand voice while driving engagement and growing your community."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Brand Discovery",
+            "text": "We study your brand voice, audience, and competitors on each platform. Learn what resonates and what falls flat in your industry."
+          },
+          {
+            "number": "02",
+            "title": "Content Calendar",
+            "text": "Build a monthly calendar with themes, post types, and copy for each platform. You review and approve before anything goes live."
+          },
+          {
+            "number": "03",
+            "title": "Write and Schedule",
+            "text": "Our writers create platform-native content. Not the same post copied across channels. Each platform gets content built for how people use it."
+          },
+          {
+            "number": "04",
+            "title": "Report and Refine",
+            "text": "Monthly performance reports show what's working. We double down on winning formats and adjust what isn't performing."
+          }
+        ],
+        "title": "How Our Social Content Works"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Same generic post copy-pasted across every platform",
+            "Inconsistent posting that kills algorithm momentum",
+            "Social media that sounds like a corporate press release"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Platform-native content built for how each audience engages",
+            "Scheduled content calendar with consistent publishing",
+            "Authentic brand voice that builds real community"
+          ]
+        },
+        "title": "Why Choose Our Social Content?"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "Which social media platforms do you write for?",
+            "answer": "LinkedIn, Instagram, Facebook, Twitter/X, and TikTok (scripts). We recommend focusing on 2-3 platforms where your audience is most active rather than spreading thin across all of them."
+          },
+          {
+            "question": "Do you post the content or just write it?",
+            "answer": "We write and schedule the content. For clients using HubSpot, we publish directly through the Social tool. For other platforms, we deliver the content calendar and copy for your team to post."
+          },
+          {
+            "question": "How many posts per month do I get?",
+            "answer": "Typical plans include 12-20 posts per month across your chosen platforms. Volume depends on your goals and which platforms you're active on."
+          },
+          {
+            "question": "Can you repurpose our blog content for social?",
+            "answer": "Absolutely. This is one of our most popular services. We take your existing blog posts, podcast episodes, or video content and extract social-ready content from them."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop stressing about what to post. Our strategic social content keeps your channels active and your audience engaged.",
+        "title": "Ready to Win on Social Media?"
+      }
+    }
+  ]
+}

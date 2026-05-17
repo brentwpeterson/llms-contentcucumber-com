@@ -1,0 +1,142 @@
+{
+  "form": {
+    "header": "Get Your Free Growth Audit",
+    "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+    "trust_text": "HubSpot Solutions Partner. 30+ years in ecommerce. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  },
+  "seo": {
+    "title": "Product Description Writing Services - Content Cucumber",
+    "meta_description": "Compelling product descriptions that turn browsers into buyers. From single products to thousands of SKUs. Written by ecommerce content specialists.",
+    "slug": "product-descriptions"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Content in Commerce",
+        "title": "Product Descriptions That<br><em>Turn Browsers Into Buyers</em>",
+        "paragraphs": [
+          "Compelling product copy that highlights benefits, communicates value, and drives conversions. From single products to thousands of SKUs."
+        ]
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "eyebrow": "What We Do",
+        "items": [
+          {
+            "icon": "star",
+            "title": "Benefit-Focused Copy",
+            "text": "Features tell, benefits sell. We translate technical specs into customer benefits that create desire and overcome objections."
+          },
+          {
+            "icon": "search",
+            "title": "SEO-Optimized",
+            "text": "Every description targets relevant product keywords naturally. Rank for the terms shoppers actually search when looking for your products."
+          },
+          {
+            "icon": "scale",
+            "title": "Built for Scale",
+            "text": "Whether you need 10 descriptions or 10,000, our process handles volume without sacrificing quality. Batch workflows with consistent voice."
+          },
+          {
+            "icon": "voice",
+            "title": "Brand Voice Match",
+            "text": "Your products should sound like your brand. We learn your voice and maintain it across every description, every category, every product line."
+          }
+        ],
+        "title": "Why Product Descriptions Matter",
+        "subtitle": "Great product descriptions don't just list features. They paint a picture of the product in the customer's life. We've written 15,000+ product descriptions across Shopify, Magento, WooCommerce, Amazon, and more. Our writers understand what makes browsers become buyers."
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "steps": [
+          {
+            "number": "01",
+            "title": "Product Analysis",
+            "text": "We review your products, competitor listings, and target audience. Understand what differentiates your products and what customers care about most."
+          },
+          {
+            "number": "02",
+            "title": "Template and Style Guide",
+            "text": "Define the structure, tone, and length for each product type. Create a style guide that ensures consistency across your entire catalog."
+          },
+          {
+            "number": "03",
+            "title": "Write at Scale",
+            "text": "Our ecommerce writers produce descriptions in batches, maintaining quality and voice consistency. Every description goes through editorial review."
+          },
+          {
+            "number": "04",
+            "title": "Import and Optimize",
+            "text": "Deliver formatted for your platform (Shopify CSV, Magento import, API). Track conversion impact and refine top-selling product copy."
+          }
+        ],
+        "title": "How Our Product Descriptions Work"
+      }
+    },
+    {
+      "type": "shift",
+      "data": {
+        "eyebrow": "Why It Matters",
+        "paragraphs": [
+          ""
+        ],
+        "old_way": {
+          "heading": "Without Content Cucumber",
+          "items": [
+            "Manufacturer descriptions copied from the supplier",
+            "Feature lists that don't convert",
+            "Inconsistent voice across your catalog"
+          ]
+        },
+        "new_way": {
+          "heading": "With Content Cucumber",
+          "items": [
+            "Original copy that differentiates your store",
+            "Benefit-driven copy that creates desire",
+            "Unified brand voice from a dedicated writing team"
+          ]
+        },
+        "title": "Why Choose Our Product Descriptions?"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "items": [
+          {
+            "question": "How many product descriptions can you write per month?",
+            "answer": "We regularly handle batches of 100-500 descriptions per month. For large catalog projects (1,000+), we ramp up with additional writers while maintaining quality through our editorial process."
+          },
+          {
+            "question": "What information do you need from us?",
+            "answer": "Product names, images, key features/specs, and any brand guidelines. The more context you give us about your customers, the better the copy. We can also work from competitor listings if you're launching new products."
+          },
+          {
+            "question": "Do you write for Amazon and marketplace listings?",
+            "answer": "Yes. We write for Shopify, Amazon, Magento, BigCommerce, WooCommerce, Walmart Marketplace, and custom platforms. Each platform has different requirements and we format accordingly."
+          },
+          {
+            "question": "How long are your product descriptions?",
+            "answer": "Typically 100-300 words depending on the product complexity and platform. Simple products need less. Technical or high-consideration products get more detailed descriptions."
+          }
+        ],
+        "title": "Frequently Asked Questions"
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "text": "Stop struggling with product descriptions. Our ecommerce-specialized team delivers compelling copy that converts at any volume.",
+        "title": "Ready to Scale Your Product Content?"
+      }
+    }
+  ]
+}
