@@ -78,6 +78,27 @@ function asArray<T>(v: T | T[] | undefined | null): T[] {
 
 function pushParagraphs(out: string[], v: unknown): void {
   for (const p of asArray(v as any)) {
+    // A "paragraph" can be a structured block, not just a string
+    // (e.g. a boxed callout: { boxed, sections: [{ label, text }] }).
+    // Stringifying that yields "[object Object]" and silently drops the
+    // content — render it instead.
+    if (p && typeof p === "object") {
+      const obj = p as any;
+      if (Array.isArray(obj.sections)) {
+        for (const s of obj.sections) {
+          const label = htmlToText(s?.label || s?.title);
+          const text = htmlToText(s?.text || s?.content || s?.description);
+          if (label && text) out.push(`> **${label}** — ${text}`, "");
+          else if (text) out.push(`> ${text}`, "");
+          else if (label) out.push(`> **${label}**`, "");
+        }
+        continue;
+      }
+      // Unknown object shape: hand to the item renderer rather than
+      // leaking "[object Object]".
+      renderItems(out, [obj]);
+      continue;
+    }
     const t = htmlToText(p);
     if (t) out.push(t, "");
   }
