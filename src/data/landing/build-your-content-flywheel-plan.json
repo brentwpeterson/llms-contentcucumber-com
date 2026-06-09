@@ -1,4 +1,6 @@
 {
+    "_note": "PAID AD landing page. FULL content mirror of /content-flywheel-plan/. Uses the standard 'Landing Page - JSON' template with \"no_nav\": true (NOT the 'No Nav' lead-magnet template, which only renders download-page/arguments). no_nav:true hides header+nav+footer via the cc-landing-no-nav body class. Clean slug /content-flywheel/ reserved for a future indexed page; this paid page uses a longtail slug. noindex/nofollow set in seo block.",
+    "no_nav": true,
     "form": {
         "header": "Book a Call to Learn More",
         "subtitle": "Tell us about your business. We'll build a marketing plan together.",
@@ -6,13 +8,15 @@
         "portal_id": "39487190",
         "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
         "region": "na1",
-        "campaign_code": "content-flywheel-plan"
+        "campaign_code": "build-your-content-flywheel-plan"
     },
     "seo": {
         "title": "The Content Flywheel - Content Cucumber",
         "meta_description": "We run your marketing. You run everything else. Channels of content firing every month from one interview with your dedicated writer. $1,000/mo, all-in.",
         "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/content-flywheel-plan-assets/content-flywheel-card.jpg",
-        "slug": "content-flywheel-plan"
+        "slug": "content-flywheel-plan",
+        "noindex": true,
+        "nofollow": true
     },
     "thankyou": {
         "title": "Thanks. We'll be in touch.",
@@ -43,8 +47,8 @@
             "type": "proof-bar",
             "data": [
                 {
-                    "number": "Bi-Monthly",
-                    "label": "Check-Ins"
+                    "number": "4.97★",
+                    "label": "Average Client Rating"
                 },
                 {
                     "number": "1:1",
@@ -61,12 +65,26 @@
             ]
         },
         {
+            "type": "reviews",
+            "data": {
+                "eyebrow": "What clients say",
+                "title": "Real results from real clients",
+                "count": 3,
+                "has_text": true,
+                "min_rating": 5,
+                "show_rating": true,
+                "show_org": true,
+                "show_trust_bar": true,
+                "layout": "grid",
+                "columns": 3
+            }
+        },
+        {
             "type": "feature-image",
             "data": {
-                "image": "/wp-content/uploads/2026/04/contentcucumber-content-solution.mp4",
+                "image": "/wp-content/themes/cucumber-gp-child/landing-data/content-flywheel-plan-assets/content-bottleneck.webp",
                 "image_width": 1280,
                 "image_height": 720,
-                "image_poster": "/wp-content/uploads/2026/04/contentcucumber-content-solution-poster.jpg",
                 "alt": "Content Cucumber solving the content bottleneck",
                 "headline": "Content Bottleneck",
                 "paragraphs": [
@@ -87,22 +105,22 @@
                     {
                         "title": "You're the founder, the marketer, and the writer",
                         "text": "Every piece of content competes with payroll, customer support, vendor calls, and the product itself. The marketing always loses.",
-                        "image": "content-flywheel-plan-assets/founder-marketer-writer.jpg"
+                        "image": "content-flywheel-plan-assets/founder-marketer-writer.webp"
                     },
                     {
                         "title": "You paid for writing and got blog posts",
                         "text": "One article per week. No video. No social. No email. The post lives on the blog and dies there. Nothing else gets built from it.",
-                        "image": "content-flywheel-plan-assets/paid-for-writing.jpg"
+                        "image": "content-flywheel-plan-assets/paid-for-writing.webp"
                     },
                     {
                         "title": "Marketing happens when there's time",
                         "text": "Which is never. Or it happens in bursts (a launch, a campaign), goes quiet for months, and you start over each time.",
-                        "image": "content-flywheel-plan-assets/marketing-when-theres-time.jpg"
+                        "image": "content-flywheel-plan-assets/marketing-when-theres-time.webp"
                     },
                     {
                         "title": "You watch other brands gain ground while yours stalls",
                         "text": "They ship every week. Their search rankings climb. Their audience grows. You see what good marketing looks like and you can't get there alone.",
-                        "image": "content-flywheel-plan-assets/brands-gain-ground.jpg"
+                        "image": "content-flywheel-plan-assets/brands-gain-ground.webp"
                     }
                 ]
             }
@@ -116,7 +134,7 @@
                     "Four articles, social, video clips, and a newsletter is the default. It is not the only option. One month you might want a long-form white paper instead. The next, deep research or a case study. The next, a panel interview turned into a multimedia pillar.",
                     "The Flywheel flexes around what your business needs. Same monthly cadence, same dedicated team, different deliverables when the work calls for it."
                 ],
-                "image": "content-flywheel-plan-assets/yoga-flexible-brent.jpg",
+                "image": "content-flywheel-plan-assets/yoga-flexible-brent.webp",
                 "cta_text": "Talk About Your Mix",
                 "cta_link": "#form"
             }
@@ -133,7 +151,7 @@
                 "comparison_style": "illustrated",
                 "old_way": {
                     "heading": "Buying writing",
-                    "image": "content-flywheel-plan-assets/paid-for-writing.jpg",
+                    "image": "content-flywheel-plan-assets/paid-for-writing.webp",
                     "items": [
                         "Generic copy that doesn't sound like your business",
                         "One blog post at a time, no multimedia",
@@ -143,7 +161,7 @@
                 },
                 "new_way": {
                     "heading": "Buying a marketing arm",
-                    "image": "content-flywheel-plan-assets/brent-isaac-flywheel.jpg",
+                    "image": "content-flywheel-plan-assets/brent-isaac-flywheel.webp",
                     "items": [
                         "A dedicated writer who learns your business",
                         "Deliverables that flex around your month from one interview",
@@ -161,8 +179,8 @@
                 "steps": [
                     {
                         "number": "01",
-                        "title": "Monthly Interview + GSC Review",
-                        "text": "One hour with your dedicated writer. We walk through what's happening in the business, then pull your Google Search Console data and surface the keyword opportunities sitting on page 2."
+                        "title": "Monthly Interview + Site & AEO Audit",
+                        "text": "One hour with your dedicated writer. We walk through what's happening in the business, then run a fresh audit of your site, your Google Search Console data, and your AEO visibility across the AI engines. We review the findings together and decide what to write, what to fix, and what to chase this month."
                     },
                     {
                         "number": "02",
@@ -282,20 +300,141 @@
                     "Marketing Company"
                 ],
                 "rows": [
-                    { "label": "Monthly cost", "values": ["Retainer starts at $$", "$$$", "$", "$$$$"] },
-                    { "label": "Dedicated writer who learns your business", "values": ["✓", "Sometimes", "✗", "Sometimes"] },
-                    { "label": "Channels delivered each month", "values": ["Many (blog, pillar, social, video, newsletter, reports)", "One (blog only)", "One (you publish)", "Varies"] },
-                    { "label": "Monthly strategy: sales data + Google Search Console tied together", "values": ["✓ Reviewed together monthly to find new content opportunities", "Rarely", "✗", "Sometimes (siloed data)"] },
-                    { "label": "Captioned video clips from monthly interview", "values": ["✓", "✗", "✗", "Add-on"] },
-                    { "label": "Daily social posts on your platforms", "values": ["✓", "✗", "DIY", "Sometimes"] },
-                    { "label": "AI slop", "values": ["None. Real human writers.", "Usually none (human writers)", "Heavy. Generic, formulaic, drifts.", "Varies (some agencies lean on AI)"] },
-                    { "label": "Brand voice consistency", "values": ["✓ Maintained across writer transitions", "Lost when writer changes", "Drifts every prompt", "Lost when writer rotates"] },
-                    { "label": "RequestDesk Brand Voice Engine", "values": ["✓ Captures your voice, learns what's been written, survives staff changes", "✗", "✗", "✗"] },
-                    { "label": "Monthly performance reports", "values": ["✓ Content + social side by side, plain English (social reporting when we schedule)", "✗", "✗", "Black-box dashboard"] },
-                    { "label": "Curated email newsletter", "values": ["✓", "✗", "DIY", "Sometimes"] },
-                    { "label": "Your time investment per month", "values": ["1 hour minimum (interview). More if you want.", "Briefs + reviews", "Hours of prompting", "Briefs + reviews + meetings"] },
-                    { "label": "Revisions", "values": ["Unlimited", "Limited", "Unlimited (you redo)", "Limited"] },
-                    { "label": "Commitment", "values": ["Monthly, 6-month, or annual (save with longer commitment)", "Often 3 to 6 months", "None", "6 to 12 months"] }
+                    {
+                        "label": "Monthly cost",
+                        "values": [
+                            "Retainer starts at $$",
+                            "$$$",
+                            "$",
+                            "$$$$"
+                        ]
+                    },
+                    {
+                        "label": "Dedicated writer who learns your business",
+                        "values": [
+                            "✓",
+                            "Sometimes",
+                            "✗",
+                            "Sometimes"
+                        ]
+                    },
+                    {
+                        "label": "Channels delivered each month",
+                        "values": [
+                            "Many (blog, pillar, social, video, newsletter, reports)",
+                            "One (blog only)",
+                            "One (you publish)",
+                            "Varies"
+                        ]
+                    },
+                    {
+                        "label": "Monthly site and AEO audit reviewed together",
+                        "values": [
+                            "✓ We audit your site, search, and AI visibility every month and decide the plan together",
+                            "Rarely",
+                            "✗",
+                            "Sometimes (siloed data)"
+                        ]
+                    },
+                    {
+                        "label": "AEO audit. how AI engines see your brand",
+                        "values": [
+                            "✓ Tracked monthly across ChatGPT, Claude, Perplexity, Gemini, and AI Overviews",
+                            "✗",
+                            "✗",
+                            "Rarely"
+                        ]
+                    },
+                    {
+                        "label": "Captioned video clips from monthly interview",
+                        "values": [
+                            "✓",
+                            "✗",
+                            "✗",
+                            "Add-on"
+                        ]
+                    },
+                    {
+                        "label": "Daily social posts on your platforms",
+                        "values": [
+                            "✓",
+                            "✗",
+                            "DIY",
+                            "Sometimes"
+                        ]
+                    },
+                    {
+                        "label": "AI slop",
+                        "values": [
+                            "None. Real human writers.",
+                            "Usually none (human writers)",
+                            "Heavy. Generic, formulaic, drifts.",
+                            "Varies (some agencies lean on AI)"
+                        ]
+                    },
+                    {
+                        "label": "Brand voice consistency",
+                        "values": [
+                            "✓ Maintained across writer transitions",
+                            "Lost when writer changes",
+                            "Drifts every prompt",
+                            "Lost when writer rotates"
+                        ]
+                    },
+                    {
+                        "label": "RequestDesk Brand Voice Engine",
+                        "values": [
+                            "✓ Captures your voice, learns what's been written, survives staff changes",
+                            "✗",
+                            "✗",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Monthly performance reports",
+                        "values": [
+                            "✓ Content + social side by side, plain English (social reporting when we schedule)",
+                            "✗",
+                            "✗",
+                            "Black-box dashboard"
+                        ]
+                    },
+                    {
+                        "label": "Curated email newsletter",
+                        "values": [
+                            "✓",
+                            "✗",
+                            "DIY",
+                            "Sometimes"
+                        ]
+                    },
+                    {
+                        "label": "Your time investment per month",
+                        "values": [
+                            "1 hour minimum (interview). More if you want.",
+                            "Briefs + reviews",
+                            "Hours of prompting",
+                            "Briefs + reviews + meetings"
+                        ]
+                    },
+                    {
+                        "label": "Revisions",
+                        "values": [
+                            "Unlimited",
+                            "Limited",
+                            "Unlimited (you redo)",
+                            "Limited"
+                        ]
+                    },
+                    {
+                        "label": "Commitment",
+                        "values": [
+                            "Monthly, 6-month, or annual (save with longer commitment)",
+                            "Often 3 to 6 months",
+                            "None",
+                            "6 to 12 months"
+                        ]
+                    }
                 ]
             }
         },
@@ -417,7 +556,7 @@
                 "items": [
                     {
                         "question": "What's included in the Flywheel every month?",
-                        "answer": "SEO blog articles, a multimedia pillar post, illustrated graphics, captioned video clips from your monthly interview, social posts across your platforms, a plain-English progress report, and a curated email newsletter. All built around the same monthly conversation with your writer."
+                        "answer": "A monthly audit of your site, search performance, and AEO visibility across the AI engines that we review together in your meeting, SEO blog articles, a multimedia pillar post, illustrated graphics, captioned video clips from your monthly interview, social posts across your platforms, a plain-English progress report, and a curated email newsletter. All built around the same monthly conversation with your writer."
                     },
                     {
                         "question": "How does the monthly interview work?",

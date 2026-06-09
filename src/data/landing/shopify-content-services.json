@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "title": "Shopify Content Services - Content Cucumber",
+    "meta_description": "We run your entire Shopify content operation for three months, free. Strategy, weekly blog posts, product content, and publishing. Limited to 20 stores.",
+    "slug": "shopify-content-services"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "We'll Do It For You",
+        "title": "Shopify Content Services",
+        "paragraphs": [
+          "We'll run your entire Shopify content operation for 3 months. Strategy, blog posts, product content, and publishing. You focus on running your store."
+        ],
+        "cta_button": {
+          "url": "https://contentbasis.io/meetings/cucumber/cucumber-sales-meeting",
+          "text": "Apply for Free Pilot"
+        }
+      }
+    },
+    {
+      "type": "content-list",
+      "data": {
+        "title": "Limited to 20 Shopify Stores",
+        "subtitle": "We're looking for 20 Shopify store owners who want to see what consistent, high-quality content can do for their traffic and sales. Completely free. No strings attached. We want to prove that content marketing works for Shopify stores. For three months, our team handles everything:",
+        "no_numbers": true,
+        "items": [
+          { "text": "Content strategy tailored to your products and customers" },
+          { "text": "Weekly blog posts that drive organic traffic" },
+          { "text": "Product-focused content with embedded add-to-cart buttons" },
+          { "text": "SEO optimization for featured snippets and voice search" },
+          { "text": "Direct publishing to your Shopify blog" }
+        ]
+      }
+    },
+    {
+      "type": "services-grid",
+      "data": {
+        "title": "What You Get",
+        "subtitle": "This isn't a DIY tool demo. We do the work for you. You stay in control. Every post is reviewed by you before going live.",
+        "items": [
+          { "icon": "settings", "title": "Full Setup", "text": "We connect to your store, analyze your products, and build your content strategy." },
+          { "icon": "pen", "title": "Weekly Blog Posts", "text": "Product spotlights, recipes, buying guides, and storytelling content." },
+          { "icon": "search", "title": "AI-Powered Q&A", "text": "Every post includes question-and-answer pairs optimized for Google's featured snippets." },
+          { "icon": "palette", "title": "Custom Featured Images", "text": "AI-generated images that match your brand aesthetic." },
+          { "icon": "zap", "title": "Add-to-Cart Integration", "text": "Buy buttons embedded directly in your blog content." },
+          { "icon": "share", "title": "One-Click Publishing", "text": "Content goes straight to your Shopify blog as drafts for your review." }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "data": {
+        "title": "How It Works",
+        "steps": [
+          { "number": "01", "title": "Apply", "text": "Fill out a quick form telling us about your store and products. We'll review and confirm your spot within 48 hours." },
+          { "number": "02", "title": "Onboarding", "text": "We connect to your Shopify store, sync your product catalog, and learn your brand voice. You'll meet your dedicated content strategist." },
+          { "number": "03", "title": "Content Creation", "text": "Each week, we create and publish blog content tailored to your products. You review drafts before they go live." },
+          { "number": "04", "title": "Results", "text": "Watch your organic traffic grow. After 3 months, you'll have a library of SEO-optimized content driving visitors to your store." }
+        ]
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Success Story",
+        "title": "Chalet Market",
+        "stats": [
+          { "number": "105%", "label": "increase in Shopify traffic" }
+        ],
+        "paragraphs": [
+          "Chalet Market, a Montana-based provider of premium meats and specialty foods, partnered with us to revitalize their Shopify blog. Their online traffic was stagnant despite having high-quality products.",
+          "<strong>What we did:</strong><ul><li>Weekly blog posts showcasing their unique products</li><li>Product spotlights with embedded purchase buttons</li><li>Recipe content featuring their meats and specialty items</li><li>Storytelling about their Montana rancher partnerships</li><li>SEO optimization for every post</li></ul>",
+          "<strong>The results:</strong><ul><li>105% increase in Shopify store traffic</li><li>Increased time spent on product pages</li><li>Holiday-level impressions reached 6 months early</li></ul>",
+          "<em>\"Content Cucumber's content strategy has made a tangible difference in our online presence. We are seeing increased traffic to our website and Shopify store, and customers are engaging with our brand on a deeper level.\"</em><br>Chalet Market Team"
+        ]
+      }
+    },
+    {
+      "type": "video-embed",
+      "data": {
+        "label": "Demo",
+        "heading": "See It In Action",
+        "paragraphs": [
+          "Watch how we create a complete blog post from your Shopify products in under 60 seconds:"
+        ],
+        "points": [
+          "Product selection from your synced catalog",
+          "AI blog post generation with accurate product details",
+          "Q&A pairs created automatically for SEO",
+          "Custom featured image generation",
+          "One-click publishing to Shopify"
+        ],
+        "youtube_id": "89Dc14SfdbI",
+        "title": "Shopify Content Services demo",
+        "aspect": "16x9"
+      }
+    },
+    {
+      "type": "flex-callout",
+      "data": {
+        "title": "Ready to Grow Your Shopify Traffic?",
+        "paragraphs": [
+          "Only 20 spots available for our free 3-month pilot. No credit card required. No obligations. Just results."
+        ],
+        "cta_text": "Apply for Free Pilot",
+        "cta_link": "https://contentbasis.io/meetings/cucumber/cucumber-sales-meeting"
+      }
+    }
+  ]
+}

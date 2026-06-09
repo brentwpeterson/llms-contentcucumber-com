@@ -367,6 +367,26 @@
             }
         },
         {
+            "type": "hubspot-callout",
+            "data": {
+                "title_pre": "Maximize Your",
+                "title_grad": "HubSpot",
+                "title_post": "Investment",
+                "subtitle": "We're a HubSpot Solutions Partner. Content, CMS work, and marketing automation that drives results.",
+                "image": "/wp-content/uploads/2026/04/cc-i-love-hubspot.png",
+                "image_width": 827,
+                "image_height": 827,
+                "alt": "I Love HubSpot",
+                "paragraphs": [
+                    "Our HubSpot expertise drives real business growth. From custom CMS implementation to marketing automation, we build the systems that turn HubSpot into a sales engine for commerce and B2B brands.",
+                    "As HubSpot Solutions Partners, we build websites that don't just look great. They convert. Our deep understanding of the HubSpot ecosystem means we can leverage its full capabilities for your business, from marketing automation to customer service workflows.",
+                    "When you work with Content Cucumber, you're getting a content partner that understands how to maximize your marketing technology investments."
+                ],
+                "cta_text": "Get a Free HubSpot Audit",
+                "cta_link": "/hubspot-audit/"
+            }
+        },
+        {
             "type": "bottom-cta",
             "data": {
                 "title": "Ready to replace the funnel with a loop?",

@@ -1,0 +1,119 @@
+{
+    "no_nav": true,
+    "seo": {
+        "title": "See a Real AI + SEO Audit | Content Cucumber",
+        "meta_description": "Download a real Content Cucumber AI + SEO audit. The exact format, depth, and live four-engine AI citation scoring you receive. A fast, beautiful commerce site that scores 0% in the AI answer layer.",
+        "og_description": "A genuine Content Cucumber audit, start to finish. Every score, Core Web Vitals figure, and live AI engine result is real. See exactly what you get.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/sample-ai-seo-audit-cover.png"
+    },
+    "form": {
+        "header": "Get my audit",
+        "portal_id": "39487190",
+        "form_id": "87eefd2a-0e45-4257-a239-f64d9ce695a8",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Your Audit is Underway",
+        "text": "Thank you. The example audit is on its way to your inbox. If you shared your URL, your own audit has started. This part is not fully automated. A real person on our team runs and reviews every audit before it goes out, which is why it takes about one business day instead of a few seconds. That review is the whole point.",
+        "link_url": "/blog/your-website-is-fine-the-ai-cant-see-you/",
+        "link_text": "While you wait, read why this happens",
+        "link_anchor": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Content Cucumber Audit",
+                "title": "See a real AI + SEO audit<br><em>before you ever fill out a brief</em>",
+                "subtitle": "This is a genuine Content Cucumber audit, start to finish. We ran it on our own commerce demo: a fast, beautiful, well-written B2B store that is completely invisible to the AI answer layer. Every score, Core Web Vitals figure, and live AI engine result is real and unaltered. It is the exact format and depth you receive.",
+                "bullets": [
+                    "The full <strong>out-of-100 health score</strong> with a nine-category breakdown, the same one we run on every paid audit",
+                    "A live <strong>four-engine AI citation test</strong> (OpenAI, Gemini, Perplexity, Claude) with per-engine scores and share-of-voice donuts",
+                    "Real Core Web Vitals, schema, Open Graph, and crawlability findings, Pass / Partial / Fail per check",
+                    "Why a fast, attractive store can still score <strong>0% in the AI answer layer</strong>, and exactly what it costs you",
+                    "The 90-day roadmap and the exact production model that earns AI citation"
+                ],
+                "thumbnail": "landing-data/sample-ai-seo-audit-cover.png",
+                "authors": "Prepared by Content Cucumber. HubSpot Solutions Partner. 30+ years in commerce.",
+                "form_title": "Get my audit",
+                "form_subtitle": "Free. No obligation. Add your URL and a real person on our team runs your audit. You also get the example audit above, so you can see the exact format and depth first."
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What We Do, Step by Step",
+                "subtitle": "Every image below is a real page from a real audit we ran. Here is the work behind each one, in the order we run it.",
+                "items": [
+                    {
+                        "image": "audit-sample-pages/w-01-cover.png",
+                        "image_alt": "Cover page of a real Content Cucumber audit",
+                        "title": "1. We capture your site as it is",
+                        "text": "We start by capturing your site exactly as it renders, then frame the audit around your real buyer and the channel they search in. Every finding from here references that snapshot, so nothing in the report is theoretical."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-02-score.png",
+                        "image_alt": "Out-of-100 health score with nine-category breakdown",
+                        "title": "2. We score you out of 100, nine categories",
+                        "text": "We score the site across nine weighted categories, from crawlability and schema to Core Web Vitals and AI search, with AI split into infrastructure and measured outcome. You see where you stand at a glance and which category is dragging the rest down."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-03-covers.png",
+                        "image_alt": "What the comprehensive audit covers",
+                        "title": "3. We show you the full scope up front",
+                        "text": "We lay out the entire nine-part deliverable before the findings start. You know exactly what you are getting and why each part is in there. No filler, no surprises."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-04-techstack.png",
+                        "image_alt": "Tech stack read from a live request",
+                        "title": "4. We read what your site actually reports",
+                        "text": "We pull the ground truth from a live request. Platform, edge, analytics, schema, sitemap, robots, llms.txt, and Open Graph, captured as the site reports it rather than assumed. Every later recommendation builds on this."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-05-findings.png",
+                        "image_alt": "Top critical findings",
+                        "title": "5. We surface what is holding the score down",
+                        "text": "We isolate the two or three issues actually costing you, each with what is broken, why it matters to your buyer, and what to ship. You get the things that move the needle first, not a 200-item dump you will never work through."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-06-percheck.png",
+                        "image_alt": "Per-check Pass Partial Fail tables",
+                        "title": "6. We grade every check, with severity",
+                        "text": "Each category gets a check-by-check table. Pass, Partial, or Fail against a fixed threshold, every item tagged Critical, High, Medium, or Low. Your team can work it line by line without translation."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-07-code.png",
+                        "image_alt": "Copy-paste schema and Open Graph code blocks",
+                        "title": "7. We hand you the code for the fixes",
+                        "text": "Where the fix is code, we write the code. Schema blocks, Open Graph, llms.txt, ready to paste. The roadmap is yours to ship whether or not you ever work with us."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-08-aivisibility.png",
+                        "image_alt": "Live four-engine AI citation test with gauges and share-of-voice donuts",
+                        "title": "8. We test how AI represents you, live",
+                        "text": "We run your brand through ChatGPT, Claude, Perplexity, and Gemini on real category queries. Per-engine score, share of voice, and the competitors the engines name instead of you. This is the number most audits never give you."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-09-roadmap.png",
+                        "image_alt": "90-day roadmap",
+                        "title": "9. We sequence it into a 90-day plan",
+                        "text": "We turn the findings into a dated plan. What to ship first, what compounds over months, and when to re-measure. Front-loaded so the quick wins land in week one."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-10-outcome.png",
+                        "image_alt": "Outcome and investment structure",
+                        "title": "10. We connect findings to outcomes",
+                        "text": "We tie every fix to an outcome and a clear engagement structure. A one-time foundation sprint closes the technical gaps, then a content cadence earns AI citation over time. Priced to deliverables, not hours."
+                    },
+                    {
+                        "image": "audit-sample-pages/w-11-closing.png",
+                        "image_alt": "The verdict and the production model",
+                        "title": "11. We give you the verdict and the model",
+                        "text": "We close with a plain-language verdict and the exact production model that moves the number. This is a fast, beautiful commerce store that still scores 0% in the AI answer layer. The technical half is an afternoon. The authority half is the content, and that is the lesson that maps straight onto your site."
+                    }
+                ]
+            }
+        }
+    ]
+}

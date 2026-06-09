@@ -17,8 +17,10 @@ export function loadPages(): LoadedPage[] {
   const pages: LoadedPage[] = [];
   for (const [path, mod] of Object.entries(modules)) {
     const raw: any = (mod as any).default ?? mod;
-    // Skip thank-you / popup / non-discovery pages.
-    if (raw?.noindex) continue;
+    // Skip thank-you / popup / non-discovery pages. The canonical CC landing
+    // data carries this flag at the top level OR nested under `seo.noindex`;
+    // honor both so noindex pages never leak into the public AI mirror.
+    if (raw?.noindex || raw?.seo?.noindex) continue;
     const slug = fileToSlug(path);
     const doc = pageToMarkdown(raw, slug);
     pages.push({ ...doc, routeSlug: slug });

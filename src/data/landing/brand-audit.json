@@ -24,6 +24,23 @@
             }
         },
         {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/04/cc-brand-voice.jpg",
+                "image_width": 1264,
+                "image_height": 848,
+                "alt": "Different team members writing in different voices",
+                "headline": "Inconsistent Brand Voice",
+                "paragraphs": [
+                    "Different team members write in different styles, making your brand feel fragmented and unprofessional.",
+                    "When your blog sounds different from your product pages, which sound different from your emails, customers notice. Inconsistency erodes trust and dilutes your brand identity.",
+                    "A brand audit catches the drift before your customers do. We review every channel where your brand voice lives (blog, social, email, product, web) and surface the inconsistencies. You walk away with a specific list of what to fix, in priority order."
+                ],
+                "reverse": true,
+                "bg_color": "#ffffff"
+            }
+        },
+        {
             "type": "services",
             "data": {
                 "eyebrow": "What We Review",

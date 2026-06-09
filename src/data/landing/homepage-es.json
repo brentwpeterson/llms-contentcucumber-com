@@ -9,83 +9,23 @@
     },
     "sections": [
         {
-            "type": "hero-terminal",
+            "type": "hero-bold",
             "data": {
-                "slots": [
-                    {
-                        "headline": "Contenido Sin<br>Atajos",
-                        "terminal": [
-                            {
-                                "text": "Más redacción, menos prompts.",
-                                "delay": 500
-                            },
-                            {
-                                "text": "\nNada de contenido genérico de IA.",
-                                "delay": 500
-                            },
-                            {
-                                "text": "\nPersonas reales en cada paso. Siempre.",
-                                "delay": 1200
-                            }
-                        ],
-                        "cta_headline": "Redactores reales. Resultados reales.",
-                        "cta_text": "Creamos motores de contenido para marcas en crecimiento. Redactores humanos que aprenden la voz de tu marca, cumplen con los plazos y generan resultados que se acumulan con el tiempo.",
-                        "cta_button_text": "Platiquemos",
-                        "cta_button_link": "/es/contacto/"
-                    },
-                    {
-                        "headline": "Tu Voz de Marca,<br>Amplificada",
-                        "terminal": [
-                            {
-                                "text": "> motor_contenido.iniciar()",
-                                "delay": 500
-                            },
-                            {
-                                "text": "\nCargando voz de marca...",
-                                "delay": 700
-                            },
-                            {
-                                "text": "\nRedactores humanos listos.",
-                                "delay": 900
-                            },
-                            {
-                                "text": "\nListo.",
-                                "delay": 1200
-                            }
-                        ],
-                        "cta_headline": "Tu voz, no la nuestra.",
-                        "cta_text": "Nos tomamos el tiempo de entender cómo suena tu marca, qué necesita tu audiencia y qué te hace diferente. Después escribimos como tú, a gran escala.",
-                        "cta_button_text": "Conoce Cómo Funciona",
-                        "cta_button_link": "/es/servicios/"
-                    },
-                    {
-                        "headline": "Todos los Canales<br>Cubiertos",
-                        "terminal": [
-                            {
-                                "text": "Blogs. Páginas de aterrizaje.",
-                                "delay": 500
-                            },
-                            {
-                                "text": "\nRedes sociales. Email. SEO.",
-                                "delay": 500
-                            },
-                            {
-                                "text": "\nTodo escrito por personas reales.",
-                                "delay": 1200
-                            }
-                        ],
-                        "cta_headline": "Un equipo. Todas las plataformas.",
-                        "cta_text": "Blogs, redes sociales, campañas de email, páginas de aterrizaje, contenido en video. Un solo equipo de contenido que se encarga de todo, puntualmente, cada semana.",
-                        "cta_button_text": "Explorar Servicios",
-                        "cta_button_link": "/es/servicios/"
-                    }
-                ],
-                "cta_proof": "Más de 40 redactores. Más de 500 episodios. Más de 30 años en ecommerce.",
-                "seo_text": "Personas reales en cada paso. Creemos que la IA debe potenciar la creatividad humana, no reemplazarla. Nuestro enfoque: creación de contenido con apoyo de IA y editores humanos revisando cada pieza. Ejecución precisa. Consistencia total de marca en todas las plataformas.",
-                "type_speed_min": 45,
-                "type_speed_max": 95,
+                "eyebrow": "#1 EN REDACCIÓN HUMANA",
+                "headline": "Tu Agencia de Contenido Humano",
+                "lede": "Content Cucumber es una agencia de contenido-como-servicio. Producimos textos, gráficos, video e ilustración para marcas de ecommerce y B2B. Dos piezas a la semana para arrancar, y crecemos desde ahí. Personas reales se quedan a cargo de cada pieza: investigan, escriben, editan. Para marcas cansadas de publicar contenido genérico de IA que sus lectores ya no leen.",
+                "cta_primary": {
+                    "text": "Comenzar",
+                    "link": "/pricing/#plans"
+                },
+                "cta_secondary": {
+                    "text": "Cómo Funciona",
+                    "link": "/how-it-works/",
+                    "video_modal": "UjiRJZIPj18"
+                },
                 "bg_color": "#000000",
-                "headline_color": "#58c558"
+                "accent_color": "#FFD500",
+                "text_color": "#ffffff"
             }
         },
         {
@@ -115,6 +55,24 @@
                     "label": "Marcas Atendidas"
                 }
             ]
+        },
+        {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/04/contentcucumber-content-solution.mp4",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_poster": "/wp-content/uploads/2026/04/contentcucumber-content-solution-poster.jpg",
+                "alt": "Cómo el Content Flywheel convierte una entrevista en un mes de contenido",
+                "headline": "El Content Flywheel",
+                "paragraphs": [
+                    "Una entrevista mensual de una hora se convierte en 4+ artículos, publicaciones diarias en redes y un newsletter editorial. Los datos de Google Search Console guían los temas, las reuniones quincenales nos mantienen alineados, y nuestro equipo está disponible cuando lo necesites.",
+                    "Hecho para fundadores, líderes de marketing y equipos pequeños que saben que el contenido importa pero no pueden escribirlo. Nosotros llevamos tu marketing. Tú te ocupas del resto."
+                ],
+                "cta_text": "Ver Cómo Funciona el Flywheel",
+                "cta_link": "/content-flywheel-plan/",
+                "bg_color": "#fdebd0"
+            }
         },
         {
             "type": "services-grid",

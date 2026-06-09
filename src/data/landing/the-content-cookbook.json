@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "title": "The Content Cookbook | Recipes for Content That Stays Human",
+        "meta_description": "Content Cucumber's Content Cookbook. Recipes for content that stays human, holds your voice, and gets cited by AI. Start with recipe one, the myth of AI content.",
+        "og_description": "Recipes for content that stays human, holds your voice, and earns its place in search and AI answers. Recipe one: the myth of AI content.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/the-content-cookbook-assets/cookbook-cover.webp",
+        "og_type": "article",
+        "twitter_card": "summary_large_image",
+        "noindex": "false",
+        "nofollow": "false"
+    },
+    "form": {
+        "header": "Book a free demo",
+        "subtitle": "See the Content Flywheel Plan in action.",
+        "trust_text": "Human-powered. 40+ writers. 30+ years in ecommerce.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "content-cookbook"
+    },
+    "thankyou": {
+        "title": "Thanks. We will be in touch.",
+        "text": "Check your inbox for next steps on your free demo."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "The Content Cucumber Cookbook",
+                "title": "The Content Cookbook",
+                "paragraphs": [
+                    "Recipes for content that stays human, holds your voice, and earns its place in search and AI answers.",
+                    "Our first cookbook taught brands how to blog for SEO. This one is for the age of AI, when anyone can generate words and almost no one can make them sound like you. Start with recipe one."
+                ],
+                "image": "the-content-cookbook-assets/cookbook-cover.webp",
+                "image_alt": "The Content Cookbook by Content Cucumber"
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "40+", "label": "Human Writers" },
+                { "number": "30+", "label": "Years in Ecommerce" },
+                { "number": "5", "label": "Checks on Every Draft" },
+                { "number": "1", "label": "Dedicated Writer Per Account" }
+            ]
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Recipe One",
+                "title": "The Myth of AI Content",
+                "paragraphs": [
+                    "The pitch was clean. AI writes now. Point it at your blog, your product pages, and your emails, and the content problem goes away. Cancel the freelancer. Thin out the team. Let the machine run.",
+                    "Then the content ships, and it reads like everyone else's. The writer you replaced did things their job description never listed. They knew your voice. They knew what was true. They had taste. They held context. None of that was on the invoice. All of it was the point."
+                ],
+                "old_way": {
+                    "heading": "The myth's recipe",
+                    "items": [
+                        "Hand it to the machine",
+                        "Cut the team to save money",
+                        "Publish on schedule",
+                        "Hope it sounds like you"
+                    ]
+                },
+                "new_way": {
+                    "heading": "The recipe that works",
+                    "items": [
+                        "Let AI draft where it helps",
+                        "Keep a human who knows your voice",
+                        "Verify every claim and line",
+                        "Ship content that sounds like you"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What the myth costs you",
+                "subtitle": "Remove the human and the failure modes are predictable. They show up quietly.",
+                "items": [
+                    {
+                        "title": "Everything sounds the same",
+                        "text": "Models drift toward the average of the internet. Your content starts to read like your competitor's, because both came from the same place."
+                    },
+                    {
+                        "title": "Your voice drifts",
+                        "text": "A hedge here, a stock phrase there, a structure you would never have chosen. The brand reads like a brand, just not yours."
+                    },
+                    {
+                        "title": "Specifics get fabricated",
+                        "text": "Statistics, quotes, and product details. A model will produce them whether or not they exist, and you find out which were invented when a customer does."
+                    },
+                    {
+                        "title": "Your reach shrinks",
+                        "text": "Generic content does not rank, does not get cited by AI search, and does not get shared. You produced more and reached fewer."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "The recipe: where the human stays in the loop",
+                "subtitle": "Automate the drafting. Staff the judgment.",
+                "steps": [
+                    { "number": "01", "title": "Ideas", "text": "Human-led. A person decides what your audience needs to hear. That comes from knowing the business." },
+                    { "number": "02", "title": "Research and outline", "text": "Shared. AI gathers and structures. A person decides what matters and what the angle is." },
+                    { "number": "03", "title": "First draft", "text": "AI-assisted. This is where the speed lives, and where a model earns its place." },
+                    { "number": "04", "title": "Editing and voice", "text": "Human, always. Voice, cuts, point of view, the line that does not belong." },
+                    { "number": "05", "title": "Fact-checking", "text": "Human, always. Every claim, number, and name verified by someone who can be held to it." },
+                    { "number": "06", "title": "Publish and strategy", "text": "Human-led. What goes out, to whom, and how it connects to the pieces around it." }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "The review rubric",
+                "subtitle": "Five checks a person runs on any AI draft before it ships. A model cannot run a single one.",
+                "items": [
+                    { "icon": "search", "title": "Voice fidelity", "text": "Does this sound like us, not like content in general? If it could run on a competitor's site with the logo swapped, it fails." },
+                    { "icon": "settings", "title": "Accuracy", "text": "Is every claim, number, name, and quote verified and true? No exceptions for the ones that sound right." },
+                    { "icon": "growth", "title": "Originality", "text": "Is there a point of view here, or just a competent summary of what everyone already says?" },
+                    { "icon": "users", "title": "Brand safety", "text": "Anything we would not want quoted back to us? A claim we cannot support, a tone that misreads the moment." },
+                    { "icon": "chart", "title": "Strategic fit", "text": "Does this piece do a job, or just fill a slot on the calendar?" }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who's in the kitchen",
+                "title": "Human creativity, marketing intelligence",
+                "paragraphs": [
+                    "Content Cucumber is a human-powered marketing company. AI helps us draft faster. A person who already knows your brand keeps the voice yours.",
+                    "The Content Flywheel Plan puts a dedicated writer and a content strategist behind your brand. A short monthly interview becomes a full month of content, sourced from what you said, so it sounds like you because it is you."
+                ],
+                "stats": [
+                    { "number": "40+", "label": "Human Writers" },
+                    { "number": "30+", "label": "Years in Ecommerce" },
+                    { "number": "1", "label": "Dedicated Writer Per Account" }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions from the kitchen",
+                "items": [
+                    {
+                        "question": "Is this anti-AI?",
+                        "answer": "No. We use AI where it helps, mostly in drafting and research. The point is keeping a person responsible for voice, facts, and judgment, the work a model cannot do."
+                    },
+                    {
+                        "question": "Why pay for humans when AI is fast and cheap?",
+                        "answer": "Speed only helps if the content sounds like you and earns trust. A writer who knows your brand makes the review fast and the draft start closer to right, so you keep the speed without the sameness."
+                    },
+                    {
+                        "question": "What is the Content Flywheel Plan?",
+                        "answer": "A short monthly interview with you becomes a full month of content. A dedicated writer and a content strategist handle production, and you pick the mix of blogs, social, and email."
+                    },
+                    {
+                        "question": "Will AI-written content hurt my search rankings?",
+                        "answer": "Generic content does, whoever or whatever wrote it. Content with a real point of view and verified specifics is what ranks and what AI search cites. The rubric above is how we get there."
+                    },
+                    {
+                        "question": "Can I see more recipes?",
+                        "answer": "This is recipe one. The cookbook grows with more recipes for content that stays human and gets found."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Cook up content that sounds like you.",
+                "text": "Book a free demo and see how a dedicated writer turns one monthly interview into a full month of content."
+            }
+        }
+    ]
+}

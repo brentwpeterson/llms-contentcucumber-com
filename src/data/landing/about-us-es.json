@@ -46,6 +46,34 @@
             }
         },
         {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/05/brent-isaac-chicago-lakefront.jpg",
+                "image_width": 1200,
+                "image_height": 1600,
+                "image_alt": "Brent e Isaac en la costa del lago de Chicago",
+                "headline": "Una sociedad forjada corriendo",
+                "paragraphs": [
+                    "Isaac y yo nos conocimos en 2018 en IRCE Chicago. Acababa de fundar Content Cucumber apostando a que la escritura humana seguía importando. Yo dirigía Wagento y creía lo mismo. Me inscribí como cliente por curiosidad.",
+                    "En abril de 2025 nos volvimos socios. Durante el due diligence seguimos encontrando puntos en común más allá del caso de negocio. Los dos somos corredores. Isaac es músico callejero. Yo toqué piano en la iglesia durante años. La misma convicción sobre el oficio humano, con distintas entradas.",
+                    {
+                        "boxed": true,
+                        "sections": [
+                            {
+                                "label": "Nuestra Misión",
+                                "text": "La escritura humana está bajo asedio. La IA generativa inunda la web abierta con texto a escala infinita. Los lectores sienten la uniformidad. Las marcas que se citan, posicionan y se recuerdan son las que siguen publicando trabajo de personas que ponen pensamiento real en la página."
+                            },
+                            {
+                                "label": "Nuestra Promesa",
+                                "text": "Los escritores humanos reales son la respuesta. Escuchan la historia detrás del brief. Investigan el rincón del internet al que un modelo no puede llegar. Ponen un punto de vista en la página y lo defienden. El trabajo tiene peso porque una persona tomó decisiones sobre cada oración. Eso es lo que los lectores recuerdan. Eso es lo que Content Cucumber entrega."
+                            }
+                        ]
+                    }
+                ],
+                "bg_color": "#f0f4f8"
+            }
+        },
+        {
             "type": "services",
             "data": {
                 "title": "Lo Que Hacemos",

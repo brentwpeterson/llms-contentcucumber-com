@@ -75,6 +75,34 @@
             }
         },
         {
+            "type": "feature-image",
+            "data": {
+                "image": "/wp-content/uploads/2026/05/brent-isaac-chicago-lakefront.jpg",
+                "image_width": 1200,
+                "image_height": 1600,
+                "image_alt": "Brent and Isaac on the Chicago lakefront",
+                "headline": "A Partnership Made in Running Heaven",
+                "paragraphs": [
+                    "Isaac and I met in 2018 at IRCE Chicago. He had just started Content Cucumber on a bet that human writing still mattered. I was running Wagento and believed the same thing. I signed up as a client out of curiosity.",
+                    "In April 2025 we became partners. During due diligence we kept finding common ground beyond the business case. Both of us are runners. Isaac is a busker. I played piano at church for years. Same conviction about human craft, different inputs.",
+                    {
+                        "boxed": true,
+                        "sections": [
+                            {
+                                "label": "Our Mission",
+                                "text": "Human writing is under siege. Generative AI floods the open web with text at infinite scale. Readers feel the sameness. The brands that get cited, ranked, and remembered are the ones still publishing work from people who put real thought on the page."
+                            },
+                            {
+                                "label": "Our Promise",
+                                "text": "Real human writers are the answer. They listen for the story behind the brief. They research the corner of the internet a model cannot reach. They put a point of view on the page and stand behind it. The work has weight because a person made decisions about every sentence. That is what readers remember. That is what Content Cucumber ships."
+                            }
+                        ]
+                    }
+                ],
+                "bg_color": "#f0f4f8"
+            }
+        },
+        {
             "type": "credibility",
             "variant": "light",
             "data": {
