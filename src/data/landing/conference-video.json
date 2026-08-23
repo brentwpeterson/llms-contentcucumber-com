@@ -1,19 +1,22 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Professional conference video production for ecommerce brands. We film at your booth, deliver polished clips, and turn 3 days into 3 months of marketing content.",
         "og_description": "We come to your booth, film sharp guided interviews, and deliver polished video assets. By the time you're home, you have marketing-ready content that keeps working.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "conference-video",
         "header": "Book Your Live Event Content",
         "subtitle": "",
-        "trust_text": "Hundreds of interviews recorded. 30+ years in ecommerce. Zero fluff.",
+        "trust_text": "Hundreds of interviews recorded. Zero fluff.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
     },
     "thankyou": {
-        "title": "You're booked! Here's what happens next.",
+        "title": "You're booked! What happens next.",
         "text": "We'll be in touch shortly with logistics and a short prep guide so your team is ready to look great on camera.",
         "link_anchor": "lookslike",
         "link_text": "See what your conference coverage will look like"
@@ -31,15 +34,6 @@
                 "video_bg": "images/conference-bg.mp4",
                 "video_bg_poster": "images/conference-bg-poster.jpg"
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "100s", "label": "Interviews Recorded" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "500+", "label": "Podcast Episodes" },
-                { "number": "8", "label": "Deliverable Types" }
-            ]
         },
         {
             "type": "challenges",
@@ -75,9 +69,9 @@
             "anchor": "lookslike",
             "data": {
                 "label": "See it in action",
-                "heading": "This is what it <em>actually looks like</em>.",
+                "heading": "This is what it <em>looks like</em>.",
                 "paragraphs": [
-                    "Conferences are compressed attention. Your customers are there, your team is energized, and your messaging is sharp. We capture that energy before it fades.",
+                    "Conferences are compressed attention. Your customers are there, your team is fired up, and your messaging is sharp. We capture that energy before it fades.",
                     "No scripts. No awkward setups. We guide natural conversations that make your team sound like the experts they are."
                 ],
                 "points": [
@@ -140,10 +134,10 @@
                 "eyebrow": "Why It Works",
                 "title": "Conferences are <em>compressed attention</em>.",
                 "paragraphs": [
-                    "Your customers are there. Your team is energized. Your messaging is sharp. It's one of the few times your company is fully \"on.\"",
+                    "It's one of the few times your company is fully \"on.\"",
                     "Most companies walk away with a stack of badge scans and a vague plan to \"follow up next week.\" By the time the team is home, the energy is gone. The talking points blur together. The conversations that felt so promising at the booth become cold outreach.",
-                    "We capture that energy while it's live and turn it into authority, social proof, momentum, and content that compounds. One shoot. Months of marketing.",
-                    "The difference isn't just having video. It's having video that was filmed when your team was at their best, talking to real people, about real problems, with real enthusiasm."
+                    "We capture that energy while it's live and turn it into authority, social proof, momentum, and content that keeps working. One shoot. Months of marketing.",
+                    "What matters is video that was filmed when your team was at their best, talking to real people, about real problems, with real enthusiasm."
                 ],
                 "old_way": {
                     "heading": "Without Live Event Content",
@@ -212,7 +206,7 @@
                     {
                         "icon": "growth",
                         "title": "Email Sequences and Nurture",
-                        "text": "Build post-event email campaigns with embedded video. Repurposing becomes optional, not mandatory. Distribution becomes flexible. The video does the heavy lifting."
+                        "text": "Build post-event email campaigns with embedded video. Repurposing becomes optional. Distribution stays flexible. The video does the heavy lifting."
                     }
                 ]
             }
@@ -224,14 +218,8 @@
                 "title": "We understand positioning, messaging, and content strategy.",
                 "paragraphs": [
                     "We've created content for hundreds of businesses and recorded hundreds of interviews across ecommerce and B2B. We don't just point a camera. We understand what makes a good story, what your buyers need to hear, and how to get it out of a 5-minute conversation.",
-                    "Content Cucumber helps growing ecommerce and B2B brands turn ideas into assets that drive real results. From writing and strategy to video and distribution, we specialize in building marketing inventory that compounds over time.",
+                    "Content Cucumber helps growing ecommerce and B2B brands turn ideas into assets that drive real results. From writing and strategy to video and distribution, we specialize in building marketing inventory that keeps working month after month.",
                     "Clear messaging. Smart execution. Content that works."
-                ],
-                "stats": [
-                    { "number": "30+", "label": "Years in Ecommerce" },
-                    { "number": "100s", "label": "Interviews Recorded" },
-                    { "number": "500+", "label": "Podcast Episodes" },
-                    { "number": "40+", "label": "Human Writers" }
                 ]
             }
         },
@@ -242,7 +230,7 @@
                 "items": [
                     {
                         "question": "\"We already have a videographer.\"",
-                        "answer": "Most videographers capture footage. We capture stories. We know what questions to ask, how to guide the conversation, and how to turn raw interviews into months of marketing content. The strategy is what makes Live Event Content different."
+                        "answer": "We capture stories, not just footage. We know what questions to ask, how to guide the conversation, and how to turn raw interviews into months of marketing content. The strategy is what makes Live Event Content different."
                     },
                     {
                         "question": "\"Our team isn't comfortable on camera.\"",
@@ -250,7 +238,7 @@
                     },
                     {
                         "question": "\"We're not sure it's worth the investment.\"",
-                        "answer": "You're already spending thousands on the booth, travel, hotel, and team time. Live Event Content turns that existing investment into content that works for months. The question isn't whether you can afford it. It's whether you can afford to leave without it."
+                        "answer": "You're already spending thousands on the booth, travel, hotel, and team time. Live Event Content turns that existing investment into content that works for months. Skipping it costs more than running it."
                     },
                     {
                         "question": "\"How quickly do we get the final assets?\"",

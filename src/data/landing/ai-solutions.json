@@ -1,5 +1,6 @@
 {
     "form": {
+        "campaign_code": "ai-solutions",
         "header": "Let's build the AI you need",
         "subtitle": "",
         "trust_text": "Real engineers. Real builds. No vibe-coding.",
@@ -8,6 +9,8 @@
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "AI Solutions and Development - Content Cucumber",
         "meta_description": "Custom AI solutions for your business. Chatbots, content automation, RAG applications, and intelligent workflows. Built by engineers who ship.",
         "slug": "ai-solutions"
@@ -29,17 +32,17 @@
             "type": "services-grid",
             "data": {
                 "title": "What We Build",
-                "subtitle": "Six categories. All built on production-grade infrastructure with proper guardrails, not weekend prototypes.",
+                "subtitle": "Six categories. All built on production-grade infrastructure with proper guardrails.",
                 "items": [
                     {
-                        "icon": "chat",
+                        "icon": "megaphone",
                         "title": "Custom AI Assistants",
                         "text": "Intelligent assistants trained on your data to help customers and employees. Built with proper context, guardrails, and human escalation paths."
                     },
                     {
                         "icon": "pen",
                         "title": "Content Automation",
-                        "text": "AI-powered content workflows that respect your brand voice. Humans in the loop on every piece. AI handles the busywork. Writers handle the writing."
+                        "text": "AI-powered content workflows that respect your brand voice. Humans in the loop on every piece. AI handles the busywork while your writers stay on the writing."
                     },
                     {
                         "icon": "search",
@@ -49,7 +52,7 @@
                     {
                         "icon": "settings",
                         "title": "Process Automation",
-                        "text": "Repetitive tasks replaced with intelligent workflows. AI decision-making where it belongs (clear rules, low risk). Human review where it matters."
+                        "text": "Repetitive tasks replaced with intelligent workflows. AI decision-making where it belongs (clear rules, low risk), with human review where it matters."
                     },
                     {
                         "icon": "share",
@@ -111,7 +114,7 @@
                     },
                     {
                         "question": "Can you work with our existing data?",
-                        "answer": "Yes. We pull from CRM, knowledge bases, documents, databases, and APIs. Your AI runs on your data, not generic web-scraped knowledge."
+                        "answer": "Yes. We pull from CRM, knowledge bases, documents, databases, and APIs. Your AI runs on your own data."
                     },
                     {
                         "question": "What's a typical project cost?",

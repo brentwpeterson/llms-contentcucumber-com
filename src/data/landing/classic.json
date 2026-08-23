@@ -1,0 +1,183 @@
+{
+    "seo": {
+        "title": "On-Demand Writing Services - Content Cucumber",
+        "meta_description": "A dedicated writer for your brand, unlimited requests and revisions, and no minimum commitment. Blog posts, SEO content, and website copy written by people.",
+        "og_description": "A dedicated writer for your brand, unlimited requests and revisions, and no minimum commitment.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Team up with a writer",
+        "subtitle": "Tell us what you need written. We will read what you already publish before we reply.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "classic"
+    },
+    "thankyou": {
+        "title": "Tell us what you need written.",
+        "text": "We will read what you already publish before we reply, so the first conversation is about your content and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "On-demand writing",
+                "title": "Team up with <em>a writer</em>",
+                "paragraphs": [
+                    "One writer who learns your brand and stays with it, taking as many requests and revisions as you need. Blog posts, SEO and answer-engine content, and website copy, produced on a cadence you set.",
+                    "There is no minimum commitment, so the way to find out whether this works for you is to start and stop if it does not."
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "What on-demand writing is",
+                "items": [
+                    {
+                        "label": "What you get",
+                        "value": "A dedicated writer assigned to your brand, unlimited requests and revisions, topic development, image curation, and publishing straight to your blog. The writer is a person, and they stay the same person."
+                    },
+                    {
+                        "label": "Best for",
+                        "value": "Teams who need a steady flow of writing and do not have a writer on staff. Marketers who keep pushing content down the list because there is nobody to hand it to."
+                    },
+                    {
+                        "label": "Not for",
+                        "value": "Anyone who wants software that generates drafts. If speed at the lowest possible cost is the goal, a model will beat us and we would rather tell you now."
+                    },
+                    {
+                        "label": "What it costs",
+                        "value": "Pricing is public and lives on the pricing page, so you can size this before you talk to anybody."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "youtube_id": "V2iqrDsxqxY",
+                "title": "How working with a Content Cucumber writer works",
+                "aspect": "16x9",
+                "video_source": "cc",
+                "video_note": "Content Cucumber explainer",
+                "label": "How it works",
+                "heading": "Creative marketing made easy",
+                "paragraphs": [
+                    "The short version of how the engagement runs, from the first brief to work landing on your blog."
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What every plan includes",
+                "subtitle": "The same inclusions at every level. What changes between plans is volume, not what you get.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "A dedicated writer",
+                        "text": "One writer assigned to your brand who learns how you sound and stays with the account rather than rotating."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Unlimited requests and revisions",
+                        "text": "Ask for as much as you need and send it back as many times as it takes. There is no per-revision meter running."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Topic development",
+                        "text": "You do not have to arrive with a list. We build the topic plan and you approve it."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Written to be found",
+                        "text": "Search and answer-engine practice built into the writing rather than bolted on after, so the page has a reason to be cited."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Image curation",
+                        "text": "Images sourced and licensed for every piece, so nothing ships with an empty slot at the top."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Published for you",
+                        "text": "Work goes straight onto your blog if you want it to, so the last step does not sit in somebody's queue."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How it works",
+                "subtitle": "Four steps, and you keep the same writer through all of them.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Tell us about your brand",
+                        "text": "We read what you already publish so the writing moves toward your voice rather than ours."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We assign your writer",
+                        "text": "One person, matched to your subject, who stays with the account."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Request what you need",
+                        "text": "Send requests as they come up. Topic development is included, so an empty list is not a blocker."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Review and publish",
+                        "text": "Revise as many times as you want, and we will publish it for you when you are happy."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "What does it cost?",
+                        "answer": "Pricing is public. Plans and what sits in each one are on the pricing page, so you can size this without talking to a salesperson first."
+                    },
+                    {
+                        "question": "Is there a minimum commitment?",
+                        "answer": "No. You can stop whenever it stops being worth it, and that is the test of whether a writing service is working."
+                    },
+                    {
+                        "question": "Do I get the same writer every time?",
+                        "answer": "Yes. That is the point of the model. A writer who has been with your brand for a while stops needing to be told the same things."
+                    },
+                    {
+                        "question": "Does AI write any of it?",
+                        "answer": "For research and checking, yes. For the writing, no. A model cannot supply a position it does not hold or a detail it has never encountered."
+                    },
+                    {
+                        "question": "What if I do not like a draft?",
+                        "answer": "Send it back. Revisions are unlimited and nobody is counting them."
+                    },
+                    {
+                        "question": "How do we start?",
+                        "answer": "Tell us what you need written. We will read what you already publish before we reply."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "See what it costs",
+                "text": "Pricing is public, so you can size this before you talk to anybody. <a href=\"/pricing/\"><strong>View pricing</strong></a>, or tell us what you need written and we will read what you already publish before we reply."
+            }
+        }
+    ]
+}

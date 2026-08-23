@@ -1,0 +1,141 @@
+{
+  "seo": {
+    "title": "Should companies use AI to create content, and why",
+    "meta_description": "One question, asked of people who work in commerce, content and AI. What the study is, who gets asked, and what happens to your answer.",
+    "og_description": "One question, asked of people who work in commerce, content and AI.",
+    "og_type": "article",
+    "twitter_card": "summary_large_image",
+    "noindex": false,
+    "nofollow": false
+  },
+  "form": {
+    "header": "Answer the question",
+    "subtitle": "Three fields, and the finished report comes to you.",
+    "trust_text": "No pitch, no sequence, no sales call. Leave the anonymous box unticked and you may be quoted by name.",
+    "portal_id": "39487190",
+    "form_id": "f78bc279-b7c1-42f0-a908-987c11f2262f",
+    "region": "na1",
+    "campaign_code": "ai-content-study"
+  },
+  "thankyou": {
+    "title": "Counted",
+    "text": "Your answer is in the study. Brent Peterson will email you once when the write-up is finished, and not before."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "Questions first? Read the FAQ",
+        "title": "Should companies use AI to create content, and why?",
+        "youtube_id": "XI86g5WKUqc",
+        "youtube_layout": "video-form",
+        "youtube_position": "under-title",
+        "youtube_title": "Should companies use AI in content creation?",
+        "paragraphs": [
+          "We believe people write better than machines do. Content Cucumber has been betting on humans long before this argument started. What we want to learn is where the rest of the industry stands.",
+          "The question is going to people who work in commerce, content and AI. A sentence or two is enough."
+        ],
+        "eyebrow_link": "#faq"
+      }
+    },
+    {
+      "type": "quick-answer",
+      "data": {
+        "title": "What this is, before you answer",
+        "items": [
+          {
+            "label": "What is this study?",
+            "value": "To learn and quantify the industry attitude on content creation by AI, and to publish what people said in their own words."
+          },
+          {
+            "label": "Who is being asked?",
+            "value": "Working editors and journalists, copywriters, staff and technical writers, CMOs and the people who commission content, and engineers who build AI for a living."
+          },
+          {
+            "label": "What happens to my answer?",
+            "value": "It gets read, coded for the stance it takes, and written up in a report. Answers may be quoted with your name and your company unless you ask otherwise. Nothing is sold, and nobody is added to a marketing list for answering."
+          },
+          {
+            "label": "Can I stay anonymous?",
+            "value": "Yes, and it was offered up front for that reason. Anonymous means no name, no employer, and no employer inferred from anything else in the answer."
+          },
+          {
+            "label": "What do I get back?",
+            "value": "The report, sent to you when it is finished, as long as we have an email address for you. Answering here gives us one. No publication date has been set."
+          }
+        ]
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "Who is asking",
+        "title": "Why this question, and why now",
+        "paragraphs": [
+          "Content Cucumber employs humans to write content for humans, so we have a commercial interest in the answer.",
+          "We are curious where people sit on this. LinkedIn introduced a button that lets a reader report a post as AI slop, and is replacing its own AI writing feature with a proofreading tool. LinkedIn reached that conclusion after trying the alternative at scale."
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Questions people have asked before answering",
+        "items": [
+          {
+            "question": "Who is it written for?",
+            "answer": "All humankind."
+          },
+          {
+            "question": "What does “should” mean in the question?",
+            "answer": "Whatever you take it to mean. People have answered it as an ethical question, a commercial one, and a craft one, and the disagreement about which question it is has been one of the more interesting parts."
+          },
+          {
+            "question": "Does every answer get published?",
+            "answer": "No. Every answer is read and counted, and the report quotes a selection of them."
+          },
+          {
+            "question": "How long does answering take?",
+            "answer": "Two or three lines is typical. Longer is welcome, and nothing is too short to count. We also encourage you to tell us how you are using AI outside of content generation."
+          },
+          {
+            "question": "Is this multiple choice?",
+            "answer": "The form has three choices for where you land, and a box for why. The why is the part that matters."
+          },
+          {
+            "question": "If I let you use my name, how does the answer get used?",
+            "answer": "Quoted with your name and where you work, in the report and in posts about the report. Nothing else. Your answer is not sold, and answering does not add you to a marketing list."
+          },
+          {
+            "question": "When does collecting stop?",
+            "answer": "When the write-up is finished. Answers are still being collected while it is being written, and we will send periodic updates."
+          },
+          {
+            "question": "Where will the findings be published?",
+            "answer": "On contentcucumber.com. Links will go out on social, and everyone who answers gets sent the report when it goes up."
+          },
+          {
+            "question": "Will I see my quote before it publishes?",
+            "answer": "No. If you would rather not be quoted, tick the anonymous box on the form."
+          },
+          {
+            "question": "Who is running this?",
+            "answer": "Brent Peterson and Isaac Morey at Content Cucumber. There is no sponsor and no client behind the question."
+          },
+          {
+            "question": "Did AI write the question?",
+            "answer": "No. Brent Peterson and Isaac Morey wrote it. Brent sends most of the messages himself, one at a time."
+          }
+        ]
+      },
+      "anchor": "faq"
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Answer the question",
+        "text": "Answer it here, or in the thread if that is where the question reached you. Both count the same."
+      }
+    }
+  ]
+}

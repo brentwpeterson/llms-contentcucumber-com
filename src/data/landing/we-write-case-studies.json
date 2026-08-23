@@ -1,10 +1,13 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "White-label case study production for eCommerce platforms and agencies. Hundreds published since 2018. From kickoff to published in 2-4 weeks.",
         "og_description": "Your case studies are stuck. We get them done. White-label case study production for eCommerce platforms and agencies.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "we-write-case-studies",
         "header": "Let's get your case studies done",
         "subtitle": "Book a 15-minute call. We'll talk about your backlog, your timeline, and how to get your first case study published in 4 weeks.",
         "trust_text": "No commitment. No pitch deck. Just a conversation.",
@@ -30,36 +33,11 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "number": "100s",
-                    "label": "Case studies published since 2018"
-                },
-                {
-                    "number": "1,000s",
-                    "label": "Client testimonials captured"
-                },
-                {
-                    "number": "100s",
-                    "label": "Hours of video recorded"
-                },
-                {
-                    "number": "26 hrs",
-                    "label": "Average production time"
-                },
-                {
-                    "number": "2-4 wks",
-                    "label": "Kickoff to published"
-                }
-            ]
-        },
-        {
             "type": "challenges",
             "variant": "alternating",
             "data": {
                 "title": "Why case studies never get done",
-                "subtitle": "You know you need them. Your sales team is asking for them. But three things keep getting in the way.",
+                "subtitle": "You know you need them. Your sales team is asking for them. But four things keep getting in the way.",
                 "items": [
                     {
                         "title": "Your marketing team is already stretched thin",
@@ -75,6 +53,10 @@
                         "title": "The merchant disappeared",
                         "text": "You got internal approval. You drafted the outreach. The merchant said sure, let's do it. Then silence. Three follow-ups later, the project is dead.",
                         "image": "case-study-merchant-ghosted.png"
+                    },
+                    {
+                        "title": "Approval died in legal",
+                        "text": "The draft was good. The merchant signed off. Then it went to their legal team and came back six weeks later with the numbers stripped out."
                     }
                 ]
             }
@@ -84,7 +66,7 @@
             "variant": "timeline",
             "data": {
                 "title": "How we get your case studies from stuck to published",
-                "subtitle": "Writing starts at step 3. Not after all interviews. That's why we deliver in weeks, not months.",
+                "subtitle": "Writing starts at step 3. Not after all interviews. That's why delivery takes weeks.",
                 "steps": [
                     {
                         "number": "01",
@@ -100,7 +82,7 @@
                         "number": "03",
                         "badge": "Draft starts here",
                         "title": "Interview the Stakeholder",
-                        "text": "We interview your team. The draft starts here. Not after. Here. By the time we reach the merchant, the story is already taking shape."
+                        "text": "We start drafting the moment we interview your team. By the time we reach the merchant, the story is already taking shape."
                     },
                     {
                         "number": "04",
@@ -173,20 +155,6 @@
                     "We speak B2B buyer portals, composable architecture, ERP integrations, and replatforming. Your writer won't ask what headless commerce means.",
                     "Brent Peterson has conducted over 700 interviews with eCommerce leaders on Talk Commerce. Isaac brings professional journalism experience. The writing team are trained researchers. This is not a content mill.",
                     "We've been in eCommerce and retail since 1992. When we interview a merchant about their BigCommerce migration or Shopware implementation, we already know the landscape. That's why the stories are technically credible and the merchants enjoy the process."
-                ],
-                "stats": [
-                    {
-                        "number": "700+",
-                        "label": "Executive interviews on Talk Commerce"
-                    },
-                    {
-                        "number": "30+",
-                        "label": "Years in eCommerce and retail"
-                    },
-                    {
-                        "number": "2018",
-                        "label": "Producing case studies since"
-                    }
                 ]
             }
         },

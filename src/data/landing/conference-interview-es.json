@@ -1,10 +1,14 @@
 {
     "seo": {
+        "title": "Entrevistas en conferencias de ecommerce - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Agenda una entrevista profesional de podcast en tu próxima conferencia de ecommerce. Spotlight gratuito de 3 minutos, Deep Dive por $100 o paquete completo de contenido. Talk Commerce graba, Content Cucumber escribe.",
         "og_description": "Talk Commerce te entrevista en cámara en la conferencia. Content Cucumber lo convierte en artículos de blog, clips para redes y casos de estudio. Paquetes gratuitos, de $100 o personalizados.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "conference-interview-es",
         "bottom_only": true
     },
     "thankyou": {
@@ -15,7 +19,7 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Paquetes de Entrevista en Conferencias",
+                "eyebrow": "Paquetes de entrevista en conferencias",
                 "youtube_id": "B2DTOLMkzf4",
                 "youtube_layout": "grid",
                 "youtube_title": "Content Cucumber Conference Interviews",
@@ -25,15 +29,6 @@
                     "Tres paquetes disponibles. Limitado a 8 entrevistas por evento. <a href=\"/conference-coverage/\">Conoce nuestro servicio completo de producción de video para conferencias</a>."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "500+", "label": "Episodios de podcast" },
-                { "number": "40+", "label": "Escritores profesionales" },
-                { "number": "30+", "label": "Años en ecommerce" },
-                { "number": "8", "label": "Espacios por evento" }
-            ]
         },
         {
             "type": "bundles",

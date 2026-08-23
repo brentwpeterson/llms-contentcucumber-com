@@ -1,13 +1,17 @@
 {
     "seo": {
+        "title": "Cobertura de conferencias para marcas de ecommerce - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Descubre cómo Content Cucumber convierte tu stand de conferencia en meses de contenido de marketing. Producción de video profesional, entrevistas guiadas y entregables pulidos.",
         "og_description": "Isaac te explica el servicio de producción de video para conferencias de Content Cucumber. Conoce cómo convertimos 3 días en tu stand en 3 meses de marketing.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "conference-coverage-intro-es",
         "header": "Agenda tu cobertura de conferencia",
         "subtitle": "Cuéntanos a qué evento vas a asistir.",
-        "trust_text": "Cientos de entrevistas grabadas. Más de 30 años en ecommerce. Sin relleno.",
+        "trust_text": "Cientos de entrevistas grabadas. Sin relleno.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
@@ -22,7 +26,7 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Producción de Video para Conferencias",
+                "eyebrow": "Producción de video para conferencias",
                 "title": "Descubre cómo convertimos tu stand en<br><em>meses de marketing</em>.",
                 "paragraphs": [
                     "Isaac te muestra exactamente cómo funciona nuestra producción de video para conferencias, qué recibes y por qué las marcas se van con una biblioteca de contenido en lugar de solo gafetes escaneados."
@@ -32,15 +36,6 @@
                 "youtube_title": "Conference Coverage by Content Cucumber",
                 "youtube_caption": "Isaac presenta el servicio de producción de video para conferencias de Content Cucumber."
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "100s", "label": "Entrevistas grabadas" },
-                { "number": "30+", "label": "Años en ecommerce" },
-                { "number": "500+", "label": "Episodios de podcast" },
-                { "number": "8", "label": "Tipos de entregables" }
-            ]
         },
         {
             "type": "bundles",

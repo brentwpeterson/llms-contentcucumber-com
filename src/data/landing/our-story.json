@@ -1,13 +1,16 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Two chapters of Content Cucumber. Isaac Morey co-founded the company in 2018 around real human writers. Brent Peterson acquired it in April 2025 after seven years as a client. Both stories.",
         "og_description": "Content Cucumber's founding chapter (Isaac Morey, 2018) and acquisition chapter (Brent Peterson, April 2025). The writers, the bet, what is next.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "our-story",
         "header": "Want to talk about your content?",
         "subtitle": "",
-        "trust_text": "40+ human writers. 500+ podcast episodes. 30+ years in commerce.",
+        "trust_text": "Written and edited by people.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
@@ -34,13 +37,7 @@
                     "The path to that 2018 launch started years earlier. I was in college taking on freelance writing clients as a side job. One client was a friend I picked up while studying abroad in Argentina, and through her referrals I built a small client base by word of mouth. The work eventually outgrew what I could handle with school, so I started offloading articles to my brother Sam. When I decided to turn the freelance work into a full company, Sam was right there. We were roommates at the time, helping with every part of getting it off the ground.",
                     "Chris and Sarah were already part of the picture. Chris's family runs Silicone Depot, and they were one of my writing clients. Chris believed in SEO before it was fashionable. After months of conversations about how the writing operation worked, Chris and Sarah came on as co-founders in addition to being investors. Silicone Depot also became one of our first success stories. We grew their organic traffic a whole lot in the first year.",
                     "People ask where the name comes from. We were inspired by Design Pickle, a graphic design company with a SaaS platform called Jar. You signed up, dropped requests in the Pickle Jar, and a designer turned it around. Chris was a Design Pickle customer through Silicone Depot, and we liked the model so much that Jar became the foundational software for Content Cucumber's first version. We named the company as an homage to Design Pickle. The alliteration was a bonus. We have since done partnership work with them too.",
-                    "The first year of Content Cucumber, clients could request a new article every day, no questions asked. The ones who took us up on it built compounding SEO advantages that still carry forward."
-                ],
-                "stats": [
-                    { "number": "2018", "label": "Launched in college" },
-                    { "number": "4", "label": "Co-founders" },
-                    { "number": "Daily", "label": "Article requests, year one" },
-                    { "number": "60+", "label": "Writers at peak" }
+                    "The first year of Content Cucumber, clients could request a new article every day, no questions asked. The ones who took us up on it built SEO advantages that still carry forward."
                 ]
             }
         },
@@ -61,7 +58,7 @@
                         "No brand voice, no differentiation",
                         "Compliance and accuracy risks unchecked",
                         "Telltale AI patterns reach the reader",
-                        "Authority does not compound"
+                        "Authority never builds"
                     ]
                 },
                 "new_way": {
@@ -86,12 +83,6 @@
                     "In April 2025 I bought Content Cucumber through Content Basis. The reason is twofold. First, a seven-year track record as a client made the math obvious. What Isaac and the team had built was unusually good and unusually durable, and I had personal proof of it.",
                     "Second, the timing was right. At every e-commerce event I attend, I hear vendors saying the same thing. AI-written content is being detected by humans and getting flagged for it. Human writing is becoming the harder thing to do, and the more important thing. Content Cucumber was sitting on the right asset at the right moment.",
                     "Isaac and I are partners now, building this company on what humans give that AI does not. Isaac runs the writing operation and the editorial culture. I run the strategic direction, the partner ecosystem, and the technology layer."
-                ],
-                "stats": [
-                    { "number": "2018", "label": "Met Isaac at IRCE Chicago" },
-                    { "number": "7", "label": "Years a client first" },
-                    { "number": "Apr 2025", "label": "Acquired via Content Basis" },
-                    { "number": "Partners", "label": "Isaac + Brent today" }
                 ]
             }
         },
@@ -104,7 +95,7 @@
                     {
                         "icon": "growth",
                         "title": "Content Flywheel program",
-                        "text": "A single monthly client interview gets compounded into weekly content, daily social posts, video, and audio. Isaac heads the program."
+                        "text": "A single monthly client interview gets expanded into weekly content, daily social posts, video, and audio. Isaac heads the program."
                     },
                     {
                         "icon": "search",

@@ -1,10 +1,14 @@
 {
     "seo": {
+        "title": "Auditoría gratuita de HubSpot - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Auditoría gratuita de tu portal HubSpot. Escanea tus Hubs de Marketing, Ventas y Servicio en busca de ineficiencias ocultas. Recibe un reporte priorizado con recomendaciones prácticas.",
         "og_description": "Obtén una auditoría completa y automatizada de tu portal HubSpot. Identifica problemas, descubre oportunidades y recibe recomendaciones priorizadas. Completamente gratis.",
         "og_image": "/wp-content/uploads/hubspot-audit/homepage-2023-900x525px.webp"
     },
     "form": {
+        "campaign_code": "hubspot-audit-es",
         "header": "Obtén Tu Auditoría Gratuita de HubSpot",
         "subtitle": "Conecta tu portal. Recibe un reporte detallado con recomendaciones priorizadas.",
         "trust_text": "HubSpot Solutions Partner. Tus datos se mantienen privados. Gratis, sin compromiso.",
@@ -16,8 +20,8 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Auditoría Gratuita de HubSpot",
-                "title": "Sácale el Máximo a Tu <em>Inversión en HubSpot</em>",
+                "eyebrow": "Auditoría gratuita de HubSpot",
+                "title": "Sácale el máximo a tu <em>inversión en HubSpot</em>",
                 "paragraphs": [
                     "Obtén una auditoría completa y automatizada de tu portal HubSpot, totalmente gratis. Identifica problemas, descubre oportunidades y recibe recomendaciones priorizadas.",
                     "La mayoría de los portales HubSpot tienen ineficiencias ocultas que te están costando leads e ingresos. Nuestra auditoría escanea tu Marketing Hub, Sales Hub, Service Hub y CRM para encontrar exactamente qué necesita corregirse."
@@ -27,39 +31,34 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" },
-                { "number": "10+", "label": "Años en HubSpot" },
-                { "number": "100%", "label": "Privacidad Primero" },
-                { "number": "Gratis", "label": "Análisis Completo" }
-            ]
-        },
-        {
             "type": "challenges",
             "data": {
-                "title": "Lo Que Vas a Descubrir",
-                "subtitle": "Cinco áreas clave donde tu portal HubSpot puede rendir mejor.",
+                "title": "Lo que vas a descubrir",
+                "subtitle": "Seis áreas clave donde tu portal HubSpot puede rendir mejor.",
                 "items": [
                     {
                         "title": "Maximiza el ROI",
                         "text": "Asegúrate de obtener el valor completo de tu inversión en HubSpot. La mayoría de los portales usan menos del 40% de las funciones disponibles. Te mostramos lo que te estás perdiendo."
                     },
                     {
-                        "title": "Monitorea la Disponibilidad de Datos",
+                        "title": "Monitorea la disponibilidad de datos",
                         "text": "Vigila los datos clave dentro de la plataforma. Los datos incompletos o inconsistentes debilitan cada campaña, flujo de trabajo y reporte que construyes."
                     },
                     {
-                        "title": "Mejores Decisiones",
+                        "title": "Mejores decisiones",
                         "text": "Los datos limpios y completos permiten tomar decisiones más rápidas y con mayor certeza. Cuando los datos de tu CRM son precisos, tu equipo deja de adivinar y empieza a actuar."
                     },
                     {
-                        "title": "Mide Resultados",
+                        "title": "Mide resultados",
                         "text": "Seguimiento de campañas y pruebas más precisas. Identifica exactamente qué campañas generan ingresos y cuáles desperdician presupuesto."
                     },
                     {
-                        "title": "Mejora la Productividad",
+                        "title": "Mejora la productividad",
                         "text": "Dedica tiempo a lo que sí funciona y menos a lo que no. Elimina los procesos manuales y optimiza los flujos de trabajo diarios de tu equipo en HubSpot."
+                    },
+                    {
+                        "title": "Automatizaciones que no ves",
+                        "text": "Workflows que siguen corriendo, siguen inscribiendo gente y nadie los reclama. Te damos la lista de lo que está activo para que decidas qué se queda."
                     }
                 ]
             }
@@ -67,22 +66,22 @@
         {
             "type": "how-it-works",
             "data": {
-                "title": "¿Cómo Funciona?",
+                "title": "¿Cómo funciona?",
                 "subtitle": "Tres pasos sencillos desde el registro hasta información que puedes aplicar.",
                 "steps": [
                     {
                         "number": "1",
-                        "title": "Configuración Fácil",
+                        "title": "Configuración fácil",
                         "text": "Conecta tu cuenta de HubSpot y dale permiso a la aplicación para leer tus objetos de HubSpot. La configuración toma menos de dos minutos."
                     },
                     {
                         "number": "2",
-                        "title": "Procesamiento en Segundo Plano",
+                        "title": "Procesamiento en segundo plano",
                         "text": "La auditoría se ejecuta en segundo plano con impacto mínimo en tu portal. Escanea contactos, empresas, negocios, tickets y más."
                     },
                     {
                         "number": "3",
-                        "title": "Progreso Sobre Perfección",
+                        "title": "Progreso sobre perfección",
                         "text": "Recibe un reporte PDF detallado con recomendaciones priorizadas y prácticas. Enfócate primero en las correcciones de mayor impacto."
                     }
                 ]
@@ -91,7 +90,7 @@
         {
             "type": "bundles",
             "data": {
-                "title": "Lo Que Escaneamos",
+                "title": "Lo que escaneamos",
                 "subtitle": "Un análisis profundo de tus tres Hubs principales más los elementos fundamentales del CRM: Contactos, Empresas, Negocios y Tickets.",
                 "items": [
                     {
@@ -132,33 +131,38 @@
         {
             "type": "outcomes",
             "data": {
-                "title": "¿Para Quién Es?",
+                "title": "¿Para quién es?",
                 "subtitle": "Ya sea que gestiones marketing, ventas, servicio al cliente o toda la plataforma, esta auditoría te da los siguientes pasos claros.",
                 "items": [
                     {
                         "icon": "users",
-                        "title": "Marketers: Convierte Más Leads",
+                        "title": "Marketers convierten más leads",
                         "text": "Las auditorías de portal escanean campos del CRM, uso de aplicaciones y completitud de datos. Los datos precisos de clientes potencian tus campañas de marketing y mejoran la calidad de los leads."
                     },
                     {
                         "icon": "chart",
-                        "title": "Equipos de Ventas: Cierra Más Negocios",
+                        "title": "Equipos de ventas cierran más negocios",
                         "text": "Los datos de ventas actualizados y completos son esenciales para dar seguimiento y cerrar negocios. Gestiona de manera efectiva los datos de ventas a lo largo de todo el recorrido del cliente."
                     },
                     {
                         "icon": "search",
-                        "title": "Éxito del Cliente: Ayuda a Más Clientes",
+                        "title": "Éxito del cliente ayuda a más clientes",
                         "text": "La información precisa, accesible y en tiempo real asegura un soporte al cliente rápido y sin fricciones. Encuentra y corrige los huecos de datos que frenan a tu equipo."
                     },
                     {
                         "icon": "growth",
-                        "title": "Equipos HubSpot: Crea Equipos Efectivos",
+                        "title": "Equipos HubSpot alineados",
                         "text": "Análisis de alto nivel con recomendaciones claras y específicas en reportes fáciles de leer. Alinea a todo tu equipo en lo que hay que corregir primero."
                     },
                     {
                         "icon": "settings",
-                        "title": "Dueños de Negocio: Optimiza Tu Plataforma",
+                        "title": "Dueños de negocio optimizan la plataforma",
                         "text": "Asegúrate de que toda tu inversión en HubSpot esté funcionando de manera eficiente en todos los departamentos. Ve exactamente dónde estás dejando valor sobre la mesa."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Operaciones deja de adivinar",
+                        "text": "Un registro escrito de cómo está configurado el portal hoy, para que el siguiente cambio parta de lo que hay y no de la memoria de alguien."
                     }
                 ]
             }
@@ -169,7 +173,7 @@
                 "youtube_id": "cUsjcXHM2pE",
                 "title": "Free HubSpot Audit Walkthrough",
                 "aspect": "16x9",
-                "heading": "Mira la Auditoría en Acción",
+                "heading": "Mira la auditoría en acción",
                 "paragraphs": [
                     "Ve un recorrido de cómo funciona el proceso de auditoría, desde conectar tu portal hasta revisar tu reporte personalizado."
                 ],
@@ -184,7 +188,7 @@
         {
             "type": "faq",
             "data": {
-                "title": "Preguntas Frecuentes",
+                "title": "Preguntas frecuentes",
                 "items": [
                     {
                         "question": "¿De verdad es gratis? ¿Cuál es el truco?",
@@ -212,7 +216,7 @@
         {
             "type": "bottom-cta",
             "data": {
-                "title": "¿Listo para Optimizar Tu Portal HubSpot?",
+                "title": "¿Listo para optimizar tu portal HubSpot?",
                 "text": "Obtén tu auditoría gratuita hoy. Conecta tu portal, deja que el escaneo corra en segundo plano y recibe un reporte detallado con recomendaciones priorizadas. Sin discurso de ventas, solo datos claros sobre qué funciona y qué necesita atención."
             }
         }

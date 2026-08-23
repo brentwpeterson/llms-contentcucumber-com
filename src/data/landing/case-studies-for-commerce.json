@@ -1,6 +1,8 @@
 {
     "no_nav": true,
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Case Studies for Commerce | Content Cucumber",
         "meta_description": "Case studies written for commerce platforms, agencies, and the brands they serve. We chase the interview, run the coordination, and deliver the piece. Download the sample pack.",
         "og_description": "Case study writing for commerce platforms, agencies, and B2B SaaS. We handle the interview chase, the coordination, and the delivery.",
@@ -9,6 +11,7 @@
         "nofollow": true
     },
     "form": {
+        "campaign_code": "case-studies-for-commerce",
         "header": "Get the sample pack",
         "subtitle": "Four case studies CC wrote for platforms, agencies, and B2B SaaS. The kind of work we'd do for you.",
         "trust_text": "We don't spam. You'll get the PDF, then a short email a few days later asking if you want to talk.",
@@ -27,7 +30,7 @@
             "type": "download-page",
             "data": {
                 "eyebrow": "Case Studies for Commerce",
-                "title": "Your customers have the stories.<br>Your team doesn't have the time.<br><em>We handle both.</em>",
+                "title": "Your customers have the stories and your team is short on time, so we run the interviews and the writing for you.",
                 "subtitle": "Case studies written for commerce platforms, agencies, and the brands they serve. We chase the interview, run the coordination, and deliver the piece.",
                 "bullets": [
                     "Your merchants won't get on a call. <strong>We will.</strong>",

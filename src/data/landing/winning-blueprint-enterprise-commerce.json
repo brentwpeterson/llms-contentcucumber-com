@@ -1,12 +1,15 @@
 {
     "no_nav": true,
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "The Winning Blueprint for Enterprise Commerce | Content Cucumber Research",
         "meta_description": "Free research paper comparing VTEX and Salesforce Commerce Cloud for enterprise buyers. Architecture, OMS, marketplace, scalability, and 36-month TCO.",
         "og_description": "Independent research comparing VTEX and Salesforce Commerce Cloud. Architecture, OMS, marketplace, and total cost of ownership for enterprise commerce decisions.",
         "og_image": "https://contentcucumber.com/wp-content/uploads/2026/05/winning-blueprint-cover.png"
     },
     "form": {
+        "campaign_code": "winning-blueprint-enterprise-commerce",
         "header": "Download the Research",
         "portal_id": "39487190",
         "form_id": "d9c6e29a-b6de-484a-a365-09222270c3c8",

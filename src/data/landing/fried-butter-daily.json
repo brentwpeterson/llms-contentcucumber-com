@@ -1,0 +1,36 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Fried Butter Daily - Content Cucumber",
+        "meta_description": "The satire desk at Content Cucumber. Invented experts, invented studies, and trade associations that do not exist, writing about marketing the way marketing talks about itself.",
+        "slug": "fried-butter-daily"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Satire",
+                "title": "Fried Butter Daily",
+                "paragraphs": [
+                    "The satire desk at Content Cucumber. Everything below is invented, including the experts, the studies, the survey data, and the trade associations that keep issuing advisories nobody asked for.",
+                    "We write about marketing the way marketing talks about itself, which turns out to require very little exaggeration."
+                ]
+            }
+        },
+        {
+            "type": "latest-posts",
+            "data": {
+                "category": "fried-butter-daily",
+                "count": 12
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "The serious pages are elsewhere on this site",
+                "text": "Content Cucumber writes content for commerce and SaaS brands, and writes it with people. This section is what those people do when nobody is watching."
+            }
+        }
+    ]
+}

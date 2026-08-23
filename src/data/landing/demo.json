@@ -1,0 +1,148 @@
+{
+    "seo": {
+        "title": "Book a Demo With Content Cucumber",
+        "meta_description": "See how Content Cucumber works before you commit. A short call, a real writer, and a plan for what gets published. No pitch deck.",
+        "og_description": "See how Content Cucumber works before you commit. A short call, a real writer, and a plan for what gets published.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "form": {
+        "header": "Book your demo",
+        "subtitle": "Tell us your site and what you want to be found for. We will bring what we already see in your search data.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "demo"
+    },
+    "thankyou": {
+        "title": "Booked. Talk soon.",
+        "text": "You will get a confirmation by email with a calendar hold. If you want to send anything over beforehand, reply to it."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "See the work before you commit",
+                "title": "The best content on the internet is <em>one call away</em>",
+                "paragraphs": [
+                    "Fifteen minutes, a real person, and a straight answer about whether we are a fit. No pitch deck, no discovery sequence, no five-step funnel before anyone tells you what it costs.",
+                    "We will look at what you publish now, what you rank for now, and what a month of writing would change. If the answer is that you do not need us, we will say that too."
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "What the call is",
+                "items": [
+                    {
+                        "label": "How long does it take?",
+                        "value": "Fifteen minutes. It is a conversation about your content, and it ends with a straight answer about fit."
+                    },
+                    {
+                        "label": "Who will I talk to?",
+                        "value": "Someone from Content Cucumber who works on the writing side. No script, no handoff to a closer. You can ask about writers, process, pricing, or turnaround and get a real answer."
+                    },
+                    {
+                        "label": "What do I need to have ready?",
+                        "value": "Your website and a rough sense of what you want to be found for. That is enough. We will pull what your search data already shows before we get on."
+                    },
+                    {
+                        "label": "Will I get a hard sell?",
+                        "value": "No. Some of these calls end with us telling a company they do not need a content partner yet. That is a fine outcome and it saves both sides a month."
+                    },
+                    {
+                        "label": "What does it cost to work with you?",
+                        "value": "The Content Flywheel Plan is $1,000 a month, and one monthly interview with you becomes four articles, daily social posts, and captioned video. Other engagements are scoped on the call."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "video-embed",
+            "data": {
+                "youtube_id": "V2iqrDsxqxY",
+                "aspect": "16x9",
+                "title": "Content Cucumber Product Tour",
+                "label": "Two minutes",
+                "heading": "Take the tour first if you would rather not talk to anyone yet",
+                "paragraphs": [
+                    "The short version of how this works, without booking anything."
+                ],
+                "points": [
+                    "Get a dedicated writer who learns your voice",
+                    "Put the publishing calendar on rails",
+                    "Turn one monthly conversation into a month of content"
+                ],
+                "video_source": "cc",
+                "video_note": "Content Cucumber product tour, 1:41, produced in-house"
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "What you are buying",
+                "subtitle": "The demo covers all of this. Reading it here first makes the call shorter.",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "A handpicked writer who stays",
+                        "text": "One writer who learns your business, your voice, and the customers you serve, and who stays with you. When the work calls for a different writer, we change the writer, which is the part you cannot do when you hire one person."
+                    },
+                    {
+                        "title": "Publishing that does not stop",
+                        "text": "Consistency is what moves search rankings, and it is the first thing to slip when writing is somebody's fifth priority. A month of work lands whether or not you had time to think about it."
+                    },
+                    {
+                        "title": "Written by people, on purpose",
+                        "text": "Every piece is written and edited by a human. That is the whole company, and it is the reason clients come to us after a year of publishing machine copy that nobody read and nothing ranked."
+                    },
+                    {
+                        "title": "Priced so you can plan",
+                        "text": "A flat monthly rate you can put in a budget, with the scope agreed up front. No per-word surprises and no invoice that moves because a piece ran long."
+                    },
+                    {
+                        "title": "People you can reach",
+                        "text": "Your writer and editor are available by email, on Zoom, or in the platform. Feedback goes straight to the person who wrote the thing."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Before you book",
+                "items": [
+                    {
+                        "question": "We already have a writer. Is there any point?",
+                        "answer": "Sometimes not, and we will tell you. The calls worth having are usually about volume you cannot cover, a channel nobody owns, or search terms your site does not address at all. If your current writer has that handled, keep them."
+                    },
+                    {
+                        "question": "How fast does content start appearing?",
+                        "answer": "First drafts inside the first month. Search results move slower, normally six to twelve weeks before rankings shift, and anyone promising faster than that is guessing."
+                    },
+                    {
+                        "question": "Do you write for my industry?",
+                        "answer": "We write for accounting and bookkeeping firms, real estate, healthcare, manufacturing, cannabis, SaaS and ecommerce brands, among others. Ask on the call and we will tell you whether we have covered your field."
+                    },
+                    {
+                        "question": "Can I see writing before I decide?",
+                        "answer": "Yes. Ask for samples in your area on the call. Published work in your own industry is a better signal than a portfolio of the best pieces we ever wrote for somebody else."
+                    },
+                    {
+                        "question": "What if I would rather just email?",
+                        "answer": "Fill in the form and say so. Not everyone wants a call, and a written back and forth is a perfectly good way to work out whether this fits."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Fifteen minutes, and you will know",
+                "text": "Book the call, or send your site over and we will come back with what we see."
+            }
+        }
+    ]
+}

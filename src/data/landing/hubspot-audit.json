@@ -1,10 +1,13 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Free HubSpot portal audit. Scan your Marketing, Sales, and Service Hubs for hidden inefficiencies. Get a prioritized report with actionable recommendations.",
-        "og_description": "Get a comprehensive, automated audit of your HubSpot portal. Identify issues, discover opportunities, and get prioritized recommendations. Completely free.",
+        "og_description": "Get a comprehensive, automated audit of your HubSpot portal. Identify issues, discover opportunities, and get prioritized recommendations. Free.",
         "og_image": "/wp-content/uploads/hubspot-audit/homepage-2023-900x525px.webp"
     },
     "form": {
+        "campaign_code": "hubspot-audit",
         "header": "Get Your Free HubSpot Audit",
         "subtitle": "Connect your portal. Get a detailed report with prioritized recommendations.",
         "trust_text": "HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
@@ -19,27 +22,18 @@
                 "eyebrow": "Free HubSpot Audit",
                 "title": "Maximize Your <em>HubSpot Investment</em>",
                 "paragraphs": [
-                    "Get a comprehensive, automated audit of your HubSpot portal, completely free. Identify issues, discover opportunities, and get prioritized recommendations.",
-                    "Most HubSpot portals have hidden inefficiencies costing you leads and revenue. Our audit scans your Marketing Hub, Sales Hub, Service Hub, and CRM to find exactly what needs fixing."
+                    "Get a comprehensive, automated audit of your HubSpot portal, free. Identify issues, discover opportunities, and get prioritized recommendations.",
+                    "Most HubSpot portals have hidden inefficiencies costing you leads and revenue. Our audit scans your Marketing Hub, Sales Hub, Service Hub, and CRM to find what needs fixing."
                 ],
                 "content_image": "/wp-content/uploads/hubspot-audit/homepage-2023-900x525px.webp",
                 "content_image_alt": "Content Cucumber HubSpot Audit Dashboard"
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" },
-                { "number": "10+", "label": "Years on HubSpot" },
-                { "number": "100%", "label": "Privacy-First" },
-                { "number": "Free", "label": "Full Analysis" }
-            ]
-        },
-        {
             "type": "challenges",
             "data": {
                 "title": "What You'll Discover",
-                "subtitle": "Five key areas where your HubSpot portal can perform better.",
+                "subtitle": "Six key areas where your HubSpot portal can perform better.",
                 "items": [
                     {
                         "title": "Maximize ROI",
@@ -51,15 +45,19 @@
                     },
                     {
                         "title": "Better Decisions",
-                        "text": "Clean, complete data enables faster, more certain decisions. When your CRM data is accurate, your team stops guessing and starts acting."
+                        "text": "Clean, complete data enables faster, more certain decisions. When your CRM data is accurate, your team can act with confidence."
                     },
                     {
                         "title": "Measure Results",
-                        "text": "More accurate campaign tracking and testing. Know exactly which campaigns drive revenue and which ones waste budget."
+                        "text": "More accurate campaign tracking and testing. Know which campaigns drive revenue and which ones waste budget."
                     },
                     {
                         "title": "Improve Productivity",
                         "text": "Spend time on what works, less on what doesn't. Eliminate manual workarounds and streamline your team's daily HubSpot workflows."
+                    },
+                    {
+                        "title": "Automations You Cannot See",
+                        "text": "Workflows that still run, still enroll people, and no one owns. We list what is firing so you can decide what stays."
                     }
                 ]
             }
@@ -82,7 +80,7 @@
                     },
                     {
                         "number": "3",
-                        "title": "Progress Over Perfection",
+                        "title": "Prioritized Report",
                         "text": "Receive a detailed PDF report with prioritized, actionable recommendations. Focus on high-impact fixes first."
                     }
                 ]
@@ -92,11 +90,11 @@
             "type": "bundles",
             "data": {
                 "title": "What We Scan",
-                "subtitle": "A deep dive into your three core Hubs plus CRM fundamentals: Contacts, Companies, Deals, and Tickets.",
+                "subtitle": "A close look at your three core Hubs plus CRM fundamentals: Contacts, Companies, Deals, and Tickets.",
                 "items": [
                     {
                         "name": "Marketing Hub",
-                        "target": "Campaign effectiveness and lead delivery. Are your forms, emails, and workflows actually converting?",
+                        "target": "Campaign effectiveness and lead delivery. Are your forms, emails, and workflows converting?",
                         "outcomes": [
                             "Email deliverability and engagement rates",
                             "Form conversion and lead capture",
@@ -137,28 +135,33 @@
                 "items": [
                     {
                         "icon": "users",
-                        "title": "Marketers: Convert More Leads",
+                        "title": "Marketers Convert More Leads",
                         "text": "Portal audits scan CRM fields, app usage, and data completeness. Accurate customer data maximizes your marketing campaigns and improves lead quality."
                     },
                     {
                         "icon": "chart",
-                        "title": "Sales Teams: Close More Deals",
+                        "title": "Sales Teams Close More Deals",
                         "text": "Current, complete sales data is essential for tracking and closing deals. Effectively manage sales data throughout the entire customer journey."
                     },
                     {
                         "icon": "search",
-                        "title": "Customer Success: Help More Customers",
-                        "text": "Accurate, accessible, real-time information ensures quick, seamless customer support. Find and fix the data gaps slowing your team down."
+                        "title": "Customer Success Helps More Customers",
+                        "text": "Accurate, accessible, real-time information ensures quick, reliable customer support. Find and fix the data gaps slowing your team down."
                     },
                     {
                         "icon": "growth",
-                        "title": "HubSpot Teams: Create Effective Teams",
+                        "title": "HubSpot Teams Get Aligned",
                         "text": "High-level analysis with clear, specific recommendations in easy-to-read reports. Get your entire team aligned on what needs fixing first."
                     },
                     {
                         "icon": "settings",
-                        "title": "Business Owners: Optimize Your Platform",
-                        "text": "Ensure your entire HubSpot investment is working efficiently across all departments. See exactly where you're leaving value on the table."
+                        "title": "Business Owners Optimize the Platform",
+                        "text": "Ensure your entire HubSpot investment is working efficiently across all departments. See where you're leaving value on the table."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Ops Teams Stop Guessing",
+                        "text": "A written record of how the portal is configured today, so the next change starts from what is there rather than from memory."
                     }
                 ]
             }
@@ -188,7 +191,7 @@
                 "items": [
                     {
                         "question": "Is this really free? What's the catch?",
-                        "answer": "Yes, completely free with no obligation. We're a HubSpot Solutions Partner and we believe in showing value before asking for anything. The audit gives you actionable insights whether or not you ever work with us."
+                        "answer": "Yes, free with no obligation. We're a HubSpot Solutions Partner and we believe in showing value before asking for anything. The audit gives you actionable insights whether or not you ever work with us."
                     },
                     {
                         "question": "Is my data safe?",
@@ -200,7 +203,7 @@
                     },
                     {
                         "question": "What if I just started using HubSpot?",
-                        "answer": "Even better. The audit catches setup issues early before they compound. New portals often have default settings that should be customized, missing properties, and workflow gaps that are easier to fix now than six months from now."
+                        "answer": "Even better. The audit catches setup issues early before they turn into bigger problems. New portals often have default settings that need customizing, missing properties, and workflow gaps that are easier to fix now than six months from now."
                     },
                     {
                         "question": "Do I need HubSpot Pro or Enterprise?",
@@ -213,7 +216,7 @@
             "type": "bottom-cta",
             "data": {
                 "title": "Ready to Optimize Your HubSpot Portal?",
-                "text": "Get your free audit today. Connect your portal, let the scan run in the background, and receive a detailed report with prioritized recommendations. No sales pitch, just clear data on what's working and what needs attention."
+                "text": "Get your free audit today. Connect your portal, let the scan run in the background, and receive a detailed report with prioritized recommendations. You get clear data on what's working and what needs attention, with no sales pitch."
             }
         }
     ]

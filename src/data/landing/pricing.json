@@ -1,9 +1,12 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Content Cucumber pricing. Dedicated writer plans starting at $590/month. Content Flywheel multi-channel plans at $1,000/month. Managed services from $2,500/month.",
         "og_description": "Pricing for human-written content. Three plans: Starter ($590/mo), Content Flywheel ($1,000/mo), and Managed Services ($2,500+/mo)."
     },
     "form": {
+        "campaign_code": "pricing",
         "header": "Questions About Pricing?",
         "subtitle": "Tell us about your content needs and we will recommend the right plan.",
         "trust_text": "No commitment required for Starter. Try us risk-free.",
@@ -84,15 +87,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "40+", "label": "Human Writers" },
-                { "number": "55M+", "label": "Words Written" },
-                { "number": "200+", "label": "Brands Served" },
-                { "number": "7+", "label": "Years in Business" }
-            ]
-        },
-        {
             "type": "outcomes",
             "data": {
                 "title": "Need Something Specific?",
@@ -109,7 +103,7 @@
                         "text": "Marketing automation, email campaigns, lead scoring, and CRM setup. We are a HubSpot Solutions Partner."
                     },
                     {
-                        "icon": "target",
+                        "icon": "search",
                         "title": "Case Study Writing",
                         "text": "We handle the interviews, writing, and coordination across every stakeholder. You make the introduction, we deliver the story."
                     },
@@ -124,7 +118,7 @@
                         "text": "Data-driven research reports and white papers that position your brand as a thought leader. Written by humans who understand your industry."
                     },
                     {
-                        "icon": "target",
+                        "icon": "search",
                         "title": "Product Descriptions",
                         "text": "SEO-optimized product descriptions, category pages, and ecommerce content for Shopify, BigCommerce, Magento, and WooCommerce."
                     }
@@ -138,7 +132,7 @@
                 "items": [
                     {
                         "question": "What is the difference between Starter and Content Flywheel?",
-                        "answer": "Starter gives you a dedicated writer for blog posts and web content. Content Flywheel adds a monthly video interview that we turn into blogs, social media posts, email newsletters, graphic design, and video clips. It is a full multi-channel content engine, not just writing."
+                        "answer": "Starter gives you a dedicated writer for blog posts and web content. Content Flywheel adds a monthly video interview that we turn into blogs, social media posts, email newsletters, graphic design, and video clips. It is a full multi-channel content engine covering blogs, social, email, and video."
                     },
                     {
                         "question": "What does Managed Services include that Flywheel does not?",

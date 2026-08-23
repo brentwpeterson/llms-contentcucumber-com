@@ -1,6 +1,7 @@
 {
     "form": {
-        "header": "Get a turnkey site that actually performs",
+        "campaign_code": "website-development",
+        "header": "Get a turnkey site that performs",
         "subtitle": "",
         "trust_text": "90+ Lighthouse guaranteed. Live in 1-2 weeks. Starting at $3,500.",
         "portal_id": "39487190",
@@ -8,6 +9,8 @@
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Turnkey Website Development - WordPress and Astro - Content Cucumber",
         "meta_description": "Turnkey websites with 90+ Lighthouse scores and AEO optimization from day one. WordPress or Astro. Live in 1-2 weeks. Starting at $3,500.",
         "slug": "website-development"
@@ -19,7 +22,7 @@
                 "eyebrow": "Website Development",
                 "title": "Sites Built for<br><em>Speed and AI Visibility</em>",
                 "paragraphs": [
-                    "We don't just build websites. We build sites with 90+ Lighthouse scores and AEO optimization from day one. WordPress or Astro. Live in 1-2 weeks. Starting at $3,500.",
+                    "Every site we build ships with 90+ Lighthouse scores and AEO optimization from day one. WordPress or Astro. Live in 1-2 weeks. Starting at $3,500.",
                     "Every site we build ships with:",
                     "<ul><li>90+ Lighthouse scores guaranteed across performance, accessibility, SEO, and best practices</li><li>AEO optimization (structured data, JSON-LD, llms.txt, schema markup) for ChatGPT, Claude, Perplexity, and Google AI Overviews</li><li>HubSpot tracking and CRM integration installed</li><li>Mobile-responsive design tested across viewports</li><li>Brand voice profile in RequestDesk so content publishes directly to the site</li><li>Written launch checklist and Lighthouse validation report</li></ul>"
                 ]
@@ -63,12 +66,12 @@
                     {
                         "icon": "search",
                         "title": "AEO Optimized From Day One",
-                        "text": "Structured data, JSON-LD, llms.txt, and schema markup for AI crawlers. Your site shows up in ChatGPT, Claude, Perplexity, and Google AI Overviews. Built into the foundation, not bolted on after."
+                        "text": "Structured data, JSON-LD, llms.txt, and schema markup for AI crawlers. Your site shows up in ChatGPT, Claude, Perplexity, and Google AI Overviews. AEO is part of the build from the first line of code."
                     },
                     {
                         "icon": "settings",
                         "title": "Live in 1-2 Weeks",
-                        "text": "AI-leveraged development delivers in 1-2 weeks what traditional agencies take 8-12 weeks to build. Same quality, fraction of the time."
+                        "text": "AI-leveraged development delivers in 1-2 weeks what traditional agencies take 8-12 weeks to build."
                     },
                     {
                         "icon": "share",
@@ -76,7 +79,7 @@
                         "text": "WordPress for teams that need a CMS and content team. Astro for blazing-fast, zero-maintenance sites. We recommend the right platform for your business."
                     },
                     {
-                        "icon": "chat",
+                        "icon": "megaphone",
                         "title": "HubSpot Integration Standard",
                         "text": "Forms, tracking, and CRM connection come with every build. Your site captures leads from day one. Marketing automation ready out of the gate."
                     },

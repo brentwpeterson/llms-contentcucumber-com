@@ -1,10 +1,13 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Join Content Cucumber's growing team of talented creators. We produce content for ecommerce brands, marketing agencies, and specialty retailers. Human-powered, AI-assisted.",
         "og_description": "Content Cucumber is hiring native English-speaking creators. Steady contract work producing blogs, product content, social, email, video, and more for real brands.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "we-need-writers",
         "header": "Apply to Join Our Team",
         "subtitle": "Tell us what you do and how you like to create. We review every application.",
         "bottom_only": true,
@@ -27,15 +30,6 @@
                 "platforms_label": "We create content for",
                 "platforms": "eCommerce &bull; CMS &bull; Marketing &bull; SaaS &bull; B2B &bull; Retail &bull; DTC &bull; and more"
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "70+", "label": "Creators on the Team" },
-                { "number": "100+", "label": "Clients Served" },
-                { "number": "600+", "label": "Podcast Episodes Produced" },
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" }
-            ]
         },
         {
             "type": "challenges",
@@ -61,7 +55,7 @@
                     {
                         "number": "",
                         "title": "You Want Steady Work",
-                        "text": "This isn't a one-off gig board. We match creators with ongoing client accounts. You build a relationship with the brands you serve, and the work comes month after month."
+                        "text": "We match creators with ongoing client accounts, not scattered gigs. You build a relationship with the brands you serve, and the work comes month after month."
                     }
                 ]
             }

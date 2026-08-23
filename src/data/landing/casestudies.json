@@ -1,12 +1,15 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Case study writing service for ecommerce platforms and agencies. We handle interviews, writing, and coordination across every stakeholder. You make the introduction, we deliver the story.",
         "og_description": "You have the wins. We write the stories. Case study writing that handles interviews, coordination, and delivery across all stakeholders."
     },
     "form": {
+        "campaign_code": "casestudies",
         "header": "Book a Discovery Call",
         "subtitle": "Tell us about your case study needs. We'll show you how the process works.",
-        "trust_text": "25+ case studies delivered. 4.9/5 client rating.",
+        "trust_text": "Written and edited by people. 4.9 of 5 client rating.",
         "portal_id": "39487190",
         "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
         "region": "na1"
@@ -24,23 +27,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "number": "50+",
-                    "label": "Case Studies Delivered"
-                },
-                {
-                    "number": "1000s",
-                    "label": "Hours Saved"
-                },
-                {
-                    "number": "4.9/5",
-                    "label": "Client Rating"
-                }
-            ]
-        },
-        {
             "type": "how-it-works",
             "data": {
                 "title": "How We Make It Painless",
@@ -54,7 +40,7 @@
                     {
                         "number": "2",
                         "title": "We Start Writing on Day One",
-                        "text": "We don't wait for the interview. The minute we engage, we research, pull data, and start building the story. By the first call, we already have a working draft."
+                        "text": "The minute we engage, we research, pull data, and start building the story. By the first call, we already have a working draft."
                     },
                     {
                         "number": "3",
@@ -64,7 +50,7 @@
                     {
                         "number": "4",
                         "title": "Your Brand Voice Written by Humans",
-                        "text": "We use RequestDesk to capture your brand's tone, language, and style before we write a single word. Every case study is written by a human writer who sounds like your team. Not a template. Not AI. Your voice."
+                        "text": "We use RequestDesk to capture your brand's tone, language, and style before we write a single word. Every case study is written by a human writer who sounds like your team, in your voice, never a template and never AI."
                     }
                 ]
             }
@@ -101,9 +87,9 @@
                 "subtitle": "Whether you are an ecommerce platform with hundreds of merchant success stories or an agency with a backlog of undocumented client wins, the bottleneck is the same.",
                 "items": [
                     {
-                        "icon": "target",
+                        "icon": "search",
                         "title": "One Introduction",
-                        "text": "Nobody owns the case study process. We do. You make the introduction and we take it from there."
+                        "text": "We own the case study process. You make the introduction and we take it from there."
                     },
                     {
                         "icon": "chart",

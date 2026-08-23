@@ -1,0 +1,109 @@
+{
+  "seo": {
+    "title": "Research and Reports on Commerce, Content and AI",
+    "meta_description": "Original research from Content Cucumber. Independent platform analyses and studies built from what practitioners told us in their own words.",
+    "og_type": "website",
+    "twitter_card": "summary_large_image"
+  },
+  "form": {
+    "campaign_code": "research",
+    "header": "Get the next one",
+    "subtitle": "One email when a new report or study publishes.",
+    "trust_text": "No pitch, no sequence, no sales call.",
+    "portal_id": "39487190",
+    "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+    "region": "na1"
+  },
+  "sidebar": {
+    "title": "Get the next one when it publishes.",
+    "text": "New reports and studies, sent once each when they go up. Nothing else.",
+    "trust_text": "No pitch, no sequence, no sales call.",
+    "form": {
+      "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+      "portal_id": "39487190",
+      "region": "na1"
+    }
+  },
+  "hero": {
+    "eyebrow": "Research and Reports",
+    "title": "Original Research on Commerce, Content and AI",
+    "subtitle": "Content Cucumber writes for a living, so we hold our own work to the same standard we sell. These are independent platform analyses and studies built from what practitioners told us, in their own words."
+  },
+  "sections": [
+    {
+      "id": "what-we-publish",
+      "title": "What we publish, and how it gets made",
+      "content": "<p>Two kinds of thing live here. Platform analyses compare real systems against the requirements that break implementations, written from hands-on evaluation rather than vendor decks. Studies ask working practitioners one question and print what came back.</p><p>Brent Peterson and Isaac Morey write them. Every quote belongs to a named person who agreed to be named, and anyone who asked to stay anonymous is counted and never identified.</p>"
+    },
+    {
+      "id": "reports",
+      "title": "Published research",
+      "content": "<p>Each of these is a document you can download and read end to end.</p>",
+      "verticals": [
+        {
+          "name": "The B2B Commerce Trends and Opportunities Report",
+          "short": "B2B Commerce Trends",
+          "blurb": "Where B2B commerce is heading, built from interviews with people running it.",
+          "url": "/b2b-commerce-trends-report/",
+          "status": "live"
+        },
+        {
+          "name": "Composable Commerce Research",
+          "short": "Composable Commerce",
+          "blurb": "Modular assembly against embedded commerce. commercetools and VTEX compared on cost, time to market, team requirements and risk.",
+          "url": "/composable-commerce-research/",
+          "status": "live"
+        },
+        {
+          "name": "The Winning Blueprint for Enterprise Commerce",
+          "short": "Enterprise Commerce",
+          "blurb": "VTEX and Salesforce Commerce Cloud compared across architecture, order management, marketplace and total cost.",
+          "url": "/winning-blueprint-enterprise-commerce/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "underway",
+      "title": "Studies underway",
+      "content": "<p>Research we are running now. These are open, and you can add your answer while collection is still going.</p>",
+      "coming_label": "Also in progress:",
+      "verticals": [
+        {
+          "name": "Should companies use AI to create content, and why",
+          "short": "AI in content",
+          "blurb": "One question, asked of people who work in commerce, content and AI. Still collecting, and your answer counts.",
+          "url": "/ai-content-study/",
+          "status": "live"
+        }
+      ]
+    }
+  ],
+  "faq": {
+    "title": "About the research",
+    "items": [
+      {
+        "question": "Who writes these?",
+        "answer": "Brent Peterson and Isaac Morey at Content Cucumber. Brent is CEO and Isaac co-founded the company."
+      },
+      {
+        "question": "Do I have to give my email?",
+        "answer": "The reports are gated, so yes for those. The studies are open, and you can read a study page and answer its question without giving anything."
+      },
+      {
+        "question": "Can I quote from them?",
+        "answer": "Yes, with attribution to Content Cucumber and a link back. If you want the underlying material for something you are writing, ask and we will talk."
+      },
+      {
+        "question": "How often does something new publish?",
+        "answer": "When the work is finished. No calendar, no quota, and nothing gets shipped to fill a slot."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Get the next one when it publishes",
+    "text": "One email per report or study. Nothing else, and nobody is added to a marketing list for asking.",
+    "button_text": "Start a conversation",
+    "button_url": "/contact/"
+  }
+}

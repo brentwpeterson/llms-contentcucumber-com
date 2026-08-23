@@ -1,10 +1,13 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Live workshop on June 17 with Content Cucumber and a Mailchimp partner expert. Bring your last 3 email campaigns. Walk through 5 audit gaps live. Free audit delivered within 7 days.",
         "og_description": "Co-hosted live workshop on June 17. Brent Peterson (Content Cucumber) and a Mailchimp partner expert audit your email program in 45 minutes. Free audit for every registrant.",
         "og_image": "/wp-content/themes/cucumber-gp-child/landing-data/mailchimp-webinar-header.png"
     },
     "form": {
+        "campaign_code": "mailchimp-webinar",
         "header": "Save Your Spot",
         "subtitle": "June 17 at 11:00 AM Eastern. 45 minutes of working time.",
         "trust_text": "Free to attend. Audit delivered to every registrant within 7 days.",
@@ -29,15 +32,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "45", "label": "Minute Workshop" },
-                { "number": "5", "label": "Audit Gaps Covered" },
-                { "number": "7", "label": "Day Audit Delivery" },
-                { "number": "Free", "label": "Workshop and Audit" }
-            ]
-        },
-        {
             "type": "banner-image",
             "data": {
                 "src": "/wp-content/themes/cucumber-gp-child/landing-data/mailchimp-webinar-header.png",
@@ -52,29 +46,24 @@
                 "subtitle": "Three out of five commerce SMBs have at least four of these gaps. The data already lives in your dashboard.",
                 "items": [
                     {
-                        "number": "01",
                         "title": "Subject Lines That Get Ignored",
                         "text": "Average open rates sit around 21%. Subject lines are the first leak. AI rewrites them quickly. Humans reviewing the AI catch the brand voice issues AI misses."
                     },
                     {
-                        "number": "02",
                         "title": "Segments You Built and Forgot",
                         "text": "Your list grew. Your segments did not. New buyers, return buyers, lapsed buyers, browsers, all receiving the same email. Same offer. Same result."
                     },
                     {
-                        "number": "03",
                         "title": "Automations Half-Built or Never Built",
                         "text": "Welcome series ends after email 2. No abandoned cart. No post-purchase. No win-back. The infrastructure is in Mailchimp. The work is finishing it."
                     },
                     {
-                        "number": "04",
                         "title": "Lifecycle That Stops at Onboarding",
                         "text": "First week is dialed. Day 30, 60, 90 is silence. Customer lifetime value drops because the journey ends after the first purchase."
                     },
                     {
-                        "number": "05",
                         "title": "Email That AI Agents Cannot Read",
-                        "text": "Plain-text and structured content rules reach beyond inboxes. AI agents and email clients render structure, not images. Image-heavy and structure-poor email disappears in both."
+                        "text": "Plain-text and structured content rules reach beyond inboxes. AI agents and email clients read structured text and skip images. Image-heavy and structure-poor email disappears in both."
                     }
                 ]
             }
@@ -85,7 +74,7 @@
                 "eyebrow": "The Audit Workshop",
                 "title": "Stop Reacting. <em>Start Auditing.</em>",
                 "paragraphs": [
-                    "Email programs grow in fragments. A new automation here, a campaign there, a subject line tweak when open rates drop. That is reacting, not auditing.",
+                    "Email programs grow in fragments. A new automation here, a campaign there, a subject line tweak when open rates drop. Fragmented fixes aren't an audit.",
                     "The audit workshop walks you through 5 gaps live, on a real anonymized account. You bring your campaigns. We bring the framework. Mailchimp brings the tooling fit."
                 ],
                 "old_way": {
@@ -114,12 +103,12 @@
             "type": "how-it-works",
             "data": {
                 "title": "What You'll Walk Away With",
-                "subtitle": "This is a working session, not a pitch. Here is what you get.",
+                "subtitle": "You'll leave with a completed audit in hand. Here is what you get.",
                 "steps": [
                     {
                         "number": "1",
                         "title": "Live Audit on a Real Account",
-                        "text": "Brent walks through 5 audit gaps on an anonymized commerce site. You see exactly what we look for, where it lives in Mailchimp, and how to fix it."
+                        "text": "Brent walks through 5 audit gaps on an anonymized commerce site. You see what we look for, where it lives in Mailchimp, and how to fix it."
                     },
                     {
                         "number": "2",
@@ -147,12 +136,6 @@
                 "paragraphs": [
                     "Brent Peterson is the owner of Content Cucumber, a human-powered marketing company specializing in commerce content and email programs. Brent hosts the Talk Commerce podcast and writes The Agentic Commerce Guy newsletter on AI in commerce.",
                     "A Mailchimp partner expert co-hosts the workshop. Segmentation, automation, lifecycle. Every audit gap mapped to the platform features that close it."
-                ],
-                "stats": [
-                    { "number": "45", "label": "Minute Workshop" },
-                    { "number": "5", "label": "Audit Gaps Covered" },
-                    { "number": "7", "label": "Day Audit Delivery" },
-                    { "number": "Mailchimp", "label": "Co-Hosted" }
                 ]
             }
         },

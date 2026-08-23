@@ -1,0 +1,126 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Thought Leadership Content for Commerce and SaaS Platforms - Content Cucumber",
+        "meta_description": "Thought leadership content for commerce and SaaS platforms. Whitepapers, reports, original research, case studies, and sales enablement, written by humans and built to get cited.",
+        "slug": "thought-leadership-content"
+    },
+    "form": {
+        "campaign_code": "thought-leadership-content",
+        "header": "Start a conversation",
+        "subtitle": "Tell us what you want to be known for. We will scope the first piece and the plan around it.",
+        "trust_text": "Researched and edited by real people.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "sidebar": {
+        "title": "Become the name your market quotes.",
+        "text": "Tell us what you want to be known for, and we will scope the first piece.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/",
+        "trust_text": "40+ human writers. Researched and edited by real people."
+    },
+    "hero": {
+        "eyebrow": "Thought leadership content",
+        "title": "Thought Leadership Content",
+        "subtitle": "Whitepapers, reports, research, case studies, and sales enablement for commerce platforms, SaaS platforms, and the agencies that serve them. Written by real people who have lived commerce since 1992, and built to get you cited."
+    },
+    "sections": [
+        {
+            "id": "what-it-is",
+            "title": "What thought leadership content means at Content Cucumber",
+            "content": "<p>Thought leadership content is the long-form work that makes a brand the name its market repeats. Whitepapers, flagship reports, original research, case studies, sales enablement, and survey studies. These are the pieces a buyer reads before they ever fill out a form, and the pieces a competitor cannot copy because the research and the story belong to you.</p><p>Content Cucumber is built for commerce and SaaS platforms, with 40+ human writers, 30+ years in the industry, and a flywheel that turns one interview into a month of assets. Short-form keeps you visible, and thought leadership content is what gets you trusted and cited. This page is the hub, and each section below covers one type and links to the work where it gets specific.</p>"
+        },
+        {
+            "id": "whitepapers-reports",
+            "title": "Whitepapers and flagship reports that anchor your authority",
+            "content": "<p>A whitepaper or flagship report is the centerpiece your brand publishes once or twice a year and mines for months. We handle the angle, the research, the interviews, the writing, and the design-ready draft. You get a report your market wants to read and link to, with your name on the cover.</p><p>These are the pieces that earn citations from analysts, get quoted in other people's newsletters, and give your sales team a reason to reach out that does not feel like a pitch. We have written reports on B2B commerce trends, enterprise replatforming, and composable commerce that brands use as their lead anchor.</p>",
+            "link_url": "/b2b-commerce-trends-report/",
+            "link_text": "See a flagship report"
+        },
+        {
+            "id": "original-research",
+            "title": "Original research your competitors cannot copy",
+            "content": "<p>Original research is the fastest way to own a point of view. When the data is yours, every citation points back to you. We design the research question, gather and analyze the data, and write it up so the finding lands and the methodology holds.</p><p>This is the work that turns a brand from a participant into a source. A single original-research piece gives you a headline, a chart other people screenshot, and a claim only you can make.</p>",
+            "link_url": "/composable-commerce-research/",
+            "link_text": "See our research"
+        },
+        {
+            "id": "case-studies",
+            "title": "Case studies your prospects believe",
+            "content": "<p>A good case study is proof a buyer can picture themselves inside. We interview your customer, pull the real numbers, and write the story so the outcome is clear and the path to it is believable. No vague before-and-after, no invented quotes.</p><p>Case studies are the asset your sales team reaches for most and the one most brands never get around to. We make them on a schedule, so your proof keeps pace with your wins.</p>",
+            "link_url": "/services/we-write-case-studies/",
+            "link_text": "See how we write case studies"
+        },
+        {
+            "id": "sales-enablement",
+            "title": "Sales enablement that arms the team in the room",
+            "content": "<p>Deals are often won or lost on what the buyer reads between calls. One-pagers, battlecards, buyer guides, and objection-handling docs that say the right thing in the buyer's language. We write the assets your sales team wishes it had, and we keep them current as the pitch evolves.</p><p>This is content with a direct line to revenue. When the rep sends the right doc at the right moment, the buyer moves, and we build the library that makes that automatic.</p>"
+        },
+        {
+            "id": "survey-studies",
+            "title": "Survey studies, your name on the data",
+            "content": "<p>Ask your market the right question, and the answer becomes content nobody else has. We design the survey, field it, analyze the results, and write the report and the supporting pieces that come out of it. The output is a data story with your name on it and a stack of stats your team can quote for a year.</p><p>One survey feeds a flagship report, a run of social posts, a webinar, and a press angle. We handle the analytics and the writing so the finding is sound and the story is sharp.</p>"
+        },
+        {
+            "id": "ghostwriting",
+            "title": "Ghostwriting that puts your leaders in the conversation",
+            "content": "<p>Reports and research make the brand a source. Ghostwriting makes a person one. Bylined articles, LinkedIn posts, and talks that carry an executive's name and point of view, built from an interview with them.</p><p>The leaders we write for tend to have the opinions and none of the hours. One recorded conversation produces a byline and a month of posts, so the point of view reaches the market on a schedule instead of whenever the calendar allows.</p>",
+            "link_url": "/ghostwriting-services/",
+            "link_text": "See our ghostwriting services"
+        },
+        {
+            "id": "built-for-commerce",
+            "title": "Built for commerce because we have lived it since 1992",
+            "content": "<p>Content Cucumber is led by Brent Peterson, who opened his first retail store in 1992, built his first website in 1993, and built Computer Mega Mall in 1999. He is a five-time Magento Master. We were selling online before most content agencies existed.</p><p>That is why the work reads right. We know what a 2% conversion rate means, we understand the difference between Shopify and Magento, and your reports cite the platforms and numbers your market uses because we have used them ourselves for 30+ years. Your case studies read like they were written by someone who has stood in your customer's warehouse, because we have. Your point of view lands because it comes from inside the industry.</p>",
+            "link_url": "/best-thought-leadership-agencies/",
+            "link_text": "Compare thought leadership agencies"
+        },
+        {
+            "id": "why-humans",
+            "title": "Researched and edited by real people",
+            "content": "<p>Real people means Isaac and Brent. They have interviewed hundreds of merchants, platforms, and solution integrators, so the interview gets to the real story fast. Isaac writes it, and he can make a dense platform migration read like a story you want to finish, then cut it to a single page when a page is all it needs. Brent brings the analytics, pulling the real numbers out of a project so the win is visible on the page.</p><p>Thought leadership content fails the moment it reads like filler. The whole point is to sound like a brand that knows something, so a person carries every piece from the interview through to the final edit. AI stays in the supporting layer, the research pulls and the fact checks.</p><p>Buyers can tell, and so can the analysts and journalists you want citing you. The brands that get quoted in 2026 are the ones whose content reads like a person with a point of view wrote it, because one did.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "What counts as thought leadership content?",
+                "answer": "The long-form, research-backed work that makes your brand a source. Whitepapers, flagship reports, original research, case studies, sales enablement, and survey studies. Anything a buyer trusts and a competitor cannot easily copy."
+            },
+            {
+                "question": "How is Content Cucumber different from a thought leadership agency like Animalz?",
+                "answer": "Agencies like Animalz are built for generic B2B SaaS and lean on AI workflows. We are built for commerce and SaaS platforms, with 40+ human writers and 30+ years inside the industry. Your content cites the platforms, metrics, and buyers your market uses, and every piece is written and edited by people."
+            },
+            {
+                "question": "Is this written by AI?",
+                "answer": "No. Every piece is researched, written, and edited by people. AI shows up in research pulls and fact-checking, never in the draft."
+            },
+            {
+                "question": "How long does a whitepaper or flagship report take?",
+                "answer": "A typical whitepaper or flagship report runs four to six weeks from kickoff to a design-ready draft, depending on the research and the number of interviews."
+            },
+            {
+                "question": "Can you run the survey too, or only write it up?",
+                "answer": "Both. We design the survey, field it, analyze the results, and write the report and the pieces that come out of it."
+            },
+            {
+                "question": "Do you design the report or just write it?",
+                "answer": "We deliver a design-ready draft and can hand off to your designer, or take it through design with our team. Tell us which you need."
+            },
+            {
+                "question": "What does it cost?",
+                "answer": "Thought leadership content is scoped per piece and per program. Tell us what you want to be known for and we will come back with a scoped first piece and a plan."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Build the thought leadership content that makes you the name buyers trust",
+        "text": "Tell us what you want to be known for. We will scope the first piece and the plan around it.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/"
+    }
+}

@@ -1,13 +1,17 @@
 {
     "seo": {
+        "title": "Servicios SEO de marca blanca para agencias - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Contenido SEO de marca blanca, análisis y monitoreo Lighthouse/AEO para agencias. Más de 40 redactores humanos, tu marca, tus clientes. Escala tu oferta de SEO sin contratar.",
         "og_description": "Content Cucumber ofrece servicios SEO de marca blanca para agencias. Creación de contenido SEO, análisis y monitoreo continuo Lighthouse/AEO. Tu marca, tus clientes, nuestro equipo.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "agency-white-label-es",
         "header": "Inicia una Alianza de Marca Blanca",
         "subtitle": "Cuéntanos sobre tu agencia y los servicios SEO que tus clientes necesitan. Te mostramos cómo funciona la alianza.",
-        "trust_text": "Más de 40 redactores. Partner de HubSpot. Más de 30 años en ecommerce. Tu marca, siempre.",
+        "trust_text": "Partner de HubSpot. Tu marca, siempre.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
@@ -22,47 +26,34 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Servicios SEO de Marca Blanca para Agencias",
+                "eyebrow": "Servicios SEO de marca blanca para agencias",
                 "title": "Tu agencia. Tu marca.<br><em>Nuestro equipo SEO tras bambalinas.</em>",
                 "paragraphs": [
                     "Tus clientes necesitan contenido SEO, análisis y monitoreo continuo de rendimiento. Tú necesitas un socio que entregue todo eso bajo tu marca, sin el gasto de contratar redactores, analistas y especialistas SEO.",
-                    "Content Cucumber ofrece servicios SEO de marca blanca para agencias. Más de 40 redactores humanos producen contenido SEO. Nuestra plataforma monitorea puntuaciones Lighthouse, visibilidad AEO y rendimiento orgánico. Tus clientes ven tu marca. Nunca ven la nuestra."
+                    "Content Cucumber ofrece servicios SEO de marca blanca para agencias. Más de 40 redactores humanos producen contenido SEO. Nuestra plataforma monitorea puntuaciones Lighthouse, visibilidad AEO y rendimiento orgánico. Tus clientes ven tu marca en todo lo que entregamos."
                 ]
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "40+", "label": "Redactores Humanos" },
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "Partner de HubSpot" },
-                { "number": "500+", "label": "Episodios de Podcast" },
-                { "number": "30+", "label": "Años en Ecommerce" }
-            ]
-        },
-        {
             "type": "challenges",
             "data": {
-                "title": "¿Por Qué a las Agencias les Cuesta Entregar SEO?",
+                "title": "¿Por qué a las agencias les cuesta entregar SEO?",
                 "subtitle": "Ganas al cliente. Y ahí empieza lo difícil. Estos son los cuatro problemas que impiden a las agencias escalar sus servicios SEO.",
                 "items": [
                     {
-                        "number": "01",
-                        "title": "Calidad de Contenido Inconsistente",
+                        "title": "Calidad de contenido inconsistente",
                         "text": "Los freelancers desaparecen. La calidad varía de un redactor a otro. Tu cliente recibe un artículo excelente un mes y uno mediocre al siguiente. La inconsistencia desgasta la confianza, y la confianza es lo que mantiene vivos los contratos."
                     },
                     {
-                        "number": "02",
-                        "title": "Sin Experiencia SEO Interna",
+                        "title": "Sin experiencia SEO interna",
                         "text": "Eres una agencia de marketing, no un taller de SEO. Contratar un especialista SEO de tiempo completo es caro. Capacitar al equipo actual lleva meses. Mientras tanto, los clientes esperan investigación de palabras clave, auditorías técnicas y contenido que realmente posicione."
                     },
                     {
-                        "number": "03",
-                        "title": "Cuello de Botella para Crecer",
+                        "title": "Cuello de botella para crecer",
                         "text": "Cada nuevo cliente significa más contenido, más reportes, más gestión. Tu equipo ya está al límite. Quieres hacer crecer tu agencia, pero sumar clientes SEO implica sumar personal que todavía no puedes costear."
                     },
                     {
-                        "number": "04",
-                        "title": "Huecos en los Reportes",
+                        "title": "Huecos en los reportes",
                         "text": "Los clientes preguntan por puntuaciones Lighthouse, Core Web Vitals, visibilidad AEO y rankings orgánicos. Tú estás juntando datos de cinco herramientas distintas en una hoja de cálculo. No hay una vista unificada, y los reportes tardan horas en armarse."
                     }
                 ]
@@ -71,23 +62,38 @@
         {
             "type": "services",
             "data": {
-                "title": "Servicios SEO de Marca Blanca que Entregamos",
-                "subtitle": "Tres líneas de servicio que tu agencia puede ofrecer a sus clientes bajo su propia marca. Nosotros nos encargamos de la producción y los reportes. Tú manejas la relación.",
+                "title": "Servicios SEO de marca blanca que entregamos",
+                "subtitle": "Seis líneas de servicio que tu agencia puede ofrecer a sus clientes bajo su propia marca. Nosotros nos encargamos de la producción y los reportes. Tú manejas la relación.",
                 "items": [
                     {
                         "icon": "pen",
-                        "title": "Redacción de Contenido SEO",
+                        "title": "Redacción de contenido SEO",
                         "text": "Artículos de blog, páginas de aterrizaje, descripciones de productos y guías extensas escritas por nuestros más de 40 redactores humanos. Cada pieza está optimizada con palabras clave y adaptada a la voz de marca de tu cliente a través de RequestDesk."
                     },
                     {
                         "icon": "chart",
-                        "title": "Análisis y Reportes SEO",
+                        "title": "Análisis y reportes SEO",
                         "text": "Reportes mensuales de marca blanca con cobertura de tráfico orgánico, rankings de palabras clave, benchmarking competitivo y atribución de conversiones. Tus clientes ven la marca de tu agencia en cada reporte."
                     },
                     {
                         "icon": "zap",
-                        "title": "Monitoreo de SEO Técnico y AEO",
+                        "title": "Monitoreo de SEO técnico y AEO",
                         "text": "Auditorías continuas de Lighthouse, seguimiento de Core Web Vitals y puntuación de AI Engine Optimization. Detectamos problemas técnicos antes de que tus clientes los noten y señalamos oportunidades de mejora."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Producción de casos de éxito",
+                        "text": "Entrevistamos a los clientes de tu cliente y convertimos el resultado en casos de éxito terminados, bajo la marca de tu agencia."
+                    },
+                    {
+                        "icon": "mail",
+                        "title": "Email y copy de ciclo de vida",
+                        "text": "Flujos de bienvenida, secuencias, campañas de reactivación y newsletters, escritos al calendario de tu cliente y entregados bajo tu marca."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Contenido para redes",
+                        "text": "Posts que salen del blog y de los casos de éxito que ya produjimos para ese cliente, para que la cuenta apunte al trabajo en vez de andar por su cuenta."
                     }
                 ]
             }
@@ -95,27 +101,27 @@
         {
             "type": "how-it-works",
             "data": {
-                "title": "¿Cómo Funciona la Alianza?",
+                "title": "¿Cómo funciona la alianza?",
                 "subtitle": "Desde la primera llamada hasta el primer entregable en menos de dos semanas. Cuatro pasos para una alianza SEO de marca blanca totalmente operativa.",
                 "steps": [
                     {
                         "number": "01",
-                        "title": "Llamada de Descubrimiento",
+                        "title": "Llamada de descubrimiento",
                         "text": "Conocemos tu agencia, tus clientes y los servicios SEO que quieres ofrecer. Definimos qué servicios encajan (creación de contenido, análisis, monitoreo, o los tres) y establecemos el acuerdo de marca blanca."
                     },
                     {
                         "number": "02",
-                        "title": "Captura de Voz de Marca",
-                        "text": "Para cada cliente que incorpores, capturamos su voz de marca, tono, terminología y preferencias de contenido en RequestDesk. El contenido de tus clientes suena como ellos, no como una fábrica de contenido."
+                        "title": "Captura de voz de marca",
+                        "text": "Para cada cliente que incorpores, capturamos su voz de marca, tono, terminología y preferencias de contenido en RequestDesk. El contenido de tus clientes suena como ellos."
                     },
                     {
                         "number": "03",
-                        "title": "Producción de Contenido y Evaluación",
+                        "title": "Producción de contenido y evaluación",
                         "text": "Nuestros redactores crean contenido optimizado para SEO. Cada pieza recibe evaluación de rendimiento Lighthouse, verificación de optimización de palabras clave y análisis de visibilidad AEO antes de la entrega. Tú revisas y entregas a tu cliente bajo tu marca."
                     },
                     {
                         "number": "04",
-                        "title": "Reportes y Optimización Continuos",
+                        "title": "Reportes y optimización continuos",
                         "text": "Reportes de análisis mensuales, seguimiento de puntuaciones Lighthouse y monitoreo de visibilidad AEO. Todo con marca blanca y el branding de tu agencia. Señalamos oportunidades y problemas para que puedas anticiparte con tus clientes."
                     }
                 ]
@@ -124,7 +130,7 @@
         {
             "type": "bundles",
             "data": {
-                "title": "Servicios SEO de Marca Blanca",
+                "title": "Servicios SEO de marca blanca",
                 "subtitle": "Tres líneas de servicio que puedes ofrecer a tus clientes bajo tu marca. Combínalos u ofrécelos por separado. Los precios se ajustan por agencia según el volumen de clientes.",
                 "items": [
                     {
@@ -141,7 +147,7 @@
                         ]
                     },
                     {
-                        "name": "Análisis y Reportes SEO",
+                        "name": "Análisis y reportes SEO",
                         "target": "Para agencias que necesitan demostrar ROI a sus clientes. Análisis de tráfico orgánico, reportes de ranking de palabras clave y benchmarking competitivo, todo de marca blanca.",
                         "outcome": "Reportes claros y con tu marca que demuestran el valor del SEO a tus clientes",
                         "measures": "Tráfico orgánico, rankings de palabras clave, atribución de conversiones",
@@ -174,27 +180,27 @@
         {
             "type": "outcomes",
             "data": {
-                "title": "Lo Que Tu Agencia Obtiene",
+                "title": "Lo que tu agencia obtiene",
                 "subtitle": "No solo servicios. Una ventaja competitiva. Esto es lo que las agencias ganan con una alianza SEO de marca blanca.",
                 "items": [
                     {
                         "icon": "users",
-                        "title": "Retención de Clientes",
+                        "title": "Retención de clientes",
                         "text": "Las agencias que entregan resultados SEO consistentes retienen clientes por más tiempo. Se acabó la búsqueda desesperada de freelancers o las disculpas por plazos incumplidos. Tus clientes reciben contenido y reportes confiables cada mes, y se quedan."
                     },
                     {
                         "icon": "growth",
-                        "title": "Crecimiento de Ingresos sin Aumentar Personal",
+                        "title": "Crecimiento de ingresos sin aumentar personal",
                         "text": "Agrega servicios SEO a cada proyecto sin contratar redactores, analistas o especialistas SEO. Tus márgenes crecen porque nuestro equipo escala con tu base de clientes. Diez clientes o cincuenta, la misma alianza."
                     },
                     {
                         "icon": "chart",
-                        "title": "Tiempo para Enfocarte en la Estrategia",
+                        "title": "Tiempo para enfocarte en la estrategia",
                         "text": "Deja de dedicar horas a producción de contenido y elaboración de reportes. Nosotros nos encargamos de la ejecución para que tu equipo se enfoque en la estrategia del cliente, el desarrollo de negocio y el trabajo que realmente hace crecer tu agencia."
                     },
                     {
                         "icon": "search",
-                        "title": "Credibilidad en SEO Técnico",
+                        "title": "Credibilidad en SEO técnico",
                         "text": "Ofrece auditorías Lighthouse, monitoreo de Core Web Vitals y evaluación AEO sin tener que construir la infraestructura. Tus clientes ven a tu agencia como una autoridad en SEO técnico, respaldada por nuestras herramientas y experiencia."
                     }
                 ]
@@ -203,29 +209,23 @@
         {
             "type": "credibility",
             "data": {
-                "eyebrow": "Alianza con Agencias",
+                "eyebrow": "Alianza con agencias",
                 "title": "Construido por gente de ecommerce, para agencias que atienden ecommerce.",
                 "paragraphs": [
                     "Liderado por Brent Peterson con más de 30 años en ecommerce, Content Cucumber ha trabajado con marcas y agencias en Shopify, BigCommerce, Magento y WooCommerce. Conocemos las plataformas en las que operan tus clientes porque nosotros mismos hemos construido sobre ellas.",
-                    "Somos anfitriones de Talk Commerce, un podcast con más de 500 episodios con líderes de ecommerce. Esa red le da a nuestros redactores contexto real de la industria, no consejos genéricos de marketing reciclados de internet.",
+                    "Somos anfitriones de Talk Commerce, un podcast con más de 500 episodios con líderes de ecommerce. Esa red le da a nuestros redactores contexto real de la industria.",
                     "Nuestros socios de agencia ofrecen a sus clientes un stack completo: contenido SEO de Content Cucumber, estrategia de crecimiento de Content Basis y gestión de contenido a través de RequestDesk. Una alianza, tres capacidades, todo bajo tu marca."
-                ],
-                "stats": [
-                    { "number": "30+", "label": "Años en Ecommerce" },
-                    { "number": "40+", "label": "Redactores Humanos" },
-                    { "number": "500+", "label": "Episodios de Podcast" },
-                    { "number": "100%", "label": "Marca Blanca" }
                 ]
             }
         },
         {
             "type": "faq",
             "data": {
-                "title": "Preguntas que Hacen las Agencias",
+                "title": "Preguntas que hacen las agencias",
                 "items": [
                     {
                         "question": "\"¿Cómo funciona la marca blanca?\"",
-                        "answer": "Todo lo que producimos sale bajo la marca de tu agencia. Los reportes llevan tu logo. El contenido se entrega a través de tu proceso. Tus clientes nunca ven el nombre de Content Cucumber. Somos invisibles por diseño. Tú te llevas el crédito, nosotros hacemos el trabajo."
+                        "answer": "Todo lo que producimos sale bajo la marca de tu agencia. Los reportes llevan tu logo. El contenido se entrega a través de tu proceso. Tus clientes nunca ven el nombre de Content Cucumber. Somos invisibles por diseño. Tú te llevas el crédito por el trabajo que hacemos."
                     },
                     {
                         "question": "\"¿Cuál es el tiempo de entrega típico?\"",
@@ -245,7 +245,7 @@
                     },
                     {
                         "question": "\"¿En qué se diferencia de contratar freelancers?\"",
-                        "answer": "Los freelancers te dan una persona. Nosotros te damos un sistema. La voz de marca se captura y gestiona en RequestDesk para que el contenido sea consistente sin importar qué redactor lo produzca. La optimización SEO, evaluación Lighthouse y análisis AEO se ejecutan de forma automática. No gestionas redactores. Gestionas una alianza."
+                        "answer": "Nosotros te damos un sistema completo, no solo un freelancer. La voz de marca se captura y gestiona en RequestDesk para que el contenido sea consistente sin importar qué redactor lo produzca. La optimización SEO, evaluación Lighthouse y análisis AEO se ejecutan de forma automática. En lugar de gestionar redactores, gestionas una alianza."
                     },
                     {
                         "question": "\"¿Podemos revender servicios por separado o necesitamos los tres?\"",
@@ -261,7 +261,7 @@
         {
             "type": "ecosystem",
             "data": {
-                "title": "El Stack Completo para Tus Clientes",
+                "title": "El stack completo para tus clientes",
                 "subtitle": "Tres marcas, una alianza. Ofrece a tus clientes contenido, estrategia y plataforma bajo el nombre de tu agencia.",
                 "brands": [
                     {

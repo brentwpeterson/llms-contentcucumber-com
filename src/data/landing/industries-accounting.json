@@ -1,0 +1,189 @@
+{
+    "seo": {
+        "title": "Accounting and Bookkeeping Content Writing Services",
+        "meta_description": "Your buyers search January through April, the months you cannot write. We write bookkeeping and accounting content in the quiet season so it ranks before yours starts.",
+        "og_description": "Your buyers search January through April, the months you cannot write. We write bookkeeping and accounting content in the quiet season so it ranks before yours starts.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and what you want to be found for. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-accounting"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your firm."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/accounting-hero.webp",
+                "eyebrow": "Accounting and bookkeeping",
+                "title": "Get found in the months you have <em>no time to write</em>",
+                "paragraphs": [
+                    "Your prospects search hardest between January and April. That is the same stretch you are working sixty-hour weeks on returns, which makes it the one season you need to be visible and the one season you cannot write a word.",
+                    "We write it in the quiet months so it is already ranking when the season opens, and we keep writing through the season while you are heads down."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "The bind every firm is in",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "A bookkeeping or accounting firm has a marketing calendar that is upside down. Demand peaks on a date set by the government, not by you, and the work peaks on the same date. Whoever is going to write the content is the person closing books.",
+                            "So the blog gets built in a slow week, abandoned in a busy one, and the firm arrives at filing season with four posts from the same week two winters ago. By the time there is breathing room to write, the searches have already been answered by somebody else.",
+                            "Ranking takes months, which means the page that earns you a client in March had to be written and indexed the previous autumn. Does the work that has to happen in September ever survive a September that is already full?"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What goes wrong when a generalist writes it",
+                "subtitle": "A typo is embarrassing, but the failures in this field are the kind a partner has to answer for.",
+                "items": [
+                    {
+                        "image": "industries-assets/accounting-c1.webp",
+                        "title": "Marketing that reads as advice",
+                        "text": "A post that tells a reader what to do with their own filing has crossed out of marketing into something your firm may have to stand behind, and a writer who knows the field works to that line every time, staying on the safe side of it.",
+                        "text2": "The reader who catches it is the one you most want as a client, because a controller reading for competence notices the moment a page starts telling them what to do, and the firm behind it stops reading as a peer."
+                    },
+                    {
+                        "image": "industries-assets/accounting-c2.webp",
+                        "title": "Figures that went stale without a flag",
+                        "text": "Deadlines shift, thresholds get indexed, and a post that was right when you published it is now wrong in a way that reads as careless. A vertical writer knows which numbers move, dates them in the copy, and flags them for the next review.",
+                        "text2": "The cost is rarely one page. A firm publishing steadily accumulates dozens of them, and by the time somebody notices, fixing it has become a project with its own budget."
+                    },
+                    {
+                        "image": "industries-assets/accounting-c3.webp",
+                        "title": "Attest and advisory blurred together",
+                        "text": "The boundary between attest work and advisory is a matter your independence rules already have an opinion about, so copy that markets across it creates a problem before anyone reads it.",
+                        "text2": "It shows up in small ways, a services page that lists both with no line between them, or a case story that reads as advisory work for an attest client, and neither is what you want a peer reviewer finding first."
+                    },
+                    {
+                        "image": "industries-assets/accounting-c4.webp",
+                        "title": "Copy too vague to be cited",
+                        "text": "Hedged, sourceless writing does not get quoted by an answer engine, and it does not earn a buyer's trust either, so it fails twice without saying a word, and the firm reads flat traffic as weak demand when the content was the weak part.",
+                        "text2": "Specificity is the fix and it is cheaper than it sounds, because naming the rule, dating the figure, and saying who it applies to takes one sentence, and that is the sentence an answer engine quotes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "What gets written while you close books",
+                "subtitle": "The point is not volume. It is that the publishing does not stop in the months you disappear.",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "The bookkeeping pages, in the language people search",
+                        "text": "Buyers type bookkeeping far more often than they type accounting, and most firm sites never use the word once, so the service pages get written the way the search reads."
+                    },
+                    {
+                        "title": "Catch-up and clean-up content",
+                        "text": "Unfiled months, a broken file somebody else built, and personal spending tangled up with business, because the highest-intent reader is the one who already knows something is wrong."
+                    },
+                    {
+                        "title": "The seasonal set, written in the off-season",
+                        "text": "Quarterly estimates, year-end close, and what to do in January that makes April easier, published weeks ahead of the search rather than during it."
+                    },
+                    {
+                        "title": "Niche pages that are narrower and winnable",
+                        "text": "Bookkeeping for contractors, for restaurants, and for ecommerce sellers, each one easier to rank for than the term everybody chases."
+                    },
+                    {
+                        "title": "The advice line, held",
+                        "text": "Copy that explains the issue without becoming guidance a reader could act on, which is the line where a generalist gets a firm into trouble."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found in AI search because an expert wrote it",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, and vague copy does not clear that bar.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a buyer can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote",
+                        "text": "Named rules, stated thresholds, and dated figures, because a passage with nothing concrete in it gives a model nothing worth citing."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way your buyer asks",
+                        "text": "Firm owners and practice managers search in their own words, and a heading that matches the question is the one that gets surfaced for it."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section makes sense on its own, so a citation lands on something that still reads correctly out of context."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Do you offer accounting copywriting as well as content writing?",
+                        "answer": "Yes, and the two jobs are different. Content writing for accountants is the explanatory work that earns search traffic, covering blog posts, guides, and the questions your prospects type before they know your firm exists. Accounting copywriting is the persuasion work on your homepage, service pages, and email, where someone who already found you decides whether to call. Firms that grow through search need both, and we write both."
+                    },
+                    {
+                        "question": "Do you work with CPAs and bookkeeping firms, or only larger practices?",
+                        "answer": "Both. A solo CPA and a multi-partner practice need the same thing from a content writer, which is someone who will not confuse an EA with a CPA or get accrual treatment wrong. What changes is volume and cadence, not the vetting. Bookkeeping firms tend to want operational content year-round while tax practices lean on the filing calendar."
+                    },
+                    {
+                        "question": "Why do you keep saying bookkeeping instead of accounting?",
+                        "answer": "Because that is what people type. Search demand for bookkeeping content writing runs well ahead of the accounting phrasing, and most firm sites never use the word once. Using it is close to free and almost nobody does it."
+                    },
+                    {
+                        "question": "Can you write anything useful during filing season?",
+                        "answer": "Yes, and that is the whole point of the engagement, because the heavy work happens in the quiet months so the pages are already indexed, and publishing then continues through the season without needing anything from you."
+                    },
+                    {
+                        "question": "Will the writing read as tax advice?",
+                        "answer": "No, because we write so a reader understands the issue and still has a reason to call you, which keeps it short of guidance somebody could act on, and anything client-specific belongs in your engagement letter rather than on a page."
+                    },
+                    {
+                        "question": "Do you understand attest independence?",
+                        "answer": "We keep advisory and assurance language apart, because copy that blurs them creates a problem no amount of traffic is worth. When a claim is close to the line we ask before publishing rather than after."
+                    },
+                    {
+                        "question": "How long before any of this shows up?",
+                        "answer": "Months rather than weeks, which is why the writing has to start in the off-season, since a page written in March is competing for a search that was already answered in February."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Be found in April by writing in September",
+                "text": "Tell us what you publish and which services you want found, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "seo": {
+        "title": "Law Firm Content Writing That Does Not Cost You Billable Hours",
+        "meta_description": "The lawyer who could write the article is the one billing at the highest rate. Writers who know bar advertising rules, unauthorized practice, and outcome language.",
+        "og_description": "The lawyer who could write the article is the one billing at the highest rate. Writers who know bar advertising rules, unauthorized practice, and outcome language.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and what you want to be found for. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-legal"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your work and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/legal-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Law firm content that does not cost you <em>billable hours</em>",
+                "paragraphs": [
+                    "The lawyer at your firm who understands a practice area well enough to write about it is the same lawyer billing at the highest rate, so the article that would bring in the next client keeps losing to the matter already on the clock. The blog stalls because the person who can write it has a better use of the hour, and no amount of enthusiasm for content marketing changes that arithmetic.",
+                    "Handing it to a generalist trades one problem for another, since a page about a personal injury claim, a custody dispute, or an estate plan has to inform without advising, describe outcomes without promising them, and clear the bar advertising rules of every state it reaches. We write to those constraints, a subject matter expert stands behind the substance whether that is someone we bring in or a lawyer at your firm, and nothing publishes until your firm approves it."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What a partner ends up fixing",
+                "subtitle": "Each of these reads as ordinary copy on the way out the door, and each one lands back on the desk of the person whose hour costs the most.",
+                "items": [
+                    {
+                        "image": "industries-assets/legal-c1.webp",
+                        "title": "Copy that reads as legal advice",
+                        "text": "A post that tells a reader what to do about their own situation edges toward unauthorized practice, and toward an attorney-client relationship nobody meant to form, so a writer who knows the field informs and stops there.",
+                        "text2": "The line sits between informing and advising, and it is not a question of tone, because a reader who acts on what a page told them to do has a view about what that page was."
+                    },
+                    {
+                        "image": "industries-assets/legal-c2.webp",
+                        "title": "Outcome language that becomes a promise",
+                        "text": "Results, success rates, and case histories are the most persuasive material a firm has, and the most heavily governed, and phrasing that implies a guarantee is the most common bar advertising problem there is.",
+                        "text2": "The fix is not silence about results, since a firm that cannot describe its work has nothing to sell, but description written to the outcome rules with the disclaimer beside the claim."
+                    },
+                    {
+                        "image": "industries-assets/legal-c3.webp",
+                        "title": "One page, and the rules of every state it reaches",
+                        "text": "Advertising rules differ by state, so a page written once and published everywhere ends up written to the loosest rule its author had in mind.",
+                        "text2": "A firm licensed in several states inherits the strictest rule among them, and writing to it once is cheaper than working out which page broke which rule after a complaint arrives."
+                    },
+                    {
+                        "image": "industries-assets/legal-c4.webp",
+                        "title": "Missing the disclaimers nobody reads",
+                        "text": "Required disclosure belongs where the claim is made, which is a long way from the footer most sites bury it in.",
+                        "text2": "Disclosure beside the claim does not cost you the claim, and it is the version that survives a bar review, which is the only reading that decides anything."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What a legal writer knows before the brief arrives",
+                "subtitle": "A generalist looks these up once the draft is already due, and asks a lawyer, which is the billable hour this was supposed to save.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "State bar advertising rules",
+                        "text": "Jurisdiction-specific rules on claims, comparisons, and how a firm may describe its own results."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "The line at unauthorized practice",
+                        "text": "Writing that informs a reader about the law without advising them about their own matter."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Privilege and confidentiality in examples",
+                        "text": "Case examples written so no client is identifiable and no confidence is used as marketing material."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Required disclaimers, placed correctly",
+                        "text": "Disclosure carried next to the claim it qualifies."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Jurisdiction on every page",
+                        "text": "Advertising rules differ by state, and a firm publishing in several writes to the strictest one."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "What a client is allowed to say about you",
+                        "text": "Which client quotes may appear on your site, what disclaimer has to sit beside them, and which states forbid the format entirely."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing in month six already carries your positions and your language, and you will know who is writing for you before the engagement starts. We do not present writers as lawyers, which is exactly why a subject matter expert stands behind the work, either one we source for the practice area or an attorney at your firm."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "Restraint is a choice a person makes",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "A client reads your firm’s page during the worst week of their life, frightened or angry or ashamed, deciding whether you are someone they can tell the truth to. Every line on that page is doing emotional work, whether it was written that way or not.",
+                            "Our writers make it deliberate, slowing down where a reader is scared, cutting the sentence that reads as a promise even when it would comfort someone, and letting a firm sound like people rather than a list of practice areas. In this field the feeling mostly shows up as restraint. Restraint is the hardest."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found by someone searching for a lawyer",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, and a page hedged into vagueness by compliance nerves gives them nothing to lift.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes before the disclaimer",
+                        "text": "A page that opens with three paragraphs of hedging gets skipped by the reader and skipped by the engine, so the answer goes first and the disclaimer sits where disclaimers belong."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote, careful enough to publish",
+                        "text": "Statute names, filing deadlines, and the steps in a process are concrete without being advice, which is the material an answer engine can lift and a bar committee has no argument with."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way a client asks, not the way a lawyer writes",
+                        "text": "Somebody types how long do I have to file or what happens at a custody hearing, and the heading that matches those words is the one that surfaces."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section holds up out of context, which matters more here because a citation pulled from your page will be read without the disclaimer that sat two screens below it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your voice, and how the work ships",
+                "subtitle": "An expert informs every piece, a writer writes it, and your firm approves it.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "Your recent published work, your brand guide if you have one, and the companies you get compared to, all of which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We choose what gets written",
+                        "text": "Built from the searches you already surface for and the questions a client types before calling a firm, so the calendar belongs to you."
+                    },
+                    {
+                        "number": "03",
+                        "title": "We name the subject matter expert",
+                        "text": "Either someone we bring in for the practice area or an attorney at your firm, agreed before the writing starts, so you always know whose expertise sits behind a page."
+                    },
+                    {
+                        "number": "04",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you month over month, so your positions carry forward from one brief to the next."
+                    },
+                    {
+                        "number": "05",
+                        "title": "An editor reads it, then your firm approves it",
+                        "text": "It arrives on your schedule for the partner read, because in this field the last word belongs to the firm."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Are your writers lawyers?",
+                        "answer": "No, and we will not present them as such. They are writers experienced in legal content who know where the advice line sits. The legal expertise comes from a subject matter expert, either one we bring in for the practice area or an attorney at your firm, and your firm approves everything before it publishes."
+                    },
+                    {
+                        "question": "Who signs off before anything publishes?",
+                        "answer": "Your firm does, always. A subject matter expert informs the work and an editor reads every piece, and the final approval is still yours. Our job is to hand you copy already written to the rules, so the pass is an approval and not a rewrite."
+                    },
+                    {
+                        "question": "What if nobody at the firm has time to be the expert?",
+                        "answer": "Then we source a subject matter expert for the practice area and tell you who it is before the writing starts. Your firm still holds the final approval, because the bar rules follow your name and not ours."
+                    },
+                    {
+                        "question": "Can you write about case results?",
+                        "answer": "Yes, written to your jurisdiction's rules on outcome claims, with the required disclaimer sitting beside the claim instead of away from it."
+                    },
+                    {
+                        "question": "Do you handle multiple states?",
+                        "answer": "Yes. Where advertising rules differ we write to the stricter rule, so one page holds up everywhere you publish it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand the writing to people who know the line",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

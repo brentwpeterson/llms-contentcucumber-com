@@ -1,5 +1,6 @@
 {
     "form": {
+        "campaign_code": "cms-development",
         "header": "Let's build the right CMS for your business",
         "subtitle": "",
         "trust_text": "HubSpot Solutions Partner. WordPress, Astro, ButterCMS experts.",
@@ -8,6 +9,8 @@
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "CMS Development Services - HubSpot, WordPress, Astro, ButterCMS - Content Cucumber",
         "meta_description": "CMS development on HubSpot, WordPress, Astro, and ButterCMS. Custom themes, modules, integrations, and migrations. Built by engineers who know the platforms cold.",
         "slug": "cms-development"
@@ -63,7 +66,7 @@
                     {
                         "icon": "settings",
                         "title": "CMS Implementation",
-                        "text": "Full platform setup, configuration, and migration from your existing systems. We handle the hard parts. Your team handles the wins."
+                        "text": "Full platform setup, configuration, and migration from your existing systems. We handle setup, migration, and the messy edge cases so your team can focus on growth."
                     },
                     {
                         "icon": "pen",
@@ -86,7 +89,7 @@
                         "text": "Speed improvements, caching strategies, and scalability. Most sites are slower than they need to be. We measure, fix, and prove the gains."
                     },
                     {
-                        "icon": "chat",
+                        "icon": "megaphone",
                         "title": "Ongoing Support",
                         "text": "Maintenance, updates, security patches, and technical support. Monthly retainers available so the site stays healthy after launch."
                     }

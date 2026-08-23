@@ -1,0 +1,225 @@
+{
+    "seo": {
+        "twitter_card": "summary_large_image",
+        "title": "ICP Discovery - Find Out Who Actually Buys From You | Content Cucumber",
+        "meta_description": "Most ICP docs are written backwards. We start with what you actually sell, walk it back to who actually buys, validate against your real customers, and put it to work in your CRM. Founder-led, scoped to your business.",
+        "og_description": "Stop marketing to a customer who doesn't exist. We build your ideal customer profile from your real offers and real buyers, then wire it into your CRM. Book a scoping call.",
+        "og_type": "website"
+    },
+    "form": {
+        "header": "Book Your Scoping Call",
+        "subtitle": "Tell us about your business and we'll map the engagement to your situation. No fixed package, no canned price.",
+        "trust_text": "Strategic engagement, founder-led. We scope every engagement to your customer base and CRM.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "icp-discovery"
+    },
+    "thankyou": {
+        "title": "Thanks. We'll be in touch to book your call.",
+        "text": "Keep an eye on your inbox. We'll reach out to set up your scoping call and tell you what to bring."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "ICP Discovery",
+                "title": "Stop Marketing to a <em>Customer Who Doesn't Exist</em>",
+                "paragraphs": [
+                    "Most ICP docs are written backwards. Someone lists who they wish bought from them, then markets to a fiction. We reverse the order: we start with what you actually sell, walk it back to who actually buys, validate against your real customers, and put it to work in your CRM.",
+                    "The result is a customer profile your team can brief writers, target ads, and build pipeline against, because it came from your data instead of a guess."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Why Your ICP Doc Isn't Working",
+                "subtitle": "The profile most teams carry around was built backwards. Here is what that costs you.",
+                "items": [
+                    {
+                        "title": "It Was Written Backwards",
+                        "text": "Someone listed who they wished bought, not who actually does. The profile targets a fiction, so every channel downstream chases the wrong room."
+                    },
+                    {
+                        "title": "Briefs Fall Apart",
+                        "text": "Your team can't say the difference between Customer A and Customer B in one sentence, so content gets made 'good' instead of made for someone."
+                    },
+                    {
+                        "title": "Paid Spend Leaks",
+                        "text": "Ads run against a persona nobody validated. Budget goes to clicks that never convert because the targeting never matched a real buyer."
+                    },
+                    {
+                        "title": "Wins Don't Match Messaging",
+                        "text": "The deals that close cluster around a customer type your marketing doesn't reflect. The case studies don't match the people on the buyer side of the table."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "The Reversal",
+                "title": "ICPs Built From Your Actual Buyers",
+                "paragraphs": [
+                    "An ICP is only useful if it came from the truth about your business. We work each offer backwards to the buyer, then test every profile against the customers you already have.",
+                    "If your current avatars survive the data, we keep them. If they collapse, split, or shift, we fix them and update your planning docs to match."
+                ],
+                "old_way": {
+                    "heading": "The Backwards ICP",
+                    "items": [
+                        "Start with who you wish bought from you",
+                        "Write personas in a vacuum, never validated",
+                        "Tag nothing in the CRM, so it can't be measured",
+                        "Brief writers and ads against a guess"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Built From Your Data",
+                    "items": [
+                        "Start with what you actually sell and to whom",
+                        "Validate every profile against real customers",
+                        "Wire each ICP into a CRM signal you can track",
+                        "Brief writers and ads against an evidenced buyer"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "The Six Stages",
+                "subtitle": "A structured path from what you sell to ICPs your CRM can track.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "Offer Inventory",
+                        "text": "We document every offer you sell, formal or informal, from your website, your CRM, and a working session with you."
+                    },
+                    {
+                        "number": "2",
+                        "title": "Buyer Mapping",
+                        "text": "For each offer, we identify who actually bought the last few deals. Role, stage, industry, trigger, channel. By name, not in the abstract."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Channels and Acquisition",
+                        "text": "Where each buyer came from, what proof they needed, how long the sale took, and which objections showed up."
+                    },
+                    {
+                        "number": "4",
+                        "title": "Tier Logic",
+                        "text": "What concretely separates your service tiers, and which offers belong on which tier."
+                    },
+                    {
+                        "number": "5",
+                        "title": "Validation",
+                        "text": "We map every active customer to an offer, buyer, channel, and tier, then find the gaps: customers who fit no profile, profiles with no customers."
+                    },
+                    {
+                        "number": "6",
+                        "title": "Define the ICPs",
+                        "text": "We cluster validated buyers into 3-5 ICPs, each with a name, defining attributes, target value, and a CRM tagging signal."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What You Walk Away With",
+                "subtitle": "Four deliverables your team can act on the day the engagement ends.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "Your Customer Profiles",
+                        "text": "A one-pager per ICP: who they are, what they buy, where they come from, what triggers them, and what they are worth."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "CRM Tagging Spec",
+                        "text": "The exact filter rules to auto-set an ICP property in HubSpot or Salesforce. We hand off the spec, and can build it for you."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Customer-Base Audit",
+                        "text": "Every current customer mapped to the defined ICPs, with gap analysis and the profitable-but-wrong-fit clients eating your margin."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Strategy Doc Update",
+                        "text": "An updated Target Market section your leadership can drop straight into the V/TO, OKRs, or whatever planning artifact you run."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What Changes in 90 Days",
+                "subtitle": "The deliverable is operational clarity that makes execution measurable, not a lead-volume promise we can't control.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "See Your Pipeline by ICP",
+                        "text": "A CRM dashboard that shows what percent of pipeline comes from each ICP, so you know which profile is actually paying the bills."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Brief Anyone in One Sentence",
+                        "text": "Hand a writer or agency 'this is for ICP #2, here is what they care about' instead of 'make it good.'"
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Spot the Content Gaps",
+                        "text": "Know exactly which assets you are missing for each ICP, instead of producing more of what you already have."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Stop Funding the Wrong Rooms",
+                        "text": "Point paid spend and content at evidenced buyers, and cut the targeting that never matched a real customer."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "Do you promise more leads?",
+                        "answer": "No. Lead volume is downstream of execution we don't control. We promise the operational clarity that makes execution measurable: tagged contacts, pipeline by ICP, and briefs your team can act on."
+                    },
+                    {
+                        "question": "What does it cost?",
+                        "answer": "There is no fixed price, because no two engagements are the same. We scope the engagement to your customer base and CRM on a call, then quote it. It is a strategic, founder-led engagement, not a package you check out."
+                    },
+                    {
+                        "question": "How long does it take?",
+                        "answer": "Four to six weeks, structured around a handful of working sessions, plus a check-in 30 days after the CRM workflow runs."
+                    },
+                    {
+                        "question": "Who needs to be involved on our side?",
+                        "answer": "A founder or marketing leader who can sit in the working sessions. This is not a hands-off audit. The ICPs are only as good as the truth you bring to the table."
+                    },
+                    {
+                        "question": "What do we need to qualify?",
+                        "answer": "A real product or service people have paid for, at least 10 paying customers to validate against, and a CRM that can hold a custom property. Pre-product companies and pure consumer DTC are a different framework."
+                    },
+                    {
+                        "question": "Do you build the HubSpot workflow too?",
+                        "answer": "We hand off the tagging spec by default. If you want us to build the workflow in HubSpot or Salesforce, that is an add-on we scope with the engagement."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Find Out Who Actually Buys From You",
+                "text": "Book a scoping call. We'll look at your offers, your customers, and your CRM, and map the engagement to your situation. No package, no canned price, just a conversation about your real buyers."
+            }
+        }
+    ]
+}

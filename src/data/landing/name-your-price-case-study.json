@@ -2,12 +2,15 @@
     "no_nav": true,
     "noindex": true,
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Name Your Price for a Case Study | Content Cucumber",
         "meta_description": "Pay what works for you. We write your case study at any budget level so you can see what real customer storytelling does for your pipeline.",
         "og_description": "Standard rate is $1,500. Name your price. Get a real Content Cucumber case study that shows what your customer storytelling can do.",
         "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
     },
     "form": {
+        "campaign_code": "name-your-price-case-study",
         "header": "Name Your Price",
         "portal_id": "39487190",
         "form_id": "d980b539-219e-46d6-a456-b59cab4f7a4c",
@@ -28,7 +31,7 @@
                 "subtitle": "Our standard case study runs $1,500. We're opening this work to anyone, at any price. Bring us the story you want told. We're not pushing a template or a script. You shape the angle, we listen, and we write a case study that earns its keep.",
                 "bullets": [
                     "<strong>One full case study, written by a human writer.</strong> 800 to 1,200 words on the customer story you choose.",
-                    "<strong>Hard numbers included.</strong> We pull the metrics that matter from your customer's results. Adjectives don't carry case studies. Numbers do.",
+                    "<strong>Hard numbers included.</strong> We pull the metrics that matter from your customer's results. Case studies are carried by hard numbers.",
                     "<strong>A quote spreadsheet from the interview.</strong> Every usable line, captured and tagged. Reuse it on social, in decks, in ads, anywhere your team needs proof.",
                     "<strong>We interview anyone you point us to.</strong> Customer, partner, or someone on your team. Customer interviews land best, but the choice is yours. 30-minute call, recorded and transcribed.",
                     "<strong>11 rounds of revisions.</strong> Because 11 is one better than 10. We don't stop until you like it.",
@@ -60,7 +63,7 @@
             "type": "arguments",
             "data": {
                 "eyebrow": "Why a case study now",
-                "heading": "Cold outreach is cooling. Stories still work.",
+                "heading": "Cold outreach keeps cooling while buyers still read stories.",
                 "items": [
                     {
                         "title": "Buyers ignore pitches. They read stories about people like them.",
@@ -72,7 +75,7 @@
                     },
                     {
                         "title": "Sales loses deals at the proof stage.",
-                        "body": "The question that closes or kills a deal is, do you have a customer like me? Without a case study, the answer is trust us. With one, it is a link."
+                        "body": "The question that closes or kills a deal is, do you have a customer like me? A case study turns 'trust us' into a link a buyer can read for themselves."
                     },
                     {
                         "title": "One interview gives you five assets.",

@@ -1,0 +1,270 @@
+{
+    "seo": {
+        "title": "Human Editing for AI Content - Content Cucumber",
+        "meta_description": "You generated the draft. A human editor makes it worth publishing. Editing for AI-written content, done by people who write for a living.",
+        "og_description": "You generated the draft. A human editor makes it worth publishing.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Send us a page you generated",
+        "subtitle": "We will edit it and send it back so you can see the difference before you decide anything.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "ai-content-editing"
+    },
+    "thankyou": {
+        "title": "Send the page over.",
+        "text": "We will read what you already publish before we reply, so the first conversation is about your content and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Human editing for AI content",
+                "title": "<span class=\"cc-hero-l1\">You generated the draft.</span><br><span class=\"cc-hero-l2\">Now it needs <em>a person</em></span>",
+                "paragraphs": [
+                    "A model will give you a clean page, and it will give everyone else the same one. The sentences restate each other in different words, the same few constructions carry every paragraph, and none of it is wrong, which is what makes it hard to argue with and easy to skip.",
+                    "We edit AI-written content the way we write it. A human editor cuts the padding and the borrowed phrasing, then puts in a position worth holding, a detail nobody else has, and a sentence somebody would quote."
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "What is human editing for AI content?",
+                "items": [
+                    {
+                        "label": "What we do",
+                        "value": "You send content a model generated. A human editor rewrites it so it carries a position, real specifics, and your voice, and so an answer engine has a reason to quote it. People do the editing, so there is nothing to install and no prompt pack to learn."
+                    },
+                    {
+                        "label": "Best for",
+                        "value": "Teams already publishing AI-generated content who can see it is not earning anything. Marketing leads producing more pages than one person can read. Companies whose library grew fast and reads like everyone else's."
+                    },
+                    {
+                        "label": "Not for",
+                        "value": "Anyone looking for software to edit with. A tool that cleans up prose automatically is a different product, and we would rather tell you now than waste your time."
+                    },
+                    {
+                        "label": "Next step",
+                        "value": "Send one page you generated. The edit comes back with a note on what changed and why."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What the edit covers",
+                "subtitle": "Every pass does all six. We do not sell them separately because they do not work separately.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "A position on the page",
+                        "text": "One claim the piece commits to, and it comes from you, so we ask when we do not have it."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Structure an engine can lift",
+                        "text": "The answer at the top of each section, self-contained passages, and headings that track the question somebody asked."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Claims get checked",
+                        "text": "Generated content states things with confidence whether or not they are true, so anything checkable gets checked."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Your voice on the page",
+                        "text": "We read your published work first and edit toward how you already sound, so the library holds together."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "A title that tracks the question",
+                        "text": "Headline and meta rewritten toward the question somebody types."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "A read across the library",
+                        "text": "We check the page against the rest of your site so you stop publishing one argument several times over, with every version chasing the same query."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What the edit is fixing",
+                "subtitle": "The problems in generated content are rarely errors. That is what makes them hard to see.",
+                "items": [
+                    {
+                        "title": "It has no position",
+                        "text": "A model produces the balanced summary of what has been thought, because it has nothing at stake in being wrong, and editing puts a claim on the page that somebody would argue with."
+                    },
+                    {
+                        "title": "It is new to you and to nobody else",
+                        "text": "You had not seen that output before, so it read as something new, and it came from everyone, which is why citation goes somewhere else."
+                    },
+                    {
+                        "title": "It hedges where it needs to commit",
+                        "text": "Can help you. May improve. Often considered. An engine cannot attribute a claim you never made, so the hedges get replaced with something you will stand behind."
+                    },
+                    {
+                        "title": "It carries the tells",
+                        "text": "The two-beat reversal, the sentence that announces its own importance, the inflated descriptor standing in for a name. Readers who see enough of these recognize the shape."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What changes when a person edits it",
+                "subtitle": "The page looks about the same, and what it does changes.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "It becomes quotable",
+                        "text": "Self-contained passages that hold up when an engine lifts one off the page, which is the shape that gets cited."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "It sounds like you",
+                        "text": "Edited toward the voice already on your site, so the page sounds like the rest of what you publish."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "It says something checkable",
+                        "text": "Claims with support attached, so a reader has a reason to believe it and an engine has something to attribute."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "It stops competing with itself",
+                        "text": "A library edited as a set stops repeating one argument across page after page, each one chasing the same query."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "who-its-for",
+            "data": {
+                "title": "Whether this is the right thing to buy",
+                "subtitle": "The wrong customer for this service is easy to describe.",
+                "fits": [
+                    {
+                        "text": "You are publishing AI-generated content and it is not earning anything"
+                    },
+                    {
+                        "text": "You produce more pages than one person can read"
+                    },
+                    {
+                        "text": "Your content reads competently and sounds like your competitors"
+                    },
+                    {
+                        "text": "You want a human name attached to what goes out under yours"
+                    },
+                    {
+                        "text": "You have opinions about your field and no time to write them down"
+                    },
+                    {
+                        "text": "You would rather publish less and have it count"
+                    }
+                ],
+                "not_fits": [
+                    {
+                        "text": "You want software that edits automatically"
+                    },
+                    {
+                        "text": "You are looking for prompts that make ChatGPT write better"
+                    },
+                    {
+                        "text": "Volume is the goal and quality is a nice-to-have"
+                    },
+                    {
+                        "text": "Nobody at your company has a view worth putting on the page"
+                    },
+                    {
+                        "text": "You need it cheaper than a model, which nothing staffed by people will be"
+                    },
+                    {
+                        "text": "You are happy with what you are publishing"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How the editing works",
+                "subtitle": "Four steps, and you are involved in the second one.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Send us what you generated",
+                        "text": "One page or a library. We read what you already publish alongside it so the edit moves toward your voice rather than ours."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We ask you what you think",
+                        "text": "Every piece needs one position, and the position has to be yours, so we ask a short question and write your answer into the page."
+                    },
+                    {
+                        "number": "03",
+                        "title": "An editor rewrites it",
+                        "text": "Position, structure, claims, voice. The same pass every time, done by a person who writes for a living."
+                    },
+                    {
+                        "number": "04",
+                        "title": "You get it back with the reasoning",
+                        "text": "The edited page plus what changed and why, so your team learns the pattern instead of sending us the same problem next month."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Is this a tool or a service?",
+                        "answer": "A service. People do the editing. If you are looking for software that cleans up AI prose automatically, this is the wrong page and we would rather say so than sell you something else."
+                    },
+                    {
+                        "question": "Do you use AI in the editing?",
+                        "answer": "For research and checking, yes. For the writing, no. Looking backward through what already exists is what a model is good at, and that is where we point it."
+                    },
+                    {
+                        "question": "Why can a model not edit its own output?",
+                        "answer": "It can fix grammar and tighten sentences, and it cannot supply a position it does not hold or a detail it has never encountered, which are the two things missing from the draft."
+                    },
+                    {
+                        "question": "What if we do not have a strong opinion on the topic?",
+                        "answer": "Then we ask questions until one turns up. In our experience the opinion is usually there and has never been written down, which is a different problem from not having one."
+                    },
+                    {
+                        "question": "Can you edit at volume?",
+                        "answer": "Yes, and we will tell you if volume is the wrong answer for your situation, because fewer pages that say something tend to outperform a big library that says nothing."
+                    },
+                    {
+                        "question": "How do we start?",
+                        "answer": "Send one page you generated. There is nothing to sign before you see the edit."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Send us one page you generated",
+                "text": "We will edit it and send it back so you can see the difference before you decide anything."
+            }
+        }
+    ]
+}

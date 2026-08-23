@@ -1,12 +1,15 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Content Creation Services - Content Cucumber",
         "meta_description": "Real human writers, hand-picked teams, weekly delivery. Blog writing, SEO content, website copy, and social media for ecommerce and B2B brands."
     },
     "form": {
+        "campaign_code": "content-creation",
         "header": "Start a conversation",
         "subtitle": "Tell us what you publish and where you want to grow. We will come back with a scoped first month.",
-        "trust_text": "40+ human writers. 60,000+ pieces shipped. 4.9 of 5 average rating.",
+        "trust_text": "Written and edited by people.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
@@ -19,7 +22,7 @@
         "trust_text": "40+ human writers. 60,000+ pieces shipped."
     },
     "hero": {
-        "eyebrow": "Content creation that compounds",
+        "eyebrow": "Content creation that builds every month",
         "title": "Content Creation Services",
         "subtitle": "A hand-picked team of human writers learning your brand voice, an editor reading every piece, and weekly delivery against a topic plan you can see."
     },
@@ -32,7 +35,7 @@
         {
             "id": "blog-writing",
             "title": "Blog writing that earns its place in the queue",
-            "content": "<p>Long-form articles built around your real keyword opportunities and pillar topics. Every post goes through an editor before you read it. Every post gets a byline when you want one. Average turnaround from request to first draft is five business days for a 1,200 to 1,800 word article.</p><p>The team starts with your topic plan, not a content calendar pulled from a template. We map your real ranking opportunities, write the cornerstone pieces first, and layer the supporting content underneath in a sequence that compounds. Brands that ship 4 to 12 posts a month see the program become a primary acquisition channel inside two quarters.</p>",
+            "content": "<p>Long-form articles built around your real keyword opportunities and pillar topics. Every post goes through an editor before you read it. Every post gets a byline when you want one. Average turnaround from request to first draft is five business days for a 1,200 to 1,800 word article.</p><p>The team starts with your topic plan, not a content calendar pulled from a template. We map your real ranking opportunities, write the cornerstone pieces first, and layer the supporting content underneath so each piece builds on the last. Brands that ship 4 to 12 posts a month see the program become a primary acquisition channel inside two quarters.</p>",
             "link_url": "/services/content-creation/blog-writing/",
             "link_text": "Explore blog writing"
         },
@@ -52,20 +55,20 @@
         },
         {
             "id": "social-media-content",
-            "title": "Social media content written for the platform, not the spreadsheet",
-            "content": "<p>Platform-specific posts written for the audience that shows up there. LinkedIn for B2B and thought leadership. X for industry conversations. Instagram for brand. We write to a calendar that has a strategy underneath it, not a content schedule cobbled together day-of.</p><p>Each platform gets a voice that fits. The brand stays consistent across them. We do not cross-post the same caption to every channel and call it a strategy.</p>",
+            "title": "Social media content written for the platform it lives on",
+            "content": "<p>Platform-specific posts written for the audience that shows up there. LinkedIn for B2B and thought leadership. X for industry conversations. Instagram for brand. We write to a calendar with a strategy underneath it.</p><p>Each platform gets a voice that fits. The brand stays consistent across them. We do not cross-post the same caption to every channel and call it a strategy.</p>",
             "link_url": "/services/content-creation/social-media-content/",
             "link_text": "Explore social media content"
         },
         {
             "id": "how-we-work",
             "title": "How content gets made here",
-            "content": "<p>Every request runs through ManyRequests. You file the brief, your dedicated team picks it up, and you watch the work move through draft, edit, and ready-to-publish without a status meeting. The editor reads every piece before you do. If a draft misses the brand voice, we revise before you read it.</p><p>Brand voice is taught, not guessed. When you sign on, your team reads your brand guide, the last 90 days of your published content, and three pieces from competitors you want to outperform. We codify the voice in a style sheet your team writes against from day one. Month one is calibration. Months two through twelve are weekly delivery against a topic plan we revisit each quarter.</p><p>The writers do not rotate every quarter. The editor knows your voice. That stability is what compounds into ranking pages, returning newsletter readers, and product descriptions that do not need a rewrite three months later.</p>"
+            "content": "<p>You file a brief, your dedicated team picks it up, and you watch the work move through draft, edit, and ready-to-publish without a status meeting. The editor reads every piece before you do. If a draft misses the brand voice, we revise before you read it.</p><p>Brand voice is taught, not guessed. When you sign on, your team reads your brand guide, the last 90 days of your published content, and three pieces from competitors you want to outperform. We codify the voice in a style sheet your team writes against from day one. Month one is calibration. Months two through twelve are weekly delivery against a topic plan we revisit each quarter.</p><p>The writers do not rotate every quarter. The editor knows your voice. That stability is what builds ranking pages, returning newsletter readers, and product descriptions that do not need a rewrite three months later.</p>"
         },
         {
             "id": "no-ai-slop",
             "title": "Real humans writing real content",
-            "content": "<p>Every word ships from a human writer. AI shows up in the supporting layer. Research, fact-checking, SEO scoring, structural review. Never in the draft itself. The writer owns the work, the editor reads it, and the brand voice you signed on for is what lands in your inbox every week.</p><p>The internet is filling up with AI-generated filler. Buyers are starting to filter for it. Search engines are starting to filter for it. The content that compounds in 2026 is the content that reads like a person wrote it. We do not pretend that is easy. We do pretend that it is the work.</p>"
+            "content": "<p>Every word ships from a human writer. AI shows up in the supporting layer. Research, fact-checking, SEO scoring, structural review. Never in the draft itself. The writer owns the work, the editor reads it, and the brand voice you signed on for is what lands in your inbox every week.</p><p>The internet is filling up with AI-generated filler. Buyers are starting to filter for it. Search engines are starting to filter for it. The content that keeps working in 2026 is the content that reads like a person wrote it. None of this is easy. That difficulty is the work.</p>"
         },
         {
             "id": "platforms",

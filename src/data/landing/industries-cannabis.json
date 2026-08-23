@@ -1,0 +1,225 @@
+{
+    "seo": {
+        "title": "Cannabis Content Writing for Brands That Cannot Buy Traffic",
+        "meta_description": "Paid channels reject cannabis, which leaves organic content carrying acquisition on its own. Writers who know the claim line, state advertising rules, and age gating.",
+        "og_description": "Paid channels reject cannabis, which leaves organic content carrying acquisition on its own. Writers who know the claim line, state advertising rules, and age gating.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and what you want to be found for. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-cannabis"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your work and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/cannabis-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Cannabis content that works when <em>you cannot buy traffic</em>",
+                "paragraphs": [
+                    "Google and Meta decline your advertising, the major marketplaces will not list you, and every state writes its own rulebook on top of that, which leaves the pages you publish carrying acquisition almost by themselves. In a field where most brands can pay to fix a slow quarter, you cannot, so the content either works or nothing does.",
+                    "We write for the brands in that position, and the writing has to clear two bars at once, earning the search result and staying inside rules that change at the state line."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "The mistakes that cost you the channel you have left",
+                "subtitle": "When organic is carrying acquisition on its own, a page that gets pulled takes the funnel down with it.",
+                "items": [
+                    {
+                        "image": "industries-assets/cannabis-c1.webp",
+                        "title": "Health claims that cross the line",
+                        "text": "Treats, cures, relieves, and prevents are regulated words here, the enforcement history is public, and a writer who knows the field reaches for the accurate phrasing first.",
+                        "text2": "The enforcement letters are published, so the language that draws them is a matter of record, and a writer who has read them knows which verbs to leave alone."
+                    },
+                    {
+                        "image": "industries-assets/cannabis-c2.webp",
+                        "title": "One page, fifty rulebooks",
+                        "text": "Advertising and labeling rules differ by state, and copy written once for everywhere is written to the loosest rule in the room.",
+                        "text2": "Writing to the strictest state is slower, and it is the only version that survives an expansion, because the alternative is rewriting your library the week you open in a new market."
+                    },
+                    {
+                        "image": "industries-assets/cannabis-c3.webp",
+                        "title": "Audience assumptions that break rules",
+                        "text": "Age gating, targeting, and how a product may be depicted are all rules here, whatever they look like to a marketer.",
+                        "text2": "The rules reach past the copy, into who a page may be shown to and how a product may be pictured, so the brief has to carry them and not only the headline."
+                    },
+                    {
+                        "image": "industries-assets/cannabis-c4.webp",
+                        "title": "Paid channels closed off",
+                        "text": "Much of the usual acquisition playbook is closed to you here, so thin content is the whole funnel failing.",
+                        "text2": "That makes organic the engine, which changes what a thin page costs you, because nothing else is picking up the slack."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What a cannabis writer knows before the brief arrives",
+                "subtitle": "A generalist looks these up once the draft is already due, and a writer who works in this field starts from them.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "The claim line",
+                        "text": "Where describing a product ends and asserting a health outcome begins, written to the enforcement history."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "State-by-state advertising rules",
+                        "text": "Copy written to the stricter rule wherever states differ, so one page holds up in both."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Labeling and depiction",
+                        "text": "How a product may be described and shown, including the parts most marketing writers have never had to think about."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Organic as the primary channel",
+                        "text": "Content built to carry acquisition, because in this field the paid options mostly are not there."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Age gating and audience rules",
+                        "text": "Who a page may be shown to and how, which is a compliance requirement here, whatever it is elsewhere."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Product description limits",
+                        "text": "What a label may claim, what a page may repeat from that label, and where the two diverge by state."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing in month six already carries your positions and your language, and you will know who is writing for you before the engagement starts."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "This field is fun and the writing can be",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "A lot of what gets written here is either frightened of the regulator or trying too hard to be edgy, and both read as someone who does not work in this industry. Our writers know the rules well enough to relax inside them, which is where the humor lives.",
+                            "So a line gets to be funny when it earns the laugh, and gets cut when that laugh would cost you a license. That difference is judgment. Judgment comes from a person who cares whether you keep operating."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found in AI search when you cannot pay to be found",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, which matters more here because the paid shortcut past them is closed to you.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a buyer can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote",
+                        "text": "Named detail and hard specifics, because a passage with nothing concrete in it gives a model nothing worth citing."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way your buyer asks",
+                        "text": "A marketing lead at a brand, dispensary group, or CBD company searches in their own words, and the heading that matches the question is the one that gets surfaced."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section holds up on its own, so a citation lands on something that still reads correctly out of context."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your voice, and how the work ships",
+                "subtitle": "We learn how you already sound, so the result reads as yours.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "Your recent published work, your brand guide if you have one, and the companies you get compared to, all of which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We choose what gets written",
+                        "text": "Built from what you already surface for and the questions your buyers type, so the calendar belongs to you."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you month over month, so your positions carry forward from one brief to the next."
+                    },
+                    {
+                        "number": "04",
+                        "title": "An editor reads every piece",
+                        "text": "Then it arrives on your schedule, ready to publish."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Can you write health claims?",
+                        "answer": "We write accurate descriptions and leave health claims alone, and where a benefit cannot be supported we find something true to say in its place, which is also the version that survives."
+                    },
+                    {
+                        "question": "Do you know the rules in our state?",
+                        "answer": "We write to your state's rules and, where you operate in several, to the stricter one. You confirm the final read before anything publishes."
+                    },
+                    {
+                        "question": "Why does content matter more in this field?",
+                        "answer": "Because most paid channels are closed to you, which makes organic search and AI answers a larger share of the funnel here than in almost any other field."
+                    },
+                    {
+                        "question": "Can you write for both a dispensary and a product brand?",
+                        "answer": "Yes, and they are different jobs. One is local and inventory-led, the other is national and brand-led, and we write to the one you are."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand the writing to people who know what you cannot claim",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

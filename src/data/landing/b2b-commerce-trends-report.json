@@ -1,0 +1,158 @@
+{
+    "no_nav": true,
+    "noindex": true,
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "B2B Commerce Trends & Opportunities Report | Content Cucumber",
+        "meta_description": "A research report built from interviews with nine B2B commerce leaders across seven firms. How manufacturers, distributors, and regulated sellers are modernizing without breaking what works. Presented by Shopware, researched and written by Content Cucumber.",
+        "og_description": "Nine B2B commerce leaders on data readiness, PE-driven modernization, regulated commerce, agentic AI, and the future of B2B buying. Free download.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-og.png"
+    },
+    "form": {
+        "header": "Get the Report",
+        "portal_id": "39487190",
+        "form_id": "170c8ef1-7edc-4a4b-beb6-ef55c63dcca6",
+        "region": "na1",
+        "campaign_code": "b2b-commerce-trends-report"
+    },
+    "thankyou": {
+        "title": "On its way",
+        "text": "Check your inbox. We sent you the B2B Commerce Trends & Opportunities Report. If you want to talk through what it means for your business, reply to that email and we'll set up a time.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "B2B Commerce Research · Presented by Shopware",
+                "title": "The B2B Commerce Trends & Opportunities Report",
+                "subtitle": "We sat down with B2B commerce leaders across seven firms and asked what is changing on the ground. The result is a clear-eyed look at how manufacturers, distributors, and regulated sellers are modernizing without disrupting the operations that made them successful.",
+                "bullets": [
+                    "<strong>Seven expert interviews. One industry in transition.</strong> System integrators, digital agencies, and technology providers describing the same shift from different angles, so you see the trending patterns.",
+                    "<strong>Data readiness and ERP-connected commerce.</strong> Why clean, structured data is becoming the foundation everything else is built on, and what happens to projects that skip it.",
+                    "<strong>Modernizing under private equity pressure.</strong> How teams replace legacy systems and move faster than the organization is comfortable with, without breaking the business.",
+                    "<strong>Industry-specific commerce.</strong> What changes when you sell into healthcare, fintech, manufacturing, and distribution, where the catalog is the easy part.",
+                    "<strong>Agentic AI and the future of B2B buying.</strong> Why buyers arrive to solve a problem under time pressure, and how conversational and visual configuration meets them there.",
+                    "<strong>Practical questions for your own team.</strong> Each chapter closes with the questions worth asking before your next platform, data, or AI decision."
+                ],
+                "thumbnail": "landing-data/b2b-commerce-trends-report-cover.png",
+                "authors": "Presented by Shopware. Researched and written by Content Cucumber. Featuring Matt Harris (Harris Digital), Jason Parrish (Altus Nova), Bob Lewis, Swamy Mahesh and Sidney Gallaway (impaqX), Ryan Bloms (Codal), Shae Inglis (Acro Commerce), Brendan Cameron (Americaneagle.com), and Justin Scott (Dopple).",
+                "form_title": "Get the Report",
+                "form_subtitle": "Free. Delivered to your inbox."
+            }
+        },
+        {
+            "type": "banner-image",
+            "data": {
+                "src": "/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-banner.jpg",
+                "alt": "Ready for the New Era of B2B Commerce? Expert insights on how to modernize without disrupting the operational realities that make your business successful. Download the free B2B Commerce Trends & Opportunities Report, presented by Shopware.",
+                "link": "#cc-form-modal"
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "B2B commerce stopped being a slower version of B2C",
+                "subtitle": "Four through-lines the contributors kept returning to, no matter which sector they work in.",
+                "items": [
+                    {
+                        "title": "Operational complexity keeps increasing.",
+                        "text": "Catalogs keep growing, ERP systems keep straining, and data stays fragmented across tools that were never meant to talk to each other. The leaders in this report agree the hard part is no longer the storefront, it is the operational infrastructure underneath it."
+                    },
+                    {
+                        "title": "Flexibility beats rigid feature checklists.",
+                        "text": "The teams getting modernization right align systems to how the business runs, rather than chasing the longest feature list, which is why two companies in the same industry often need different builds."
+                    },
+                    {
+                        "title": "Clean, structured data is becoming the foundation.",
+                        "text": "Every contributor circled back to data readiness. AI, search, automation, and customer support all sit on top of it, and the projects that skip it pay for it later in ways that are hard to see until they hurt."
+                    },
+                    {
+                        "title": "Buyers arrive with a problem to solve.",
+                        "text": "Contractors, technicians, and procurement teams arrive under time pressure trying to get one specific thing done. That is pushing demand toward contextual, conversational, and visual commerce, and away from the catalog grid."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "who-its-for",
+            "data": {
+                "title": "Who this report is for",
+                "subtitle": "Built for the people making the platform, data, and AI decisions.",
+                "fits": [
+                    {
+                        "text": "You lead commerce, digital, or operations at a B2B manufacturer, distributor, or regulated seller."
+                    },
+                    {
+                        "text": "You are weighing a replatform, an ERP-connected build, or an AI initiative and want grounded input first."
+                    },
+                    {
+                        "text": "You work at an agency or integrator and want to see how peers are framing the same problems."
+                    },
+                    {
+                        "text": "You would rather learn from nine practitioners than one vendor's roadmap."
+                    }
+                ],
+                "not_fits": [
+                    {
+                        "text": "You are looking for a B2C or DTC retail playbook."
+                    },
+                    {
+                        "text": "You want a product brochure with a feature comparison table."
+                    },
+                    {
+                        "text": "You need a step-by-step technical implementation manual."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "variant": "gray",
+            "data": {
+                "image": "report-fan.webp",
+                "eyebrow": "Want one for your brand?",
+                "title": "We write custom research reports",
+                "paragraphs": [
+                    "This report started as nine interviews and became a research asset Shopware presents. We build the same kind of original, interview-driven thought leadership for other brands.",
+                    "You bring the audience and the point of view. We handle the research, the interviews, and the writing."
+                ],
+                "cta_text": "See how we build thought leadership",
+                "cta_link": "/how-to-create-thought-leadership-content/"
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "About the report",
+                "items": [
+                    {
+                        "question": "What is this report and who made it?",
+                        "answer": "It is a research report built from original interviews with nine B2B commerce leaders across seven firms. It was presented by Shopware and researched and written by Content Cucumber. It is not a product brochure."
+                    },
+                    {
+                        "question": "How much does it cost?",
+                        "answer": "Nothing. Enter your details and we email you the full report as a PDF."
+                    },
+                    {
+                        "question": "Who should read it?",
+                        "answer": "Leaders at B2B manufacturers, distributors, and regulated sellers, plus the agencies and integrators who serve them. If you are making a platform, data, or AI decision in the next year, it is written for you."
+                    },
+                    {
+                        "question": "Will I get sales emails?",
+                        "answer": "You will get the report and the occasional note from Content Cucumber. You can unsubscribe at any time, and we do not share your details."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Get the full report",
+                "text": "Nine B2B commerce leaders, seven firms, one clear picture of what is changing. Enter your details above and we will send it to your inbox."
+            }
+        }
+    ]
+}

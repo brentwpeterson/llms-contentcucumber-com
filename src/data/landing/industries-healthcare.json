@@ -1,0 +1,242 @@
+{
+    "seo": {
+        "title": "Healthcare Content Writing That Clears Medical-Legal Review",
+        "meta_description": "Drafts written for the reviewer as well as the reader, so claims are phrased to the standard and citations are attached before submission. YMYL, HIPAA, FDA.",
+        "og_description": "Drafts written for the reviewer as well as the reader, so claims are phrased to the standard and citations are attached before submission.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and what you want to be found for. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-healthcare"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your practice and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/healthcare-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Healthcare content that clears <em>medical-legal review</em>",
+                "paragraphs": [
+                    "Healthcare content dies in review. A draft goes to medical-legal, comes back with a verb circled and a request for a citation, goes back again, and the piece everyone approved in principle is still sitting in a comment thread while the campaign it belonged to has moved on. The writing was rarely the bottleneck, and the review cycle almost always was.",
+                    "We write for the reviewer as well as the reader, so the claim is phrased to the standard before it is submitted, the citation is attached to the sentence that needs one, and the patient story is de-identified in the draft instead of in round two. A subject matter expert stands behind the substance, sometimes someone we bring in for your specialty and sometimes someone on your side, and nothing publishes until you approve it."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What comes back circled",
+                "subtitle": "The sentence that stalls a draft in review usually looks like ordinary enthusiasm on the way in.",
+                "items": [
+                    {
+                        "image": "industries-assets/healthcare-c1.webp",
+                        "title": "Verbs that become claims",
+                        "text": "Treats, cures, prevents, and reverses all mean something narrower than helps, and a writer who knows the field reaches for the accurate verb first, before review ever sees it.",
+                        "text2": "The distance between helps and treats is short in a sentence and long in what it obligates you to prove, and the accurate verb is the one that keeps the page up."
+                    },
+                    {
+                        "image": "industries-assets/healthcare-c2.webp",
+                        "title": "Patient stories that identify people",
+                        "text": "The detail that makes a story vivid is often the same detail that makes a patient identifiable, which is a privacy problem to catch at the draft stage, long before it reaches an editor.",
+                        "text2": "Consent covers the story, not every detail inside it, so a draft has to survive losing one identifying particular without losing the reason anyone would read it."
+                    },
+                    {
+                        "image": "industries-assets/healthcare-c3.webp",
+                        "title": "Claims you cannot substantiate on request",
+                        "text": "A benefit stated without support is a substantiation question waiting to be asked, and a vertical writer knows which statements need a source attached before anyone asks.",
+                        "text2": "Support attached where a claim is made answers the question on the page, which is also what an answer engine needs in order to quote it, so the compliance move and the visibility move are the same move."
+                    },
+                    {
+                        "image": "industries-assets/healthcare-c4.webp",
+                        "title": "Content that fails the trust bar",
+                        "text": "Health is held to a higher standard for good reason, so thin, unsourced, unattributed writing does not get surfaced or believed, and the practice reads that as a marketing problem.",
+                        "text2": "Named authors, checkable credentials and a review date are the parts a reader can check, and they are the parts a model can attribute, which is why anonymity costs more here than anywhere else."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What a healthcare writer settles before submitting",
+                "subtitle": "A generalist discovers these in review, which is the round of edits this was supposed to prevent.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "The claim line",
+                        "text": "Where describing a benefit ends and asserting a medical outcome begins, and how to write usefully on the correct side of it."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Privacy in patient content",
+                        "text": "Stories and testimonials written so the detail that makes them human is not the detail that identifies someone."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Substantiation and sourcing",
+                        "text": "Claims carried with the support attached, so the question of what backs this is answered on the page."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Writing to the trust standard",
+                        "text": "Named authorship, checkable credentials, clear sourcing, and current review dates on the pages where accuracy matters most."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Naming a condition without diagnosing it",
+                        "text": "Describing symptoms and outcomes without crossing into telling a reader what they have, which is the line most health copy walks badly."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Authorship a reader can check",
+                        "text": "Named authors, checkable credentials, and a review date on the pages where accuracy carries weight."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing in month six already knows your specialties, your approved language, and where your reviewer draws the line. You will know who is writing for you before the engagement starts. We do not present writers as clinicians, which is exactly why a subject matter expert stands behind the work, either one we source for your specialty or your own people."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "Fear is the emotion already in the room",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "Someone reading a healthcare page late at night is frightened, and that is the condition your content meets, whether or not the page is well optimized. A writer who has sat with that knows when to slow a sentence down, and when a reassuring verb would become a claim you cannot make.",
+                            "We put that judgment on the page deliberately, with gentleness where a reader is scared, plainness where jargon would frighten them more, and restraint held steady even when warmth would be the easier choice."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found when a patient searches, quoted when an engine answers",
+                "subtitle": "Health questions are among the most asked and the most carefully answered, so getting quoted means clearing the same bar your reviewer applies.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a patient can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Sourced and specific",
+                        "text": "Support attached where a claim is made, because on health topics an unsourced passage is the least likely thing to be cited."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way patients ask",
+                        "text": "People search in plain, worried language, so a heading written in clinical terms is the one that gets missed."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Attributed to a named person",
+                        "text": "Named authors and reviewers with credentials a reader can verify, because on health content anonymity is itself a trust signal working against you."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your voice, and how the work ships",
+                "subtitle": "An expert informs every piece, a writer writes it, and you approve it.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "Your recent published work, your brand guide if you have one, and the practices you get compared to, all of which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We agree the topics",
+                        "text": "Built from what you already surface for and the questions patients ask before they book."
+                    },
+                    {
+                        "number": "03",
+                        "title": "We name the subject matter expert",
+                        "text": "Either someone we bring in for your specialty or someone on your team, agreed before the writing starts, so you always know whose expertise sits behind a page."
+                    },
+                    {
+                        "number": "04",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you month over month, so your approved language carries forward from one brief to the next."
+                    },
+                    {
+                        "number": "05",
+                        "title": "An editor reads it, then you approve it",
+                        "text": "It arrives on your schedule for your final read, because in this field the last word belongs to you."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions healthcare teams ask",
+                "items": [
+                    {
+                        "question": "Are your writers clinicians?",
+                        "answer": "No, and we will not present them as such. They are experienced writers who cover health topics and know where the claim line sits. The clinical expertise comes from a subject matter expert, either one we bring in for your specialty or someone on your team, and your side approves everything before it publishes."
+                    },
+                    {
+                        "question": "Who signs off on medical accuracy?",
+                        "answer": "You do, always. A subject matter expert informs the work and an editor reads every piece, and the final approval is still yours. Our job is to hand you copy already written to the limits, so the pass is an approval and not a rewrite."
+                    },
+                    {
+                        "question": "What if we do not have a clinical reviewer?",
+                        "answer": "Then we source a subject matter expert for your specialty and tell you who it is before the writing starts. You still hold the final approval, because the name on the practice is the one carrying the risk."
+                    },
+                    {
+                        "question": "Can you write patient stories?",
+                        "answer": "Yes, written so the detail that makes the story human is not the detail that identifies the patient. Consent and final approval stay with you."
+                    },
+                    {
+                        "question": "How do you handle claims about outcomes?",
+                        "answer": "We write the accurate verb and attach support where a claim is made, and if a statement cannot be supported we find something true to say in its place."
+                    },
+                    {
+                        "question": "Will this read like every other clinic blog?",
+                        "answer": "That is the failure we are built against. We work from your published writing, so the result sounds like your practice and not a house voice with your logo dropped on top."
+                    },
+                    {
+                        "question": "How do we start?",
+                        "answer": "Send your site and what you want to be found for, and we will read what you already publish before we reply, then scope a first month from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand the writing to people who know the limits",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

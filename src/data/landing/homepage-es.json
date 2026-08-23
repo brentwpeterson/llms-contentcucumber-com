@@ -1,11 +1,16 @@
 {
     "form": {
+        "campaign_code": "homepage-es",
         "header": "¡Escribamos juntos tu historia de éxito!",
         "subtitle": "",
-        "trust_text": "Más de 40 redactores humanos. Más de 500 episodios de podcast. Más de 30 años en ecommerce. Cero contenido genérico de IA.",
+        "trust_text": "Cero contenido genérico de IA.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
+    },
+    "seo": {
+        "title": "Agencia de contenido humano para ecommerce - Content Cucumber",
+        "meta_description": "Agencia de contenido como servicio para marcas de ecommerce y B2B. Textos, gráficos, video e ilustración que investigan, escriben y editan personas reales."
     },
     "sections": [
         {
@@ -36,27 +41,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "number": "500+",
-                    "label": "Episodios de Podcast"
-                },
-                {
-                    "number": "30+",
-                    "label": "Años en Ecommerce"
-                },
-                {
-                    "number": "40+",
-                    "label": "Redactores Humanos"
-                },
-                {
-                    "number": "100s",
-                    "label": "Marcas Atendidas"
-                }
-            ]
-        },
-        {
             "type": "feature-image",
             "data": {
                 "image": "/wp-content/uploads/2026/04/contentcucumber-content-solution.mp4",
@@ -77,26 +61,26 @@
         {
             "type": "services-grid",
             "data": {
-                "title": "Contenido que Funciona de Verdad",
+                "title": "Contenido que funciona de verdad",
                 "subtitle": "Construimos un inventario de marketing que crece con el tiempo. Cada pieza la escriben personas reales que conocen tu marca.",
                 "items": [
                     {
                         "icon": "pen",
-                        "title": "Blog y Contenido SEO",
+                        "title": "Blog y contenido SEO",
                         "text": "Artículos de blog consistentes y de alta calidad, optimizados para buscadores y escritos por personas que conocen tu industria. Entrega semanal, todas las semanas.",
                         "link": "/es/servicios/redaccion-de-blogs/",
                         "link_text": "Más información"
                     },
                     {
                         "icon": "megaphone",
-                        "title": "Contenido para Redes Sociales",
+                        "title": "Contenido para redes sociales",
                         "text": "Publicaciones pensadas para cada plataforma que suenan como tu marca, no como una plantilla. Nosotros escribimos, tú apruebas, nosotros publicamos. Así de sencillo.",
                         "link": "/es/servicios/redes-sociales/",
                         "link_text": "Más información"
                     },
                     {
                         "icon": "video",
-                        "title": "Video en Conferencias",
+                        "title": "Video en conferencias",
                         "text": "Llegamos a tu stand, grabamos entrevistas profesionales y te entregamos videos listos para publicar. Una sola sesión de grabación, meses de contenido.",
                         "link": "/es/video-de-conferencias/",
                         "link_text": "Más información"
@@ -107,7 +91,7 @@
         {
             "type": "partner-carousel",
             "data": {
-                "title": "Marcas en Crecimiento Confían en Nosotros",
+                "title": "Marcas en crecimiento confían en nosotros",
                 "subtitle": "Trabajamos con empresas de ecommerce y B2B que se toman el contenido en serio.",
                 "max_partners": 12,
                 "show_blurb": true,
@@ -117,7 +101,7 @@
         {
             "type": "how-it-works",
             "data": {
-                "title": "¿Cómo Funciona?",
+                "title": "¿Cómo funciona?",
                 "subtitle": "De la primera llamada al primer borrador en días, no en semanas.",
                 "steps": [
                     {
@@ -146,8 +130,8 @@
         {
             "type": "case-study",
             "data": {
-                "eyebrow": "Caso de Éxito",
-                "title": "Silicone Depot: De 500 a Más de 10,000 Visitantes Orgánicos",
+                "eyebrow": "Caso de éxito",
+                "title": "Silicone Depot, de 500 a más de 10,000 visitantes orgánicos",
                 "text": [
                     "Silicone Depot es un proveedor de ecommerce de selladores y calafateo de silicona, que atiende tanto a clientes B2C como B2B.",
                     "Empezaron a publicar artículos semanales con Content Cucumber en 2018. En ese momento, su tráfico orgánico era de aproximadamente 500 visitantes al mes.",
@@ -179,14 +163,14 @@
         {
             "type": "comparison-table",
             "data": {
-                "title": "¿Por Qué Elegir Content Cucumber?",
+                "title": "¿Por qué elegir Content Cucumber?",
                 "subtitle": "Mira cómo nos comparamos con otras soluciones de contenido."
             }
         },
         {
             "type": "latest-posts",
             "data": {
-                "title": "Desde el Blog",
+                "title": "Desde el blog",
                 "subtitle": "Lo más reciente sobre marketing de contenido, SEO y cómo construir marcas que perduren.",
                 "count": 3,
                 "cta_text": "Ver Todas las Publicaciones",

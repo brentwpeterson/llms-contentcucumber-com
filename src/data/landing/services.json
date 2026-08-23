@@ -1,0 +1,114 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Services - Content Cucumber",
+        "meta_description": "Content Cucumber employs human writers to produce content for humans. Blog and SEO content, commerce copy, email and SMS programs, and case studies.",
+        "slug": "services"
+    },
+    "form": {
+        "campaign_code": "services",
+        "header": "Tell us what you need written",
+        "subtitle": "We will read what you already publish before we reply, so the first conversation is about your content and not a template.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1"
+    },
+    "hero": {
+        "eyebrow": "Content Cucumber services",
+        "title": "Everything we write, and the people who write it",
+        "subtitle": "Content Cucumber is a company that employs humans to write content for humans. Here is what that covers and where each piece of it lives."
+    },
+    "sections": [
+        {
+            "id": "what-we-do",
+            "title": "What Content Cucumber does",
+            "content": "<p>Content Cucumber is a content company staffed by writers. You get a hand-picked team that learns your brand voice, an editor who reads every piece before it leaves, and delivery on a set cadence against a topic plan you can see and change. The work spans blog posts, SEO and answer-engine content, product and category copy, website pages, email lifecycle programs, SMS, and case studies.</p><p>Models are part of how the work gets researched and checked, and they are not what writes it. Looking backward through what already exists is what a model is good at, and that is where we point it, while the position, the specifics, and the sentence somebody would quote come from a person.</p>"
+        },
+        {
+            "id": "content-creation",
+            "title": "Content Creation",
+            "content": "<p>The core engagement, and the one most accounts start with. A hand-picked team of writers learning your brand voice, an editor reading every piece, and delivery against a topic plan you can see. Blog writing, SEO and answer-engine content, social media content, and website copy each run as their own track inside it.</p>",
+            "link_url": "/services/content-creation/",
+            "link_text": "How content creation works"
+        },
+        {
+            "id": "content-in-commerce",
+            "title": "Content in Commerce",
+            "content": "<p>Commerce content, plus the live show that carries the same name. The service covers product descriptions, category pages, and the discovery work that gets a catalog surfaced by an answer engine rather than buried behind a search box. The show is monthly, and every episode puts a real commerce or HubSpot setup on the screen and fixes what is costing that business traffic.</p>",
+            "link_url": "/services/content-in-commerce/",
+            "link_text": "Commerce content and the show"
+        },
+        {
+            "id": "marketing-management",
+            "title": "Marketing Management",
+            "content": "<p>HubSpot implementation, marketing automation, and campaign management, run end to end. The point of buying it here is that the platform work and the content that fills it sit with one team, so nobody is waiting on a handoff between an agency that builds the workflow and an agency that writes the emails inside it.</p>",
+            "link_url": "/services/marketing-management/",
+            "link_text": "Marketing management"
+        },
+        {
+            "id": "email-marketing",
+            "title": "Email Marketing",
+            "content": "<p>Welcome, cart, post-purchase, win-back, and replenishment. The lifecycle programs that carry revenue, written by people and audited for deliverability, because a sequence that does not reach an inbox is not a sequence.</p>",
+            "link_url": "/services/email-marketing/",
+            "link_text": "Email marketing services"
+        },
+        {
+            "id": "sms-marketing",
+            "title": "SMS Marketing",
+            "content": "<p>Compliant by default and paired with email by design, written for the moments that earn an interruption. Most of what makes SMS work is knowing when not to send.</p>",
+            "link_url": "/services/sms-marketing/",
+            "link_text": "SMS marketing services"
+        },
+        {
+            "id": "case-studies",
+            "title": "Case Studies",
+            "content": "<p>White-label case studies for eCommerce platforms and agencies, produced end to end so your team is not the one chasing a customer for quotes and approvals. Hundreds published since 2018, most of them under somebody else's logo.</p>",
+            "link_url": "/services/we-write-case-studies/",
+            "link_text": "How we write case studies"
+        },
+        {
+            "id": "where-to-go-next",
+            "title": "Where to go next",
+            "content": "<p>The service is one way into the site. If you would rather start from your situation than from a service name, these are the pages worth your attention.</p><ul class=\"cc-pillar__next-list\"><li><a href=\"/industries/\"><strong>Industries</strong></a> covers what changes when the writing has to hold up in a regulated or technical field, and it is the right start if your objection is that nobody outside your field can write for it.</li><li><a href=\"/seo-ai-search/\"><strong>SEO and AI Search</strong></a> is where the discovery work lives, for teams whose content is fine and is not being found or cited.</li><li><a href=\"/content-for-ecommerce-agencies/\"><strong>Content for eCommerce Agencies</strong></a> is the white-label track, for agencies who need the writing to go out under their own logo.</li><li><a href=\"/pricing/\"><strong>Pricing</strong></a> is public, so you can size this before you talk to anybody.</li></ul>"
+        }
+    ],
+    "faq": {
+        "title": "Questions we get asked",
+        "items": [
+            {
+                "question": "What does Content Cucumber do?",
+                "answer": "We employ writers who produce content for your business. A hand-picked team learns your voice, an editor reads every piece, and the work arrives on a cadence against a topic plan you approve. It is a service performed by people, not software you log into."
+            },
+            {
+                "question": "Do you use AI to write?",
+                "answer": "For research and checking, yes. For the writing, no. A model cannot supply a position it does not hold or a detail it has never encountered, and those are the two things that make a piece worth publishing."
+            },
+            {
+                "question": "Can we start with one service and add others?",
+                "answer": "Yes, and most accounts do. Content creation is the usual starting point because the voice work it produces makes everything after it faster."
+            },
+            {
+                "question": "What if we already have writers?",
+                "answer": "Then the question is what your writers are spending their attention on. Teams often keep the work that needs an insider and hand us the volume that does not."
+            },
+            {
+                "question": "How do we start?",
+                "answer": "Tell us what you need written. We will read what you already publish before we reply, so the first conversation is about your content rather than a template."
+            }
+        ]
+    },
+    "sidebar": {
+        "title": "Talk to a person",
+        "text": "Tell us what you need written. We will tell you which of these it belongs in, including when the answer is none of them.",
+        "form": {
+            "portal_id": "39487190",
+            "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+            "region": "na1"
+        },
+        "button_text": "Or book a call instead",
+        "button_url": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting",
+        "trust_text": "40+ human writers. 60,000+ pieces shipped."
+    }
+}

@@ -8,6 +8,8 @@
         "campaign_code": "outsource-your-marketing-department"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Outsource Your Marketing Department from $1,000/mo - Content Cucumber",
         "meta_description": "Outsource your marketing department for $1,000/mo, all-in. One monthly interview becomes 4 articles, daily social posts, captioned video clips, and a curated newsletter.",
         "og_description": "Hand off your marketing for $1,000/mo. Six channels of content built every month from one hour-long conversation with your dedicated writer.",
@@ -32,7 +34,7 @@
                 "bullets": [
                     "<strong>Six channels of content built every month.</strong> Four SEO articles plus a multimedia pillar post. Daily social posts on the platforms your audience uses. Captioned video clips, a curated newsletter, and illustrated graphics that repurpose every key idea.",
                     "<strong>One hour-long monthly interview powers everything.</strong> Your dedicated writer pulls Google Search Console data, surfaces the keyword opportunities sitting on page two, and combines that with what's happening in your business to build the month's content map.",
-                    "<strong>A dedicated writer who learns your voice.</strong> The same writer every month, backed by RequestDesk's Brand Voice Engine so consistency survives staff changes. No drift. No agency rotation.",
+                    "<strong>A dedicated writer who learns your voice.</strong> The same writer every month, backed by RequestDesk's Brand Voice Engine so consistency survives staff changes. The same writer stays on your account, backed by the Brand Voice Engine.",
                     "<strong>Real human writers, no AI slop.</strong> Every word is written by a person who read your interview, knows your offer, and is paid to make it sound like you.",
                     "<strong>Mid-month check-in plus anytime communication.</strong> Halfway through the month, a call to adjust. End of month, a plain-English report on what ranked and what to push on next. Anything else, just message your writer.",
                     "<strong>$1,000/mo, all-in. Save with a six-month or annual commitment.</strong> Five specialists working on your business every month for less than the loaded cost of one in-house marketer."
@@ -68,7 +70,7 @@
                         "body": "The interview is the source. Articles get written from it. Social posts get pulled from it. Video clips get cut from it. The newsletter is curated from it. One hour-long conversation a month builds a calendar that previously took a five-person team."
                     },
                     {
-                        "title": "Consistency is the value, not heroic launches.",
+                        "title": "The value is showing up every week.",
                         "body": "The brands that win in search and AI citations are the ones that show up every week for years. The Flywheel is built for that cadence. Six months in, search rankings climb. Twelve months in, the shape of the year is different."
                     }
                 ]

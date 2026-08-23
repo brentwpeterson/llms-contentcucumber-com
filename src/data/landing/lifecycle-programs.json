@@ -1,8 +1,19 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Welcome, abandoned cart, post-purchase, win-back, replenishment programs. Email and SMS coordinated. Mailchimp partner. Free audit.",
         "og_description": "Lifecycle email and SMS programs built for eCommerce. Coordinated across both channels. Mailchimp partner.",
         "og_image": "/wp-content/uploads/lifecycle-programs/og-lifecycle-programs.webp"
+    },
+    "form": {
+        "header": "Get your free lifecycle audit",
+        "subtitle": "We map your welcome, cart, post-purchase, win-back, and replenishment flows across email and SMS, then show you what to fix first.",
+        "trust_text": "Mailchimp + HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
+        "portal_id": "39487190",
+        "form_id": "db284bbd-d881-4f84-a1d0-ac42d5d0f338",
+        "region": "na1",
+        "campaign_code": "lifecycle-programs"
     },
     "sections": [
         {
@@ -12,33 +23,12 @@
                 "title": "Lifecycle Programs That Run <em>Email and SMS</em> Together",
                 "paragraphs": [
                     "Welcome series, abandoned cart, post-purchase, win-back, and replenishment. Coordinated across both channels. Built in your platform. Run by humans.",
-                    "Email and SMS run as two programs in most teams. They are one program. The customer does not see channels. They see your brand. The brand that texts them an hour after it just emailed them. We fix the disconnect.",
+                    "Email and SMS run as two programs in most teams. They are one program. To the customer it is all one brand, the brand that texts them an hour after it just emailed them. We fix the disconnect.",
                     "This is the page where the email pillar and the SMS pillar converge. One program map, two channels, one customer experience."
                 ],
                 "content_image": "/wp-content/uploads/lifecycle-programs/hero-lifecycle.webp",
                 "content_image_alt": "Content Cucumber lifecycle program flow"
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "logo": "/wp-content/plugins/requestdesk-connector/includes/data/logos/mailchimp.png",
-                    "label": "Mailchimp Partner"
-                },
-                {
-                    "number": "6",
-                    "label": "Programs Built"
-                },
-                {
-                    "number": "2",
-                    "label": "Channels Coordinated"
-                },
-                {
-                    "number": "10+",
-                    "label": "Years in Lifecycle"
-                }
-            ]
         },
         {
             "type": "services",

@@ -1,13 +1,16 @@
 {
     "form": {
+        "campaign_code": "hubspot-implementation",
         "header": "Get HubSpot working the right way",
         "subtitle": "",
-        "trust_text": "HubSpot Solutions Partner. Commerce specialists. 30+ years in commerce.",
+        "trust_text": "HubSpot Solutions Partner. Commerce specialists.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "HubSpot Implementation Services - Content Cucumber",
         "meta_description": "HubSpot implementation, integration, and optimization services. CRM setup, marketing automation, ecommerce integration, and data migration. HubSpot Solutions Partner.",
         "slug": "hubspot-implementation"
@@ -17,9 +20,9 @@
             "type": "hero",
             "data": {
                 "eyebrow": "HubSpot Implementation",
-                "title": "HubSpot Implementation<br><em>That Actually Works</em>",
+                "title": "HubSpot Implementation<br><em>That Works</em>",
                 "paragraphs": [
-                    "We set up HubSpot the right way. CRM configuration, marketing automation, ecommerce integrations, and data migration. Built for your business, not a generic template.",
+                    "We set up HubSpot the right way. CRM configuration, marketing automation, ecommerce integrations, and data migration. Configured around your actual sales process.",
                     "Your free HubSpot strategy call includes:",
                     "<ul><li>Tier recommendation (Starter, Professional, Enterprise) based on your team and use case</li><li>CRM architecture: pipelines, properties, lifecycle stages, deal flow</li><li>Integration map for your ecommerce platform, marketing tools, and existing data sources</li><li>Migration plan if you're moving from Salesforce, Mailchimp, ActiveCampaign, or spreadsheets</li><li>Cost and timeline estimate with milestones</li><li>Written deliverable you can act on immediately</li></ul>"
                 ]
@@ -57,9 +60,9 @@
                         "text": "Moving from Salesforce, Mailchimp, ActiveCampaign, or spreadsheets? We migrate contacts, deals, and history into HubSpot cleanly. No data loss."
                     },
                     {
-                        "icon": "chat",
+                        "icon": "megaphone",
                         "title": "Onboarding & Training",
-                        "text": "Your team gets hands-on training so they actually use HubSpot. Daily workflows, reporting, and best practices specific to your business."
+                        "text": "Your team gets hands-on training so they use HubSpot. Daily workflows, reporting, and best practices specific to your business."
                     }
                 ]
             }
@@ -87,7 +90,7 @@
                     {
                         "number": "04",
                         "title": "Launch",
-                        "text": "Hands-on training, documentation, and ongoing support. Your team learns the daily workflows on real data, not slides. We stay available for questions and refinements."
+                        "text": "Hands-on training, documentation, and ongoing support. Your team trains on their own live data during onboarding. We stay available for questions and refinements."
                     }
                 ]
             }

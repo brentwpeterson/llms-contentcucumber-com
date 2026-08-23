@@ -1,0 +1,269 @@
+{
+    "seo": {
+        "title": "Content Cucumber at eTail Boston 2026",
+        "meta_description": "Thought leadership content for commerce and SaaS platforms. Whitepapers, original research, case studies, and ghostwriting. Meet us at eTail Boston, August 10 to 12.",
+        "og_description": "Everyone at eTail has a point of view about where commerce goes next. We write yours down so your market quotes it.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/etail-boston-assets/etail-boston-og.jpg",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Should companies use AI content?",
+        "subtitle": "We are asking everyone at eTail Boston and publishing what we find.",
+        "trust_text": "Two questions. Your answer becomes part of the research.",
+        "portal_id": "39487190",
+        "form_id": "f78bc279-b7c1-42f0-a908-987c11f2262f",
+        "region": "na1",
+        "campaign_code": "etail-boston-2026"
+    },
+    "thankyou": {
+        "title": "Got it. Thank you.",
+        "text": "Your answer is in. We are collecting these all week and will publish what the floor said.",
+        "link_anchor": "/thought-leadership-content/",
+        "link_text": "See the full range of what we write"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "eTail Boston, August 10 to 12",
+                "title": "Long-Form Content Is What AI Answers Cite",
+                "bg_image": "etail-boston-assets/etail-floor-hero.webp",
+                "paragraphs": [
+                    "Everyone at eTail Boston has a point of view about where commerce goes next. The brands that end up owning the category are the ones who wrote theirs down.",
+                    "Content Cucumber writes thought leadership for commerce platforms, SaaS platforms, and the agencies serving them. Whitepapers, original research, case studies, and ghostwriting, researched and written by people who have been selling since 1992 and online since 1993."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Why Good Companies Publish Forgettable Content",
+                "subtitle": "The thinking is already there. It never reaches a page a buyer can find.",
+                "items": [
+                    {
+                        "title": "Your point of view stays inside",
+                        "text": "Your team knows exactly why the category is changing. The reasoning lives in sales calls and Slack threads, and your buyers never see a word of it.",
+                        "text2": "The founder who explains it best has the least time to write it down.",
+                        "image": "content-flywheel-plan-assets/founder-marketer-writer.webp"
+                    },
+                    {
+                        "title": "Volume replaced the argument",
+                        "text": "Another run of surface-level posts fills a calendar, and gives no analyst, no journalist, and no buyer a reason to quote you.",
+                        "text2": "Publishing more of the same thing faster means being forgotten on a tighter schedule.",
+                        "image": "etail-boston-assets/volume-replaced-argument.webp"
+                    },
+                    {
+                        "title": "The writing has no fingerprints",
+                        "text": "Writing that would fit any booth at eTail builds no reputation. A buyer remembers whoever told them something they did not already know.",
+                        "text2": "Swap the logo at the top of the page. If nothing reads wrong, the page was never yours.",
+                        "image": "etail-boston-assets/every-booth-looks-the-same.webp"
+                    },
+                    {
+                        "title": "Nothing is deep enough to cite",
+                        "text": "To get cited you have to supply something only you can. A number, a method, or a position stated plainly enough to quote.",
+                        "text2": "Meanwhile the competitor who ran the survey gets quoted in the newsletters your buyers read.",
+                        "image": "content-flywheel-plan-assets/brands-gain-ground.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "The Six Things We Write",
+                "subtitle": "The long-form work that turns a brand into a source your market cites.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Whitepapers and flagship reports",
+                        "text": "The centerpiece you publish once or twice a year and mine for months. We handle the angle, the research, the interviews, and the design-ready draft.",
+                        "link": "/b2b-commerce-trends-report/",
+                        "link_text": "See a flagship report"
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Original research",
+                        "text": "When the data is yours, every citation points back to you. We design the research question, gather and analyze the data, and write it so the finding lands.",
+                        "link": "/composable-commerce-research/",
+                        "link_text": "See our research"
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Case studies",
+                        "text": "We interview your customer, pull the numbers that moved, and write the story so the outcome is clear. No vague before and after, no invented quotes.",
+                        "link": "/services/we-write-case-studies/",
+                        "link_text": "See how we write them"
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Sales enablement",
+                        "text": "One-pagers, battlecards, buyer guides, and objection handling that say the right thing in the buyer's language, kept current as the pitch evolves."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Survey studies",
+                        "text": "Ask your market the right question and the answer becomes content no one else has. We design the survey, field it, analyze the results, and write it up."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Ghostwriting",
+                        "text": "Bylined articles, posts, and talks that carry an executive's name and point of view, built from a recorded conversation with them.",
+                        "link": "/ghostwriting-services/",
+                        "link_text": "See our ghostwriting"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "data": {
+                "eyebrow": "A report we wrote",
+                "title": "The B2B Commerce Trends and Opportunities Report",
+                "image": "b2b-commerce-trends-report-cover-1200.webp",
+                "paragraphs": [
+                    "Nine B2B commerce leaders across seven firms, interviewed on what is changing on the ground. Manufacturers, distributors, and regulated sellers modernizing without breaking the operations that made them successful.",
+                    "Presented by Shopware, researched and written by Content Cucumber. A report like this one is what it looks like when a brand decides to go on the record about its own industry."
+                ],
+                "bullets": [
+                    "Data readiness and ERP-connected commerce, and what happens to projects that skip it",
+                    "Modernizing under private equity pressure without breaking the business",
+                    "What changes when you sell into healthcare, fintech, manufacturing, and distribution"
+                ],
+                "cta_text": "Read the report",
+                "cta_link": "/b2b-commerce-trends-report/"
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Built for commerce",
+                "title": "We Have Been Selling Since 1992",
+                "paragraphs": [
+                    "Content Cucumber is led by Brent Peterson, who opened his first retail store in 1992, built his first website in 1993, and launched Computer Mega Mall in 1999. He is a five-time Magento Master.",
+                    "That is why the work reads right. We know what a 2% conversion rate means and we know the difference between Shopify and Magento, so your reports cite the platforms, metrics, and buyers your market uses.",
+                    "Your case studies read like someone who has stood in your customer's warehouse wrote them, because we have."
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What Changes",
+                "subtitle": "What it looks like from your side once the work is running.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "You get cited",
+                        "text": "Research-backed writing earns citations and links from the analysts and journalists your market already reads, because it gives them something to point at."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "One writer who knows you",
+                        "text": "No rotating cast and no re-explaining your category every month. The same person carries your voice across every piece."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "One piece feeds many",
+                        "text": "A single flagship report becomes a run of social posts, a webinar, a press angle, and a reason for your team to reach out that does not feel like a pitch."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Proof your sales team reaches for",
+                        "text": "Case studies and enablement docs land in the buyer's inbox between calls, and that is where a deal is won or lost long before the next meeting."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "variant": "timeline",
+            "data": {
+                "title": "How We Start",
+                "subtitle": "A first engagement runs like this.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We interview you",
+                        "text": "Your point of view is the raw material. Isaac and Brent have interviewed hundreds of merchants, platforms, and integrators, so the conversation gets to the story underneath fast."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We scope the first piece",
+                        "text": "You say which argument is worth owning. We come back with one piece scoped to it and the sequence that follows."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer takes it",
+                        "text": "One human writer owns your account and learns how you sound, so the second piece costs you less explaining than the first."
+                    },
+                    {
+                        "number": "04",
+                        "title": "You review, we publish",
+                        "text": "You see drafts before anything goes live. A whitepaper or flagship report runs four to six weeks from kickoff to a design-ready draft."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "variant": "gray",
+            "data": {
+                "eyebrow": "Who does the work",
+                "title": "Isaac and Brent Do the Interviews",
+                "image": "content-flywheel-plan-assets/brent-isaac-flywheel.webp",
+                "paragraphs": [
+                    "Between them they have interviewed hundreds of merchants, platforms, and integrators, so the conversation gets past the pitch quickly and reaches the thing you know better than anyone.",
+                    "Isaac writes it, and he can make a dense platform migration read like a story you want to finish, then cut it to a single page when a page is all it needs. Brent pulls the numbers out of a project so the win is visible on the page.",
+                    "Thought leadership fails the moment it reads like filler, which is why a person carries every piece from the interview through to the final edit."
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions We Get on the Floor",
+                "items": [
+                    {
+                        "question": "What counts as thought leadership content?",
+                        "answer": "The long-form, research-backed work that makes your brand a source. Whitepapers, flagship reports, original research, case studies, sales enablement, and survey studies. Anything a buyer trusts and a competitor cannot easily copy."
+                    },
+                    {
+                        "question": "Is this written by AI?",
+                        "answer": "No. Every piece is researched, written, and edited by people. AI shows up in research pulls and fact checking, never in the draft."
+                    },
+                    {
+                        "question": "How long does a whitepaper or flagship report take?",
+                        "answer": "Four to six weeks from kickoff to a design-ready draft, depending on the research and the number of interviews."
+                    },
+                    {
+                        "question": "Can you run the survey too, or only write it up?",
+                        "answer": "Both. We design the survey, field it, analyze the results, and write the report and the pieces that come out of it."
+                    },
+                    {
+                        "question": "Do you design the report or just write it?",
+                        "answer": "We deliver a design-ready draft and can hand off to your designer, or take it through design with our team. Tell us which you need."
+                    },
+                    {
+                        "question": "What does it cost?",
+                        "answer": "Thought leadership content is scoped per piece and per program. Tell us the argument you want to own and we will price the first piece and the program behind it."
+                    },
+                    {
+                        "question": "Where can we find you at eTail?",
+                        "answer": "Brent Peterson is on the floor August 10 through 12 and moderating sessions during the event. Fill in the form and we will come find you."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Tell Us What You Want to Be Known For",
+                "text": "Give us the argument and we will scope the piece that makes it before you leave Boston."
+            }
+        }
+    ]
+}

@@ -1,87 +1,76 @@
 {
-  "form": {
-    "header": "Tell us about your content",
-    "subtitle": "",
-    "trust_text": "40+ human writers. Zero AI slop.",
-    "portal_id": "39487190",
-    "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
-    "region": "na1"
-  },
-  "seo": {
-    "title": "Contact - Content Cucumber",
-    "meta_description": "Talk to Content Cucumber about human-written content for your brand. Blog posts, case studies, email, social, video, and illustration on a weekly cadence."
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "data": {
-        "eyebrow": "Contact",
-        "title": "Let's talk about<br><em>your content</em>",
-        "paragraphs": [
-          "Tell us what you're trying to build and we'll come back with a real plan within one business day. No pitch deck. No generic discovery call. A short, honest read on whether we're a fit."
-        ]
-      }
+    "form": {
+        "campaign_code": "contact",
+        "header": "Tell us about your content",
+        "subtitle": "",
+        "trust_text": "Zero AI slop.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1"
     },
-    {
-      "type": "credibility",
-      "data": {
-        "eyebrow": "Why Content Cucumber",
-        "title": "Real humans, on a weekly cadence",
-        "paragraphs": [
-          "Content Cucumber has been shipping human-written content for ecommerce and B2B brands since 2018. We staff your content with a team of 40+ writers who learn your voice and deliver every week.",
-          "AI helps with research and ideation. Humans hold the pen. That distinction is what makes our work get cited by AI engines, read by humans, and remembered by buyers.",
-          "Founded in 2018 by Isaac Morey. Acquired by Brent Peterson in April 2025 after a seven-year client relationship."
-        ],
-        "stats": [
-          {
-            "number": "2018",
-            "label": "Founded"
-          },
-          {
-            "number": "40+",
-            "label": "Human Writers"
-          },
-          {
-            "number": "500+",
-            "label": "Podcast Episodes"
-          }
-        ]
-      }
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Contact - Content Cucumber",
+        "meta_description": "Talk to Content Cucumber about human-written content for your brand. Blog posts, case studies, email, social, video, and illustration on a weekly cadence."
     },
-    {
-      "type": "faq",
-      "data": {
-        "title": "Common Questions",
-        "items": [
-          {
-            "question": "What kind of content do you write?",
-            "answer": "Blog posts, case studies, email programs, landing pages, social media posts, white papers, and product descriptions. On Flywheel and Managed plans we also produce graphics, video editing, and illustration. Two pieces a week to start, scaling up from there."
-          },
-          {
-            "question": "Do you use AI?",
-            "answer": "We use AI for research, outlining, and ideation. We do not use AI to write or edit your published content. Every piece has a real human writer in the loop, every step of the way."
-          },
-          {
-            "question": "How do you learn my brand voice?",
-            "answer": "We start with a brand voice intake. We read your existing content, interview you about your audience, and produce a voice guide your writers reference on every brief. Voice drift is the first thing clients tell us they were worried about; it's the first thing we solve."
-          },
-          {
-            "question": "What does it cost?",
-            "answer": "Starter is $590/month for a dedicated writer with unlimited revisions. Content Flywheel is $1,000/month for multi-channel content (blogs, video, social, email). Managed Services starts at $2,500/month with a dedicated account manager. See the pricing page for full details."
-          },
-          {
-            "question": "How fast can we start?",
-            "answer": "After our discovery call, your first draft is usually ready within 24-48 hours on Starter. Flywheel takes about two weeks to spin up because of the monthly video interview cadence. Managed Services is custom."
-          }
-        ]
-      }
-    },
-    {
-      "type": "bottom-cta",
-      "data": {
-        "title": "Ready to talk?",
-        "text": "Tell us what you're working on and we'll respond within one business day."
-      }
-    }
-  ]
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Contact",
+                "title": "Let's talk about<br><em>your content</em>",
+                "paragraphs": [
+                    "Tell us what you're trying to build and we'll come back with a real plan within one business day. No pitch deck. No generic discovery call. A short, honest read on whether we're a fit."
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Why Content Cucumber",
+                "title": "Real humans, on a weekly cadence",
+                "paragraphs": [
+                    "Content Cucumber has been shipping human-written content for ecommerce and B2B brands since 2018. We staff your content with a team of 40+ writers who learn your voice and deliver every week.",
+                    "We use AI for research and ideation, and every word is written by a human. That distinction is what makes our work get cited by AI engines, read by humans, and remembered by buyers.",
+                    "Founded in 2018 by Isaac Morey. Acquired by Brent Peterson in April 2025 after a seven-year client relationship."
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "What kind of content do you write?",
+                        "answer": "Blog posts, case studies, email programs, landing pages, social media posts, white papers, and product descriptions. On Flywheel and Managed plans we also produce graphics, video editing, and illustration. Two pieces a week to start, scaling up from there."
+                    },
+                    {
+                        "question": "Do you use AI?",
+                        "answer": "We use AI for research, outlining, and ideation. We do not use AI to write or edit your published content. Every piece has a real human writer in the loop, every step of the way."
+                    },
+                    {
+                        "question": "How do you learn my brand voice?",
+                        "answer": "We start with a brand voice intake. We read your existing content, interview you about your audience, and produce a voice guide your writers reference on every brief. Voice drift is the first thing clients tell us they were worried about; it's the first thing we solve."
+                    },
+                    {
+                        "question": "What does it cost?",
+                        "answer": "Starter is $590/month for a dedicated writer with unlimited revisions. Content Flywheel is $1,000/month for multi-channel content (blogs, video, social, email). Managed Services starts at $2,500/month with a dedicated account manager. See the pricing page for full details."
+                    },
+                    {
+                        "question": "How fast can we start?",
+                        "answer": "After our discovery call, your first draft is usually ready within 24-48 hours on Starter. Flywheel takes about two weeks to spin up because of the monthly video interview cadence. Managed Services is custom."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to talk?",
+                "text": "Tell us what you're working on and we'll respond within one business day."
+            }
+        }
+    ]
 }

@@ -1,10 +1,13 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $100 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
         "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $100, or custom packages.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "interviews",
         "bottom_only": true
     },
     "thankyou": {
@@ -25,15 +28,6 @@
                     "Three packages. Limited to 8 interviews per event. <a href=\"/conference-coverage/\">See our full conference video production service</a>."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "500+", "label": "Podcast Episodes" },
-                { "number": "40+", "label": "Human Writers" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "8", "label": "Slots Per Event" }
-            ]
         },
         {
             "type": "bundles",

@@ -1,10 +1,14 @@
 {
     "seo": {
+        "title": "Buscamos redactores y creadores - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Únete al equipo de creadores de Content Cucumber. Producimos contenido para marcas de ecommerce, agencias de marketing y retailers especializados. Impulsado por personas, asistido por IA.",
         "og_description": "Content Cucumber está contratando creadores que hablen inglés nativo. Trabajo estable por contrato produciendo blogs, contenido de productos, redes sociales, email, video y más para marcas reales.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "we-need-writers-es",
         "header": "Aplica para unirte a nuestro equipo",
         "subtitle": "Cuéntanos qué haces y cómo te gusta crear. Revisamos cada solicitud.",
         "bottom_only": true,
@@ -27,15 +31,6 @@
                 "platforms_label": "Creamos contenido para",
                 "platforms": "eCommerce &bull; CMS &bull; Marketing &bull; SaaS &bull; B2B &bull; Retail &bull; DTC &bull; y más"
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "70+", "label": "Creadores en el equipo" },
-                { "number": "100+", "label": "Clientes atendidos" },
-                { "number": "600+", "label": "Episodios de podcast producidos" },
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" }
-            ]
         },
         {
             "type": "challenges",
@@ -70,7 +65,7 @@
             "type": "shift",
             "data": {
                 "eyebrow": "Cómo trabajamos",
-                "title": "Esto no es una fábrica de contenido.<br>Es un <em>equipo de verdad</em>.",
+                "title": "Contenido creado por un<br><em>equipo de verdad</em>.",
                 "paragraphs": [
                     "La mayoría del trabajo freelance de contenido es puro trámite. Recibes un brief, lo escribes, te pagan y nunca vuelves a saber del cliente.",
                     "Nosotros hacemos las cosas diferente. Te asignamos cuentas de clientes y trabajas con ellos mes con mes. Aprendes su voz de marca, sus clientes, sus productos. Una marca de ecommerce que te confía su blog este mes te va a confiar el lanzamiento de su producto el mes que viene."

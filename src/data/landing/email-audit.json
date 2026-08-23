@@ -1,5 +1,7 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Scored audit of your email and SMS programs. Free 15-minute version. Paid version includes 40+ checkpoints, action plan, and review call. Mailchimp partner.",
         "og_description": "Get a scored audit of your email and SMS programs. Free 15-minute version available. Mailchimp partner.",
         "og_image": "/wp-content/uploads/email-audit/og-email-audit.webp"
@@ -8,9 +10,10 @@
         "header": "Book Your Free 15-Minute Audit",
         "subtitle": "We pull your last 90 days of email and SMS sends, identify the three biggest leaks, and tell you if a deeper engagement makes sense.",
         "trust_text": "Mailchimp + HubSpot Solutions Partner. Your data stays private. Free, no obligation.",
-        "portal_id": "REPLACE_WITH_REAL_PORTAL_ID",
-        "form_id": "REPLACE_WITH_REAL_FORM_ID",
-        "region": "na1"
+        "portal_id": "39487190",
+        "form_id": "db284bbd-d881-4f84-a1d0-ac42d5d0f338",
+        "region": "na1",
+        "campaign_code": "email-audit"
     },
     "thankyou": {
         "title": "Audit booked",
@@ -26,31 +29,10 @@
                 "title": "The Audit That <em>Tells You</em> What to Fix",
                 "paragraphs": [
                     "A scored, written audit of your email and SMS programs. Real findings. Real fixes. No 90-page PDFs that nobody reads.",
-                    "Email programs rarely need a rebuild. They need a read. The welcome series ends after one email. Half the list has not been emailed in six months. The abandoned cart fires at the wrong time. We find the leaks.",
+                    "Most email programs are leaking revenue in fixable places rather than broken. The welcome series ends after one email. Half the list has not been emailed in six months. The abandoned cart fires at the wrong time. We find the leaks.",
                     "One audit covers both pillars. Email findings, SMS findings, and the cross-channel coordination findings. Same engagement, same report, same scoring."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "logo": "/wp-content/plugins/requestdesk-connector/includes/data/logos/mailchimp.png",
-                    "label": "Mailchimp Partner"
-                },
-                {
-                    "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
-                    "label": "HubSpot Solutions Partner"
-                },
-                {
-                    "number": "40+",
-                    "label": "Audit Checkpoints"
-                },
-                {
-                    "number": "10",
-                    "label": "Business Days"
-                }
-            ]
         },
         {
             "type": "bundles",
@@ -184,7 +166,7 @@
                     },
                     {
                         "question": "Is the audit just for email, or does it cover SMS too?",
-                        "answer": "Both. The audit is shared across our two channel pillars. One engagement, one report, with email findings, SMS findings, and cross-channel coordination findings inside it. We do not run two separate audits because the channels do not run two separate programs."
+                        "answer": "Both. The audit is shared across our two channel pillars. One engagement, one report, with email findings, SMS findings, and cross-channel coordination findings inside it. One audit, because email and SMS run as a single program."
                     }
                 ]
             }

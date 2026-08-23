@@ -1,20 +1,23 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Audio Storytelling for your brand. We interview your founders, operators, and customers, then turn the conversations into story arcs and content you can use on stage, in sales, and on the Talk Commerce podcast network.",
-        "og_description": "Your story already exists. It is stuck in your head. We interview, capture, and turn the conversation into branded story assets you can actually use.",
+        "og_description": "Your story already exists. It is stuck in your head. We interview, capture, and turn the conversation into branded story assets you can use.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "audio-storytelling",
         "header": "Book an Audio Storytelling Session",
         "subtitle": "",
-        "trust_text": "500+ podcast episodes produced. 100+ founders interviewed on the Talk Commerce network.",
+        "trust_text": "Written and edited by people.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
     },
     "thankyou": {
-        "title": "You're booked. Here's what happens next.",
-        "text": "We'll confirm a discovery interview slot, walk through who should sit at the mic, and send a short prep guide so you arrive ready to talk, not perform.",
+        "title": "You're booked. This is what happens next.",
+        "text": "We'll confirm a discovery interview slot, walk through who sits at the mic, and send a short prep guide so you arrive ready to talk, not perform.",
         "link_anchor": "lookslike",
         "link_text": "See what Audio Storytelling sounds like in practice"
     },
@@ -31,15 +34,6 @@
                 "video_bg": "",
                 "video_bg_poster": ""
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "500+", "label": "Podcast Episodes Produced" },
-                { "number": "100+", "label": "Founders Interviewed" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "0", "label": "Scripts or Teleprompters" }
-            ]
         },
         {
             "type": "challenges",
@@ -76,7 +70,7 @@
                 "eyebrow": "Why It Works",
                 "title": "Your story already exists. <em>It is stuck in your head.</em>",
                 "paragraphs": [
-                    "Founders write a blog post and it sounds like a brochure. They sit in front of a microphone and the actual story comes out. The version with the timing, the embarrassing first attempt, the customer who almost walked away, the moment the team realized what they were really selling.",
+                    "Founders write a blog post and it sounds like a brochure. They sit in front of a microphone and the real story comes out. The version with the timing, the embarrassing first attempt, the customer who almost walked away, the moment the team realized what they were really selling.",
                     "That version closes deals. That version gets remembered after a keynote. That version is the one your sales team wishes they had on the next call.",
                     "Audio captures it because conversation defeats the blank page. The story was always there. It just needed someone in the room asking the right questions."
                 ],
@@ -94,7 +88,7 @@
                     "heading": "With Audio Storytelling",
                     "items": [
                         "Real conversation captured at studio quality",
-                        "A story arc your team can actually repeat",
+                        "A story arc your team can repeat",
                         "Content assets that sound like you because they are you",
                         "Distribution to an audience that already cares",
                         "A keynote people quote back to you weeks later"
@@ -106,7 +100,7 @@
             "type": "bundles",
             "data": {
                 "title": "How You Engage",
-                "subtitle": "One story is a story. A library of stories is a brand voice. Pick the engagement that matches what you actually need.",
+                "subtitle": "The more stories you capture, the closer you get to a brand voice you can hear. Pick the engagement that matches what you need.",
                 "items": [
                     {
                         "name": "Story Session",
@@ -154,17 +148,17 @@
                     {
                         "icon": "users",
                         "title": "Sales Conversations",
-                        "text": "Send a prospect the episode where your founder explains exactly why the product exists. Send a partner the segment where their category was the turning point. Nothing warms a cold outreach like hearing a familiar voice tell a real story."
+                        "text": "Send a prospect the episode where your founder explains why the product exists. Send a partner the segment where their category was the turning point. Nothing warms a cold outreach like hearing a familiar voice tell a real story."
                     },
                     {
                         "icon": "chart",
                         "title": "Stage and Webinars",
-                        "text": "The same story you told at the mic is the one you tell on stage. The arc is already there. The pacing is already there. You stop reciting bullet points and start telling the story that actually gets remembered."
+                        "text": "The same story you told at the mic is the one you tell on stage. The arc is already there. The pacing is already there. You tell the story that gets remembered."
                     },
                     {
                         "icon": "search",
                         "title": "Website and Case Studies",
-                        "text": "Transcripts become blog posts, case study quotes, and landing page copy without starting from a blank page. The interview already did the hard work. The writer's job is to choose, not to invent."
+                        "text": "Transcripts become blog posts, case study quotes, and landing page copy without starting from a blank page. The interview already did the hard work. The writer's job is to choose from what's already there."
                     },
                     {
                         "icon": "growth",
@@ -180,15 +174,9 @@
                 "eyebrow": "Built on 500+ Conversations",
                 "title": "We have been telling brand stories on Talk Commerce since 2020.",
                 "paragraphs": [
-                    "Audio Storytelling is not a new service we invented for a landing page. It is the work that produced the <a href=\"https://talk-commerce.com\">Talk Commerce</a> podcast: hundreds of conversations with ecommerce founders, operators, agency leaders, and platform teams, each one a brand story captured live.",
+                    "Audio Storytelling is the work that produced the <a href=\"https://talk-commerce.com\">Talk Commerce</a> podcast: hundreds of conversations with ecommerce founders, operators, agency leaders, and platform teams, each one a brand story captured live.",
                     "Brent W Peterson hosts. 500+ episodes produced. 100+ founders interviewed. The interviews sound like conversations because they are.",
                     "Your brand. Your people at the mic. Our team running the story arc and the distribution."
-                ],
-                "stats": [
-                    { "number": "500+", "label": "Podcast Episodes" },
-                    { "number": "100+", "label": "Founders Interviewed" },
-                    { "number": "30+", "label": "Years in Ecommerce" },
-                    { "number": "0", "label": "Scripts or Teleprompters" }
                 ]
             }
         },
@@ -215,7 +203,7 @@
                     },
                     {
                         "question": "\"Is this a one-time project or ongoing?\"",
-                        "answer": "Both work, but the engagement that builds a real brand voice is the six-month retainer. One interview is a story. Six months is a body of work."
+                        "answer": "Both work, but the engagement that builds a real brand voice is the six-month retainer. Six months of interviews builds a full body of work."
                     },
                     {
                         "question": "\"What does it cost?\"",
@@ -228,7 +216,7 @@
             "type": "bottom-cta",
             "data": {
                 "title": "Got a story stuck in your head?",
-                "text": "Tell us roughly who would sit at the mic (you, your founder, a customer, a partner) and what story you wish more people knew. We'll come back with a scoped plan and a fixed quote. <a href=\"/event-podcasting/\">Capturing stories at a live event instead? See Event Podcasting.</a>"
+                "text": "Tell us roughly who would sit at the mic (you, your founder, a customer, a partner) and what story you wish more people knew. We'll come back with a scoped plan and a fixed quote. <a href=\"/conference-coverage/event-podcasting/\">Capturing stories at a live event instead? See Event Podcasting.</a>"
             }
         }
     ]

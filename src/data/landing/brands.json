@@ -1,13 +1,16 @@
 {
     "form": {
+        "campaign_code": "brands",
         "header": "Let's write your success story!",
         "subtitle": "",
-        "trust_text": "40+ human writers. 500+ podcast episodes. 30+ years in commerce. Zero AI slop.",
+        "trust_text": "Zero AI slop.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Our Brands - Content Cucumber, RequestDesk, Talk Commerce",
         "meta_description": "Three brands working together to solve the full content problem. Content Cucumber for human writing, RequestDesk for the platform, Talk Commerce for media and podcasts.",
         "slug": "brands"

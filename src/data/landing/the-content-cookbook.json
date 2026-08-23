@@ -6,13 +6,13 @@
         "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/the-content-cookbook-assets/cookbook-cover.webp",
         "og_type": "article",
         "twitter_card": "summary_large_image",
-        "noindex": "false",
-        "nofollow": "false"
+        "noindex": false,
+        "nofollow": false
     },
     "form": {
         "header": "Book a free demo",
         "subtitle": "See the Content Flywheel Plan in action.",
-        "trust_text": "Human-powered. 40+ writers. 30+ years in ecommerce.",
+        "trust_text": "Human-powered.",
         "portal_id": "39487190",
         "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
         "region": "na1",
@@ -37,22 +37,13 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "40+", "label": "Human Writers" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "5", "label": "Checks on Every Draft" },
-                { "number": "1", "label": "Dedicated Writer Per Account" }
-            ]
-        },
-        {
             "type": "shift",
             "data": {
                 "eyebrow": "Recipe One",
                 "title": "The Myth of AI Content",
                 "paragraphs": [
                     "The pitch was clean. AI writes now. Point it at your blog, your product pages, and your emails, and the content problem goes away. Cancel the freelancer. Thin out the team. Let the machine run.",
-                    "Then the content ships, and it reads like everyone else's. The writer you replaced did things their job description never listed. They knew your voice. They knew what was true. They had taste. They held context. None of that was on the invoice. All of it was the point."
+                    "Then the content ships, and it reads like everyone else's. The writer you replaced did things their job description never listed. They knew your voice. They knew what was true. They had taste. They held context. Those skills never showed up on the invoice, and they were the whole point."
                 ],
                 "old_way": {
                     "heading": "The myth's recipe",
@@ -78,7 +69,7 @@
             "type": "challenges",
             "data": {
                 "title": "What the myth costs you",
-                "subtitle": "Remove the human and the failure modes are predictable. They show up quietly.",
+                "subtitle": "Remove the human and the failure modes are predictable. They show up the same way every time.",
                 "items": [
                     {
                         "title": "Everything sounds the same",
@@ -102,15 +93,39 @@
         {
             "type": "how-it-works",
             "data": {
-                "title": "The recipe: where the human stays in the loop",
+                "title": "The recipe, where the human stays in the loop",
                 "subtitle": "Automate the drafting. Staff the judgment.",
                 "steps": [
-                    { "number": "01", "title": "Ideas", "text": "Human-led. A person decides what your audience needs to hear. That comes from knowing the business." },
-                    { "number": "02", "title": "Research and outline", "text": "Shared. AI gathers and structures. A person decides what matters and what the angle is." },
-                    { "number": "03", "title": "First draft", "text": "AI-assisted. This is where the speed lives, and where a model earns its place." },
-                    { "number": "04", "title": "Editing and voice", "text": "Human, always. Voice, cuts, point of view, the line that does not belong." },
-                    { "number": "05", "title": "Fact-checking", "text": "Human, always. Every claim, number, and name verified by someone who can be held to it." },
-                    { "number": "06", "title": "Publish and strategy", "text": "Human-led. What goes out, to whom, and how it connects to the pieces around it." }
+                    {
+                        "number": "01",
+                        "title": "Ideas",
+                        "text": "Human-led. A person decides what your audience needs to hear. That comes from knowing the business."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Research and outline",
+                        "text": "Shared. AI gathers and structures. A person decides what matters and what the angle is."
+                    },
+                    {
+                        "number": "03",
+                        "title": "First draft",
+                        "text": "AI-assisted. This is where the speed lives, and where a model earns its place."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Editing and voice",
+                        "text": "Human, always. Voice, cuts, point of view, the line that does not belong."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Fact-checking",
+                        "text": "Human, always. Every claim, number, and name verified by someone who can be held to it."
+                    },
+                    {
+                        "number": "06",
+                        "title": "Publish and strategy",
+                        "text": "Human-led. What goes out, to whom, and how it connects to the pieces around it."
+                    }
                 ]
             }
         },
@@ -118,13 +133,38 @@
             "type": "outcomes",
             "data": {
                 "title": "The review rubric",
-                "subtitle": "Five checks a person runs on any AI draft before it ships. A model cannot run a single one.",
+                "subtitle": "Six checks a person runs on any AI draft before it ships. A model cannot run a single one.",
                 "items": [
-                    { "icon": "search", "title": "Voice fidelity", "text": "Does this sound like us, not like content in general? If it could run on a competitor's site with the logo swapped, it fails." },
-                    { "icon": "settings", "title": "Accuracy", "text": "Is every claim, number, name, and quote verified and true? No exceptions for the ones that sound right." },
-                    { "icon": "growth", "title": "Originality", "text": "Is there a point of view here, or just a competent summary of what everyone already says?" },
-                    { "icon": "users", "title": "Brand safety", "text": "Anything we would not want quoted back to us? A claim we cannot support, a tone that misreads the moment." },
-                    { "icon": "chart", "title": "Strategic fit", "text": "Does this piece do a job, or just fill a slot on the calendar?" }
+                    {
+                        "icon": "search",
+                        "title": "Voice fidelity",
+                        "text": "Does this sound like us, not like content in general? If it could run on a competitor's site with the logo swapped, it fails."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Accuracy",
+                        "text": "Is every claim, number, name, and quote verified and true? No exceptions for the ones that sound right."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Originality",
+                        "text": "Is there a point of view here, or just a competent summary of what everyone already says?"
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Brand safety",
+                        "text": "Anything we would not want quoted back to us? A claim we cannot support, a tone that misreads the moment."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Strategic fit",
+                        "text": "Does this piece do a job, or just fill a slot on the calendar?"
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Sourcing",
+                        "text": "Can every fact in here be traced to something you could open and read? A claim with no source behind it is a guess wearing a confident sentence."
+                    }
                 ]
             }
         },
@@ -136,11 +176,6 @@
                 "paragraphs": [
                     "Content Cucumber is a human-powered marketing company. AI helps us draft faster. A person who already knows your brand keeps the voice yours.",
                     "The Content Flywheel Plan puts a dedicated writer and a content strategist behind your brand. A short monthly interview becomes a full month of content, sourced from what you said, so it sounds like you because it is you."
-                ],
-                "stats": [
-                    { "number": "40+", "label": "Human Writers" },
-                    { "number": "30+", "label": "Years in Ecommerce" },
-                    { "number": "1", "label": "Dedicated Writer Per Account" }
                 ]
             }
         },

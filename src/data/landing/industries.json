@@ -1,0 +1,167 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Industry-Specific Content by People Who Know Your Field",
+        "meta_description": "The internet is filling with AI copy that reads the same. Industry-specific content from experts who know your field is what AI search cites and buyers trust."
+    },
+    "form": {
+        "campaign_code": "industries",
+        "header": "Start a conversation",
+        "subtitle": "Tell us what you publish and where you want to grow. We will come back with a scoped first month.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "sidebar": {
+        "form": {
+            "portal_id": "39487190",
+            "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+            "region": "na1"
+        },
+        "title": "Hand the writing to people who know your industry.",
+        "text": "Tell us what you publish and where you want to grow. We will scope a first month and walk you through it.",
+        "trust_text": "40+ human writers. 60,000+ pieces shipped."
+    },
+    "hero": {
+        "bg_image": "industries-assets/industries-hero.webp",
+        "eyebrow": "The internet is drowning in sameness",
+        "title": "Industry-Specific Content, by People Who Know Your Field",
+        "subtitle": "Anyone can prompt a model to write about your industry, and what comes back is a rearrangement of what has already been written. That is sideways. We staff people who come up with what does not exist yet, and we hand them every tool we have, AI research included, to point it forward."
+    },
+    "sections": [
+        {
+            "id": "what-this-is",
+            "title": "What industry-specific content means",
+            "content": "<p>An agency will tell you it writes for your industry, and often that means a writer who covers ten verticals and meets yours on the morning of the deadline, one search deep. A writer who knows your field walks in already fluent in its rules, its buyers, and the way people in it talk, so the research is a refresher, and the copy sounds like it came from inside the room.</p>"
+        },
+        {
+            "id": "the-case",
+            "title": "Why the industry is pointed sideways",
+            "content": "<p>The agencies you are comparing us against are running agents. A model builds out of what already exists, so what it returns is a rearrangement of what has already been written, which means it looks back and it moves sideways. The ideas that have not existed yet still come from a person, and no amount of tooling changes where they come from, so we aim every tool we have, AI research included, forward.</p><p>That direction is also what gets you cited, because answer engines build replies from passages they can stand behind, then name the sources out loud. So how do you get into that handful? A straight answer, facts the engine can point at, and expertise it can attribute. Hedging is what a writer does when they do not know the subject, and hedged copy is the kind nothing wants to quote.</p><p>So what does a writer who knows a field actually give you that a generalist does not? The detail a generalist rounds off, which means the disclosure a financial post cannot run without, the Fair Housing phrasing a real estate page has to avoid, and the verb a healthcare page is not allowed to use. Those specifics are what gets cited, and they are the first thing a content mill gets wrong.</p><p>Readers grade on the same curve without ever naming it, and a page assembled from three competitors gets closed before the second paragraph. Google calls the useful part Experience, and it is the one letter you cannot borrow, which is why the same signal that wins the citation is the one that closes the buyer.</p>"
+        },
+        {
+            "id": "industries-we-cover",
+            "title": "The industries we write for",
+            "content": "<p>Industries run on rules a writer has to know cold, and break one and a practitioner catches it in a sentence, as does the reviewer whose signature is on the line. A writer who leads with the rules earns the citation and the trust in the same move, and that fluency is the part a prompt cannot produce.</p><p>Ecommerce and B2B commerce are the largest part of what we write, and neither has a page here yet. This list is the industries we have built out so far, and it is not the limit of who we write for. A page goes up when the search demand and the AI-search opportunity both justify doing one properly, with writers who already know the field. Why not list twenty and fill them in later? Because that is a directory of thin lookalike pages, and it is the thing this page exists to argue against. If your industry is not on the list, ask us, because we probably already write for it.</p>",
+            "verticals": [
+                {
+                    "name": "Accounting and bookkeeping",
+                    "status": "live",
+                    "url": "/industries/accounting/",
+                    "blurb": "GAAP, the filing calendar, AICPA standards, and the attest and advisory line.",
+                    "short": "Accounting"
+                },
+                {
+                    "name": "Real estate",
+                    "status": "live",
+                    "url": "/industries/real-estate/",
+                    "blurb": "Fair Housing language, RESPA, MLS data rules, and license disclosure.",
+                    "short": "Real Estate"
+                },
+                {
+                    "name": "Healthcare",
+                    "status": "live",
+                    "url": "/industries/healthcare/",
+                    "blurb": "Where a benefit ends and a medical claim begins, and privacy in patient stories.",
+                    "short": "Healthcare"
+                },
+                {
+                    "name": "Manufacturing and industrial",
+                    "status": "live",
+                    "url": "/industries/manufacturing/",
+                    "blurb": "Specifications and tolerances, standards, and the technical buying committee.",
+                    "short": "Manufacturing"
+                },
+                {
+                    "name": "Cannabis and CBD",
+                    "status": "live",
+                    "url": "/industries/cannabis/",
+                    "blurb": "The claim line, state-by-state advertising rules, and organic as the main channel.",
+                    "short": "Cannabis"
+                },
+                {
+                    "name": "SaaS and startups",
+                    "status": "live",
+                    "url": "/industries/saas/",
+                    "blurb": "Technical depth that survives a skim, and one voice across a lot of output.",
+                    "short": "SaaS"
+                },
+                {
+                    "name": "Legal",
+                    "status": "live",
+                    "url": "/industries/legal/",
+                    "blurb": "Bar advertising rules, the line at unauthorized practice, privilege in examples.",
+                    "short": "Legal"
+                },
+                {
+                    "name": "Financial services",
+                    "status": "live",
+                    "url": "/industries/financial/",
+                    "blurb": "SEC and FINRA marketing rules, and performance written as reporting.",
+                    "short": "Financial"
+                },
+                {
+                    "name": "Specialty food makers",
+                    "status": "live",
+                    "url": "/industries/specialty-food/",
+                    "short": "Specialty Food",
+                    "blurb": "Label language, catalog-scale product pages, and a fourth quarter that decides the year."
+                },
+                {
+                    "name": "Run specialty retail",
+                    "status": "live",
+                    "url": "/industries/run-specialty/",
+                    "short": "Run Specialty",
+                    "blurb": "Fit expertise, training content, and a race calendar the internet cannot discount."
+                }
+            ]
+        },
+        {
+            "id": "your-voice",
+            "title": "Your voice, learned from your published work",
+            "content": "<p>Two accounting firms do not sound alike, and your content has no business wearing a house style stamped across a whole industry. Expertise is the floor, your voice is what we build on top of it, and we will not hand it back to you sounding like the vendor.</p><p>When you sign on, we read your brand guide, everything you have published recently, and the competitors you want to bury, and that becomes a style sheet the writers work against from day one. The first month is calibration, and after that the voice holds, because the same writers stay on your account.</p>"
+        },
+        {
+            "id": "how-its-made",
+            "title": "How the content gets made",
+            "content": "<p>You file a brief, we pick it up, and you watch it move through draft, edit, and ready-to-publish without booking a status meeting. The editor reads every piece before you do, and if a draft misses your voice we fix it before it reaches you.</p><p>Writers are assigned to your account and stay there, so the person writing in month six carries what they learned in month one. AI supports the research around a draft while humans do the writing, which means the writer owns the words and an editor holds the standard, and what lands in your inbox came from a person who knows your brand and your field.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "Is this content written by humans?",
+                "answer": "Yes. Every word comes from a human writer. AI shows up in research, fact-checking, and SEO scoring, and never in the draft. The writer owns the work and an editor reads every piece."
+            },
+            {
+                "question": "How does industry-specific content help me show up in AI search?",
+                "answer": "AI answer engines assemble their answers from a handful of passages they can cite, and they name the sources. Getting picked takes a straight answer, facts the engine can stand behind, and expertise it can point to, which is what a writer who knows your field produces and a generalist rounds off. We structure the work so it gets pulled into AI answers as well as ranked on Google."
+            },
+            {
+                "question": "Which industries do you write for?",
+                "answer": "More than the ones listed on this page. Ecommerce and B2B commerce are the largest part of what we write and neither has a page here yet, so treat the list as the industries we have built out rather than the limit of who we serve. We open them one at a time as search demand and AI-search opportunity line up, so the depth is earned rather than a label, and if your industry is not covered yet, tell us and we will scope it."
+            },
+            {
+                "question": "Why not use AI to write everything?",
+                "answer": "Because a model can only build from what already exists, so it rearranges what has already been written. That moves sideways. We use AI for research and fact-checking, where looking back is exactly the job, and we keep the ideas with the people who can point forward."
+            },
+            {
+                "question": "Who owns the content I receive?",
+                "answer": "You do. All deliverables transfer fully on delivery, including the right to modify, repost, and republish under your name."
+            },
+            {
+                "question": "How fast can you start?",
+                "answer": "Onboarding takes one to two weeks. The first deliverable usually ships within ten business days of contract signature."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Publish what a machine cannot fake",
+        "text": "Tell us what you publish and where you want to grow. We will scope a first month and walk you through it.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/"
+    }
+}

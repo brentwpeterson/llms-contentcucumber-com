@@ -1,12 +1,15 @@
 {
     "no_nav": true,
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Lost in the Forest of Composable Commerce? | Content Cucumber Research",
         "meta_description": "Free research paper comparing composable vs embedded commerce platforms. Year-1 costs, timelines, team requirements for commercetools and VTEX.",
         "og_description": "Independent research comparing commercetools and VTEX. Assembly costs, time-to-market, and team size analysis for enterprise commerce decisions.",
         "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
     },
     "form": {
+        "campaign_code": "composable-commerce-research",
         "header": "Download the Research",
         "portal_id": "39487190",
         "form_id": "dd7b7bdd-da95-4a62-aa6b-34142738a881",

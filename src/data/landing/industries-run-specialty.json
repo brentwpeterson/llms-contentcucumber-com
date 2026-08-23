@@ -1,0 +1,197 @@
+{
+    "seo": {
+        "title": "Run Specialty Content That Sends Runners to Your Store",
+        "meta_description": "Runners can buy your shoes cheaper online. We write the fitting, training, and race-calendar content that makes your store the reason they drive over.",
+        "og_description": "Runners can buy your shoes cheaper online. We write the fitting, training, and race-calendar content that makes your store the reason they drive over.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "header": "Tell us what you publish",
+        "subtitle": "Send your store site and the races your customers run. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "campaign_code": "industries-run-specialty"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your store and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Run specialty",
+                "title": "Get found for the one thing <em>the internet cannot do</em>",
+                "paragraphs": [
+                    "A runner can buy the exact shoe you stock tonight, for less, without leaving the couch. That is the whole competitive picture, and writing about the shoe does not change any of it.",
+                    "What they cannot get online is somebody watching them run and saying try this one instead. We write the pages that make that the reason they drive to you."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "You cannot win on the shoe",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "Every store in the country stocks the same handful of models at the same price, and the internet undercuts all of them. Publishing another review of a shoe that four hundred sites have already covered enters you in a race you cannot finish, against competitors who publish forty of them a week.",
+                            "Two things are yours outright. The fitting, where somebody watches a gait and hands over the right shoe. And the calendar, where a group meets on Saturday whether or not anyone buys anything. Neither one exists online, and almost nobody bothers to write them down.",
+                            "That is where the writing goes, and it is why this page does not talk about shoes."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "variant": "timeline",
+            "data": {
+                "title": "A year in your store",
+                "subtitle": "When does a run shop buy content? Not when somebody has a spare afternoon, but on a calendar, so the work follows one.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "The resolution crowd arrives",
+                        "text": "People who have never run before, looking for a shoe and for permission. The content that brings them in answers what they are embarrassed to ask out loud."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Race season opens",
+                        "text": "Local 5Ks and halfs, expos, and group runs. A maintained race calendar earns links from clubs and race directors, which is the cheapest authority available to a store."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Base miles and heat",
+                        "text": "Mileage questions, hydration, and the first injuries. Retail goes quiet, which makes it the best stretch of the year to publish the training content that keeps earning."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Marathon season",
+                        "text": "Taper, race-day logistics, and the shoe somebody has to trust for twenty-six miles. The highest-intent stretch you get."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Where a store loses the runner",
+                "subtitle": "None of these read as mistakes from the inside. They read as perfectly normal store content.",
+                "items": [
+                    {
+                        "title": "Another review of a shoe everyone reviewed",
+                        "text": "A model gets its four hundredth writeup, ranked by review score rather than by the foot in front of you, and it lands on page nine."
+                    },
+                    {
+                        "title": "Training plans from someone who has not trained",
+                        "text": "Paces rounded off, reasoning missing, and a workout that stops making sense in week nine. A runner checks this against their own legs, which no other category can do."
+                    },
+                    {
+                        "title": "A race calendar nobody maintained",
+                        "text": "Built once, still listing a race that moved, sending the exact local runner you wanted somewhere else. The page that could have earned you links costs you trust instead."
+                    },
+                    {
+                        "title": "Writing to beginners when your buyers are not",
+                        "text": "Explaining what a tempo run is to somebody on their fourth marathon. Your best customers stop reading, and the people who stay were never going to spend."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Written by people who run",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "In this field that goes further than usual. Brent Peterson, who runs Content Cucumber, is an RRCA-certified coach who has finished 34 marathons. Training content is assigned to writers who have done the workouts they are describing, because a runner can tell inside a paragraph when they have not."
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found by the runners near you",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, and vague copy does not clear that bar.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The question comes first",
+                        "text": "Sections that open with the answer, in the shape a runner asks it."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way your buyer asks",
+                        "text": "A runner searching for a problem finds the heading that matches the question, not your category page."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote",
+                        "text": "Named paces, named distances, named shoes, because a model needs something concrete to cite."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Pages that keep earning",
+                        "text": "Training and fit content that is still true, and still found, three seasons later."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "anchor": "packages",
+            "data": {
+                "title": "Where stores usually start",
+                "subtitle": "Run specialty buys on a calendar rather than a whim, so these are built around your season.",
+                "items": [
+                    {
+                        "name": "Found by Runners Nearby",
+                        "target": "Stores losing search to chains and direct-to-consumer brands",
+                        "outcome": "Show up when a runner nearby is looking for a shoe, a fitting, or a group run",
+                        "outcomes": [
+                            "Store, fitting, and gait analysis pages written to be found locally",
+                            "Group run and event pages kept current through the season",
+                            "A local race calendar built to earn links from clubs and race directors"
+                        ]
+                    },
+                    {
+                        "name": "The Training Authority",
+                        "target": "Stores that want to be the local authority rather than the local inventory",
+                        "outcome": "Monthly training content written by people who run, calibrated to your season",
+                        "featured": true,
+                        "badge": "Recommended",
+                        "outcomes": [
+                            "Training content written by certified coaches",
+                            "Built around your calendar, from base season through taper",
+                            "Fit and injury content that sends people into the store",
+                            "Save with a six-month or annual signup"
+                        ]
+                    },
+                    {
+                        "name": "Launch and Season Push",
+                        "target": "Stores with a model drop, a race expo, or a season opening",
+                        "outcome": "Content ready before the moment rather than after it",
+                        "outcomes": [
+                            "Shoe comparison content around new releases",
+                            "Race expo and event promotion",
+                            "Standalone, or bolted onto the retainer"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Give runners a reason to drive to you",
+                "text": "Tell us what you publish and which races your customers are training for, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

@@ -1,91 +1,73 @@
 {
-  "form": {
-    "header": "Talk to a real writer",
-    "subtitle": "",
-    "trust_text": "40+ human writers. Zero AI slop.",
-    "portal_id": "39487190",
-    "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
-    "region": "na1"
-  },
-  "seo": {
-    "title": "How It Works - Content Cucumber",
-    "meta_description": "An 11-minute walkthrough of how Content Cucumber's Content Flywheel Plan works. Onboarding, brand voice, weekly cadence, multi-channel distribution, and the team behind it."
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "data": {
-        "eyebrow": "How It Works",
-        "title": "One interview. Months of content.",
-        "paragraphs": [
-          "Isaac Morey walks through the full Content Flywheel Plan in 11 minutes. Onboarding, brand voice, SEO-driven topic selection, the weekly cadence, multi-channel distribution, and the team behind every piece."
-        ],
-        "youtube_id": "UjiRJZIPj18",
-        "youtube_layout": "grid",
-        "youtube_title": "How the Content Flywheel Plan Works"
-      }
+    "form": {
+        "campaign_code": "how-it-works",
+        "header": "Talk to a real writer",
+        "subtitle": "",
+        "trust_text": "Zero AI slop.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1"
     },
-    {
-      "type": "proof-bar",
-      "data": [
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "How It Works - Content Cucumber",
+        "meta_description": "An 11-minute walkthrough of how Content Cucumber's Content Flywheel Plan works. Onboarding, brand voice, weekly cadence, multi-channel distribution, and the team behind it."
+    },
+    "sections": [
         {
-          "number": "40+",
-          "label": "Human Writers"
+            "type": "hero",
+            "data": {
+                "eyebrow": "How It Works",
+                "title": "One interview. Months of content.",
+                "paragraphs": [
+                    "Isaac Morey walks through the full Content Flywheel Plan in 11 minutes. Onboarding, brand voice, SEO-driven topic selection, the weekly cadence, multi-channel distribution, and the team behind every piece."
+                ],
+                "youtube_id": "UjiRJZIPj18",
+                "youtube_layout": "grid",
+                "youtube_title": "How the Content Flywheel Plan Works"
+            }
         },
         {
-          "number": "2/week",
-          "label": "Blog Cadence"
+            "type": "quick-answer",
+            "data": {
+                "title": "What you saw in the video",
+                "items": [
+                    {
+                        "label": "What we do",
+                        "value": "Content-as-a-service: written content, graphics, video, illustration. Two pieces a week to start, scaling up from there."
+                    },
+                    {
+                        "label": "How we start",
+                        "value": "A single onboarding interview captures brand voice, audience, and goals. Available as a video call or a form for time-tight founders."
+                    },
+                    {
+                        "label": "Topic selection",
+                        "value": "We pull SEO Crawl data to find what's working, what's not, and where the growth opportunities live. The strategy is built around your real performance data."
+                    },
+                    {
+                        "label": "Distribution",
+                        "value": "Blogs published, emails scheduled, social posts queued through Vista Social. We handle the setup end to end."
+                    },
+                    {
+                        "label": "AI in the loop",
+                        "value": "Real human writers run the brief, draft, and edit. AI helps with research, ideation, and quality checks. Humans hold the pen on every published piece."
+                    },
+                    {
+                        "label": "Next step",
+                        "value": "Book a call with Isaac or Brent. You walk away with a strategy whether you work with us or not."
+                    }
+                ],
+                "cta_text": "Book a call",
+                "cta_link": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting"
+            }
         },
         {
-          "number": "Multi",
-          "label": "Channel Distribution"
-        },
-        {
-          "number": "Bi-Monthly",
-          "label": "Check-Ins"
+            "type": "bottom-cta",
+            "data": {
+                "title": "Ready to build a content engine you don't have to babysit?",
+                "text": "Tell us what you're working on. We'll come back with a plan within one business day."
+            }
         }
-      ]
-    },
-    {
-      "type": "quick-answer",
-      "data": {
-        "title": "What you saw in the video",
-        "items": [
-          {
-            "label": "What we do",
-            "value": "Content-as-a-service: written content, graphics, video, illustration. Two pieces a week to start, scaling up from there."
-          },
-          {
-            "label": "How we start",
-            "value": "A single onboarding interview captures brand voice, audience, and goals. Available as a video call or a form for time-tight founders."
-          },
-          {
-            "label": "Topic selection",
-            "value": "We pull SEO Crawl data to find what's working, what's not, and where the growth opportunities live. The strategy is built around your real performance, not guesses."
-          },
-          {
-            "label": "Distribution",
-            "value": "Blogs published, emails scheduled, social posts queued through Vista Social. You don't have to wire it up. We do."
-          },
-          {
-            "label": "AI in the loop",
-            "value": "Real human writers run the brief, draft, and edit. AI helps with research, ideation, and quality checks. Humans hold the pen on every published piece."
-          },
-          {
-            "label": "Next step",
-            "value": "Book a call with Isaac or Brent. You walk away with a strategy whether you work with us or not."
-          }
-        ],
-        "cta_text": "Book a call",
-        "cta_link": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting"
-      }
-    },
-    {
-      "type": "bottom-cta",
-      "data": {
-        "title": "Ready to build a content engine you don't have to babysit?",
-        "text": "Tell us what you're working on. We'll come back with a plan within one business day."
-      }
-    }
-  ]
+    ]
 }

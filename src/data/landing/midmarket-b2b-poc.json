@@ -1,0 +1,222 @@
+{
+    "form": {
+        "header": "Start the conversation",
+        "subtitle": "Tell us about your catalog and your moving parts. We will reply within one business day to see if we fit.",
+        "trust_text": "Subject to qualification. Submission is not a commitment by either side. Scope, timeline, and funding confirmed on the discovery call.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "midmarket-b2b-poc"
+    },
+    "thankyou": {
+        "title": "Thanks. We will be in touch within one business day.",
+        "text": "While you wait, click through the live demo we built on Shopware.",
+        "link_anchor": "https://shopware.contentcucumber.com",
+        "link_text": "Open shopware.contentcucumber.com"
+    },
+    "seo": {
+        "title": "Complex B2B in 7 Days - Funded POC for Qualified Clients - Content Cucumber",
+        "meta_description": "A funded Shopware POC for qualified midmarket B2B. Customer-group pricing, ERP integration, punch-out, multi-org, and approval routing demoed on a working URL on your real data.",
+        "slug": "midmarket-b2b-poc",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "For qualified midmarket B2B. Funded POC.",
+                "title": "Complex B2B in 7 days",
+                "paragraphs": [
+                    "Midmarket B2B is complex. Quote-based and contract pricing per customer group, with volume breaks and negotiated tiers. Multi-org logins, multi-warehouse inventory, multi-currency in one install. Punch-out catalogs, approval routing, and spend limits per buyer. Tax exemption flows, resale certificates, net terms, and PO numbers. Dealer portals layered over a public catalog. ERP-driven data running through all of it. A lot of moving parts.",
+                    "Lighter platforms ask you to fit your business into their model. The right platform plugs into yours. For qualified midmarket B2B, a proof of concept on Shopware closes that question first. Your real catalog, your real workflows, on a working URL ready to click through, demo internally, and hand to procurement.",
+                    "We already built one ourselves. Real cart, real checkout, B2B in the box. Use the form to start a fit conversation, or click through the live demo first."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What lighter platforms cannot absorb",
+                "subtitle": "The operational reality of manufacturing, distribution, regulated commerce, and heavy industry. Four moving parts that break standard ecommerce.",
+                "items": [
+                    {
+                        "title": "Customer-group pricing tied to your ERP",
+                        "text": "Contract prices, negotiated tiers, branch-specific discounts, dealer pricing, tax exemption certificates. The numbers live in your ERP, not a second copy on the storefront. Most platforms force the duplication and lose the audit trail."
+                    },
+                    {
+                        "title": "Multi-org, multi-warehouse, multi-currency",
+                        "text": "One buying group, many subsidiaries, regional warehouses, multiple currencies, order-splitting across branches. The platform handles it natively or it does not. There is no middle option once you are at scale."
+                    },
+                    {
+                        "title": "Punch-out, OCI, SAP Ariba",
+                        "text": "Procurement teams expect catalog feeds in the format their system wants. If the platform cannot speak the procurement language your buyers use, the deal stalls at the IT review. This is a baseline requirement."
+                    },
+                    {
+                        "title": "Approval chains and audit trail",
+                        "text": "Buyer rep submits, manager approves, finance signs off. Spend limits per buyer, custom approval rules per category, full audit trail for compliance. Bolt-on plug-ins do not survive the second acquisition."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "The replatform decision",
+                "title": "This decision is <em>operational.</em>",
+                "paragraphs": [
+                    "Traditional B2B platform decisions run twelve weeks of discovery and end in a six-figure SOW, slides, a Figma file, and a wireframe deck. What you do not get is anything that touches your ERP, your customer-group pricing, or the dealer portal you have been patching together for years. The operational question stays open until day one of the build.",
+                    "A POC closes that question first. We took Shopware and built Cucumber and Co., a fictional 200-year-old B2B distributor, in seven days. Customer-group pricing, real cart, real checkout, B2B-ready out of the box. Click through and place a test order.",
+                    "<a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Open the live demo &rarr;</a>",
+                    "<figure style=\"margin-top:24px;\"><a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/wp-content/themes/cucumber-gp-child/landing-data/shopware-poc-homepage.png\" alt=\"Cucumber and Co. B2B storefront homepage on Shopware\" loading=\"lazy\" style=\"width:100%;height:auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.12);display:block;\" /></a><figcaption style=\"margin-top:12px;font-size:0.9em;color:#6b7280;text-align:center;\">Cucumber and Co. on Shopware. Real cart. Real checkout. Try it.</figcaption></figure>"
+                ],
+                "old_way": {
+                    "heading": "Traditional discovery",
+                    "items": [
+                        "Twelve weeks of meetings before any working code",
+                        "Six-figure SOW signed off on slides and wireframes",
+                        "ERP integration discovered during build, not before",
+                        "Replatform conversation later when the model breaks"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Content Cucumber POC",
+                    "items": [
+                        "Working URL touching your ERP shape",
+                        "Sign-off from a working URL, not a slide deck",
+                        "Customer-group pricing, punch-out, approval routing demoed live",
+                        "Discovery findings and a production scope proposal on day eight"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Our recommended platform",
+                "title": "Shopware for serious B2B",
+                "paragraphs": [
+                    "Shopware ships B2B in the same install as B2C. Customer-group pricing, multi-storefront, multi-region, multi-currency, an advanced rule-builder that routes business processes without custom development, and a self-hosted option that matters when regulated data is in scope. It meets the business where it is. Content Cucumber is an official Shopware partner.",
+                    "<a href=\"/partners/shopware/\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Read our Shopware partner profile &rarr;</a>"
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What a qualified POC typically delivers",
+                "subtitle": "Scope is finalized on the discovery call. When a POC runs, this is the shape it takes. By day seven, these are on a working URL ready for internal review.",
+                "items": [
+                    {
+                        "icon": "chart",
+                        "title": "Catalog with your data shape",
+                        "text": "Ten to fifty representative SKUs imported with your real metadata, certifications, MOQs, customer-group pricing, and ERP keys preserved. Real merchandising on your shape."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Quote workflow demoed",
+                        "text": "Quote request from the buyer side, review and approval from the admin side. Real numbers, your contract terms, your approval chain."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Punch-out feed proof",
+                        "text": "An OCI feed pointed at a test procurement system. Optional SAP Ariba CIF setup if your buyers require it. IT-reviewable on day seven."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Approval routing live",
+                        "text": "Buyer rep, manager approve, finance sign-off chain configured against your spend limits. Full audit trail captured."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Multi-org and dealer portal demo",
+                        "text": "One buying group, many subsidiaries, separate price books per org, gated dealer experience over a public catalog. Same backend, different storefront per audience."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "The seven-day arc",
+                "subtitle": "The same pattern we run for every qualified POC, scoped to the moving parts your team flagged on the discovery call.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Stack and scope",
+                        "text": "Stand up Shopware in Docker. Map your moving parts to platform primitives: customer groups, contract pricing, approval rules, ERP integration shape. No surprises after this day."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Catalog import",
+                        "text": "Bring in ten to fifty representative SKUs with B2B metadata (MOQs, customer-group pricing, certifications). Content Cucumber writes descriptions and category copy if you hand us a catalog CSV."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Customer groups and pricing",
+                        "text": "Configure customer-group pricing, contract prices, and volume breaks against your real numbers. Tiered storefront experience per buying group."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Quote and approval",
+                        "text": "Quote request workflow live on the storefront. Approval routing configured against the spend limits and approval chain you describe on day one."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Punch-out integration",
+                        "text": "OCI feed wired up against a test procurement system. Optional SAP Ariba CIF setup if your buyers require it."
+                    },
+                    {
+                        "number": "06",
+                        "title": "Cart, checkout, orders",
+                        "text": "Real cart, real checkout, real order numbers on your data shape. Net terms, PO numbers, tax exemption flow, and cost centers as applicable."
+                    },
+                    {
+                        "number": "07",
+                        "title": "Walkthrough and decision",
+                        "text": "Working URL ready for your team to demo internally. Walkthrough call. Discovery findings and a production scope proposal. Your call from there: sign a production cutover contract, refine the scope, or walk away clean."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently asked questions",
+                "items": [
+                    {
+                        "question": "What qualifies a client for the POC?",
+                        "answer": "[NEED ANSWER FROM BRENT: what 'qualified' means in practice, how the Shopware funding mechanic works, what's in and out of scope]"
+                    },
+                    {
+                        "question": "Can the POC run against our real ERP and procurement systems, or only sample data?",
+                        "answer": "[NEED ANSWER FROM BRENT: how integration scope is handled in the POC, what is in-scope vs follow-up SOW]"
+                    },
+                    {
+                        "question": "How does the POC handle punch-out from SAP Ariba or Oracle Procurement?",
+                        "answer": "[NEED ANSWER FROM BRENT: which punch-out flavors are demoed by default vs add-on]"
+                    },
+                    {
+                        "question": "Will the POC demo our actual customer-group pricing, or generic tiers?",
+                        "answer": "[NEED ANSWER FROM BRENT: how customer pricing is loaded from client data]"
+                    },
+                    {
+                        "question": "What happens on day eight if we move forward?",
+                        "answer": "[NEED ANSWER FROM BRENT: the three-path outcome (sign the production cutover contract to build the real site, keep refining scope on the POC, or walk away). Code and production work require a signed paid contract. The POC is a sales demo, not a build deliverable.]"
+                    },
+                    {
+                        "question": "Can the POC be hosted on our AWS, Azure, or GCP account?",
+                        "answer": "[NEED ANSWER FROM BRENT: hosting model, who pays for cloud, what gets handed off]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Start the fit conversation",
+                "text": "Manufacturing, distribution, HVAC, regulated commerce, heavy equipment, aerospace, MRO. Tell us about your catalog, your ERP, your procurement integrations, and the parts of your business your current platform fights you on. If we fit and you qualify, the POC runs from there."
+            }
+        }
+    ]
+}

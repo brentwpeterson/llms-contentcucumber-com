@@ -1,0 +1,155 @@
+{
+    "no_nav": true,
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "meta_description": "Live on August 5 at 2 PM ET. Portal IQ (HubSpot Gold partner) and Content Cucumber walk through a real HubSpot portal audit and show how to get found by buyers and AI engines. Free to attend, plus two free audits for everyone who signs up.",
+        "og_description": "Automations and Audits, a live HubSpot webinar on August 5 at 2 PM ET. Mike Eastwood (Portal IQ), Brent Peterson and Isaac Morey (Content Cucumber). Free to attend, with two free audits for everyone who signs up: a HubSpot portal audit and an AEO audit.",
+        "og_image": "/wp-content/themes/cucumber-gp-child/landing-data/automations-and-audits-header.png"
+    },
+    "form": {
+        "header": "Save Your Spot",
+        "subtitle": "August 5 at 2:00 PM Eastern. Live on LinkedIn.",
+        "trust_text": "Free to attend. Everyone who signs up gets two free audits: a HubSpot portal audit from Portal IQ and an AEO audit from Content Cucumber.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "automations-and-audits"
+    },
+    "thankyou": {
+        "title": "You're Registered.",
+        "text": "Check your inbox for the join link. We will send a reminder before we go live on August 5 at 2:00 PM Eastern, the recording lands in your inbox afterward, and both teams will be in touch about your two free audits."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Live on LinkedIn | August 5 at 2:00 PM ET",
+                "title": "Your HubSpot Portal Is <em>Working Against You.</em>",
+                "paragraphs": [
+                    "Domains set up wrong, seats nobody uses, automations half-built, and content the portal hosts that buyers and AI engines never find. Most of it stays invisible until someone audits it.",
+                    "Portal IQ and Content Cucumber walk through a real HubSpot portal audit they ran in advance, call out what is broken and what it costs, and show how to fix it. Together they cover both sides in one session, Portal IQ on portal health and automation, Content Cucumber on content and AEO."
+                ]
+            }
+        },
+        {
+            "type": "banner-image",
+            "data": {
+                "src": "/wp-content/themes/cucumber-gp-child/landing-data/automations-and-audits-header.png",
+                "alt": "Automations and Audits, a HubSpot webinar with Portal IQ and Content Cucumber on August 5 at 2 PM ET, featuring Brent Peterson, Isaac Morey, and Mike Eastwood"
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What's Usually Broken in Your HubSpot Portal",
+                "subtitle": "Portal IQ scans HubSpot portals across Marketing, Sales, Service, and the CRM. These are the gaps that show up most, and the data already lives in your portal.",
+                "items": [
+                    {
+                        "title": "A Domain Setup That Kills Deliverability",
+                        "text": "Almost half of HubSpot portals have a domain setup problem, which sends email to spam and corrupts the tracking you base decisions on. It is the first thing an audit catches and one of the cheapest to fix."
+                    },
+                    {
+                        "title": "Seats and Users You Pay For and Never Use",
+                        "text": "Inactive users, stale permissions, and seats sitting idle. The portal grew, the cleanup never happened, and the bill reflects it."
+                    },
+                    {
+                        "title": "Automations Half-Built or Never Finished",
+                        "text": "A welcome workflow that stops after step two, no lifecycle, no win-back. The infrastructure is in HubSpot, the work is finishing it, and the revenue sits in the gap."
+                    },
+                    {
+                        "title": "Properties and Data Hygiene That Drifted",
+                        "text": "Properties created and abandoned, lifecycle stages that no longer mean anything, scoring built once and left to age. Reporting only works when the data underneath it does."
+                    },
+                    {
+                        "title": "Content Nobody and No AI Engine Finds",
+                        "text": "A healthy portal still loses if the brand around it is invisible. Schema, llms.txt, and citable content decide whether buyers and AI engines name you. This is the layer most HubSpot audits skip entirely."
+                    },
+                    {
+                        "title": "Reports You Cannot Trust",
+                        "text": "Dashboards and forecasts inherit every issue above, so leadership makes decisions on numbers that do not reflect what is happening. A clean portal means your dashboards match what's happening in the business."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "What You'll Walk Away With",
+                "subtitle": "A working session built around real HubSpot portals, so you leave with fixes you can use.",
+                "steps": [
+                    {
+                        "title": "AEO in Your HubSpot Marketing or CMS",
+                        "text": "Learn what AEO means inside your HubSpot Marketing or CMS account, where the content lives, the schema and structure that get it cited, and how to turn HubSpot pages into something AI engines name."
+                    },
+                    {
+                        "title": "The Minimum Automations You Need",
+                        "text": "Skip the sprawling build. Learn the small set of automations a HubSpot portal needs to perform, and which workflows are worth finishing first."
+                    },
+                    {
+                        "title": "Two Free Audits When You Sign Up",
+                        "text": "Everyone who signs up gets two free audits. A HubSpot portal audit from Portal IQ, and an AEO audit from Content Cucumber. You leave with a clear read on both how your portal performs and whether buyers and AI engines can find you."
+                    },
+                    {
+                        "title": "The Hot Seat Walk-Through",
+                        "text": "We pick one lucky registrant, Mike audits their HubSpot portal ahead of time, and we walk through the findings together during the session. Your call whether yours is on the screen for everyone or kept private."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Your Presenters",
+                "title": "Portal IQ + Content Cucumber. One HubSpot Session.",
+                "paragraphs": [
+                    "Mike Eastwood runs Portal IQ, an automated HubSpot audit platform that is certified in the HubSpot App Marketplace and a HubSpot Gold Solutions Partner. Portal IQ scans a portal across Marketing, Sales, Service, and the CRM and returns a prioritized set of fixes.",
+                    "Brent Peterson is CEO of Content Cucumber, a company that employs humans to write content for humans, and a HubSpot Solutions Partner bringing the content, schema, and AEO layer. Brent hosts the Talk Commerce podcast and writes The Agentic Commerce Guy. Isaac Morey, founder and chief editor at Content Cucumber, leads the content side."
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "When is it?",
+                        "answer": "August 5, 2026 at 2:00 PM Eastern, live on LinkedIn. Register and we send your join link by email."
+                    },
+                    {
+                        "question": "Is it free?",
+                        "answer": "Yes. Register and attend live, or watch the recording afterward. Everyone who signs up also gets two free audits on their own setup: a HubSpot portal audit from Portal IQ and an AEO audit from Content Cucumber."
+                    },
+                    {
+                        "question": "Who is this for?",
+                        "answer": "Anyone running HubSpot as a core platform, and the agencies and partners who manage HubSpot portals for clients. If your portal feels messy or your content is not getting found, this is for you."
+                    },
+                    {
+                        "question": "Do I need to be on HubSpot?",
+                        "answer": "The session is built around HubSpot portals, so HubSpot users get the most from it. The AEO and discoverability portion applies regardless of the platform you run."
+                    },
+                    {
+                        "question": "Will there be a recording?",
+                        "answer": "Yes. Every registrant gets the recording. We recommend attending live for the AMA, where you can bring your own portal questions."
+                    },
+                    {
+                        "question": "What are the two free audits?",
+                        "answer": "Everyone who signs up gets a free HubSpot portal audit from Portal IQ (the portal-health and configuration layer) and a free AEO audit from Content Cucumber (the content, schema, and discoverability layer). Two reads, both free, on your own setup."
+                    },
+                    {
+                        "question": "What is the hot seat?",
+                        "answer": "We pick one lucky registrant. Mike audits their HubSpot portal ahead of time, and we walk through the findings together during the session. It is your call whether your portal is the one on the screen for everyone or kept private."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "See a Real HubSpot Portal Audit.",
+                "text": "Register for the free session on August 5 at 2:00 PM Eastern. Watch us walk through a real portal audit across both layers, get your HubSpot questions answered in the open AMA, and claim your two free audits, a HubSpot portal audit and an AEO audit, just for signing up."
+            }
+        }
+    ]
+}

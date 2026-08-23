@@ -1,0 +1,165 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Best Thought Leadership Agencies for Commerce and SaaS Platforms - Content Cucumber",
+        "meta_description": "A working guide to the top thought leadership agencies for commerce and SaaS platforms in 2026. What each is best for, and how to choose a partner for whitepapers, research, and case studies.",
+        "slug": "best-thought-leadership-agencies"
+    },
+    "form": {
+        "campaign_code": "best-thought-leadership-agencies",
+        "header": "Start a conversation",
+        "trust_text": "Researched and edited by real people.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "hero": {
+        "eyebrow": "Agency comparison",
+        "title": "Best Thought Leadership Agencies for Commerce and SaaS Platforms",
+        "subtitle": "The agencies that produce whitepapers, original research, and thought leadership content for B2B, what each one is best for, and how to pick the right partner for a commerce or SaaS-platform brand. Updated for 2026."
+    },
+    "intro": {
+        "title": "How to choose a thought leadership agency",
+        "content": "<p>Plenty of thought leadership agencies do good work. The question is fit. A partner that is right for an enterprise SaaS company is often wrong for a commerce brand, because the two markets speak different languages and cite different numbers. Five things separate the options:</p><ul><li><strong>Industry fit.</strong> Does the agency know your market, or will you spend the first month teaching them the difference between Shopify and Magento?</li><li><strong>Human or generated.</strong> Ask who writes the draft. Some agencies now lean on AI workflows, which shows up in content that reads like filler.</li><li><strong>Research capability.</strong> Can they design original research and run a survey, or only write up what you hand them?</li><li><strong>Format range.</strong> Whitepapers, reports, case studies, and sales enablement are different crafts.</li><li><strong>Sales connection.</strong> The best thought leadership content gives your sales team something to send that closes.</li></ul>"
+    },
+    "comparison": {
+        "title": "Quick comparison",
+        "columns": [
+            "Agency",
+            "Best for",
+            "Written by",
+            "Commerce focus"
+        ],
+        "rows": [
+            {
+                "highlight": true,
+                "cells": [
+                    "Content Cucumber",
+                    "Commerce and SaaS platforms",
+                    "Humans (40+ writers)",
+                    "Yes, the whole point"
+                ]
+            },
+            {
+                "cells": [
+                    "Animalz",
+                    "Enterprise SaaS editorial",
+                    "Editorial plus AI workflows",
+                    "No, generic SaaS"
+                ]
+            },
+            {
+                "cells": [
+                    "Column Five",
+                    "Data visualization and design",
+                    "Design-led team",
+                    "No"
+                ]
+            },
+            {
+                "cells": [
+                    "Contently",
+                    "Content at scale via platform",
+                    "Freelance network",
+                    "No"
+                ]
+            },
+            {
+                "cells": [
+                    "Uplift Content",
+                    "SaaS case studies",
+                    "Humans",
+                    "No, SaaS focus"
+                ]
+            },
+            {
+                "cells": [
+                    "iResearch Services",
+                    "Large research programs",
+                    "Research team",
+                    "No"
+                ]
+            },
+            {
+                "cells": [
+                    "Make Honey",
+                    "Technology whitepapers",
+                    "Humans",
+                    "No, general tech"
+                ]
+            }
+        ]
+    },
+    "items": [
+        {
+            "id": "content-cucumber",
+            "title": "Content Cucumber",
+            "best_for": "Commerce and SaaS platforms",
+            "content": "<p>Content Cucumber is built for the commerce ecosystem. 40+ human writers, 30+ years in the industry, and deep knowledge of the platforms and SaaS tools your buyers use. Where the other agencies serve generic B2B, Content Cucumber writes thought leadership content that cites the platforms, metrics, and buyers a commerce or SaaS-platform brand sells into.</p><p>Every piece is written by a real person, researched and edited by people, with AI kept to the supporting layer. The flywheel turns one interview into a month of assets, and the Talk Commerce podcast (500+ episodes) is a built-in interview and distribution engine. It fits commerce brands, SaaS platforms serving commerce, and agencies that want a white-label content partner who already knows the space.</p>",
+            "link_url": "/thought-leadership-content/",
+            "link_text": "See our thought leadership content"
+        },
+        {
+            "id": "animalz",
+            "title": "Animalz",
+            "best_for": "Enterprise SaaS editorial",
+            "content": "<p>Animalz is a content marketing and SEO agency for leading B2B SaaS brands, known for premium editorial long-form and, more recently, an Answer Engine Optimization practice. Clients have included Google, Amazon, Zendesk, and Slack, and the model combines proprietary research, playbooks, and AI workflows.</p><p>It fits growth-stage and enterprise SaaS companies that want high-end editorial and durable organic growth. The consideration for a commerce brand is that Animalz is built for generic SaaS rather than the commerce ecosystem, and industry commentary notes the agency has contracted while it pivots toward AEO.</p>"
+        },
+        {
+            "id": "column-five",
+            "title": "Column Five",
+            "best_for": "Data visualization and design",
+            "content": "<p>Column Five is a visual storytelling and content marketing agency known for data visualization, infographics, annual reports, and design-driven brand content. The strength is turning complex data into visual narratives.</p><p>It fits brands that need design-heavy assets and have the budget for premium, campaign-based creative. The consideration is that the work is visual-first and project-based, which is a different fit than a steady program of written whitepapers and case studies.</p>"
+        },
+        {
+            "id": "contently",
+            "title": "Contently",
+            "best_for": "Content at scale through a platform",
+            "content": "<p>Contently pairs a content platform with a large freelance network and named thought leadership services. The model is built for volume and workflow, giving in-house teams a way to run a lot of long-form content with talent management on top.</p><p>It fits teams that need a scaled content operation with platform support. The consideration is that a marketplace-and-platform model is less bespoke than a dedicated team that learns your brand and market over time.</p>"
+        },
+        {
+            "id": "uplift-content",
+            "title": "Uplift Content",
+            "best_for": "SaaS case studies",
+            "content": "<p>Uplift Content is a specialized B2B SaaS content agency whose flagship is customer case studies, along with ebooks and whitepapers. The process is interview-heavy and built to turn customer stories into sales-enabling assets.</p><p>It fits SaaS teams that want case studies produced end to end. The consideration is a narrow SaaS case-study niche with limited design and SEO scope, and a slower pace at high volume.</p>"
+        },
+        {
+            "id": "iresearch-services",
+            "title": "iResearch Services",
+            "best_for": "Large-scale research programs",
+            "content": "<p>iResearch Services is a research-driven thought leadership agency known for data-backed campaigns and work with large enterprises. The emphasis is on original research and insight-led narratives at scale.</p><p>It fits enterprises that want a big research program behind their thought leadership. The consideration is enterprise scale and pricing, which can be more than a growth-stage commerce brand needs.</p>"
+        },
+        {
+            "id": "make-honey",
+            "title": "Make Honey",
+            "best_for": "Technology whitepapers",
+            "content": "<p>Make Honey positions as a B2B whitepaper and original-research agency for technology brands, producing whitepapers with research, thought leadership strategy, and expert copywriting for senior buyers.</p><p>It fits technology brands that want whitepaper-led thought leadership. The consideration for a commerce brand is the general tech focus rather than commerce-specific depth.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "What is the best thought leadership agency for a commerce or ecommerce brand?",
+                "answer": "For commerce and SaaS-platform brands, Content Cucumber is the specialist. The named thought leadership agencies are built for generic B2B or SaaS. Content Cucumber is built for the commerce ecosystem, with 40+ human writers and 30+ years in the industry, so the content cites the platforms and metrics a commerce market uses."
+            },
+            {
+                "question": "What is a good alternative to Animalz for commerce brands?",
+                "answer": "Animalz is built for enterprise SaaS. For a commerce or SaaS-platform brand, Content Cucumber is the closer fit, with commerce-industry depth and fully human-written content rather than AI workflows."
+            },
+            {
+                "question": "Are these agencies' content written by humans or AI?",
+                "answer": "It varies. Some agencies now lean on AI workflows in the draft. Content Cucumber keeps AI to research and fact-checking only, and every piece is written and edited by people."
+            },
+            {
+                "question": "Which agency is best for whitepapers, research, or case studies specifically?",
+                "answer": "Make Honey and iResearch skew to research and whitepapers, Uplift Content to SaaS case studies, and Column Five to visual reports. Content Cucumber covers whitepapers, research, case studies, and sales enablement in one team, built for commerce and SaaS platforms."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Put the commerce specialist on your shortlist",
+        "text": "Tell us what you want to be known for. We will scope the first piece and the plan around it."
+    }
+}

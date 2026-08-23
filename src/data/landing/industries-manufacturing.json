@@ -1,0 +1,225 @@
+{
+    "seo": {
+        "title": "Industrial Content Writing by People Who Can Read a Spec Sheet",
+        "meta_description": "Writers who can read a spec sheet, get the tolerance right, and write for an engineer who will notice if you did not.",
+        "og_description": "Writers who can read a spec sheet, get the tolerance right, and write for an engineer who will notice if you did not.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and what you want to be found for. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-manufacturing"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your work and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/manufacturing-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Industrial content written by people who can <em>read a spec sheet</em>",
+                "paragraphs": [
+                    "There is no compliance officer waiting to catch the error here, only an engineer who stops reading at the first wrong number and decides your company does not know its own product.",
+                    "We write for manufacturers whose buyers are technical, patient, and completely unforgiving of copy written by someone who has never seen the part."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What goes wrong when a generalist writes it",
+                "subtitle": "The expensive mistakes in this field look like ordinary copy on the way out the door.",
+                "items": [
+                    {
+                        "image": "industries-assets/manufacturing-c1.webp",
+                        "title": "Specifications wrong in small ways",
+                        "text": "A tolerance, a material grade, or a unit converted carelessly, all of which the buyer notices immediately, and what they conclude has nothing to do with typos.",
+                        "text2": "A specifier checks the number against a datasheet before they call, so a wrong figure does not produce a question, it produces silence."
+                    },
+                    {
+                        "image": "industries-assets/manufacturing-c2.webp",
+                        "title": "Copy written for the wrong reader",
+                        "text": "Consumer-style enthusiasm aimed at a specifier who wants dimensions, compatibility, and lead time, none of which warmth can supply.",
+                        "text2": "The specifier, the buyer and the person signing all read before anyone picks up the phone, and copy written for one of them leaves the other two without what they came for."
+                    },
+                    {
+                        "image": "industries-assets/manufacturing-c3.webp",
+                        "title": "Certifications used as decoration",
+                        "text": "Standards and approvals listed as logos, when the claim is only useful once the reader knows what it lets them do.",
+                        "text2": "An approval is worth writing out, because a buyer who understands what it permits can carry it into their own meeting, and a logo gives them nothing to carry."
+                    },
+                    {
+                        "image": "industries-assets/manufacturing-c4.webp",
+                        "title": "A long sales cycle treated as a short one",
+                        "text": "Industrial buying runs long and involves several people, so content written for one impulsive reader misses most of the room.",
+                        "text2": "Content that assumes a single decision misses the months in between, where the same page gets forwarded internally and has to answer someone outside the original audience."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What our writers already know",
+                "subtitle": "A generalist looks this up once the draft is already due, and it is where a vertical writer starts.",
+                "items": [
+                    {
+                        "icon": "chart",
+                        "title": "Specifications and tolerances",
+                        "text": "Numbers, units, and materials handled precisely, because the reader checks."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Standards and certifications",
+                        "text": "What an approval permits, written so a specifier can use it and not merely see it."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Application and compatibility",
+                        "text": "Writing that answers whether this part works in that situation, which is what most industrial search is asking."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "The technical buying committee",
+                        "text": "Content that speaks to the engineer, the buyer, and the person signing, because all three read before anyone calls."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Units, tolerances and conversions",
+                        "text": "Metric against imperial, nominal against actual, and the decimal place that turns a correct spec into a wrong one."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Lead time and availability language",
+                        "text": "What ships, what is built to order, and what is quoted, because getting vague here is how a technical buyer decides you do not know your own catalog."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing in month six already carries your positions and your language, and you will know who is writing for you before the engagement starts."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "Engineers care more than anyone admits",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "The reader who catches your wrong tolerance is the same reader with strong opinions about the machine on their floor, because this is a field full of pride, and writing that treats it as a commodity spec dump misses the person entirely.",
+                            "Our writers bring enthusiasm to the work that deserves it, respect for a job that is hard to do well, and enough plain talk that an engineer does not feel marketed at. Precision earns you the read. Something to feel is what makes it worth finishing."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found in AI search because an expert wrote it",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, and vague copy does not clear that bar.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a buyer can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote",
+                        "text": "Named detail and hard specifics, because a passage with nothing concrete in it gives a model nothing worth citing."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way your buyer asks",
+                        "text": "A marketing lead at a manufacturer or industrial distributor searches in their own words, and the heading that matches the question is the one that gets surfaced."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section holds up on its own, so a citation lands on something that still reads correctly out of context."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your voice, and how the work ships",
+                "subtitle": "We learn how you already sound, so the result reads as yours.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "Your recent published work, your brand guide if you have one, and the companies you get compared to, all of which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We agree the topics",
+                        "text": "Built from what you already surface for and the questions your buyers type, so the calendar belongs to you."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you month over month, so your positions carry forward from one brief to the next."
+                    },
+                    {
+                        "number": "04",
+                        "title": "An editor reads every piece",
+                        "text": "Then it arrives on your schedule, ready to publish."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Do your writers have engineering backgrounds?",
+                        "answer": "We assign writers experienced with technical material, and we work from your specifications instead of paraphrasing them, and where a detail is properly technical we confirm it with you."
+                    },
+                    {
+                        "question": "Can you write from our spec sheets and drawings?",
+                        "answer": "Yes, and we would rather work from those than from a marketing brief, because the source documents are what keep the numbers right."
+                    },
+                    {
+                        "question": "Do you write product and category content at volume?",
+                        "answer": "Yes. Catalog-scale product copy is a different engagement from single deep pieces, and we will tell you which one you need."
+                    },
+                    {
+                        "question": "Our field is niche. Is that a problem?",
+                        "answer": "It is usually an advantage, because narrow fields have less competent content in them, so accurate writing surfaces faster."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand the writing to people who read the spec first",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

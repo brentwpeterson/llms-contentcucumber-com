@@ -1,0 +1,196 @@
+{
+    "_note": "PAID AD landing page for the Google Search Twin Cities Marketing campaign. no_nav:true hides header/nav/footer. Reuses the shared 'Book a Call' HubSpot form (portal 39487190, form b8c0e11f) with a paid campaign_code. noindex/nofollow set. The indexed SEO sibling lives at /minneapolis/ (separate page, full nav). Copy is brand-brent voice: no em dashes, no adverbs.",
+    "no_nav": true,
+    "form": {
+        "header": "Book a Time",
+        "subtitle": "Tell us what you're working on. We'll map a plan with you in person.",
+        "trust_text": "Local Twin Cities team. No offshore handoffs.",
+        "portal_id": "39487190",
+        "form_id": "b8c0e11f-a956-43ac-b7c9-0f60c4e29eaf",
+        "region": "na1",
+        "campaign_code": "google-twincities-marketing"
+    },
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Twin Cities Marketing Help You Can Meet in Person - Content Cucumber",
+        "meta_description": "A Minneapolis marketing team you can sit down with. We map your plan in person and run it. Book a time.",
+        "slug": "minneapolis-marketing-plan",
+        "noindex": true,
+        "nofollow": true
+    },
+    "thankyou": {
+        "title": "Thanks. We'll be in touch.",
+        "text": "We got your information. A member of our team will reach out within one business day to find a time.",
+        "link_text": "",
+        "link_anchor": ""
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "minneapolis-marketing-plan-assets/skyline-hero-v2.webp",
+                "eyebrow": "Twin Cities Marketing",
+                "title": "Marketing Help in the Twin Cities, From People You Can Meet",
+                "paragraphs": [
+                    "We are a Minneapolis marketing team. We meet you in person, map the plan together, and run it."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "The marketing never gets done",
+                "subtitle": "You know it matters. You also know there are not enough hours in the week to run the business and run the marketing too.",
+                "items": [
+                    {
+                        "title": "You are the owner, the marketer, and the writer",
+                        "text": "Every post and every email competes with payroll, customers, and the work itself. The marketing loses every time."
+                    },
+                    {
+                        "title": "Your agency went quiet after the kickoff",
+                        "text": "Big promises on the first call, then a stranger you never reach and work that drifts off-brand."
+                    },
+                    {
+                        "title": "You want a local team you can reach",
+                        "text": "Someone down the road you can call, sit across from, and trust with it."
+                    },
+                    {
+                        "title": "It happens in bursts, then goes quiet",
+                        "text": "A campaign here, a launch there, months of silence in between, and you start over each time."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How we start",
+                "subtitle": "One meeting gets you a plan you can use, whether you hire us or not.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Book a time",
+                        "text": "Pick a slot. Coffee, your office, or a call if that is easier. We come to you."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We map the plan",
+                        "text": "We look at where you are, where you want to go, and what is in the way. You leave with a clear next step."
+                    },
+                    {
+                        "number": "03",
+                        "title": "We run it",
+                        "text": "When it fits, we take the marketing off your plate and run the plan. You stay in the loop the whole way."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services-grid",
+            "data": {
+                "title": "What we run for you",
+                "subtitle": "A full marketing team that runs the work. Mix what your business needs.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Content and SEO",
+                        "text": "Articles, pages, and search work that bring the right people to your site and keep them coming."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "AI search visibility",
+                        "text": "Show up when customers ask ChatGPT, Perplexity, and Google AI Overviews, the way buyers search now."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Email and automation",
+                        "text": "Welcome flows, newsletters, and the lifecycle plumbing that turns visitors into repeat customers."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Strategy and reporting",
+                        "text": "A plan tied to your goals and plain-English reports that show what is working and what comes next."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Why work with us",
+                "title": "A local marketing team you can meet face to face",
+                "paragraphs": [
+                    "We have run marketing for businesses for more than ten years, from local shops to national brands. We are based in the Twin Cities, so when you need us, we are here.",
+                    "No long contracts and no account manager you can never get on the phone. The people doing your work are the people you talk to."
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What changes when marketing gets done",
+                "subtitle": "One local partner turns a stalled to-do into momentum you can see.",
+                "items": [
+                    {
+                        "icon": "growth",
+                        "title": "Marketing exists",
+                        "text": "It is firing every month for the first time. The thing that never got done is getting done."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "The right people find you",
+                        "text": "Search rankings climb and local customers find you when they are looking for what you sell."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Your audience grows",
+                        "text": "Email opens climb, social engagement deepens, and your name shows up where your market is looking."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "You get your time back",
+                        "text": "The marketing is handled. You run the business and we run the plan we built together."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions",
+                "subtitle": "What to know before you book.",
+                "items": [
+                    {
+                        "question": "Do you meet in person?",
+                        "answer": "Yes. We are based in the Twin Cities and we come to you. Coffee, your office, or a call if that is easier to start."
+                    },
+                    {
+                        "question": "Where are you based?",
+                        "answer": "Minneapolis. We work with businesses across the Twin Cities metro, from St. Paul to the western suburbs."
+                    },
+                    {
+                        "question": "Do I have to sign a long contract?",
+                        "answer": "No. No long contracts and no lock-in. We earn the work each month by delivering work you are proud of."
+                    },
+                    {
+                        "question": "What do you do?",
+                        "answer": "Content and SEO, AI search visibility, email and automation, and the strategy and reporting that ties it together. You pick the mix your business needs."
+                    },
+                    {
+                        "question": "How fast can we start?",
+                        "answer": "As soon as we meet. Book a time, we map the plan together, and we get moving from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Let us map your plan.",
+                "text": "Book a time and we will build your next step together. You walk away with a plan you can use."
+            }
+        }
+    ]
+}

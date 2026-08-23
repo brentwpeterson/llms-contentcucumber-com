@@ -1,10 +1,13 @@
 {
     "form": {
+        "campaign_code": "about-us",
         "portal_id": "39487190",
         "form_id": "dfa053e1-3a7e-400f-82dc-8493781b3261",
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Content Cucumber is a human-powered marketing company with 30+ years in ecommerce. Content creation, SEO, AEO, and LLM discovery services. Real writers, real results.",
         "og_description": "Content Cucumber builds authority for brands through human-created content, SEO, AEO optimization, and LLM discovery. Founded in 2018, powered by 40+ writers.",
         "og_image": ""
@@ -31,16 +34,12 @@
                     "label": "Founded"
                 },
                 {
-                    "number": "30+",
-                    "label": "Years in Ecommerce"
-                },
-                {
                     "number": "40+",
-                    "label": "Human Writers"
+                    "label": "Human writers"
                 },
                 {
-                    "number": "500+",
-                    "label": "Podcast Episodes"
+                    "number": "0",
+                    "label": "Pages written by a prompt"
                 }
             ]
         },
@@ -53,24 +52,6 @@
                     "Isaac Morey co-founded Content Cucumber with his brother Sam, and college friends Chris and Sarah, in 2018 around a simple bet. Real human writers, working as a curated team, would still be the best content investment a brand could make.",
                     "Brent Peterson met Isaac that same year at IRCE Chicago, became one of CC's earliest clients through Wagento, and acquired the company through Content Basis in April 2025 after watching the bet pay off for seven years.",
                     "<a href=\"/about-us/our-story/\">Read the full story &rarr;</a>"
-                ],
-                "stats": [
-                    {
-                        "number": "2018",
-                        "label": "Isaac founds Content Cucumber"
-                    },
-                    {
-                        "number": "2021",
-                        "label": "Brent sells Wagento, founds Content Basis"
-                    },
-                    {
-                        "number": "Apr 2025",
-                        "label": "Content Basis acquires Content Cucumber"
-                    },
-                    {
-                        "number": "2026",
-                        "label": "Commerce King launches"
-                    }
                 ]
             }
         },
@@ -123,7 +104,7 @@
                     {
                         "title": "Inform",
                         "subtitle": "We educate our audiences with well-researched information.",
-                        "text": "Every piece of content we publish starts with research. Real research, not a prompt and a hope. Our writers read the source material, talk to subject-matter experts, dig past the first page of search results, and build pieces that teach the reader something they did not know before opening the page. Informed readers come back. Surface-level summaries get scrolled past."
+                        "text": "Every piece of content we publish starts with real research. Our writers read the source material, talk to subject-matter experts, dig past the first page of search results, and build pieces that teach the reader something they did not know before opening the page. Informed readers come back."
                     },
                     {
                         "title": "Entertain",
@@ -138,7 +119,7 @@
                     {
                         "title": "Elevate",
                         "subtitle": "We grow clients from good to exceptional through strategy and tech.",
-                        "text": "Execution is table stakes. Elevation is the work. We look at the brand, the offer, the audience, and the channel mix together, and build content programs that move all of them up at once. We bring the strategy thinking, the tech stack (HubSpot, RequestDesk, the Brand Voice Engine), and the writing operation that turns one good idea into six channels of momentum."
+                        "text": "Execution is the baseline. Elevation is the work. We look at the brand, the offer, the audience, and the channel mix together, and build content programs that move all of them up at once. We bring the strategy thinking, the tech stack (HubSpot, RequestDesk, the Brand Voice Engine), and the writing operation that turns one good idea into six channels of momentum."
                     },
                     {
                         "title": "Optimize",
@@ -157,7 +138,7 @@
                 "items": [
                     {
                         "title": "Proprietary Tools",
-                        "text": "We built <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener\">RequestDesk</a>, the Brand Voice Engine, and a writer-augmenting toolchain that lets one writer do the work of three without losing your voice. Tech amplifies humans. Humans drive the work. The output reads like a person made every decision because a person did."
+                        "text": "We built <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener\">RequestDesk</a>, the Brand Voice Engine, and a writer-augmenting toolchain that lets one writer do the work of three without losing your voice. The tools amplify our writers, and people drive the work. The output reads like a person made every decision on the page."
                     },
                     {
                         "title": "Human Writers",
@@ -215,7 +196,7 @@
                 "eyebrow": "And Then Some",
                 "title": "We Do More Than Fits on This Page.",
                 "paragraphs": [
-                    "Six service cards barely scratch the surface. Here is a partial list of work we ship for clients that did not make the cut above:"
+                    "Six service cards barely scratch the surface. Below is a partial list of work we ship for clients that did not make the cut above:"
                 ],
                 "image": "about-us-assets/we-do-more.jpg",
                 "bullets": [
@@ -237,8 +218,8 @@
                 "eyebrow": "Our Belief",
                 "title": "Content is Queen (Or King).<br><em>It always has been.</em>",
                 "paragraphs": [
-                    "AI made content cheap. It did not make content good. When every brand publishes the same AI-generated output, none of it builds authority. The brands that win are the ones investing in content that stands out.",
-                    "We have watched this play out for 30+ years in ecommerce. The brands that commit to consistent, quality content build organic traffic, earn trust, and create a competitive advantage that compounds. There are no shortcuts."
+                    "AI made content cheap and easy to produce at scale. When every brand publishes the same AI-generated output, none of it builds authority. The brands that win are the ones investing in content that stands out.",
+                    "We have watched this play out for 30+ years in ecommerce. The brands that commit to consistent, quality content build organic traffic, earn trust, and create a competitive advantage where each month builds on the last. There are no shortcuts."
                 ],
                 "comparison_style": "illustrated",
                 "old_way": {
@@ -260,7 +241,7 @@
                         "Content that sounds like you, not a template",
                         "SEO + AEO + LLM optimization",
                         "Visible in Google and AI search",
-                        "Authority that compounds over time"
+                        "Authority that grows month over month"
                     ]
                 }
             }
@@ -274,11 +255,11 @@
                     {
                         "icon": "users",
                         "title": "Real Human Writers",
-                        "text": "40+ writers who learn your brand voice, your industry, and your audience. Not AI output with a human label. Actual people creating actual content."
+                        "text": "40+ writers who learn your brand voice, your industry, and your audience. Real people create the content, not AI output with a human label."
                     },
                     {
                         "icon": "growth",
-                        "title": "Authority That Compounds",
+                        "title": "Authority That Grows Every Month",
                         "text": "Consistent content builds organic rankings over months and years. We have seen brands go from 500 to 10,000+ monthly organic visitors through disciplined content programs."
                     },
                     {

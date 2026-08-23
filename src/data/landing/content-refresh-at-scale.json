@@ -1,0 +1,499 @@
+{
+    "seo": {
+        "title": "Content Refresh at Scale | Rewrite Every Page for AI Search | Content Cucumber",
+        "meta_description": "We rewrite all your content in your voice, structure every page so AI engines cite you, and QA each piece before it ships. One fixed project price, set by the outcome.",
+        "og_description": "Rewrite all your content in your voice, AEO-encoded and QA-gated. Powered by RequestDesk. Priced on the outcome, not the hour. Request a scope.",
+        "og_type": "website",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/content-refresh-at-scale-og.png",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Request your scope",
+        "subtitle": "Tell us how many pages and where they live. We will scope the work and send one project price for the finished work.",
+        "trust_text": "Priced on the outcome, not the hour. You see the number before anything starts.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "content-refresh-at-scale"
+    },
+    "thankyou": {
+        "title": "Got it. We will be in touch.",
+        "text": "We will review your content and follow up to scope the project. If you have sample URLs handy, reply to the confirmation email and send them over."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Content Refresh at Scale",
+                "title": "<span class=\"cc-hero-l1\">Rewrite</span><br><span class=\"cc-hero-l2\"><em>All Your Content</em>.</span><br><span class=\"cc-hero-l3\">Answer-Ready</span><br><span class=\"cc-hero-l4\">for <em>AI Search</em></span>",
+                "paragraphs": [
+                    "Hundreds of pages, rewritten in your voice, structured so AI engines cite you, and QA-gated before they ship. All your content, held to one standard.",
+                    "It runs on <a href=\"https://requestdesk.ai\" target=\"_blank\" rel=\"noopener\">RequestDesk</a>, the engine that captures your voice once and applies it across every page at volume."
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "data": {
+                "image": "content-cud-cow.png",
+                "eyebrow": "Why we built this",
+                "title": "The Content Cud Problem",
+                "paragraphs": [
+                    "Your customer shouldn't be the first person to read your content.",
+                    "People have edited each other's writing for centuries. AI made it easy to skip that step, and most agencies and tools now do. They publish hundreds of pages and no one ever reads a word, so your brand ends up sounding like the billion other brands that Claude or Gemini or ChatGPT or whatever LLM already scraped.",
+                    "So who would read it? If you are regurgitating content cud like a cow, who else is going to read it?",
+                    "We keep a person in the loop. We capture your voice first, then someone reads every page before it ships. We rewrote about 100 articles end to end to prove it holds at volume, and even with a tight spec about a third came back short and a couple had the wrong content attached before a person caught it. That is what slips when nobody reads. The discipline is old. Doing it at AI scale is the part most shops drop."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "space",
+            "data": {
+                "title": "Houston, you have a problem",
+                "subtitle": "If one of these sounds like your site, a content refresh is the move.",
+                "items": [
+                    {
+                        "title": "A back catalog dragging you down",
+                        "text": "Hundreds of old posts that are out of date, off-brand, or thin. They still rank, still get crawled, and still shape what people and AI think of you."
+                    },
+                    {
+                        "title": "A platform migration",
+                        "text": "You are moving CMS or merging sites and everything needs to come across rewritten from scratch. A migration is the moment to fix the content while everything is already open."
+                    },
+                    {
+                        "title": "A voice that drifted",
+                        "text": "Years of different writers and agencies left your content sounding like ten brands. You want one voice across every page, old and new."
+                    },
+                    {
+                        "title": "Invisible to AI search",
+                        "text": "Your pages were written for a different web. They are not structured for AI engines to read, quote, and cite, so you are missing from the answers buyers see first."
+                    },
+                    {
+                        "title": "You sound like everyone else",
+                        "text": "Your content reads like the same scrape every competitor published. A reader has no reason to stay, and an AI engine has no reason to cite you over anyone else."
+                    },
+                    {
+                        "title": "Facts that went stale",
+                        "text": "Old stats, dead links, discontinued products, and last year's pricing are quietly eroding trust on pages you forgot you had."
+                    },
+                    {
+                        "title": "Rankings slipping for no obvious reason",
+                        "text": "Pages that used to rank are sliding. The web moved, competitors refreshed, and your content went quiet. That is content decay, and it keeps getting worse."
+                    },
+                    {
+                        "title": "More pages than your team can fix by hand",
+                        "text": "You know the library needs work. Refreshing hundreds of pages one at a time never reaches the top of anyone's list, so it never gets done."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Not every page needs a rewrite",
+                "subtitle": "We match each page to the right treatment, so you never overpay to fix what only needs a nudge.",
+                "items": [
+                    {
+                        "name": "Freshness update",
+                        "target": "For posts that already rank",
+                        "outcomes": [
+                            "Current facts and an updated date",
+                            "Sharper title and meta for click-through",
+                            "Fresh internal links and an FAQ block"
+                        ]
+                    },
+                    {
+                        "name": "Full rewrite",
+                        "target": "For off-brand, thin, or decayed pages",
+                        "outcomes": [
+                            "Rewritten end to end in your voice",
+                            "Structured for AI search, with an FAQ",
+                            "Fact-checked and QA-passed before it ships"
+                        ]
+                    },
+                    {
+                        "name": "Merge",
+                        "target": "For overlapping pages fighting for one term",
+                        "outcomes": [
+                            "Combined into one strong page",
+                            "Redirects set so no ranking equity is lost"
+                        ]
+                    },
+                    {
+                        "name": "Prune",
+                        "target": "For dead weight with no traffic or value",
+                        "outcomes": [
+                            "Removed or redirected cleanly",
+                            "Stops dragging down the rest of the site"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "control",
+            "data": {
+                "title": "We only touch what is safe",
+                "subtitle": "Before we change a thing, we read your Google Search Console. Your own data decides which pages are safe to update and which to leave alone, so a refresh never tanks a page that already works.",
+                "items": [
+                    {
+                        "title": "Safe quick-win",
+                        "text": "Ranking on page two with real impressions and soft clicks. A freshness update and a better title push it up. Low risk, fast payoff."
+                    },
+                    {
+                        "title": "Protect",
+                        "text": "Already in the top three and holding or growing. We leave it alone, or touch it with the lightest hand. We do not break a winner."
+                    },
+                    {
+                        "title": "Needs research",
+                        "text": "Strong impressions but the search intent shifted, or the rankings are swinging. We investigate before we act."
+                    },
+                    {
+                        "title": "No equity",
+                        "text": "Indexed but pulling no traffic for months. Nothing to lose, so it earns a full rewrite or a prune."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "What you get back",
+                "subtitle": "Every page of your content, rebuilt to the same standard.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Written in your voice",
+                        "text": "We capture your voice into a reusable profile first, then every rewrite is graded against it. Consistent across all your content."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Answer-ready for AI search",
+                        "text": "Each page is structured to answer the question up front, with the headings, FAQs, and markup that AI engines pull from when they cite a source."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Grounded in your own content",
+                        "text": "Rewrites pull from your own site and source material, so the facts are yours. No invented claims about your business."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "QA-gated and ready to publish",
+                        "text": "Voice, accuracy, and structure are checked on every piece before delivery. We can hand off clean drafts or publish straight to your site."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "bg": "gray",
+                "rail_image": "refresh-rail-cow.png",
+                "title": "What a content refresh does for you",
+                "lede": "The upside is not one thing. A refreshed library pays off across search, AI discovery, traffic, brand, cost, and risk.",
+                "blocks": [
+                    {
+                        "heading": "AI search and AEO",
+                        "image": "refresh-cow-ai-search.png",
+                        "list": [
+                            "Get cited in AI Overviews, ChatGPT, and Perplexity",
+                            "Become the source AI quotes instead of the page it skips",
+                            "Answer-first structure that wins answer-engine results",
+                            "Show up in zero-click results",
+                            "Future-proof the library for AI-first discovery"
+                        ]
+                    },
+                    {
+                        "heading": "Search and ranking",
+                        "image": "refresh-cow-search-ranking.png",
+                        "list": [
+                            "Reverse content decay and recover rankings that slipped",
+                            "Push page-two posts onto page one with a freshness nudge",
+                            "Win back or newly capture featured snippets",
+                            "Lift click-through with current dates and sharper titles and metas",
+                            "Trigger a re-crawl and faster re-indexing",
+                            "Rank for new keywords the original draft missed",
+                            "Kill cannibalization by merging overlapping pages into one",
+                            "Build topical authority through clusters and internal links"
+                        ]
+                    },
+                    {
+                        "heading": "Traffic and conversion",
+                        "image": "refresh-cow-traffic-conversion.png",
+                        "list": [
+                            "More organic traffic, built on equity you already have",
+                            "Lower bounce and longer dwell from scannable, structured pages",
+                            "More leads from refreshed calls to action and clearer next steps",
+                            "Re-monetize old high-traffic pages that stopped converting"
+                        ]
+                    },
+                    {
+                        "heading": "Risk reduction",
+                        "image": "refresh-cow-risk-reduction.png",
+                        "list": [
+                            "Protect your winners with data, so a rewrite never tanks a top page",
+                            "Remove overpromising and compliance-risky claims",
+                            "Fix accessibility gaps like missing alt text and broken heading order",
+                            "Catch errors and drift that only a human review surfaces"
+                        ]
+                    },
+                    {
+                        "heading": "Brand and trust",
+                        "image": "refresh-cow-brand-trust.png",
+                        "list": [
+                            "One consistent voice across every page, old and new",
+                            "On-brand again after a rebrand or acquisition",
+                            "Current, accurate facts that build credibility",
+                            "No dead links or stale stats embarrassing you",
+                            "Reads like a brand a person built, not a machine scrape"
+                        ]
+                    },
+                    {
+                        "heading": "Efficiency and cost",
+                        "image": "refresh-cow-efficiency-cost.png",
+                        "list": [
+                            "Cheaper than net-new content because you amplify equity instead of starting over",
+                            "Faster results than building new pages from zero",
+                            "Capture your voice once and reuse it across the whole library",
+                            "Free your team from a manual refresh they will never finish",
+                            "A refreshed page keeps paying"
+                        ]
+                    },
+                    {
+                        "heading": "Strategic and asset value",
+                        "image": "refresh-cow-strategic-asset.png",
+                        "list": [
+                            "Turn a stale back-catalog into a performing asset",
+                            "A clean, consistent foundation for everything you publish next",
+                            "A full content inventory and roadmap as the audit output",
+                            "Migrate or replatform without losing ranking equity",
+                            "Whole-site lift from better structure and internal linking"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "The engine is RequestDesk",
+                "subtitle": "Voice capture and quality control run as a system you can see, step by step.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Capture your voice",
+                        "text": "RequestDesk studies your existing content and builds a voice profile. It captures tone, rhythm, reading level, and what you do and do not say. We refine it with you and lock it as the standard."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Encode your brand rules",
+                        "text": "Banned phrases, required spellings, competitors you never link. We load them into RequestDesk so the rules are enforced on every page automatically."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Ground it in your content",
+                        "text": "We index your current pages and source documents so each rewrite draws on your own facts. This is the layer that keeps the work grounded."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Rewrite and encode at scale",
+                        "text": "Each page is rewritten to your voice and structured for AI search, with a clear answer up front, descriptive headings, internal and authority links, and an FAQ block."
+                    },
+                    {
+                        "number": "05",
+                        "title": "QA-gate every piece",
+                        "text": "Nothing ships until it passes the gate for voice match, fact accuracy, brand rules, and AEO structure. Whatever fails gets reworked before it ships."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "Inside every page we touch",
+                "subtitle": "Each page of your content goes through the same six steps. No skimming, no copy-paste.",
+                "items": [
+                    {
+                        "icon": "globe",
+                        "title": "Read and ground in the original",
+                        "text": "We read your existing page in full and pull the facts that matter, so the rewrite builds on what is true about your business."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Rewrite to your captured voice",
+                        "text": "A writer rebuilds the page against your locked voice profile, matching tone, rhythm, reading level, and the words you do and do not use."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Structure for AI search",
+                        "text": "The answer goes up front, with a primary question in the headline, descriptive subheads, and an FAQ block, so AI engines can read and cite it."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Add internal and authority links",
+                        "text": "Descriptive links to your own pages and to credible outside sources. Never a competitor, never a filler anchor like click here."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Fact-check against your material",
+                        "text": "Every claim is checked against your source content. Outdated stats get refreshed. Anything we cannot verify gets flagged for your review."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Run the QA gate",
+                        "text": "The page must pass voice match, accuracy, brand rules, and structure before it counts as done. Whatever fails goes back for rework."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "comparison-grid",
+            "data": {
+                "title": "How the options compare",
+                "subtitle": "What it takes to refresh all your content and keep it on-brand.",
+                "highlight_column": 0,
+                "columns": [
+                    "Content Cucumber + RequestDesk",
+                    "Generic AI tools",
+                    "Freelance writers",
+                    "Offshore content mills"
+                ],
+                "rows": [
+                    {
+                        "label": "Captures your actual voice",
+                        "values": [
+                            "✓ Stored as a reusable profile",
+                            "✗",
+                            "Sometimes",
+                            "Rarely"
+                        ]
+                    },
+                    {
+                        "label": "Grounded in your own content",
+                        "values": [
+                            "✓ Indexed from your own site",
+                            "✗",
+                            "Sometimes",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "AEO structure for AI search",
+                        "values": [
+                            "✓ Built into every page",
+                            "Rarely",
+                            "Sometimes",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "QA gate on every piece",
+                        "values": [
+                            "✓ Voice, accuracy, structure",
+                            "✗",
+                            "Varies",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Scales to all your content",
+                        "values": [
+                            "✓",
+                            "✓",
+                            "Slow",
+                            "✓"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "comparison_style": "paired",
+                "eyebrow": "Why this beats hiring it out piece by piece",
+                "title": "From <strong>one-off briefs</strong> to <strong>a captured standard</strong>",
+                "paragraphs": [
+                    "Hiring it out page by page drifts and never finishes. Here is the swap, line by line."
+                ],
+                "old_way": {
+                    "heading": "The old way",
+                    "items": [
+                        "Brief every writer on your voice and hope it sticks",
+                        "Voice drifts across pages and writers",
+                        "AEO structure is an afterthought, if it happens at all",
+                        "You manually spot-check a fraction of the work"
+                    ]
+                },
+                "new_way": {
+                    "heading": "The Content Cucumber way",
+                    "items": [
+                        "Voice captured once, applied to every page",
+                        "One consistent voice across all your content",
+                        "AEO structure baked into every rewrite",
+                        "Every piece passes the same QA gate before delivery"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Priced on the outcome",
+                "title": "You pay for the result, not the clock",
+                "paragraphs": [
+                    "You are buying the finished work. Every page rewritten in your voice, structured for AI search, fact-checked, and QA-passed. We quote one project price for that result, and you approve the number before we start. It does not move with our timesheet.",
+                    "So why show the hours at all? Because the work behind every page is substantial, and we want you to see it. A person reads every word at a heavy-edit standard, roughly 1,000 words for every 15 to 20 minutes of careful reading, fact-checking, and voice and structure correction, plus a one-time two to three hours to capture your voice. We show that depth so the price is never a black box. The hours shape the scope of the quote.",
+                    "A recent full refresh ran about 100 articles and 140,000 words, dozens of hours of human review, delivered as one outcome. What you buy is content that earns its place in AI search. Behind the platform sits a team with 30 years in ecommerce content and a bench of professional writers."
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get",
+                "items": [
+                    {
+                        "question": "Will the rewrites sound like us?",
+                        "answer": "Yes. We do not start writing until we have captured your voice into a profile and confirmed it with you. From there, every page is graded against that profile, so all your content reads like one brand."
+                    },
+                    {
+                        "question": "Do you make up facts about our business?",
+                        "answer": "No. We index your existing content and any source material you give us, and the rewrites draw from that. If something is not in your material, we flag it for you."
+                    },
+                    {
+                        "question": "What is AEO and why does it matter?",
+                        "answer": "AEO is structuring content so AI search engines can read it, quote it, and cite you as the source. Buyers increasingly get answers from AI before they ever reach a search results page. If your pages are not built for that, you are absent from the answer."
+                    },
+                    {
+                        "question": "If you do not charge by the hour, why show the hours?",
+                        "answer": "Because the work behind every page is substantial, and we want it visible. This is not a cheap content dump. We show the human review behind every page, roughly 1,000 words for every 15 to 20 minutes of careful reading, fact-checking, and correction, so you can see the depth you are paying for. The hours tell us how to size your project. They do not set your bill."
+                    },
+                    {
+                        "question": "How long does a full refresh take?",
+                        "answer": "It depends on the page count and how much grounding material exists. We run the work in controlled batches so quality holds at volume, and you get a delivery timeline alongside the quote. A recent refresh of about 100 articles moved through in a matter of weeks."
+                    },
+                    {
+                        "question": "Do you publish the pages or only write them?",
+                        "answer": "Either. We can deliver clean, formatted drafts for your team to review and publish, or push approved pages straight to your CMS. You decide where the handoff is."
+                    },
+                    {
+                        "question": "How is it priced?",
+                        "answer": "By the outcome, not the hour. We quote one fixed project price for the finished work, every page rewritten, AEO-structured, fact-checked, and QA-passed. You approve that number before we start, and it does not change based on how long the work takes us. Request a scope above and we will price your project."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Tell us about your content",
+                "text": "Send us your page count and a few sample URLs. We will scope the work and come back with one project price for all of it."
+            }
+        }
+    ]
+}

@@ -1,10 +1,14 @@
 {
     "seo": {
+        "title": "Webinar Motor de Ingresos en 90 días - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Acompaña a Brent Peterson y Chris Sánchez el 31 de marzo en una clase magistral en vivo sobre cómo construir un Motor de Ingresos en 90 Días. Aprende a corregir tu proceso de ventas, optimizar tu stack de HubSpot y destrabar ingresos ocultos.",
         "og_description": "Webinar en vivo el 31 de marzo: Detén las fugas de ingresos. Brent Peterson (Content Cucumber) y Chris Sánchez (Influential Passion) te muestran cómo construir un Motor de Ingresos en 90 Días para empresas que facturan de $10M a $150M al año.",
         "og_image": "/wp-content/themes/cucumber-gp-child/landing-data/revenue-engine-webinar-header.png"
     },
     "form": {
+        "campaign_code": "revenue-engine-webinar-es",
         "header": "Regístrate al webinar en vivo",
         "subtitle": "31 de marzo a las 2:00 PM hora del Este. 60 minutos de estrategia que puedes aplicar de inmediato.",
         "trust_text": "Entrada gratuita. La grabación se envía a todos los registrados.",
@@ -24,18 +28,9 @@
                 "title": "El Motor de Ingresos en 90 Días: Cómo construir una <em>máquina de ventas predecible</em> para marcas de alto valor",
                 "paragraphs": [
                     "Tu CRM está medio configurado. Tus vendedores improvisan las llamadas de descubrimiento. Tu equipo de contenido y el de ventas operan en universos paralelos. ¿El resultado? Los ingresos se te escapan de las manos todos los días.",
-                    "Acompaña a Brent Peterson (Content Cucumber) y Chris Sánchez (Influential Passion) en una clase magistral de 60 minutos sobre cómo construir un motor de ingresos predecible en 90 días. Sin teoría. Solo la mecánica."
+                    "Acompaña a Brent Peterson (Content Cucumber) y Chris Sánchez (Influential Passion) en una clase magistral de 60 minutos sobre cómo construir un motor de ingresos predecible en 90 días. Solo la mecánica que puedes aplicar."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "60", "label": "Minutos de clase magistral" },
-                { "number": "2", "label": "Expertos de la industria" },
-                { "number": "30+", "label": "Años de experiencia combinada" },
-                { "number": "Gratis", "label": "En vivo + grabación" }
-            ]
         },
         {
             "type": "banner-image",
@@ -52,29 +47,28 @@
                 "subtitle": "La mayoría de las empresas que facturan de $10M a $150M al año tienen al menos tres de estos problemas. Simplemente no saben dónde buscar.",
                 "items": [
                     {
-                        "number": "01",
                         "title": "El problema del Frankenstack",
                         "text": "CRM, facturación, ecommerce, herramientas de contenido. Si no se hablan entre sí, estás perdiendo dinero en cada negociación. Sistemas desconectados significan leads perdidos y parches manuales."
                     },
                     {
-                        "number": "02",
                         "title": "Vendedores sin un manual de juego",
                         "text": "Tu equipo tiene talento, pero talento sin proceso es inconsistencia pura. Sin guiones de conversación estructurados, sin un marco para manejar objeciones, sin ritmo diario. Los resultados varían enormemente de un vendedor a otro."
                     },
                     {
-                        "number": "03",
                         "title": "Leads muertos juntando polvo",
                         "text": "Miles de clientes anteriores y prospectos están sentados en tu base de datos sin hacer nada. Sin secuencias de reactivación. Sin campañas de recuperación. Es una mina de oro que estás ignorando."
                     },
                     {
-                        "number": "04",
                         "title": "Contenido que nunca llega a ventas",
                         "text": "Marketing crea casos de estudio, documentos técnicos y artículos de blog. Ventas nunca los usa. La brecha entre la creación de contenido y la habilitación de ventas te está costando cierres."
                     },
                     {
-                        "number": "05",
                         "title": "Sin visibilidad del estado del pipeline",
                         "text": "Revisas los ingresos a fin de mes y cruzas los dedos. Sin dashboards en tiempo real, sin seguimiento por etapas, sin indicadores adelantados. Estás volando a ciegas."
+                    },
+                    {
+                        "title": "Entregas que se caen entre equipos",
+                        "text": "De marketing a ventas, de ventas a onboarding, de onboarding a soporte. Cada entrega es un punto donde el trato se frena sin que nadie responda por la pausa."
                     }
                 ]
             }
@@ -85,7 +79,7 @@
                 "eyebrow": "El Motor de Ingresos en 90 Días",
                 "title": "Deja de parchar. <em>Empieza a construir.</em>",
                 "paragraphs": [
-                    "La mayoría de las empresas intentan resolver problemas de ingresos una herramienta a la vez. Una nueva función del CRM por aquí, una capacitación de ventas por allá. Eso es parchar, no construir.",
+                    "La mayoría de las empresas intentan resolver problemas de ingresos una herramienta a la vez. Una nueva función del CRM por aquí, una capacitación de ventas por allá. Eso es parchar.",
                     "El Motor de Ingresos en 90 Días es un enfoque sistemático que integra tu stack tecnológico, tu proceso de ventas y tu estrategia de contenido en una sola máquina que produce ingresos predecibles."
                 ],
                 "old_way": {
@@ -114,7 +108,7 @@
             "type": "how-it-works",
             "data": {
                 "title": "Qué te vas a llevar",
-                "subtitle": "Esto no es una sesión de ventas. Es una sesión de trabajo. Esto es lo que obtienes.",
+                "subtitle": "Es una sesión de trabajo. Esto es lo que obtienes.",
                 "steps": [
                     {
                         "number": "1",
@@ -147,12 +141,6 @@
                 "paragraphs": [
                     "Brent Peterson es el CEO de Content Cucumber, un HubSpot Solutions Partner especializado en estrategia de contenido y automatización de marketing para empresas de ecommerce. Con más de 30 años en el mundo del comercio, Brent ha ayudado a cientos de empresas a conectar su contenido, tecnología y operaciones de ventas.",
                     "Chris Sánchez es el fundador de Influential Passion, una firma de consultoría de ventas que construye equipos de ventas de alto rendimiento. Chris se especializa en coaching de ventas, optimización de procesos y los ritmos de liderazgo que convierten equipos promedio en máquinas que superan sus cuotas."
-                ],
-                "stats": [
-                    { "number": "30+", "label": "Años en comercio (Brent)" },
-                    { "number": "40+", "label": "Escritores profesionales" },
-                    { "number": "1000+", "label": "Vendedores capacitados (Chris)" },
-                    { "number": "HubSpot", "label": "Solutions Partner" }
                 ]
             }
         },

@@ -1,0 +1,90 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Free Content Audit | Content Cucumber",
+        "meta_description": "Get a free content audit for your ecommerce brand. See where your content drives revenue and where you're invisible in AI search.",
+        "og_description": "Free content audit for ecommerce brands. Find out what's working, what's not, and what to fix first."
+    },
+    "hero": {
+        "eyebrow": "Free for Ecommerce Brands",
+        "title": "Your content is costing you <em>money</em>.<br>Let's fix that.",
+        "paragraphs": [
+            "Most ecommerce brands are spending on content that doesn't convert. We'll show you exactly where the leaks are and how to plug them.",
+            "30-minute audit. Real data. No sales pitch."
+        ]
+    },
+    "form": {
+        "campaign_code": "test-landing",
+        "header": "Get Your Free Audit",
+        "subtitle": "Fill this out and we'll send your personalized report within 48 hours.",
+        "trust_text": "HubSpot Solutions Partner. Your data stays private.",
+        "portal_id": "39487190",
+        "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+        "region": "na1"
+    },
+    "proof_bar": [
+        { "number": "40+", "label": "Human Writers" },
+        { "number": "30+", "label": "Years in Ecommerce" },
+        { "number": "100%", "label": "Revenue Attributed" }
+    ],
+    "sections": [
+        {
+            "type": "cards",
+            "background": "alt",
+            "data": {
+                "title": "What You'll Get",
+                "subtitle": "A clear picture of your content performance with actionable next steps.",
+                "items": [
+                    {
+                        "title": "Content Performance Map",
+                        "text": "See which pages drive revenue and which are dead weight. We connect your content to actual sales data."
+                    },
+                    {
+                        "title": "AI Search Visibility Score",
+                        "text": "Find out if ChatGPT, Perplexity, and Gemini recommend you. Most brands are invisible in AI search."
+                    },
+                    {
+                        "title": "Priority Fix List",
+                        "text": "A ranked list of what to fix first, based on revenue impact. A ranked fix list tied to revenue impact."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "background": "",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "How long does the audit take?",
+                        "answer": "We deliver your personalized audit report within 48 hours of receiving your information. The report itself takes about 30 minutes to review."
+                    },
+                    {
+                        "question": "Is this really free?",
+                        "answer": "Yes. No credit card, no commitment. We do this because most brands don't realize how much revenue their content is leaving on the table. When they see the data, many choose to work with us."
+                    },
+                    {
+                        "question": "What ecommerce platforms do you work with?",
+                        "answer": "Shopify, Magento, BigCommerce, WooCommerce, and custom builds. If you sell online, we can audit your content."
+                    },
+                    {
+                        "question": "Do I need HubSpot?",
+                        "answer": "No. The audit works regardless of your marketing stack. If you do use HubSpot, we can go deeper on attribution data."
+                    }
+                ]
+            }
+        }
+    ],
+    "bottom_cta": {
+        "title": "See exactly which pages earn revenue.",
+        "text": "Get your free content audit and see exactly what's working and what's not.",
+        "button_text": "Get My Free Audit",
+        "button_url": "#"
+    },
+    "footer_links": [
+        { "label": "Privacy Policy", "url": "/privacy-policy/" },
+        { "label": "Terms", "url": "/terms-of-service/" }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "seo": {
+        "title": "Renovación de contenido a escala | Reescribimos cada página para la búsqueda con IA | Content Cucumber",
+        "meta_description": "Reescribimos toda tu biblioteca de contenido con tu voz, estructuramos cada página para que la IA te cite y revisamos cada pieza antes de publicarla. Un precio fijo por proyecto, definido por el resultado.",
+        "og_description": "Reescribimos toda tu biblioteca con tu voz, estructurada para AEO y revisada pieza por pieza. Con RequestDesk. Precio por resultado, no por hora. Pide tu cotización.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Pide tu cotización",
+        "subtitle": "Cuéntanos cuántas páginas son y dónde viven. Calculamos el alcance y te enviamos un solo precio de proyecto por la biblioteca terminada.",
+        "trust_text": "Precio por resultado, no por hora. Ves el número antes de que empiece nada.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "content-refresh-at-scale-es"
+    },
+    "thankyou": {
+        "title": "Listo. Te contactamos pronto.",
+        "text": "Vamos a revisar tu biblioteca y te buscamos para definir el proyecto. Si tienes URLs de ejemplo a la mano, responde el correo de confirmación y mándalas."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Renovación de contenido a escala",
+                "title": "Reescribimos <em>toda tu biblioteca</em><br>lista para que la IA te cite",
+                "paragraphs": [
+                    "Cientos de páginas, reescritas con tu voz, estructuradas para que los motores de IA te citen y revisadas por una persona antes de publicarse. Toda tu biblioteca, con un mismo estándar.",
+                    "Funciona sobre RequestDesk, el motor que captura tu voz una sola vez y la aplica en cada página, a cualquier volumen."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "bg": "gray",
+                "eyebrow": "Por qué lo construimos",
+                "title": "Alguien tiene que leer cada palabra",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "Empecé a hacer esto por lo que veía una y otra vez. Las agencias y las herramientas publican contenido a escala y nadie lo lee. Cientos de páginas salen al aire sin que una sola persona de la empresa las haya leído completas. Así es como una marca termina sonando como diez escritores distintos y repitiendo cosas que dejaron de ser ciertas hace años.",
+                            "Reescribimos una biblioteca completa de unas 100 páginas para probarlo. Aun con instrucciones claras, como un tercio salió corto y un par de páginas tenían el contenido equivocado hasta que una persona lo notó. Esa es la deriva silenciosa que aparece cuando nadie lee a escala. Por eso leemos cada palabra. Primero capturamos tu voz y luego una persona responde por cada página antes de publicarla. Esa es la razón por la que esto funciona."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "Esto resuelve un problema muy específico",
+                "subtitle": "Si alguno de estos te suena conocido, renovar tu biblioteca es el siguiente paso.",
+                "items": [
+                    {
+                        "title": "Un catálogo viejo que te frena",
+                        "text": "Cientos de publicaciones desactualizadas, fuera de tu marca o sin sustancia. Siguen posicionando, siguen rastreándose y siguen formando la idea que la gente y la IA tienen de ti."
+                    },
+                    {
+                        "title": "Una migración de plataforma",
+                        "text": "Estás cambiando de CMS o uniendo sitios y todo tiene que pasar reescrito desde cero. Una migración es el momento de arreglar el contenido mientras ya tienes todo abierto."
+                    },
+                    {
+                        "title": "Una voz que se desvió",
+                        "text": "Años de escritores y agencias distintas dejaron tu biblioteca sonando como diez marcas. Quieres una sola voz en cada página, vieja y nueva."
+                    },
+                    {
+                        "title": "Invisible para la búsqueda con IA",
+                        "text": "Tus páginas se escribieron para otra web. No están estructuradas para que los motores de IA las lean, las citen y te mencionen, así que te pierdes las respuestas que tus compradores ven primero."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Lo que recibes",
+                "subtitle": "Cada página de tu biblioteca, reconstruida con el mismo estándar.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Escrito con tu voz",
+                        "text": "Primero capturamos tu voz en un perfil reutilizable y luego calificamos cada reescritura contra él. Consistente en toda la biblioteca."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Lista para la búsqueda con IA",
+                        "text": "Cada página se estructura para responder la pregunta desde el inicio, con los encabezados, las preguntas frecuentes y el marcado que los motores de IA toman cuando citan una fuente."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Anclada en tu propio contenido",
+                        "text": "Las reescrituras parten de tu sitio y tu material, así los datos son tuyos. Sin afirmaciones inventadas sobre tu negocio."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Revisada y lista para publicar",
+                        "text": "Revisamos voz, exactitud y estructura en cada pieza antes de entregarla. Te entregamos borradores limpios o publicamos directo en tu sitio."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "El motor es RequestDesk",
+                "subtitle": "La captura de voz y el control de calidad funcionan como un sistema que puedes ver, paso a paso.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Capturamos tu voz",
+                        "text": "RequestDesk estudia tu contenido actual y construye un perfil de voz. Captura el tono, el ritmo, el nivel de lectura y lo que dices y lo que no. Lo afinamos contigo y lo dejamos como estándar."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Codificamos las reglas de tu marca",
+                        "text": "Frases prohibidas, formas de escribir obligatorias, competidores que nunca enlazas. Las cargamos en RequestDesk para que las reglas se apliquen en cada página de forma automática."
+                    },
+                    {
+                        "number": "03",
+                        "title": "La anclamos en tu contenido",
+                        "text": "Indexamos tus páginas actuales y tus documentos fuente para que cada reescritura parta de tus propios datos. Esa es la capa que mantiene el trabajo bien fundamentado."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Reescribimos y estructuramos a escala",
+                        "text": "Cada página se reescribe con tu voz y se estructura para la búsqueda con IA, con una respuesta clara desde el inicio, encabezados descriptivos, enlaces internos y de autoridad, y una sección de preguntas frecuentes."
+                    },
+                    {
+                        "number": "05",
+                        "title": "Filtro de calidad en cada pieza",
+                        "text": "Nada se publica hasta pasar el filtro de voz, exactitud, reglas de marca y estructura para AEO. Lo que no pasa, se rehace antes de publicarse."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "Lo que pasa con cada página",
+                "subtitle": "Cada página de tu biblioteca pasa por los mismos seis pasos. Sin lecturas rápidas, sin copiar y pegar.",
+                "items": [
+                    {
+                        "icon": "globe",
+                        "title": "Leemos y anclamos en el original",
+                        "text": "Leemos tu página actual completa y tomamos los datos que importan, para que la reescritura parta de lo que es cierto sobre tu negocio."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Reescribimos con tu voz capturada",
+                        "text": "Un escritor reconstruye la página contra tu perfil de voz, respetando el tono, el ritmo, el nivel de lectura y las palabras que usas y las que no."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Estructuramos para la búsqueda con IA",
+                        "text": "La respuesta va desde el inicio, con una pregunta principal en el encabezado, subtítulos descriptivos y una sección de preguntas frecuentes, para que los motores de IA la lean y la citen."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Agregamos enlaces internos y de autoridad",
+                        "text": "Enlaces descriptivos a tus propias páginas y a fuentes externas con credibilidad. Enlaces descriptivos a fuentes con credibilidad y a tus propias páginas."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Verificamos contra tu material",
+                        "text": "Revisamos cada afirmación contra tu contenido fuente. Las estadísticas viejas se actualizan. Lo que no podemos verificar se marca para tu revisión."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Pasamos el filtro de calidad",
+                        "text": "La página tiene que pasar voz, exactitud, reglas de marca y estructura antes de contar como terminada. Lo que no pasa, regresa a corrección."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "comparison-grid",
+            "data": {
+                "title": "Cómo se comparan las opciones",
+                "subtitle": "Lo que hace falta para renovar una biblioteca completa y mantenerla fiel a tu marca.",
+                "highlight_column": 0,
+                "columns": [
+                    "Content Cucumber + RequestDesk",
+                    "Herramientas de IA genéricas",
+                    "Escritores freelance",
+                    "Fábricas de contenido en el extranjero"
+                ],
+                "rows": [
+                    {
+                        "label": "Captura tu voz real",
+                        "values": [
+                            "✓ Guardada como perfil reutilizable",
+                            "✗",
+                            "A veces",
+                            "Casi nunca"
+                        ]
+                    },
+                    {
+                        "label": "Anclada en tu propio contenido",
+                        "values": [
+                            "✓ Indexada desde tu sitio",
+                            "✗",
+                            "A veces",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Estructura AEO para la búsqueda con IA",
+                        "values": [
+                            "✓ En cada página",
+                            "Casi nunca",
+                            "A veces",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Filtro de calidad en cada pieza",
+                        "values": [
+                            "✓ Voz, exactitud, estructura",
+                            "✗",
+                            "Varía",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Escala a una biblioteca completa",
+                        "values": [
+                            "✓",
+                            "✓",
+                            "Lento",
+                            "✓"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "shift",
+            "data": {
+                "eyebrow": "Por qué esto le gana a contratarlo pieza por pieza",
+                "title": "De <strong>encargos sueltos</strong> a <strong>un estándar capturado</strong>",
+                "paragraphs": [
+                    "La forma de siempre de renovar una biblioteca es contratar escritores, explicarle tu voz a cada uno y esperar que aguante en cientos de páginas. Nunca aguanta. La voz se desvía, la estructura queda despareja y revisas lo que alcanzas.",
+                    "Nosotros capturamos la voz una sola vez y la aplicamos en todo. La estructura AEO viene incluida en el proceso y cada página pasa por el mismo filtro. El resultado suena a una sola marca, porque se sostiene con un mismo estándar."
+                ],
+                "old_way": {
+                    "heading": "Pieza por pieza",
+                    "items": [
+                        "Le explicas tu voz a cada escritor y esperas que pegue",
+                        "La voz se desvía entre páginas y escritores",
+                        "La estructura AEO queda al final, si es que pasa",
+                        "Revisas a mano una fracción del trabajo"
+                    ]
+                },
+                "new_way": {
+                    "heading": "Renovación de biblioteca",
+                    "items": [
+                        "Voz capturada una vez, aplicada en cada página",
+                        "Una sola voz consistente en toda la biblioteca",
+                        "Estructura AEO en cada reescritura",
+                        "Cada pieza pasa el mismo filtro antes de entregarse"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Precio por resultado",
+                "title": "Pagas por el resultado, no por el reloj",
+                "paragraphs": [
+                    "Estás comprando una biblioteca terminada. Cada página reescrita con tu voz, estructurada para la búsqueda con IA, verificada y aprobada por el filtro de calidad. Cotizamos un solo precio de proyecto por ese resultado y tú apruebas el número antes de empezar. No se mueve con nuestro reloj.",
+                    "¿Entonces para qué mostramos las horas? Porque el trabajo detrás de cada página es real y queremos que lo veas. Una persona lee cada palabra con un estándar de edición a fondo, alrededor de 1,000 palabras por cada 15 a 20 minutos de lectura cuidadosa, verificación y corrección de voz y estructura, más unas dos o tres horas únicas para capturar tu voz. Mostramos esa profundidad para que el precio nunca sea una caja negra. Las horas dan forma al alcance de la cotización.",
+                    "Renovamos una biblioteca completa de unas 100 páginas y 140,000 palabras, decenas de horas de revisión humana, entregada como un solo resultado. Lo que compras es una biblioteca que se gana su lugar en la búsqueda con IA. Detrás de la plataforma hay un equipo con 30 años en contenido para ecommerce y un banco de escritores profesionales."
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas frecuentes",
+                "items": [
+                    {
+                        "question": "¿De verdad va a sonar como nosotros?",
+                        "answer": "Sí. No empezamos a escribir hasta capturar tu voz en un perfil y confirmarlo contigo. A partir de ahí, calificamos cada página contra ese perfil, así toda la biblioteca suena a una sola marca."
+                    },
+                    {
+                        "question": "¿Inventan datos sobre nuestro negocio?",
+                        "answer": "No. Indexamos tu contenido actual y el material que nos des, y las reescrituras parten de ahí. Si algo no está en tu material, lo marcamos para ti."
+                    },
+                    {
+                        "question": "¿Qué es AEO y por qué importa?",
+                        "answer": "AEO es estructurar el contenido para que los motores de búsqueda con IA lo lean, lo citen y te mencionen como fuente. Cada vez más, tus compradores obtienen respuestas de la IA antes de llegar a una página de resultados. Si tus páginas no están hechas para eso, quedas fuera de la respuesta."
+                    },
+                    {
+                        "question": "Si no cobran por hora, ¿para qué muestran las horas?",
+                        "answer": "Porque el trabajo detrás de cada página es real y queremos que se vea. Una renovación de biblioteca no es contenido barato de relleno. Mostramos la revisión humana de cada página, alrededor de 1,000 palabras por cada 15 a 20 minutos de lectura cuidadosa, verificación y corrección, para que veas la profundidad que estás pagando. Las horas nos dicen cómo dimensionar tu proyecto. No fijan tu factura."
+                    },
+                    {
+                        "question": "¿Cuánto tarda una biblioteca completa?",
+                        "answer": "Depende de la cantidad de páginas y de cuánto material de base exista. Trabajamos en lotes controlados para que la calidad aguante el volumen y recibes un calendario de entrega junto con la cotización. Una biblioteca completa de unas 100 páginas salió adelante en cuestión de semanas."
+                    },
+                    {
+                        "question": "¿Publican las páginas o solo las escriben?",
+                        "answer": "Cualquiera de las dos. Te entregamos borradores limpios y con formato para que tu equipo los revise y publique, o subimos las páginas aprobadas directo a tu CMS. Tú decides dónde está la entrega."
+                    },
+                    {
+                        "question": "¿Cómo se cobra?",
+                        "answer": "Por resultado, no por hora. Cotizamos un solo precio fijo de proyecto por la biblioteca terminada, con cada página reescrita, estructurada para AEO, verificada y aprobada. Apruebas ese número antes de empezar y no cambia según cuánto nos tome el trabajo. Pide tu cotización arriba y le ponemos precio a tu biblioteca."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Cuéntanos de tu biblioteca",
+                "text": "Mándanos cuántas páginas son y algunas URLs de ejemplo. Calculamos el alcance y te regresamos con un solo precio de proyecto por la biblioteca terminada."
+            }
+        }
+    ]
+}

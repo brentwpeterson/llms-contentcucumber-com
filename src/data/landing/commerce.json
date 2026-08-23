@@ -1,0 +1,149 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Commerce Content Services - Content Cucumber",
+        "meta_description": "Your whole commerce content layer, built end to end. Product descriptions, category pages, and conversion copy for Shopify, WooCommerce, and Magento brands, written by human writers. From 20-SKU launches to 100,000+ SKU catalogs.",
+        "slug": "commerce"
+    },
+    "form": {
+        "campaign_code": "commerce",
+        "header": "Get a quote on your commerce content",
+        "subtitle": "",
+        "trust_text": "Zero AI slop.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1"
+    },
+    "hero": {
+        "eyebrow": "Commerce",
+        "title": "Your commerce content, built end to end.",
+        "subtitle": "Product descriptions, category pages, and conversion copy for brands on Shopify, WooCommerce, and Magento, written by human writers who understand what turns browsers into buyers. One team owns the whole content layer, from 20-SKU DTC launch catalogs to 100,000+ SKU enterprise stores."
+    },
+    "sections": [
+        {
+            "id": "what-commerce-covers",
+            "title": "The whole commerce content layer, one team",
+            "content": [
+                "Commerce is the editorial layer that wraps around an online store. Product descriptions, category pages, conversion-focused web copy, and the blog and email content that bring buyers in the first place, owned by one team instead of stitched together from freelancers and tools.",
+                "The brands that win treat content as the product itself, the part a buyer reads before they click 'add to cart' and the part Google and ChatGPT cite when someone asks 'best X for Y.'",
+                "Content Cucumber writes and publishes that layer for you, human writers on a steady cadence, straight into your commerce platform."
+            ]
+        },
+        {
+            "id": "commerce-disconnect",
+            "title": "The commerce disconnect problem",
+            "content": [
+                "Your content creation process is disconnected from your commerce platforms, creating manual work and delays.",
+                "Copying and pasting content between systems wastes hours every week. Products sit without descriptions, blog posts don't get published, and your team drowns in administrative tasks.",
+                "We connect to Shopify, WordPress, and Magento. Human writers create the content, then we publish straight to your platform. No more copy-paste, no more delays."
+            ],
+            "image": "/wp-content/uploads/2026/04/cc-ecommerce-disconnect.jpg",
+            "image_alt": "Commerce content workflow disconnected across platforms",
+            "link_url": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting",
+            "link_text": "Book a call"
+        },
+        {
+            "id": "by-the-numbers",
+            "title": "By the numbers",
+            "content": [
+                "<strong>15,000+</strong> product descriptions delivered to ecommerce clients.",
+                "<strong>340%</strong> average traffic increase on commerce sites we've written for.",
+                "<strong>98%</strong> client retention on commerce engagements.",
+                "<strong>24-hour</strong> rush turnaround available on every plan."
+            ]
+        },
+        {
+            "id": "services",
+            "title": "Commerce content services",
+            "content": [
+                "Six service lines under Commerce. Pick the one matching your bottleneck, or pair them on a Flywheel or Managed plan.",
+                "<strong><a href='/services/content-in-commerce/product-descriptions/'>Product Descriptions</a>:</strong> Product copy that ranks in Google and gets cited by ChatGPT. Built for high-SKU catalogs that need consistent voice across every listing.",
+                "<strong><a href='/services/content-in-commerce/category-pages/'>Category Pages</a>:</strong> Category pages that win 'best of' and 'top X' searches. Deep research, structured for AEO, written by humans who understand commerce.",
+                "<strong><a href='/services/content-in-commerce/shopify-content-services/'>Shopify Content Services</a>:</strong> Shopify-specific content workflows. Direct publishing via the Shopify Admin API, theme-aware copy, and metafield-friendly product blocks.",
+                "<strong><a href='/services/content-creation/website-copy/'>Website Copy</a>:</strong> Homepage, about, services, and landing pages. Conversion-focused copy for the pages your store visitor sees before the product grid.",
+                "<strong><a href='/services/content-creation/blog-writing/'>Blog Writing for Ecommerce</a>:</strong> Editorial blog content that supports your catalog. Topical authority for the queries that lead to a 'buy now' click.",
+                "<strong><a href='/services/we-write-case-studies/'>Case Study Writing</a>:</strong> Customer success stories for the brands you sell to or sell with. 26 hours of writer effort, kickoff to published in two to four weeks."
+            ]
+        },
+        {
+            "id": "how-it-works",
+            "title": "How we run a commerce engagement",
+            "content": [
+                "A repeatable four-step process from onboarding to direct publish.",
+                "<strong>1. Onboarding interview.</strong> One-hour video call (or async form for tight schedules). We capture your brand voice, audience, platform, catalog structure, and the queries your buyers ask before they buy.",
+                "<strong>2. Topic and catalog audit.</strong> We pull SEO data from Google Search Console and SEO Crawl. We find the products and categories with traffic-but-no-conversion, no-traffic-but-high-margin, and the gaps where competitors are winning the 'best of' searches.",
+                "<strong>3. Production with humans in the loop.</strong> Your dedicated writer drafts. An editor reviews against the brand voice guide. AI helps with research and ideation. Humans hold the pen on every published word.",
+                "<strong>4. Direct publish to your platform.</strong> We push straight to Shopify, WooCommerce, or Magento via API. No copy-paste, no Friday afternoon CMS sessions. You approve, we publish."
+            ]
+        },
+        {
+            "id": "agency-vs-freelance-vs-in-house",
+            "title": "Agency vs. freelance vs. in-house",
+            "content": [
+                "Three common paths to ecommerce content production, and the tradeoffs across each.",
+                "<strong>In-house team.</strong> $8,000+/month loaded salary. Strong voice consistency from a single writer. One to two weeks to first draft. Manual publishing. Owns its own strategy. Bottlenecks on writers as the catalog grows. Production stops when the writer takes vacation.",
+                "<strong>Freelance writer.</strong> $500 to $3,000/month variable cost. Voice drifts when freelancers rotate or hand off. One to two weeks to first draft. Manual hand-off to your team for publishing. No strategy included. Bottlenecks on writer capacity. Production stops when the freelancer is unavailable.",
+                "<strong>Content Cucumber.</strong> $590 to $2,500/month fixed. Strong voice consistency through a brand guide and dedicated editor. 24 to 48 hours to first draft. Direct publishing via API. Strategy included on Flywheel and Managed plans. Scales from 20 SKUs to 100,000+. Writer pool covers vacation."
+            ]
+        },
+        {
+            "id": "real-results",
+            "title": "Results from commerce brands we write for",
+            "content": [
+                "<strong>Chalet Market</strong> is a family-owned Montana food retailer on Shopify. We built a weekly content engine. Organic traffic grew 105% in six months. Blog engagement quadrupled. Holiday traffic arrived half a year early.",
+                "<strong>Silicone Depot</strong> started weekly content with us in 2018. Their organic traffic went from 500 visitors per month to over 10,000. They now rank for 12,793 organic keywords, on articles that keep earning traffic."
+            ],
+            "link_url": "/our-work/",
+            "link_text": "See all our commerce case studies"
+        }
+    ],
+    "faq": {
+        "title": "Commerce content questions",
+        "items": [
+            {
+                "question": "What platforms do you work with?",
+                "answer": "Shopify, WooCommerce, BigCommerce, Magento (Open Source and Adobe Commerce), and headless setups. We publish direct via API where possible. For platforms without an API, we deliver CMS-ready copy and your team handles the import."
+            },
+            {
+                "question": "What size catalog do you work with?",
+                "answer": "Any size, from a 20-SKU DTC launch up through 100,000+ enterprise stores. For smaller DTC brands we focus on hand-crafted descriptions and category pages where every page is doing work. Above 5,000 SKUs we layer in templating that holds voice consistent while letting writers focus on the listings that drive the most revenue. Managed Services is built for high-volume catalogs of 10,000+ SKUs."
+            },
+            {
+                "question": "Do you write for product variants and options?",
+                "answer": "Yes. We can write variant-aware descriptions (color, size, material) or single descriptions with structured variant blocks. Which approach is right depends on your platform and how Google indexes your variants. We audit this on the onboarding call."
+            },
+            {
+                "question": "How is this different from hiring a freelance writer?",
+                "answer": "Three things. First, you're not the editor. We have one on every project. Second, voice doesn't drift when writers rotate or go on vacation because the brand voice guide is the source of truth. Third, the work scales. A single freelancer hits a ceiling around 5-10 articles a month. Our writer pool doesn't."
+            },
+            {
+                "question": "Do you use AI?",
+                "answer": "For research, outlining, ideation, and quality checks at the end. Not for writing the published page. Every piece has a human writer drafting and a human editor reviewing. The page that lands on your store was decided sentence-by-sentence by a person."
+            },
+            {
+                "question": "How much does it cost?",
+                "answer": "Starter is $590/month for a dedicated writer with unlimited revisions, suitable for steady blog and web copy. Content Flywheel is $1,000/month and adds monthly video, social, and email built from a single interview. Managed Services starts at $2,500/month with a dedicated account manager for high-volume catalogs."
+            },
+            {
+                "question": "How fast can we start?",
+                "answer": "First draft within 24-48 hours of onboarding for Starter. Two weeks for Flywheel, since we build the multi-channel calendar first. Managed Services kickoff is custom."
+            },
+            {
+                "question": "Can I see your work?",
+                "answer": "Yes. Our work page has commerce case studies including Chalet Market (Shopify food retailer, 105% organic growth in six months) and Silicone Depot (a long-running client, 500 to 10,000+ monthly visitors). Ask on the call for samples in your category."
+            }
+        ]
+    },
+    "sidebar": {
+        "title": "Quote on your commerce content",
+        "text": "Tell us about your store, your platform, and where the content gap is. We come back with a plan within one business day.",
+        "button_text": "Book a Call",
+        "button_url": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting",
+        "trust_text": "40+ human writers. Zero AI slop."
+    },
+    "cta": {
+        "title": "Ready to fix your commerce content?",
+        "text": "Tell us about your store, your platform, and what isn't converting. We'll come back with a content plan within one business day."
+    }
+}

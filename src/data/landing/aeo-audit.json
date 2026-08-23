@@ -1,10 +1,13 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Free AEO Audit. Measure how ChatGPT, Perplexity, and Gemini represent your brand. Get a scored report across five dimensions with actionable recommendations.",
         "og_description": "Answer engines are shaping how buyers see your brand. Find out what ChatGPT, Perplexity, and Gemini say about you with a free AEO brand report.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "aeo-audit",
         "header": "Get Your Free AEO Audit",
         "subtitle": "Enter your details. We'll analyze how AI platforms represent your brand.",
         "trust_text": "Your report will be ready within one business day. No obligation.",
@@ -20,21 +23,12 @@
                 "title": "Measure How Answer Engines <em>Represent Your Brand</em>",
                 "paragraphs": [
                     "ChatGPT, Perplexity, and Gemini now answer for your brand before a buyer ever reaches your site.",
-                    "This audit shows you exactly what they say, where you rank, and what to fix."
+                    "This audit shows you what they say, where you rank, and what to fix."
                 ],
                 "hero_stack": [
                     "sample-ai-seo-audit-cover.png"
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "3", "label": "AI Platforms Analyzed" },
-                { "number": "5", "label": "Scoring Dimensions" },
-                { "number": "100", "label": "Point Scale" },
-                { "number": "Free", "label": "Full Analysis" }
-            ]
         },
         {
             "type": "challenges",
@@ -80,25 +74,25 @@
                         "image": "audit-sample-pages/01-cover.png",
                         "image_alt": "Cover page of a real anonymized Content Cucumber AI and SEO audit",
                         "title": "A real audit, start to finish",
-                        "text": "Every audit opens with the scope and the snapshot it references. This is a genuine deliverable we ran on our own commerce demo, with the client name, domain, and homepage captured exactly as they were the moment we looked. Nothing in the report is hypothetical.<br><br>Every finding points back to this snapshot, so when we say a tag is missing or a score is low, you can see precisely where and why. The format, the depth, the structure, and the tone are exactly what lands in your inbox when you run an audit on your own site."
+                        "text": "Every audit opens with the scope and the snapshot it references. This is a genuine deliverable we ran on our own commerce demo, with the client name, domain, and homepage captured as they were the moment we looked. Nothing in the report is hypothetical.<br><br>Every finding points back to this snapshot, so when we say a tag is missing or a score is low, you can see precisely where and why. The format, the depth, the structure, and the tone are what lands in your inbox when you run an audit on your own site."
                     },
                     {
                         "image": "audit-sample-pages/02-score.png",
                         "image_alt": "Out-of-100 health score with a nine-category breakdown from a real audit",
                         "title": "Your score, nine categories",
-                        "text": "An out-of-100 health score with a weighted breakdown across nine categories: crawlability, on-page, schema, performance, Core Web Vitals, social and Open Graph, mobile, content depth, and AI search. AI is split into infrastructure (what is built) and measured outcome (what the engines actually do), because a site can pass every technical check and still be invisible in the answer layer. Live mobile and desktop PageSpeed figures sit right beside the score, so the number is grounded in real measurement, not estimates. You see at a glance where you stand and which single category is dragging the rest of the score down."
+                        "text": "An out-of-100 health score with a weighted breakdown across nine categories: crawlability, on-page, schema, performance, Core Web Vitals, social and Open Graph, mobile, content depth, and AI search. AI is split into infrastructure (what is built) and measured outcome (what the engines do), because a site can pass every technical check and still be invisible in the answer layer. Live mobile and desktop PageSpeed figures sit right beside the score, so the number is grounded in real measurement, not estimates. You see at a glance where you stand and which single category is dragging the rest of the score down."
                     },
                     {
                         "image": "audit-sample-pages/03-ai-visibility.png",
                         "image_alt": "Live four-engine AI citation test with per-engine scores and share-of-voice donuts",
                         "title": "The live four-engine AI test",
-                        "text": "OpenAI, Gemini, Perplexity, and Claude are each asked twenty real category queries, the kind your buyers actually type, and scored on how they represent you. You get per-engine gauges, a five-part sub-score breakdown, share-of-voice donuts, and the named competitors the engines hand the buyer instead of you. This is the part most audits never measure and the part that decides whether you exist in the answer layer at all.<br><br>Each engine is graded out of 100 across five weighted parts. Brand Recognition, worth 20, is whether the engine knows you exist and can describe you without being fed details. Market Score, worth 10, is how it ranks you against the category. Presence Quality, worth 20, is how substantive and accurate the mention is rather than a passing reference. Brand Sentiment, worth 40, is the tone and the credibility of the sources shaping it. Share of Voice, worth 10, is how often you are named against competitors for the category question. Share of Voice is the part that decides everything, because zero there means the buyer never hears your name no matter how well an engine could describe you if it were asked directly.<br><br>On this demo the result is stark. Zero share of voice on all four engines, with the engines naming Sysco and US Foods instead. That is the gap, quantified."
+                        "text": "OpenAI, Gemini, Perplexity, and Claude are each asked twenty real category queries, the kind your buyers type, and scored on how they represent you. You get per-engine gauges, a five-part sub-score breakdown, share-of-voice donuts, and the named competitors the engines hand the buyer instead of you. Most audits never measure this, and it decides whether you exist in the answer layer at all.<br><br>Each engine is graded out of 100 across five weighted parts. Brand Recognition, worth 20, is whether the engine knows you exist and can describe you without being fed details. Market Score, worth 10, is how it ranks you against the category. Presence Quality, worth 20, is how substantive and accurate the mention is rather than a passing reference. Brand Sentiment, worth 40, is the tone and the credibility of the sources shaping it. Share of Voice, worth 10, is how often you are named against competitors for the category question. Share of Voice is the part that decides everything, because zero there means the buyer never hears your name no matter how well an engine could describe you if it were asked directly.<br><br>On this demo the result is stark. Zero share of voice on all four engines, with the engines naming Sysco and US Foods instead. That is the gap, quantified."
                     },
                     {
                         "image": "audit-sample-pages/04-closing.png",
                         "image_alt": "Closing verdict and production model page from a real audit",
                         "title": "The verdict and what to do",
-                        "text": "A plain-language verdict, a 90-day roadmap, and the exact production model that earns AI share of voice over time. This sample is a fast, well-built, beautifully written store, and it still scores zero with the AI engines, because the technical fixes are an afternoon and the authority that earns citation is content built over months. That split is the whole lesson. You leave knowing which half of your own gap is a quick fix and which half is the real work, and exactly what the work is. No vague next steps, no upsell maze, just the model and the sequence."
+                        "text": "A plain-language verdict, a 90-day roadmap, and the exact production model that earns AI share of voice over time. This sample is a fast, well-built, beautifully written store, and it still scores zero with the AI engines, because the technical fixes are an afternoon and the authority that earns citation is content built over months. That split is the whole lesson. You leave knowing which half of your own gap is a quick fix and which half is the real work, and what the work is. You leave with the model and the exact sequence to follow."
                     }
                 ]
             }
@@ -154,7 +148,7 @@
                         "text": "Answer engines are defining your brand narrative whether you participate or not. Understanding how they represent you is the first step to influencing it."
                     },
                     {
-                        "icon": "target",
+                        "icon": "search",
                         "title": "Benchmark Against Competitors",
                         "text": "Your competitors are already showing up in AI-generated answers. Knowing where you rank in share of voice and how AI platforms position you relative to alternatives gives you a concrete starting point."
                     }
@@ -168,7 +162,7 @@
                 "items": [
                     {
                         "question": "Is this really free?",
-                        "answer": "Yes, completely free with no obligation. We believe in showing value first. The audit gives you actionable insights whether or not you ever work with us."
+                        "answer": "Yes, free with no obligation. We believe in showing value first. The audit gives you actionable insights whether or not you ever work with us."
                     },
                     {
                         "question": "How long does it take to get my report?",
@@ -193,7 +187,7 @@
             "type": "bottom-cta",
             "data": {
                 "title": "Find Out How AI Sees Your Brand",
-                "text": "Answer engines are shaping buyer perception right now. Get your free AEO audit and see exactly how ChatGPT, Perplexity, and Gemini represent your brand across five scored dimensions."
+                "text": "Answer engines are shaping buyer perception right now. Get your free AEO audit and see how ChatGPT, Perplexity, and Gemini represent your brand across five scored dimensions."
             }
         }
     ]

@@ -1,13 +1,16 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "PR agencies: turn your clients' conference appearances into months of content. Talk Commerce records the interviews. Content Cucumber writes the articles, case studies, and social posts.",
         "og_description": "Your clients are already at the conference. We turn their booth presence into podcast episodes, blog articles, case studies, and social content. White-label available.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "media-outreach",
         "header": "Let's Talk About Your Clients",
         "subtitle": "Tell us a bit about your agency and we'll set up a quick call.",
-        "trust_text": "40+ human writers. 500+ podcast episodes. Trusted by agencies.",
+        "trust_text": "Trusted by agencies.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
@@ -30,15 +33,6 @@
                     "Three packages your clients can choose from. White-label available. No contracts, no minimums. <a href=\"/conference-interview/\">See the full interview packages</a>."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "40+", "label": "Human Writers" },
-                { "number": "500+", "label": "Podcast Episodes" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "100s", "label": "Brands Served" }
-            ]
         },
         {
             "type": "bundles",
@@ -72,7 +66,7 @@
                         "name": "Deep Dive",
                         "badge": "Most Popular",
                         "featured": true,
-                        "target": "A full-length conversation your client can use across every channel. You get the footage, they get the exposure.",
+                        "target": "A full-length conversation your client can use across every channel. You keep the raw footage, and your client gets exposure across their channels.",
                         "price": "$100",
                         "form_modal": {
                             "heading": "Book a Deep Dive for Your Client",

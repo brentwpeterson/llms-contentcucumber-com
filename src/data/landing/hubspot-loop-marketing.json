@@ -1,13 +1,17 @@
 {
+    "_note": "Canonical Loop Marketing landing page (slug: hubspot-loop-marketing, live at /grow-with-hubspot-and-the-loop/ family). A stray DUPLICATE WordPress page with slug 'loop-marketing-hubspot' was published with the page-landing-json.php template but had NO matching loop-marketing-hubspot.json data file, so it rendered empty. It was trashed 2026-06-30 (Claude-Rutherford). Do not recreate the 'loop-marketing-hubspot' slug — this file is the single source.",
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Loop Marketing for ecommerce brands. Replace the funnel with a continuous cycle: Express, Tailor, Amplify, Evolve. Full revenue attribution included. No HubSpot required to start.",
         "og_description": "Content Cucumber implements Loop Marketing for ecommerce brands. 40+ human writers, full attribution, and a methodology built for how buyers buy today. We set up the platform for you.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "hubspot-loop-marketing",
         "header": "Get Your Free Loop Marketing Review",
         "subtitle": "",
-        "trust_text": "HubSpot Solutions Partner. Loop Marketing certified. 30+ years in ecommerce.",
+        "trust_text": "HubSpot Solutions Partner. Loop Marketing certified.",
         "portal_id": "39487190",
         "form_id": "60772228-1ef9-471a-96e6-6e3aa92ce039",
         "region": "na1"
@@ -23,22 +27,13 @@
                 "eyebrow": "Growth Marketing for Ecommerce Brands",
                 "title": "The funnel is dead.<br>The <em>loop</em> is how you grow now.",
                 "paragraphs": [
-                    "Your buyers research on Reddit, YouTube, and ChatGPT before they ever visit your site. They expect personalized messaging, not generic campaigns. And by the time you see quarterly reports, the opportunity is gone. Loop Marketing solves this with a continuous cycle: Express your brand voice with authenticity, Tailor messaging using AI and CRM data, Amplify across every channel your buyers actually use, and Evolve by iterating in real time instead of waiting for the next quarter.",
+                    "Your buyers research on Reddit, YouTube, and ChatGPT before they ever visit your site. They expect personalized messaging, not generic campaigns. And by the time you see quarterly reports, the opportunity is gone. Loop Marketing solves this with a continuous cycle: Express your brand voice with authenticity, Tailor messaging using AI and CRM data, Amplify across every channel your buyers use, and Evolve by iterating in real time instead of waiting for the next quarter.",
                     "Your free Loop Marketing review includes:",
                     "<ul><li>Scorecard mapping your marketing to the four loop stages</li><li>Express score: how differentiated is your content?</li><li>Tailor score: where is personalization missing?</li><li>Amplify score: how well are you distributing across channels?</li><li>Evolve score: are you optimizing based on what works?</li><li>Prioritized list of fixes ranked by revenue impact</li><li>30-minute call with an ecommerce marketing expert</li><li>Written deliverable you can act on immediately</li></ul>"
                 ],
                 "platforms_label": "Powering growth on",
                 "platforms": "Shopify &bull; BigCommerce &bull; Magento &bull; WooCommerce"
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Solutions Partner" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "40+", "label": "Human Writers" },
-                { "number": "500+", "label": "Podcast Episodes" }
-            ]
         },
         {
             "type": "challenges",
@@ -56,11 +51,11 @@
                     },
                     {
                         "title": "Your Buyers Don't Follow a Funnel",
-                        "text": "The linear funnel assumed buyers move from awareness to consideration to decision in order. They don't. They jump between channels, revisit stages, and make decisions on their own terms. Loop Marketing is built for this reality. It meets buyers wherever they are in the cycle."
+                        "text": "The linear funnel assumed buyers move from awareness to consideration to decision in order. Real buyers don't work that way. They jump between channels, revisit stages, and make decisions on their own terms. Loop Marketing is built for that reality and meets buyers wherever they are in the cycle."
                     },
                     {
                         "title": "Your Marketing Services Are Commoditized",
-                        "text": "When every agency offers the same blog-and-SEO package, you're buying a commodity. Loop Marketing is a methodology, not a menu of deliverables. It connects content creation, personalization, amplification, and optimization into one continuous system tied to revenue."
+                        "text": "When every agency offers the same blog-and-SEO package, you're buying a commodity. Loop Marketing is a methodology that connects content creation, personalization, amplification, and optimization into one continuous system tied to revenue."
                     }
                 ]
             }
@@ -101,7 +96,7 @@
             "type": "who-its-for",
             "data": {
                 "title": "Is Loop Marketing Right for You?",
-                "subtitle": "Loop Marketing isn't for everyone. It's for ecommerce brands that are done with the content hamster wheel and ready for a system that compounds.",
+                "subtitle": "Loop Marketing fits ecommerce brands that are done with the content hamster wheel and want a system where each month builds on the last.",
                 "fits": [
                     {
                         "icon": "check",
@@ -121,7 +116,7 @@
                     },
                     {
                         "icon": "check",
-                        "text": "You need a team, not another tool"
+                        "text": "You want a team to run your marketing, not another tool to learn"
                     }
                 ],
                 "not_fits": [
@@ -144,7 +139,7 @@
             "type": "bundles",
             "data": {
                 "title": "Loop Marketing Packages for Ecommerce",
-                "subtitle": "We don't sell hours or points. We sell outcomes. Each package is scoped to your goals, and content volume is whatever it takes to hit the outcome. Talk to us about which package fits your brand.",
+                "subtitle": "Every package is priced to an outcome and scoped to your goals. Content volume is whatever it takes to hit that outcome. Talk to us about which one fits your brand.",
                 "items": [
                     {
                         "name": "Loop Starter",
@@ -159,13 +154,25 @@
                             "Monthly content velocity report"
                         ],
                         "modal": {
-                            "heading": "Loop Starter: Build the Foundation",
+                            "heading": "Loop Starter, Build the Foundation",
                             "description": "Before you can run a loop, you need the basics in place. Starter captures your brand voice, gets content publishing consistently, and establishes your baseline in AI search. Think of it as the infrastructure everything else builds on.",
                             "details": [
-                                {"label": "Brand Voice Capture", "text": "We interview your team, analyze your existing content, and build a brand voice profile in RequestDesk. Every piece of content matches your tone from day one."},
-                                {"label": "Content Autopilot", "text": "Blog posts, product descriptions, and foundational pages published on a consistent schedule. No more content gaps."},
-                                {"label": "AIO Baseline Audit", "text": "We assess your current visibility in ChatGPT, Claude, Perplexity, and Google AI Overviews. You get a benchmark to measure growth against."},
-                                {"label": "Monthly Reporting", "text": "Content velocity, organic traffic trends, and AI mention tracking. You see what's moving."}
+                                {
+                                    "label": "Brand Voice Capture",
+                                    "text": "We interview your team, analyze your existing content, and build a brand voice profile in RequestDesk. Every piece of content matches your tone from day one."
+                                },
+                                {
+                                    "label": "Content Autopilot",
+                                    "text": "Blog posts, product descriptions, and foundational pages published on a consistent schedule. No more content gaps."
+                                },
+                                {
+                                    "label": "AIO Baseline Audit",
+                                    "text": "We assess your current visibility in ChatGPT, Claude, Perplexity, and Google AI Overviews. You get a benchmark to measure growth against."
+                                },
+                                {
+                                    "label": "Monthly Reporting",
+                                    "text": "Content velocity, organic traffic trends, and AI mention tracking. You see what's moving."
+                                }
                             ],
                             "best_for": "Ecommerce brands doing under $5M that need consistent content and a brand voice before scaling."
                         }
@@ -186,13 +193,25 @@
                             "Monthly optimization cycle"
                         ],
                         "modal": {
-                            "heading": "Loop Growth: Connect Content to Pipeline",
-                            "description": "This is where content stops being a cost center and starts generating leads. Growth connects your content to HubSpot, distributes across channels, and gives you attribution so you know which content creates pipeline.",
+                            "heading": "Loop Growth, Connect Content to Pipeline",
+                            "description": "This is where content starts generating leads. Growth connects your content to HubSpot, distributes across channels, and gives you attribution so you know which content creates pipeline.",
                             "details": [
-                                {"label": "HubSpot CRM Integration", "text": "RequestDesk connects directly to HubSpot. Content is personalized based on lifecycle stage, and every interaction is tracked back to the contact record."},
-                                {"label": "Multi-Channel Distribution", "text": "Blog, social, email, and syndication. Your content goes where your buyers are, not just where it's easiest to publish."},
-                                {"label": "Lead Attribution", "text": "See which blog post, email, or social post influenced a deal. No more guessing if content works."},
-                                {"label": "Monthly Optimization", "text": "We review what's converting, cut what's not, and double down on what works. The loop evolves every month."}
+                                {
+                                    "label": "HubSpot CRM Integration",
+                                    "text": "RequestDesk connects directly to HubSpot. Content is personalized based on lifecycle stage, and every interaction is tracked back to the contact record."
+                                },
+                                {
+                                    "label": "Multi-Channel Distribution",
+                                    "text": "Blog, social, email, and syndication. Your content goes where your buyers are."
+                                },
+                                {
+                                    "label": "Lead Attribution",
+                                    "text": "See which blog post, email, or social post influenced a deal. No more guessing if content works."
+                                },
+                                {
+                                    "label": "Monthly Optimization",
+                                    "text": "We review what's converting, cut what's not, and double down on what works. The loop evolves every month."
+                                }
                             ],
                             "best_for": "Ecommerce brands doing $5M-$25M that want content tied directly to pipeline. HubSpot setup included if needed."
                         }
@@ -212,14 +231,29 @@
                             "Dedicated strategy lead"
                         ],
                         "modal": {
-                            "heading": "Loop Scale: Content as a Revenue Channel",
-                            "description": "Scale is for brands that want content to be a measurable revenue driver, not a marketing expense. High-volume production, full AIO optimization, weekly iteration, and dashboards that tie content directly to closed deals.",
+                            "heading": "Loop Scale, Content as a Revenue Channel",
+                            "description": "Scale is for brands that want content to be a measurable revenue driver. High-volume production, full AIO optimization, weekly iteration, and dashboards that tie content directly to closed deals.",
                             "details": [
-                                {"label": "High-Volume Production", "text": "Content Cucumber's 40+ human writers produce at the volume you need. 10 posts or 50, the outcome stays the same."},
-                                {"label": "Full AIO Optimization", "text": "Your brand shows up when buyers ask ChatGPT, Claude, or Perplexity for recommendations. We optimize for AI search, not just Google."},
-                                {"label": "Weekly Iteration", "text": "Monthly cycles are too slow at scale. We review performance weekly and adjust content strategy in real time."},
-                                {"label": "Revenue Dashboards", "text": "Content ROI, deals influenced, customer acquisition cost. The C-suite gets the numbers they need to keep investing in content."},
-                                {"label": "Dedicated Strategy Lead", "text": "A senior strategist owns your account. One person who knows your brand, your data, and your goals."}
+                                {
+                                    "label": "High-Volume Production",
+                                    "text": "Content Cucumber's 40+ human writers produce at the volume you need. 10 posts or 50, the outcome stays the same."
+                                },
+                                {
+                                    "label": "Full AIO Optimization",
+                                    "text": "Your brand shows up when buyers ask ChatGPT, Claude, or Perplexity for recommendations. We optimize for AI search, not just Google."
+                                },
+                                {
+                                    "label": "Weekly Iteration",
+                                    "text": "Monthly cycles are too slow at scale. We review performance weekly and adjust content strategy in real time."
+                                },
+                                {
+                                    "label": "Revenue Dashboards",
+                                    "text": "Content ROI, deals influenced, customer acquisition cost. The C-suite gets the numbers they need to keep investing in content."
+                                },
+                                {
+                                    "label": "Dedicated Strategy Lead",
+                                    "text": "A senior strategist owns your account. One person who knows your brand, your data, and your goals."
+                                }
                             ],
                             "best_for": "Ecommerce brands doing $25M+ that want content as a measurable revenue channel with executive-level reporting."
                         }
@@ -231,7 +265,7 @@
             "type": "outcomes",
             "data": {
                 "title": "What the Loop Delivers",
-                "subtitle": "Not services. Outcomes. Here's what ecommerce brands get when they run the full loop.",
+                "subtitle": "The outcomes ecommerce brands get when they run the full loop.",
                 "items": [
                     {
                         "icon": "users",
@@ -251,7 +285,7 @@
                     {
                         "icon": "growth",
                         "title": "Always Getting Better (Evolve)",
-                        "text": "The loop never stops. Performance data from every stage feeds back into optimization. What's working gets amplified. What isn't gets adjusted. Your marketing compounds over time instead of resetting every quarter."
+                        "text": "The loop never stops. Performance data from every stage feeds back into optimization, so you put more behind the content that performs and rework the content that doesn't. Each quarter builds on the last instead of resetting."
                     }
                 ]
             }
@@ -274,12 +308,6 @@
                         "title": "Team + Platform",
                         "text": "Content Cucumber is the team. RequestDesk is the platform. Together they run the full loop. RequestDesk handles brand voice, content execution, and publishing across channels. HubSpot provides the CRM and attribution layer. We set up everything."
                     }
-                ],
-                "stats": [
-                    { "number": "30+", "label": "Years in Ecommerce" },
-                    { "number": "40+", "label": "Human Writers" },
-                    { "number": "500+", "label": "Podcast Episodes" },
-                    { "number": "4", "label": "Loop Stages Covered" }
                 ]
             }
         },
@@ -316,7 +344,7 @@
                     },
                     {
                         "question": "\"How is this different from regular content marketing?\"",
-                        "answer": "Regular content marketing is linear. Create content, publish it, hope it works. Loop Marketing is a continuous system. Content creation (Express) feeds into personalization (Tailor), which feeds into distribution (Amplify), which feeds performance data back into optimization (Evolve). Every stage makes every other stage better. And with HubSpot attribution, you can see the revenue impact at every point."
+                        "answer": "Regular content marketing runs in a straight line: create content, publish it, and wait to see if it works. Loop Marketing runs as a continuous system. Content creation (Express) feeds into personalization (Tailor), which feeds into distribution (Amplify), which feeds performance data back into optimization (Evolve). Every stage makes every other stage better. And with HubSpot attribution, you can see the revenue impact at every point."
                     },
                     {
                         "question": "\"What does the free Loop Marketing review include?\"",
@@ -324,7 +352,7 @@
                     },
                     {
                         "question": "\"How does pricing work?\"",
-                        "answer": "We price based on outcomes, not hours or points. Each package is scoped to a specific goal: visibility, leads, or revenue. Content volume is whatever it takes to hit the outcome. If it takes 10 blog posts one month and 20 the next, that's our problem, not yours. We'll walk you through the options on a call and recommend the right fit for your brand."
+                        "answer": "We price based on the outcome you're buying. Each package is scoped to a specific goal: visibility, leads, or revenue. Content volume is whatever it takes to hit the outcome. If it takes 10 blog posts one month and 20 the next, that's on us. We'll walk you through the options on a call and recommend the right fit for your brand."
                     },
                     {
                         "question": "\"What is RequestDesk?\"",
@@ -351,13 +379,25 @@
                         "description": "Brand voice management, AI content assistant, HubSpot CRM integration, and multi-channel publishing. The engine behind the content.",
                         "link_text": "Learn about the platform",
                         "modal": {
-                            "heading": "RequestDesk: The Content Execution Platform",
+                            "heading": "RequestDesk, the Content Execution Platform",
                             "description": "RequestDesk is the platform that powers Loop Marketing execution. It captures your brand voice, manages your content pipeline, integrates with HubSpot CRM, and publishes across every channel your buyers use.",
                             "details": [
-                                {"label": "Brand Voice Management", "text": "We interview your team, analyze your existing content, and build a brand voice profile. Every piece of content matches your tone, terminology, and point of view from day one. No more off-brand drafts."},
-                                {"label": "AI Content Assistant", "text": "RequestDesk uses your brand voice profile to guide content creation. Human writers produce the content. The platform ensures consistency across 40+ writers working on your account."},
-                                {"label": "HubSpot CRM Integration", "text": "Content is personalized based on lifecycle stage and contact properties from HubSpot. Every interaction is tracked back to the contact record for full attribution."},
-                                {"label": "Multi-Channel Publishing", "text": "Publish to Shopify, WordPress, BigCommerce, email, and social channels from one platform. Content goes where your buyers are, not just where it's easiest to publish."}
+                                {
+                                    "label": "Brand Voice Management",
+                                    "text": "We interview your team, analyze your existing content, and build a brand voice profile. Every piece of content matches your tone, terminology, and point of view from day one. No more off-brand drafts."
+                                },
+                                {
+                                    "label": "AI Content Assistant",
+                                    "text": "RequestDesk uses your brand voice profile to guide content creation. Human writers produce the content. The platform ensures consistency across 40+ writers working on your account."
+                                },
+                                {
+                                    "label": "HubSpot CRM Integration",
+                                    "text": "Content is personalized based on lifecycle stage and contact properties from HubSpot. Every interaction is tracked back to the contact record for full attribution."
+                                },
+                                {
+                                    "label": "Multi-Channel Publishing",
+                                    "text": "Publish to Shopify, WordPress, BigCommerce, email, and social channels from one platform. Content goes where your buyers are."
+                                }
                             ],
                             "best_for": "RequestDesk is the engine. Content Cucumber is the team that runs it. Together they execute the full Loop Marketing system. HubSpot setup is included if you're not on it yet."
                         }
@@ -379,7 +419,7 @@
                 "alt": "I Love HubSpot",
                 "paragraphs": [
                     "Our HubSpot expertise drives real business growth. From custom CMS implementation to marketing automation, we build the systems that turn HubSpot into a sales engine for commerce and B2B brands.",
-                    "As HubSpot Solutions Partners, we build websites that don't just look great. They convert. Our deep understanding of the HubSpot ecosystem means we can leverage its full capabilities for your business, from marketing automation to customer service workflows.",
+                    "As HubSpot Solutions Partners, we build websites designed to convert. Our deep understanding of the HubSpot ecosystem means we can leverage its full capabilities for your business, from marketing automation to customer service workflows.",
                     "When you work with Content Cucumber, you're getting a content partner that understands how to maximize your marketing technology investments."
                 ],
                 "cta_text": "Get a Free HubSpot Audit",

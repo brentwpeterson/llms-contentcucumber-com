@@ -1,0 +1,112 @@
+{
+    "seo": {
+        "title": "Welcome, Content Basis Customers - Content Cucumber",
+        "meta_description": "Content Basis has joined Content Cucumber. Your accounts and your data transfer, and the writing is still done by people.",
+        "og_description": "Content Basis has joined Content Cucumber. Same service, larger team, still written by people.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Questions about your account",
+        "subtitle": "Tell us what you were working on with Content Basis and we will pick it up from there.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "contentbasis-welcome"
+    },
+    "thankyou": {
+        "title": "Thanks. We will be in touch.",
+        "text": "Tell us what you were working on and we will pick it up from there."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Welcome, Content Basis customers",
+                "title": "You are in the right place. <em>We believe in humans</em>",
+                "paragraphs": [
+                    "Content Basis has joined Content Cucumber. The technology Content Basis built now sits behind a larger team of writers, and the writing itself is still done by people.",
+                    "Your account, your data, and the person you have been working with come with you. Nothing about how you file a request changes."
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "What this means for you",
+                "items": [
+                    {
+                        "label": "What changes",
+                        "value": "The team behind your account gets bigger. You get access to writers, editors, and strategists who were not available under Content Basis alone."
+                    },
+                    {
+                        "label": "What does not change",
+                        "value": "Your account, your data, your rates, and the way you request work. Humans still write everything that goes out under your name."
+                    },
+                    {
+                        "label": "Who to talk to",
+                        "value": "The same people. If you are unsure who owns your account now, send us a note and we will point you at them."
+                    },
+                    {
+                        "label": "What to do next",
+                        "value": "Nothing, unless you want something. The work continues on the same cadence it was already on."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Why we made this move",
+                "subtitle": "Two companies that were solving the same problem from opposite ends.",
+                "items": [
+                    {
+                        "title": "Human-first content",
+                        "text": "Every piece is written by somebody who understands nuance, context, and how your brand sounds. Models assist the research and the checking, and people do the writing."
+                    },
+                    {
+                        "title": "Technology that gets out of the way",
+                        "text": "Content Basis built tools for HubSpot, analytics, and content management. Those tools now make the writers faster instead of standing in for them."
+                    },
+                    {
+                        "title": "A transition you do not have to manage",
+                        "text": "Accounts, data, and relationships transfer without you filling anything in. If something does not carry over cleanly, that is ours to fix and not yours to chase."
+                    },
+                    {
+                        "title": "A bigger bench",
+                        "text": "Writers, editors, designers, and strategists on one team, so the work you used to send elsewhere can come here instead."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "eyebrow": "From Brent Peterson",
+                "title": "Why we made this move",
+                "lede": "I founded Content Basis on the same belief I hold now, which is that people matter and the writing is the part you cannot hand to a machine.",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "Content Basis had the technology and Content Cucumber had the writers, and putting the two together made more sense than either of us building the other half from scratch.",
+                            "The content industry is at a crossroads. A lot of agencies are replacing writers with models to cut costs, and we are going the other way, using models to make a human team more effective rather than to stand in for one. Your customers can tell the difference, and your brand deserves a voice that belongs to somebody.",
+                            "That is a statement about the future we want, one where technology amplifies what people can do instead of removing them from it. Welcome to Content Cucumber.",
+                            "Brent Peterson, Founder of Content Basis and CEO of Content Cucumber."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "See what the larger team can do",
+                "text": "Whether you came over from Content Basis or are finding us for the first time, <a href=\"/services/\"><strong>the services page</strong></a> is the full picture of what we write and run."
+            }
+        }
+    ]
+}

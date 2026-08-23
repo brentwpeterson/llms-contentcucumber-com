@@ -1,0 +1,162 @@
+{
+    "seo": {
+        "og_type": "website",
+        "title": "How to Create Thought Leadership Content - Content Cucumber",
+        "meta_description": "A working guide to thought leadership content for commerce and SaaS brands. What it is, the five types that work, how to produce it, and how to get cited by AI.",
+        "slug": "how-to-create-thought-leadership-content",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/thought-leadership-guide-card.png",
+        "twitter_card": "summary_large_image"
+    },
+    "hero": {
+        "eyebrow": "A guide",
+        "title": "How to Create Thought Leadership Content",
+        "subtitle": "A working guide for commerce and SaaS brands. What thought leadership content is, the five types that work, how to produce it, and how to get read by humans and cited by machines. No theory you cannot use.",
+        "image": "tl-guide-hero.png",
+        "image_alt": "A lighthouse as a beacon with buyers, analysts, and a journalist walking toward it, showing a brand seen as the source its market turns to."
+    },
+    "meta": {
+        "author": "Brent Peterson",
+        "author_title": "In commerce since 1992, 5x Magento Master",
+        "author_url": "/blog/author/brentwpeterson/",
+        "updated": "July 2026"
+    },
+    "sidebar": {
+        "title": "We live this.",
+        "text": "Content Cucumber builds thought leadership content for commerce and SaaS brands. Real people, real commerce experience.",
+        "button_text": "See how we help",
+        "button_url": "/thought-leadership-content/",
+        "trust_text": "40+ human writers. Researched and edited by real people.",
+        "form_portal": "39487190",
+        "form_id": "a4f50b20-01dd-4c14-aa55-4982cde0382a",
+        "form_region": "na1",
+        "form_heading": "Let's talk thought leadership content"
+    },
+    "sections": [
+        {
+            "id": "what-is",
+            "title": "What is thought leadership content",
+            "image": "tl-guide-what-is-dilbert.jpeg",
+            "image_alt": "A comic strip in which a leadership class is offered by a company only to spot troublemakers, not to develop leaders.",
+            "image_caption": "<em>Dilbert</em> by Scott Adams, 2013 &mdash; a good picture of how leadership does not work.",
+            "content": "<p>Thought leadership content is the long-form work that makes a brand the name its market repeats. The common mistake is treating it as a format, like a blog post or a whitepaper, or a channel, like SEO or social. It works as a goal. The aim is to be seen as a source, so buyers, analysts, and journalists come to you for the read on your space.</p><p>The test is simple. If a reader finishes a piece and thinks yes, that is the read I needed, and could not have gotten it anywhere else, it is thought leadership. If they could have assembled the same points from the first page of Google, it is ordinary content.</p>"
+        },
+        {
+            "id": "why-who",
+            "title": "Why it matters and who should do it",
+            "video": "xacdDrylrek",
+            "video_title": "German Coastguard: We are Sinking / What are you Thinking About",
+            "video_caption": "Not everyone should sit in the thought leadership chair. Put the wrong person in it and the message coming in gets heard the wrong way.",
+            "content": "<p>Thought leadership content pays off in two places. In the short term it pulls the right buyers toward your point of view before they are ready to talk to sales. Over time it builds trust, so that when a buyer is ready, you are the name they already respect.</p><p>It is not right for everyone. It works when you have real experience to draw on, a willingness to take a position some people will disagree with, and the discipline to publish on a cadence. A brand that cannot commit to a point of view or a schedule is better served by a steady blog program. Thought leadership is earned by showing up with something to say.</p>"
+        },
+        {
+            "id": "where-it-goes-wrong",
+            "title": "Where most thought leadership goes wrong",
+            "image_end": "tl-guide-goes-wrong-pickle-ketchup.jpg",
+            "image_end_alt": "A mock Cucumber and Co. brand photo of a Chicago-style hot dog with a whole pickle and a zigzag of ketchup in the poppy seed bun instead of a sausage.",
+            "image_end_caption": "The Chicago dog nobody ordered. Keep one garnish, skip the dog, and it stops being the thing anyone came for.",
+            "content": "<p>Two mistakes kill more thought leadership than anything else.</p><p>The first is making yourself the hero. Brands write about their own wins, their own milestones, their own view from the top, while the reader they need is sitting there with a problem no one addressed. The client is the hero. Serve the reader or they leave. You are the guide, and the guide stays out of the spotlight.</p><p>The second is turning the piece into a sales doc. It is a sales slick wrapped in a thought-leadership skin, and a reader smells it inside a paragraph. Picture ordering a Chicago hotdog and getting handed a pickle with ketchup on it. They skipped the dog, kept one garnish, and broke the one rule every Chicago native lives by. That is a sales pitch pretending to be an idea. Give the reader the whole hotdog.</p>"
+        },
+        {
+            "id": "earned-secret",
+            "title": "You can only lead where you have lived",
+            "image_end": "tl-guide-computermegamall-2000.png",
+            "image_end_width": 480,
+            "image_end_alt": "A Wayback Machine capture of ComputerMegaMall.com from the year 2000, the ecommerce store Brent Peterson built, showing computer specials and a full product catalog.",
+            "image_end_caption": "The receipts: ComputerMegaMall.com in 2000, pulled from the Wayback Machine. You cannot fabricate having built it.",
+            "content": "<p>Every strong piece of thought leadership traces back to something the author earned. A hard problem they solved. A pattern they saw before the market did. A decade of doing the work while others wrote about it. That earned material is the one thing a competitor cannot copy and a model cannot fabricate.</p><p>For a commerce brand, the earned secret is usually operational. You have run the catalog, felt the replatforming pain, watched a two percent conversion rate move a whole quarter. My own earned secret goes back to 1992, when I opened my first retail store, built my first website in 1993, and built Computer Mega Mall in 1999. You have to have lived it. That is the point. Start your thought leadership where you have lived, and it will read like no one else's.</p>"
+        },
+        {
+            "id": "five-types",
+            "title": "The five types of thought leadership content",
+            "intro": "<p>Five kinds of input reliably produce thought leadership, and for a commerce brand the sharpest is the comparison. You can work in one or blend several.</p>",
+            "types": [
+                {
+                    "n": "1",
+                    "label": "The comparison",
+                    "body": "A head-to-head read that helps a buyer choose between platforms while they are still deciding. It is the piece a prospect downloads at the moment of the decision, and it positions you as the neutral expert in the room. We publish <a href=\"/winning-blueprint-enterprise-commerce/\">The Winning Blueprint for Enterprise Commerce</a>, comparing VTEX and Salesforce Commerce Cloud. A good comparison is independent, names the trade-offs, and never fakes a winner.",
+                    "image": "winning-blueprint-cover.png",
+                    "url": "/winning-blueprint-enterprise-commerce/",
+                    "new_tab": false
+                },
+                {
+                    "n": "2",
+                    "label": "The contrarian take",
+                    "body": "A position that goes against the consensus of your space, held for a reason you can defend, like arguing in <a href=\"https://www.linkedin.com/pulse/stop-worrying-adobe-commerce-market-share-brent-w-peterson-e0uzc/\" target=\"_blank\" rel=\"noopener\">Stop Worrying About Adobe’s Market Share</a> that the number everyone watches is the wrong one. The position has to be true. Contrarian for its own sake does not land.",
+                    "image": "tl-guide-contrarian-adobe.png",
+                    "url": "https://www.linkedin.com/pulse/stop-worrying-adobe-commerce-market-share-brent-w-peterson-e0uzc/",
+                    "new_tab": true
+                },
+                {
+                    "n": "3",
+                    "label": "The forward read",
+                    "body": "Calling where commerce is going before it gets there. <a href=\"https://www.linkedin.com/pulse/rise-agentic-commerce-different-approaches-brent-w-peterson-czhpc/\" target=\"_blank\" rel=\"noopener\">The Rise of Agentic Commerce</a> made the case for AI agents at the checkout while most of the market was still arguing about it. Get the read right early and the market comes to you.",
+                    "image": "tl-guide-forward-agentic.png",
+                    "url": "https://www.linkedin.com/pulse/rise-agentic-commerce-different-approaches-brent-w-peterson-czhpc/",
+                    "new_tab": true
+                },
+                {
+                    "n": "4",
+                    "label": "The cost exposé",
+                    "body": "Naming the hidden cost everyone else glosses over. <a href=\"https://www.linkedin.com/pulse/hidden-cost-cobbling-together-e-commerce-solutions-peterson-4ur4c/\" target=\"_blank\" rel=\"noopener\">The Hidden Cost of Cobbling Together E-commerce Solutions</a> put a name to what a patchwork of tools costs a mid-market brand, and <a href=\"/composable-commerce-research/\">Lost in the Forest of Composable Commerce</a> does the same for the composable stack. Buyers remember the piece that told them the truth about the bill.",
+                    "image": "composable-commerce-cover.png",
+                    "url": "/composable-commerce-research/",
+                    "new_tab": false
+                },
+                {
+                    "n": "5",
+                    "label": "Original research",
+                    "body": "A survey or dataset that is yours, written up so the finding lands. Our <a href=\"/b2b-commerce-trends-report/\">B2B Commerce Trends report</a> is built from first-hand interviews across seven firms, and every citation of it points back to the source.",
+                    "image": "b2b-commerce-trends-report-cover.png",
+                    "url": "/b2b-commerce-trends-report/",
+                    "new_tab": false
+                }
+            ]
+        },
+        {
+            "id": "how-to",
+            "title": "How to produce it",
+            "content": "<p>Producing thought leadership starts in your own head. It is called thought leadership, so the thinking is the job, and most of that job happens before anyone writes a word. Copying a competitor recycles their idea under your logo. Outsourcing the thinking to ChatGPT hands you the average of everything already online, which no one needs more of. The worst thing you can do is publish thought leadership with no thought in it.</p><p>Start with the earned secret. Name the thing you know that your market does not, then pick the type above that fits it. Gather the raw material next, whether that is an interview, a dataset, a story, or an analysis. For research and interview pieces, collect the sources before you draft, so the finding is sound and the methodology holds. Write it as a person with a point of view. An editor reads every piece, checks the facts against the source, and cuts anything that reads like filler. Then structure it so it can be found and cited, which is the next step.</p>",
+            "image_float": "tl-guide-why-kicking-can.png",
+            "image_float_alt": "A cartoon of Brent Peterson kicking a tin can down a road, a picture of a brand that keeps putting off producing its point of view.",
+            "image_float_caption": "Keep kicking your point of view down the road and someone else becomes the name your market repeats."
+        },
+        {
+            "id": "humans-bots",
+            "title": "Written for humans, structured for machines (and for humans to read)",
+            "image_end": "tl-guide-humans-bots-monkeys.png",
+            "image_end_alt": "A cartoon of monkeys hammering at typewriters with pages flying everywhere, a joke about AI producing endless average text.",
+            "image_end_caption": "Infinite monkeys, infinite pages, no point of view. That is what you get when a machine does the thinking.",
+            "content": "<p>Thought leadership content now has two audiences. The human who reads it and decides whether you know something, and the answer engine that reads it and decides whether to cite you when a buyer asks ChatGPT or Perplexity about your space. The same craft serves both.</p><p>A person trusts a clear point of view, a real example, and writing that sounds like a human wrote it. An engine cites content that answers a question directly, states facts it can quote, and lays the page out so the answer is easy to find. Lead each section with the answer, frame your headings as the questions your buyers ask, and back every claim with a source. Write for the human first, because filler a machine can parse still fails the reader, and buyers can tell the difference.</p>"
+        },
+        {
+            "id": "we-live-this",
+            "title": "We built our business on this",
+            "content": "<p>I have lived commerce since 1992. I publish The Agentic Commerce Guy every week, I interview merchants and platforms for the Talk Commerce podcast, and at Content Cucumber we build the reports and case studies our clients use as their lead anchor. We built our business on the same principles this guide describes.</p><p>If you want help turning your earned secret into thought leadership content your market trusts and machines cite, <a href=\"/thought-leadership-content/\">here is how we do it</a>, or <a href=\"/contact/\">start a conversation</a>. Either way, go write the thing only you can write.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "What is thought leadership content?",
+                "answer": "Thought leadership content is long-form work that makes a brand a recognized source in its space, built on the author's real experience, data, or point of view. It describes a goal of being seen as authoritative, and it spans formats and channels rather than being any single one."
+            },
+            {
+                "question": "What is the difference between thought leadership and regular content marketing?",
+                "answer": "Content marketing covers the full range of blog posts, guides, and campaigns that drive traffic and leads. Thought leadership is the subset built on an earned point of view that positions the brand as a source. All thought leadership is content marketing, but most content marketing is not thought leadership."
+            },
+            {
+                "question": "Can AI write thought leadership content?",
+                "answer": "AI can help with research and structure, but it cannot supply the earned secret at the core of thought leadership, the lived experience, proprietary data, or staked opinion only you have. Content that leans on AI for the point of view reads generic and does not earn trust."
+            },
+            {
+                "question": "How long should thought leadership content be?",
+                "answer": "Long enough to make the point fully and no longer. Flagship pieces often run 1,500 to 3,000 words because the depth is the value, but a sharp 800-word contrarian take can lead as well. Cadence and consistency matter more than any single length."
+            },
+            {
+                "question": "How do you measure thought leadership content?",
+                "answer": "Track citations and mentions from analysts, journalists, and other creators, branded search growth, time on page, and whether your sales team can point to deals the content influenced. Raw pageviews are the weakest signal."
+            }
+        ]
+    }
+}

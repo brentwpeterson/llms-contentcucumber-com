@@ -1,0 +1,233 @@
+{
+    "seo": {
+        "title": "Real Estate Content Writing Services by Writers Who Know Fair Housing",
+        "meta_description": "Writers who know Fair Housing language, RESPA, and MLS rules. Real estate content written by people who know what you are not allowed to say.",
+        "og_description": "Writers who know Fair Housing language, RESPA, and MLS rules.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and the markets you work. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-real-estate"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your market and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/real-estate-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Real estate content written by people who know <em>what you cannot say</em>",
+                "paragraphs": [
+                    "Writing advice for this field is all about adjectives, when the sentence you are not allowed to write is the one that decides it, and a generalist has no idea where that sentence begins.",
+                    "Fair Housing is a body of language rules, not a matter of tone, and a writer who does not know them will eventually put one in your copy without noticing."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What goes wrong when a generalist writes it",
+                "subtitle": "In this field the expensive mistakes are the ones that read as ordinary marketing copy, which is exactly why they ship.",
+                "items": [
+                    {
+                        "image": "industries-assets/real-estate-c1.webp",
+                        "title": "Descriptions that steer",
+                        "text": "Words about who a neighborhood suits, when the property is the only thing you are allowed to describe. It reads like warm copy, and it is the exact language Fair Housing exists to stop, so a writer who knows the rules describes the property and never the buyer.",
+                        "text2": "Describing the property is not a smaller job, it is a more precise one, and it usually produces better copy, because layout, light and square footage are what a buyer is shopping for."
+                    },
+                    {
+                        "image": "industries-assets/real-estate-c2.webp",
+                        "title": "Claims about the neighborhood",
+                        "text": "Safety, school quality, and who lives nearby are all natural things to write about, and all of them are routes into protected-class territory, so the fix is knowing which subject belongs to the property, which is a different skill from being careful.",
+                        "text2": "Local knowledge still sells, and it stays inside the rules when it attaches to the property and the process, so a page about commute times and closing timelines does the work the risky version was reaching for."
+                    },
+                    {
+                        "image": "industries-assets/real-estate-c3.webp",
+                        "title": "MLS data reused as marketing",
+                        "text": "Listing data carries rules about how it can be displayed and attributed, and copy that lifts it into a blog post without them becomes a problem with your board long before your reader notices.",
+                        "text2": "Attribution and display rules travel with the data, so a market post built on listing figures needs the same handling your listing pages already use."
+                    },
+                    {
+                        "image": "industries-assets/real-estate-c4.webp",
+                        "title": "Referral and fee language",
+                        "text": "Describing how referrals or settlement services work is easy to write loosely, and RESPA is specific about it, so loose phrasing here carries a cost that has nothing to do with style.",
+                        "text2": "RESPA problems arrive by complaint, which is why loose language can sit on a site for years before it costs anything, and then costs it all at once."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "The rules our writers already know",
+                "subtitle": "A generalist looks this up once the draft is already due, and it is where a vertical writer starts.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "Fair Housing language",
+                        "text": "Protected classes, steering, and the difference between describing a property and describing who it is for."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "RESPA and settlement services",
+                        "text": "Referral, fee, and affiliated-business language written to the word."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "MLS and listing data rules",
+                        "text": "Attribution, display, and reuse handled the way your board expects when listing data leaves the listing."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "License and brokerage disclosure",
+                        "text": "State-specific disclosure carried correctly, including on the pages that get forgotten."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Advertising rules by state",
+                        "text": "License display, team naming, and what a listing may claim all differ by state, so one page published everywhere ends up written to the loosest rule its author had in mind."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Numbers that date fast",
+                        "text": "Rates, inventory, and days on market all move, so figures get dated in the copy, and a number that ages reads as a timestamp instead of an error."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing in month six already knows your markets, your brokerage's positions, and the language you have decided not to use. You will know who is writing for you before the engagement starts."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "The biggest purchase of someone’s life",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "A buyer is imagining a life inside the house, and fair housing law says almost none of that feeling can be written down, which makes it the hardest emotional assignment in marketing, describing a home without describing who belongs in it.",
+                            "Our writers work inside that, with warmth aimed at the property rather than the person, open excitement about a place that deserves it, and the discipline to cut the adjective that steers without meaning to. A person can hold both."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found in AI search because an expert wrote it",
+                "subtitle": "Buyers ask answer engines what a process costs, how long it takes, and what happens next, and those answers get quoted from somewhere.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a buyer can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific to a market",
+                        "text": "Named timelines, concrete steps, and local detail, because generic national copy is the least citable thing you can publish in a local business."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way buyers ask",
+                        "text": "People search in plain language about moving, closing, and cost. Headings that match the question get surfaced for it."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section holds up on its own, so a citation lands on something that still reads correctly out of context."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your voice, and how the work ships",
+                "subtitle": "We learn how you already sound, so the result reads as yours.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "Your recent published work, your brand guide if you have one, and the brokerages you get compared to, all of which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We agree the topics",
+                        "text": "Built from what you already surface for and what buyers and sellers in your markets ask."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you month over month, so your markets and your rules carry forward from one brief to the next."
+                    },
+                    {
+                        "number": "04",
+                        "title": "An editor reads every piece",
+                        "text": "Then it arrives on your schedule, ready to publish."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions real estate teams ask",
+                "items": [
+                    {
+                        "question": "Do your writers know Fair Housing rules?",
+                        "answer": "Yes, and it is the first thing we brief on. Writers describe the property and never the buyer, and an editor reads every piece with that specifically in mind."
+                    },
+                    {
+                        "question": "Who is responsible for compliance sign-off?",
+                        "answer": "You and your broker are. Our job is to hand you copy already written to the rules, so the pass is an approval and not a rewrite."
+                    },
+                    {
+                        "question": "Can you write for multiple markets?",
+                        "answer": "Yes. Market-specific detail is what makes this content worth reading, so we will write four local pieces before we will write one national piece four times."
+                    },
+                    {
+                        "question": "Will this read like every other real estate blog?",
+                        "answer": "That is the failure we are built against. We work from your published writing, so the result sounds like you and not a house voice with your logo dropped on top."
+                    },
+                    {
+                        "question": "Do you write listing descriptions?",
+                        "answer": "Our focus is the content that brings people to you, so guides, market pieces, and the pages that answer what buyers and sellers ask before they call anyone."
+                    },
+                    {
+                        "question": "How do we start?",
+                        "answer": "Send your site and the markets you work, and we will read what you already publish before we reply, then scope a first month from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand the writing to people who know Fair Housing cold",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

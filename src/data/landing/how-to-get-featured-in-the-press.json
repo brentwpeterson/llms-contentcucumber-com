@@ -1,0 +1,146 @@
+{
+    "seo": {
+        "og_type": "website",
+        "title": "How to Get Your Brand Featured in the Press - Content Cucumber",
+        "meta_description": "A working guide to getting your brand into the press. How placement works, the truth behind guaranteed coverage, the paths that pay off, and how to earn a mention.",
+        "slug": "how-to-get-featured-in-the-press",
+        "twitter_card": "summary_large_image"
+    },
+    "hero": {
+        "eyebrow": "A guide",
+        "title": "How to Get Your Brand Featured in the Press",
+        "subtitle": "A working guide for commerce and SaaS brands. How media placement works, the truth behind guaranteed coverage, the paths that pay off, and how to earn a mention a reporter is glad they ran. No theory you cannot use.",
+        "image": "press-guide-hero.png",
+        "image_alt": "A hand pulling a Cucumber and Co. magazine off a newsstand rack packed with business and tech titles, the metaphor for getting seen where your buyers already read."
+    },
+    "meta": {
+        "author": "Brent Peterson",
+        "author_title": "In commerce since 1992, 5x Magento Master",
+        "author_url": "/blog/author/brentwpeterson/",
+        "updated": "July 2026"
+    },
+    "sidebar": {
+        "title": "We do this.",
+        "text": "Content Cucumber gets commerce and SaaS brands featured in the press. Real writers, real relationships, real coverage.",
+        "button_text": "See how we help",
+        "button_url": "/media-placement/",
+        "trust_text": "40+ human writers. Pitched and written by real people.",
+        "form_portal": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "form_region": "na1",
+        "form_heading": "Let's talk media placement"
+    },
+    "sections": [
+        {
+            "id": "what-is",
+            "title": "What media placement is",
+            "content": "<p>Media placement is getting your brand covered in the publications your buyers already read. A quote in an industry article. A byline under your founder's name. A feature that frames you as the company that understands the problem.</p><p>It is not advertising, an ad is a slot you buy and every reader knows it is paid, while a placement is editorial. Your name sits inside the story, next to the writer's words, and that is where a reader gives it weight. The test is whether your buyer finishes it thinking that company knows what it is talking about, which means it worked, or thinking that company paid to be here, which means it did not.</p>",
+            "image": "press-guide-what-is.png",
+            "image_alt": "An open magazine article on a desk with a coffee cup, a pull quote and a founder byline marked in green highlighter.",
+            "image_caption": "Coverage as it shows up in the wild. A quote, a byline, your name in the publications your buyers already read."
+        },
+        {
+            "id": "why-who",
+            "title": "Why it matters and who it is for",
+            "content": "<p>Coverage pays off in two places. In the short term a well-placed feature reaches buyers who are not ready to talk to sales but are ready to form an opinion. Over time the mentions stack into a reputation, so that when a buyer is ready, you are a name they have already seen in a place they trust.</p><p>It is not right for everyone. Placement works when you have real experience to draw on, a point of view worth quoting, and something happening worth covering. A brand with nothing to say will not be covered, no matter who does the pitching. The press is a market for interesting, and interesting is the price of entry.</p>"
+        },
+        {
+            "id": "guarantee-myth",
+            "title": "The truth about guaranteed coverage",
+            "content": "<p>Sooner or later a cold email lands in your inbox promising guaranteed placement in Entrepreneur, Forbes, or USA Today. It runs or you do not pay. It sounds like a lock, and that is the tell.</p><p>No one guarantees earned coverage, because a reporter decides whether to run it, and no agency controls that. So a guarantee only works one way. Someone is buying the slot. It might be a paid contributor program, a sponsored section labeled in the fine print, or a press release pushed onto a finance aggregator until your logo shows up next to Nasdaq. None of that is a journalist choosing to cover you. It is advertising wearing an editorial costume.</p><p>Paid placement is not worthless. For the right brand a contributor membership or a wire release can be worth the cost, and it is not cheap, so the decision is about fit rather than fear. The one trap is paying earned-media prices for it without being told that is what you are buying. Ask one question of anyone selling you a guarantee. Is this earned, or is it paid. If they will not answer plainly, you have your answer.</p>",
+            "image_end": "press-guide-guarantee-snakeoil.png",
+            "image_end_alt": "A vintage snake oil tonic bottle labeled Guaranteed Forbes Placement, Cures Obscurity, Results Not Typical, from Cucumber and Co. Elixirs.",
+            "image_end_caption": "Guaranteed placement in Forbes for a flat fee carries the same energy as a tonic that cures everything. Results not typical, because coverage is never guaranteed."
+        },
+        {
+            "id": "the-paths",
+            "title": "The paths into the press",
+            "intro": "<p>There are a handful of ways into a publication, and they are not equal. The earned pitch is the hardest and the most valuable, where you bring a reporter a story worth telling and they choose to run it. The expert platforms sit next to it, Featured, Qwoted, and the tools that replaced HARO, where you answer a journalist's open question and earn the quote. Then come the paid doors, a contributor membership at an outlet like Forbes or Entrepreneur that buys you a byline, and a wire release that pushes your news onto finance aggregators for the logo rather than a journalist's attention. The earned doors carry trust because a person chose you, and knowing which door you are walking through is most of the job.</p>",
+            "types": [
+                {
+                    "n": "1",
+                    "label": "Earned coverage",
+                    "body": "A reporter or editor chooses to quote or feature you. It carries the most weight and cannot be bought, only pursued. It is slower, and it is the one your buyer believes."
+                },
+                {
+                    "n": "2",
+                    "label": "Reporter platforms",
+                    "body": "Journalists source expert quotes through platforms like Qwoted and Featured. Answer the right query well and you land in a real article under your name. This is the workhorse of earned coverage, and it rewards showing up every day."
+                },
+                {
+                    "n": "3",
+                    "label": "Contributor and expert programs",
+                    "body": "Programs like the Entrepreneur Leadership Network and Forbes Councils let qualified members publish bylined articles on the outlet. They are memberships you pay for, and they are legitimate as long as you know that is what they are."
+                },
+                {
+                    "n": "4",
+                    "label": "Sponsored sections",
+                    "body": "Native or branded content you buy from the outlet, labeled as sponsored in the fine print. Guaranteed to run, because it is an ad. Useful when you want the placement and are clear-eyed about what it is."
+                },
+                {
+                    "n": "5",
+                    "label": "Wire syndication",
+                    "body": "A paid press release republished onto finance and news aggregators like Yahoo Finance and Nasdaq. It is reach and social proof, not a journalist covering you. Cheap, fast, and worth exactly what it is."
+                }
+            ],
+            "image": "press-guide-paths-doors.png",
+            "image_alt": "The stone facade of a building marked THE PRESS with four different doors, a grand columned entrance with a red carpet, a plain door, a dark alley door, and a rusty service hatch.",
+            "image_caption": "Four doors into the press, and they are not the same door. Knowing which one you are walking through is most of the job."
+        },
+        {
+            "id": "earned-secret",
+            "title": "You get covered for what you have done",
+            "content": "<p>You get covered for what you have done, not for what you wish you had done. The reporter wants the operator who felt the replatforming pain, the founder who watched a two percent conversion rate move a whole quarter, the person who saw the pattern before the market did. That earned material is the hook, the one thing a competitor cannot copy and a press release cannot fake.</p><p>There is no instant version of this that a reporter respects. Unless you are paying a service a lot of money for a slot, you earn coverage by writing in your niche and staying at it, publishing what you know until the people who cover your space already know your name. That is the path I have taken, I host Talk Commerce, I write The Agentic Commerce Guy, and I publish Tuesdays with Claude, and the invitations and the quotes have come from that body of work rather than a clever pitch. Keep writing in your space, a book or a steady run of articles, and that is what opens the door.</p>"
+        },
+        {
+            "id": "how-to",
+            "title": "How to earn coverage",
+            "content": "<p>Earning coverage starts with a reason for a reporter to care. Original research is the fastest one, because a fresh number gives a writer a headline and a quote. Pick the finding you can stand behind, gather the data before you pitch, and write it up so the point lands.</p><p>Then do the unglamorous work. Watch the reporter platforms every day and answer the queries that fit, in a few tight sentences a writer can drop straight in. Pitch the byline to the editor who covers your beat instead of blasting a list. Write the piece in your own voice so it reads like a person with a point of view, because that is what gets picked up and what gets remembered. An editor checks every fact against the source before anything goes out under your name.</p>",
+            "image": "press-guide-how-to-42.png",
+            "image_alt": "A reporter lifting a glowing forty two percent statistic off a research report and setting it as the headline on a typewriter.",
+            "image_caption": "Hand a reporter a fresh number and you have handed them a headline. Original research is the fastest way in."
+        },
+        {
+            "id": "humans-bots",
+            "title": "Written for humans, read by machines",
+            "content": "<p>Coverage has two audiences. The buyer who reads the article and decides whether you know something, and the answer engine that reads it and decides whether to cite you when a customer asks ChatGPT or Perplexity about your space. A brand mention in a trusted outlet is one of the strongest signals those engines use. <a href=\"https://ahrefs.com/blog/ai-brand-visibility-correlations/\" target=\"_blank\" rel=\"noopener\">Ahrefs found</a> brand mentions track AI visibility more closely than backlinks.</p><p>So a placement works twice. Once for the person reading it, and once for the model deciding who to recommend. Write for the human first. Lead with the point, back every claim with a source, and the machine follows.</p>",
+            "image_end": "press-guide-humans-machines.png",
+            "image_end_alt": "A human business reader and a friendly robot reading the same newspaper, showing coverage now has a human audience and a machine audience.",
+            "image_end_caption": "Two readers. The buyer deciding whether you know your subject, and the answer engine deciding whether to cite you."
+        },
+        {
+            "id": "we-live-this",
+            "title": "We do this every day",
+            "content": "<p>I have lived commerce since 1992. I host the Talk Commerce podcast, where I interview merchants and platforms every week, and I publish The Agentic Commerce Guy. I have worked both sides of the microphone, which is how I know the difference between coverage you earn and a slot you buy.</p><p>At Content Cucumber we get commerce and SaaS brands featured in the press. We find the angle, work the reporter platforms, pitch the byline, and write the piece in your voice. We can also get you into the paid publications when that is the right call, and we tell you plainly what each door costs so you can decide whether it is worth it. If you want help turning your experience into coverage your market trusts, <a href=\"/media-placement/\">here is how we do it</a>, or <a href=\"/contact/\">start a conversation</a>.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+            {
+                "question": "Can you guarantee I get into Forbes or Entrepreneur?",
+                "answer": "No one can guarantee earned coverage, because a reporter decides whether to run it. Contributor programs at those outlets are memberships you can buy, and we can pursue them, but we will always tell you when a placement is paid rather than earned."
+            },
+            {
+                "question": "Is guaranteed media placement a scam?",
+                "answer": "Not a scam, but rarely what it sounds like. A guarantee almost always means a paid slot, a contributor membership, or a wire release, not a journalist choosing to cover you. It is fine to buy those as long as you know that is what you are buying."
+            },
+            {
+                "question": "How long does it take to get press coverage?",
+                "answer": "Earned coverage moves on the reporter's timeline, often a few weeks to a few months. Contributor bylines are faster. A single strong piece of research can seed coverage for months after it lands."
+            },
+            {
+                "question": "Do I need a PR firm to get featured?",
+                "answer": "No. Much of earned media now runs through reporter platforms any expert can use. The work is showing up daily, answering well, and having something worth quoting. A partner helps when you would rather that work was done for you."
+            },
+            {
+                "question": "What is the difference between earned and paid media?",
+                "answer": "Earned media is coverage a journalist chooses to run. Paid media is a slot you buy, whether a sponsored section, a contributor membership, or a wire release. Earned carries more trust. Paid is guaranteed because you paid for it."
+            },
+            {
+                "question": "Can this help my brand get cited by AI?",
+                "answer": "Yes. Brand mentions in trusted publications are among the strongest signals AI answer engines use to decide who to cite. Coverage that reaches readers also teaches the models which brands to recommend."
+            }
+        ]
+    }
+}

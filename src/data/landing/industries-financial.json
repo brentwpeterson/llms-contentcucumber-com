@@ -1,0 +1,234 @@
+{
+    "seo": {
+        "title": "Financial Content Writing by People Who Know What Compliance Cuts",
+        "meta_description": "Writers who know FINRA and SEC marketing rules, suitability language, and why past performance needs more than a footnote.",
+        "og_description": "Writers who know FINRA and SEC marketing rules, suitability language, and why past performance needs more than a footnote.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and what you want to be found for. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-financial"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your work and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/financial-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Financial content written by people who know <em>what compliance will cut</em>",
+                "paragraphs": [
+                    "In this field a draft is finished when compliance can approve it, not when it reads well, and most marketing copy arrives at that desk needing to be rebuilt before anyone can review it.",
+                    "Content in this field needs a subject matter expert standing behind it, and that expert is not automatically us. Sometimes we bring one in, sometimes it is your compliance officer or a licensed principal on your side, and either way nothing publishes until your firm approves it."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "What goes wrong when a generalist writes it",
+                "subtitle": "The expensive mistakes in this field look like ordinary copy on the way out the door.",
+                "items": [
+                    {
+                        "image": "industries-assets/financial-c1.webp",
+                        "title": "Performance written as a promise",
+                        "text": "Returns are the most persuasive thing a firm can show, and the most tightly governed, so phrasing that projects where it ought to report is the fastest route to a rejected draft.",
+                        "text2": "Compliance is not the only reader who notices. An investor who has read a prospectus hears the difference between reporting and promising, and the promise is the version that costs you trust."
+                    },
+                    {
+                        "image": "industries-assets/financial-c2.webp",
+                        "title": "Recommendations without suitability",
+                        "text": "Copy that tells a general audience what to do with their money forgets that suitability belongs to one person at a time, so a vertical writer addresses the reader as a reader.",
+                        "text2": "The line is workable in practice, because addressing a reader as a reader lets you be specific about the situation without being specific about the person, which is where most drafts get sent back."
+                    },
+                    {
+                        "image": "industries-assets/financial-c3.webp",
+                        "title": "Disclosure treated as a footer",
+                        "text": "Required language parked on the page, away from the claim it qualifies, is the version that fails review.",
+                        "text2": "Placement is what reviewers send back, and moving the language next to the claim it qualifies usually costs a paragraph break and nothing more."
+                    },
+                    {
+                        "image": "industries-assets/financial-c4.webp",
+                        "title": "Testimonials handled on old assumptions",
+                        "text": "The rules here have changed and much of the marketing advice online has not, so copy written from a stale playbook creates work for your reviewer and very few leads for you.",
+                        "text2": "Testimonials are the clearest case, since what was once prohibited outright now carries conditions, and copy written from memory is the version that fails."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What our writers already know",
+                "subtitle": "A generalist looks this up once the draft is already due, and it is where a vertical writer starts.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "SEC and FINRA marketing rules",
+                        "text": "What a firm may claim, compare, and promote, written to the rule as it reads, not as marketers remember it."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Performance and projection language",
+                        "text": "Reporting results without implying their repeat, with the required qualification attached to the claim."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Suitability and the general audience",
+                        "text": "Educational writing that informs a broad reader without becoming personal advice to any of them."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Disclosure placed with the claim",
+                        "text": "Required language positioned where a reader meets the statement it qualifies."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Audience and suitability",
+                        "text": "Writing to a general reader without the piece turning into advice for any particular one, which is where most financial content drifts."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Record-keeping on published claims",
+                        "text": "Marketing material carries retention obligations, so what shipped and when has to be recoverable later."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing in month six already carries your positions and your language, and you will know who is writing for you before the engagement starts. We do not present writers as licensed advisors, which is exactly why a subject matter expert stands behind the work, either one we source or someone licensed on your side."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "Money is never a neutral subject",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "A reader on your page is worried about something specific, whether that is retirement, a market they do not follow, or a decision they have half made and want reassurance about. Compliance decides what you may promise, but it does not decide whether the writing sounds like it came from someone who understands being worried about money.",
+                            "Our writers carry both, with calm where a reader is anxious, candor where the answer is that it depends, and open enthusiasm when the subject earns it. Restraint and warmth are not opposites here, they are the whole craft."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found in AI search because an expert wrote it",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, and vague copy does not clear that bar.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a buyer can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote",
+                        "text": "Named detail and hard specifics, because a passage with nothing concrete in it gives a model nothing worth citing."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way your buyer asks",
+                        "text": "A marketing lead at an advisory firm or fintech searches in their own words, and the heading that matches the question is the one that gets surfaced."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section holds up on its own, so a citation lands on something that still reads correctly out of context."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your voice, and how the work ships",
+                "subtitle": "An expert informs every piece, a writer writes it, and your firm approves it.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "Your recent published work, your brand guide if you have one, and the companies you get compared to, all of which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We agree the topics",
+                        "text": "Built from what you already surface for and the questions your buyers type, so the calendar belongs to you."
+                    },
+                    {
+                        "number": "03",
+                        "title": "We name the subject matter expert",
+                        "text": "Either someone we bring in for your discipline or a licensed person on your side, agreed before the writing starts, so you always know whose expertise sits behind a page."
+                    },
+                    {
+                        "number": "04",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you month over month, so your positions carry forward from one brief to the next."
+                    },
+                    {
+                        "number": "05",
+                        "title": "An editor reads it, then your firm approves it",
+                        "text": "It arrives on your schedule for the compliance read, because in this field the last word belongs to your firm."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Are your writers licensed advisors?",
+                        "answer": "No, and we will not present them as such. They are writers experienced in financial content who know what compliance will cut. The regulated expertise comes from a subject matter expert, either one we bring in or someone licensed on your side, and your firm approves everything before it publishes."
+                    },
+                    {
+                        "question": "Can you write about performance?",
+                        "answer": "Yes, written as reporting, with the qualification sitting next to the claim instead of parked at the bottom of the page."
+                    },
+                    {
+                        "question": "What if we have no one to review it in house?",
+                        "answer": "Then we source a subject matter expert for your discipline and tell you who it is before the writing starts. Your firm still holds the final approval, because the filings and the registrations are in your name and not ours."
+                    },
+                    {
+                        "question": "How do you handle our compliance review?",
+                        "answer": "We write anticipating it, because a review cycle that approves language instead of rebuilding it is the difference between a two-day turnaround and a three-week one."
+                    },
+                    {
+                        "question": "Do you work with fintechs as well as advisory firms?",
+                        "answer": "Yes. The buyer and the rules differ between them, so we write to the one you are."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Hand the writing to people compliance can approve",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

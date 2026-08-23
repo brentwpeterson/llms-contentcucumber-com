@@ -1,0 +1,132 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Content for Ecommerce Agencies - Content Cucumber",
+        "meta_description": "Ecommerce agencies and integrators build the store. Content Cucumber builds the content behind it, white-label, at scale, with SEO and AEO."
+    },
+    "form": {
+        "campaign_code": "content-for-ecommerce-agencies",
+        "header": "Start a partnership conversation",
+        "subtitle": "Tell us about your clients and the content pulling on your team. We will scope how the white-label partnership fits.",
+        "trust_text": "Your brand, always.",
+        "portal_id": "39487190",
+        "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
+        "region": "na1"
+    },
+    "sidebar": {
+        "title": "Hand the content to a team that knows ecommerce.",
+        "text": "Tell us about your clients and the content pulling on your team. We will scope a first month under your brand.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/",
+        "trust_text": "40+ human writers. Your brand, always."
+    },
+    "hero": {
+        "eyebrow": "For ecommerce agencies and systems integrators",
+        "title": "Content for Ecommerce Agencies",
+        "subtitle": "You build the store. Then your clients ask for blog posts, product descriptions, category copy, and case studies, and writing at that volume becomes a business of its own. Content Cucumber runs that business for you, under your brand, so your team stays on the work you were hired to do.",
+        "image": "report-fan.webp",
+        "image_alt": "Three Content Cucumber flagship reports: B2B Commerce Trends and Opportunities, The Winning Blueprint for Enterprise Commerce, and Lost in the Forest of Composable Commerce"
+    },
+    "sections": [
+        {
+            "id": "what-this-is",
+            "title": "What this hub is for",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-what-this-is.png",
+            "image_alt": "Flat illustration of an online storefront connected to a stack of content pages",
+            "content": "<p>Ecommerce agencies and systems integrators are hired to launch and run commerce platforms, not to staff a newsroom. Yet every build comes with a content list, and every client who scales asks for more of it. This is the hub for handing that work to a team that knows ecommerce and writes under your brand.</p><p>An integrator carries two content jobs at once. The first is the content your clients need, the blog posts, product and category copy, launch announcements, and case studies. The second is the content that builds your own agency's authority, the thought-leadership and proof that win your next pitch. Few agencies can staff either one without pulling developers and strategists off the work that pays. The sections below make the case for a content partner that covers both, and show how the partnership runs.</p>"
+        },
+        {
+            "id": "the-content-bind",
+            "title": "The content bind every ecommerce agency hits",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-content-bind.png",
+            "image_alt": "Flat illustration of a person overwhelmed by a pile of content requests",
+            "content": "<p>You win the build, and the content requests never stop. Product copy, category pages, launch blogs, migration announcements, all expected, none of it what your developers and strategists signed up to write. Turning them into writers slows the work you were hired to do, and hiring a full content team for work that ebbs and flows is overhead you cannot justify.</p><p>So you patch the gap. A freelancer who vanishes mid-project, an AI tool that ships copy your client can spot in a sentence, a strategist writing blog posts on nights and weekends. Quality swings from piece to piece, and every inconsistent deliverable lands on your agency's reputation. Meanwhile the migrations and replatforms you run leave thousands of thin product descriptions behind, your clients notice the gaps after launch, and your own agency blog stalls because your content always goes last.</p>"
+        },
+        {
+            "id": "white-label-client-content",
+            "title": "White-label content for your clients",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-white-label.png",
+            "image_alt": "Flat illustration of a finished content page with a blank brand label handed forward",
+            "content": "<p>Content Cucumber writes your clients' content under your agency's name. Blog posts, product descriptions, category pages, landing pages, and case studies, produced by 40+ human writers and matched to each client's brand voice in RequestDesk, so a fashion brand and a B2B distributor read as themselves. Your clients see your brand on every deliverable and every report, and we stay behind the scenes by design.</p><p>The work comes back to you consistent, because the voice is captured once and held steady no matter which writer produces the piece. You review and deliver, and you get the credit. That consistency is what keeps a client on retainer, and it is the first thing a rotating cast of freelancers cannot give you.</p>",
+            "link_url": "/agency-white-label/",
+            "link_text": "See how the white-label partnership works"
+        },
+        {
+            "id": "overflow-and-refresh",
+            "title": "Overflow capacity and catalog refresh at scale",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-overflow-refresh.png",
+            "image_alt": "Flat illustration of a capacity dial turned up beside a grid of refreshing product cards",
+            "content": "<p>When a launch stacks up or a client doubles their order, you tap our team instead of turning work away or burning out your staff. Scale up for a sprint, scale back when it clears, no new hires on your books. Overflow is one of the main reasons agencies bring us on, because it turns a capacity ceiling into something you can raise and lower on demand.</p><p>The bigger job is the debt. Migrations and replatforms leave thousands of thin product descriptions and outdated pages behind, and cleaning them up at scale is a project no one on your team has time to own. We rebuild product and category copy across whole catalogs, with SEO and AEO built in, at a volume freelancers cannot match. That is work you can sell as a service and hand to us to execute.</p>",
+            "link_url": "/content-refresh-at-scale/",
+            "link_text": "See content refresh at scale"
+        },
+        {
+            "id": "your-authority",
+            "title": "Building your agency's own authority",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-authority.png",
+            "image_alt": "Flat illustration of a rising bar chart with an upward arrow and a star",
+            "content": "<p>The content that wins your next client is the content your agency never gets around to. Your case studies go unwritten, your blog stalls, and the authority that would close your next pitch stays theoretical while you ship everyone else's work. An integrator that publishes nothing of its own is invisible in the searches its buyers run.</p><p>The same writers who serve your clients can produce your agency's thought-leadership, your case studies, and the pages that make your expertise legible to a buyer and to an answer engine. You get to practice what you sell, and the proof builds into a pipeline instead of sitting on a someday list.</p>"
+        },
+        {
+            "id": "seo-and-aeo",
+            "title": "Found in search and in AI search",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-seo-aeo.png",
+            "image_alt": "Flat illustration of a magnifying glass over search results with an AI sparkle",
+            "content": "<p>Every piece we write carries keyword research, on-page optimization, and AI Engine Optimization scoring. Your clients rank in Google and get cited in ChatGPT, Claude, Perplexity, and Google's AI Overviews, without you standing up an SEO team or buying another stack of tools. Traditional SEO tracks Google rankings, AEO tracks whether an answer engine names your client as a source, and more buyers start in that second place every month.</p><p>Answer engines build their answers from passages they can attribute, and they reward accuracy, specificity, and expertise, the things a content mill rounds off and a human writer who knows ecommerce gets right. Structure is the easy half. Expertise is the half that decides whose client shows up in the answer, and it is the half we staff for.</p>"
+        },
+        {
+            "id": "how-it-works",
+            "title": "How the partnership works",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-how-it-works.png",
+            "image_alt": "Flat illustration of a four-step workflow pipeline with a document moving along it",
+            "content": "<p>It starts with a discovery call that maps the content your clients need, the overflow your team faces, and the work you want off your plate. After that call, for each client you bring on, we capture their voice, tone, and terminology in RequestDesk, so the content sounds like them and not like a content mill. Onboarding runs about two weeks from first call to first deliverable.</p><p>Then production runs on a cadence your clients can count on. Our writers create the content, every piece gets keyword optimization, Lighthouse and AEO scoring, and an editor's pass before it reaches you, and you review and deliver under your brand. You get visibility into what is in production without managing individual writers, and you flag new work as it comes in. Everything runs through one system, so a ten-client agency and a one-client test look the same to your team.</p>"
+        },
+        {
+            "id": "the-internal-case",
+            "title": "Making the case internally",
+            "image": "/wp-content/themes/cucumber-gp-child/landing-data/images/cca-internal-case.png",
+            "image_alt": "Flat illustration of a balanced scale weighing cost against content value",
+            "content": "<p>Adding a content partner is a decision you often have to sell inside your own agency, and the math is what carries it. You add a content line to every engagement without hiring writers, editors, or SEO staff, our team scales with your client base instead of your payroll, and the cost sits below a single in-house hire while covering far more range. The hesitation clears once those numbers sit next to each other.</p><p>The reassurance is in who does the work. Content Cucumber is led by Brent Peterson, who has spent 30+ years in ecommerce and hosts Talk Commerce, a podcast with 500+ episodes featuring the platform and agency leaders your clients work with. Our writers understand Shopify, BigCommerce, Magento, and composable stacks because we work in them, so you are adding a team that knows the platforms and the buyers, backed by SEO and AEO scoring on every piece.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Questions ecommerce agencies ask",
+        "items": [
+            {
+                "question": "How does the white-labeling work?",
+                "answer": "Everything ships under your agency's brand. Your clients never see Content Cucumber. Content comes through your process, reports carry your logo, and you get the credit for the work. We stay invisible by design."
+            },
+            {
+                "question": "Can you match each client's brand voice?",
+                "answer": "Yes. We capture voice, tone, and terminology per client in RequestDesk, so a fashion brand and a B2B distributor read as themselves. Voice stays consistent no matter which writer produces the piece."
+            },
+            {
+                "question": "What about overflow and rush work?",
+                "answer": "Overflow is one of the main reasons agencies bring us on. Scale up for a launch or a stacked month, scale back when it clears. Rush delivery is available when a client deadline moves."
+            },
+            {
+                "question": "Do you handle catalog refresh and post-migration cleanup?",
+                "answer": "Yes. Thin-content rewrites, product and category copy at scale, and full-library refreshes across thousands of pages are a core offering, with SEO and AEO built in. This is the work freelancers cannot cover at volume."
+            },
+            {
+                "question": "What is AEO and why does it matter to my clients?",
+                "answer": "AEO stands for AI Engine Optimization. It measures whether your client's content gets cited in AI search like ChatGPT, Claude, Perplexity, and Google AI Overviews. Traditional SEO tracks Google rankings. AEO tracks AI visibility, and more buyers start there every month. We score both on everything we write."
+            },
+            {
+                "question": "Is there a minimum commitment?",
+                "answer": "We build partnerships around your agency's volume, not rigid minimums. Some agencies start with one client to test the fit. Others bring several at once. Pricing scales with volume, so more work means better margins for you."
+            },
+            {
+                "question": "What is RequestDesk?",
+                "answer": "RequestDesk is our content platform. It captures brand voice, runs content workflows, scores SEO and AEO, and publishes across channels. For agency partners, it keeps every client organized in one place, so your team sees production status without managing individual writers."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Add a content engine to your agency",
+        "text": "Tell us about your clients and the content pulling on your team. We will scope how the white-label partnership works and how to make the internal case.",
+        "button_text": "Start a conversation",
+        "button_url": "/contact/"
+    }
+}

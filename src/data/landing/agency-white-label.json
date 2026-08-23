@@ -1,13 +1,16 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "White-label SEO content, analytics, and Lighthouse/AEO scoring for agencies. 40+ human writers, your brand, your clients. Scale your SEO offering without hiring.",
         "og_description": "Content Cucumber provides white-label SEO services for agencies. SEO content creation, analytics, and ongoing Lighthouse/AEO scoring. Your brand, your clients, our team.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "agency-white-label",
         "header": "Start a White-Label Partnership",
         "subtitle": "Tell us about your agency and the SEO services your clients need. We'll show you how the partnership works.",
-        "trust_text": "40+ writers. HubSpot partner. 30+ years in ecommerce. Your brand, always.",
+        "trust_text": "HubSpot partner. Your brand, always.",
         "portal_id": "39487190",
         "form_id": "3c945309-67c6-4812-ab65-c7280682e005",
         "region": "na1"
@@ -26,18 +29,9 @@
                 "title": "Your agency. Your brand.<br><em>Our SEO team behind the scenes.</em>",
                 "paragraphs": [
                     "Your clients need SEO content, analytics, and ongoing performance scoring. You need a partner who delivers all of it under your brand, without the overhead of hiring writers, analysts, and SEO specialists.",
-                    "Content Cucumber provides white-label SEO services to agencies. 40+ human writers produce SEO content. Our platform tracks Lighthouse scores, AEO visibility, and organic performance. Your clients see your brand. They never see ours."
+                    "Content Cucumber provides white-label SEO services to agencies. 40+ human writers produce SEO content. Our platform tracks Lighthouse scores, AEO visibility, and organic performance. Your clients only ever see your brand."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "40+", "label": "Human Writers" },
-                { "logo": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png", "label": "HubSpot Partner" },
-                { "number": "500+", "label": "Podcast Episodes" },
-                { "number": "30+", "label": "Years in Ecommerce" }
-            ]
         },
         {
             "type": "challenges",
@@ -46,22 +40,18 @@
                 "subtitle": "You win the client. Then the hard part starts. These are the four problems that keep agencies from scaling their SEO services.",
                 "items": [
                     {
-                        "number": "01",
                         "title": "Inconsistent Content Quality",
-                        "text": "Freelancers disappear. Quality varies from writer to writer. Your client gets a great blog post one month and a mediocre one the next. Inconsistency erodes trust, and trust is what keeps retainers alive."
+                        "text": "Freelancers disappear. Quality varies from writer to writer. Your client gets a great blog post one month and a mediocre one the next. Inconsistency erodes the trust that keeps retainers alive."
                     },
                     {
-                        "number": "02",
                         "title": "No In-House SEO Expertise",
-                        "text": "You're a marketing agency, not an SEO shop. Hiring a full-time SEO specialist is expensive. Training existing staff takes months. Meanwhile, clients expect keyword research, technical audits, and content that actually ranks."
+                        "text": "You're a marketing agency, not an SEO shop. Hiring a full-time SEO specialist is expensive. Training existing staff takes months. Meanwhile, clients expect keyword research, technical audits, and content that ranks."
                     },
                     {
-                        "number": "03",
                         "title": "Scaling Bottleneck",
                         "text": "Every new client means more content, more reporting, more management. Your team is already stretched. You want to grow your agency, but adding SEO clients means adding headcount you can't afford yet."
                     },
                     {
-                        "number": "04",
                         "title": "Reporting Gaps",
                         "text": "Clients ask about Lighthouse scores, Core Web Vitals, AEO visibility, and organic rankings. You're stitching together data from five different tools into a spreadsheet. There's no unified view, and the reports take hours to build."
                     }
@@ -72,7 +62,7 @@
             "type": "services",
             "data": {
                 "title": "White-Label SEO Services We Deliver",
-                "subtitle": "Three service lines your agency can offer clients under your own brand. We handle production and reporting. You handle the relationship.",
+                "subtitle": "Six service lines your agency can offer clients under your own brand. We handle production and reporting while you handle the client relationship.",
                 "items": [
                     {
                         "icon": "pen",
@@ -88,6 +78,21 @@
                         "icon": "zap",
                         "title": "Technical SEO & AEO Monitoring",
                         "text": "Continuous Lighthouse audits, Core Web Vitals tracking, and AI Engine Optimization scoring. We catch technical issues before your clients notice them and flag opportunities for improvement."
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Case Study Production",
+                        "text": "We interview your client's customers and turn the results into finished case studies under your agency's brand. Written proof your clients can put in front of their own prospects, produced by the same 40+ writers handling their content."
+                    },
+                    {
+                        "icon": "mail",
+                        "title": "Email and Lifecycle Copy",
+                        "text": "Welcome flows, drip sequences, re-engagement and newsletters, written to your client's calendar and shipped under your brand."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Social Content",
+                        "text": "Posts pulled from the blog and case studies we already produced for that client, so the social account points back at the work instead of running on its own."
                     }
                 ]
             }
@@ -175,7 +180,7 @@
             "type": "outcomes",
             "data": {
                 "title": "What Your Agency Gets",
-                "subtitle": "Not just services. A competitive advantage. Here's what agencies gain from a white-label SEO partnership.",
+                "subtitle": "A white-label SEO partnership gives your agency a competitive advantage, not just a set of services.",
                 "items": [
                     {
                         "icon": "users",
@@ -190,7 +195,7 @@
                     {
                         "icon": "chart",
                         "title": "Time Back for Strategy",
-                        "text": "Stop spending hours on content production and report building. We handle execution so your team can focus on client strategy, business development, and the work that actually grows your agency."
+                        "text": "Stop spending hours on content production and report building. We handle execution so your team can focus on client strategy, business development, and the work that grows your agency."
                     },
                     {
                         "icon": "search",
@@ -208,13 +213,7 @@
                 "paragraphs": [
                     "Led by Brent Peterson with 30+ years in ecommerce, Content Cucumber has worked with brands and agencies across Shopify, BigCommerce, Magento, and WooCommerce. We understand the platforms your clients run on because we've built on them ourselves.",
                     "We host Talk Commerce, a podcast with 500+ episodes featuring ecommerce leaders. That network gives our writers real industry context, not generic marketing advice recycled from the internet.",
-                    "Our agency partners offer their clients a full stack: SEO content from Content Cucumber, growth strategy from Content Basis, and content management through RequestDesk. One partnership, three capabilities, all under your brand."
-                ],
-                "stats": [
-                    { "number": "30+", "label": "Years in Ecommerce" },
-                    { "number": "40+", "label": "Human Writers" },
-                    { "number": "500+", "label": "Podcast Episodes" },
-                    { "number": "100%", "label": "White-Labeled" }
+                    "Our agency partners offer their clients a full stack: SEO content and growth strategy from Content Cucumber, and content management through RequestDesk. One partnership, every capability, all under your brand."
                 ]
             }
         },
@@ -225,7 +224,7 @@
                 "items": [
                     {
                         "question": "\"How does the white-labeling work?\"",
-                        "answer": "Everything we produce goes out under your agency's brand. Reports carry your logo. Content is delivered through your process. Your clients never see Content Cucumber's name. We're invisible by design. You get the credit, we do the work."
+                        "answer": "Everything we produce goes out under your agency's brand. Reports carry your logo. Content is delivered through your process. Your clients never see Content Cucumber's name. We stay invisible by design, so you get the credit for the work."
                     },
                     {
                         "question": "\"What's the typical turnaround time?\"",
@@ -245,11 +244,11 @@
                     },
                     {
                         "question": "\"How does this differ from hiring freelancers?\"",
-                        "answer": "Freelancers give you a person. We give you a system. Brand voice is captured and managed in RequestDesk so content stays consistent regardless of which writer produces it. SEO optimization, Lighthouse scoring, and AEO analysis happen automatically. You don't manage writers. You manage a partnership."
+                        "answer": "We give you a system, not just a person to manage. Brand voice is captured and managed in RequestDesk so content stays consistent regardless of which writer produces it. SEO optimization, Lighthouse scoring, and AEO analysis happen automatically. You don't manage writers. You manage a partnership."
                     },
                     {
-                        "question": "\"Can we resell individual services or do we need all three?\"",
-                        "answer": "Each service line (content creation, analytics, and scoring) works independently. Most agencies start with content creation and add analytics and scoring as they see the value. Bundle all three for the strongest client offering and best margins."
+                        "question": "\"Can we resell individual services or do we need the full set?\"",
+                        "answer": "Each service line (content creation, analytics, scoring, and case studies) works independently. Most agencies start with content creation and add the others as they see the value. Bundle them for the strongest client offering and best margins."
                     },
                     {
                         "question": "\"What is RequestDesk?\"",
@@ -271,13 +270,6 @@
                         "current": true
                     },
                     {
-                        "name": "Content Basis",
-                        "role": "The Growth Strategy Team",
-                        "description": "Full-service growth marketing strategy, website development, and HubSpot implementation for ecommerce brands.",
-                        "url": "https://contentbasis.ai",
-                        "link_text": "Explore growth strategy services"
-                    },
-                    {
                         "name": "RequestDesk",
                         "role": "The Platform",
                         "description": "Brand voice capture, content workflow management, SEO scoring, and multi-channel publishing. The system that powers the content operation.",
@@ -286,10 +278,6 @@
                     }
                 ],
                 "cross_ctas": [
-                    {
-                        "text": "Need growth strategy for your clients? Meet Content Basis",
-                        "url": "https://contentbasis.ai"
-                    },
                     {
                         "text": "See the platform that powers content operations",
                         "url": "https://requestdesk.ai"

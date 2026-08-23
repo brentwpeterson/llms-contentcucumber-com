@@ -1,13 +1,16 @@
 {
     "form": {
+        "campaign_code": "brand-audit",
         "header": "Get Your Free Brand Audit",
-        "subtitle": "We'll review your content across every channel and show you exactly where your brand voice is strong and where it's drifting.",
+        "subtitle": "We'll review your content across every channel and show you where your brand voice is strong and where it's drifting.",
         "trust_text": "No credit card. No commitment. Just clarity.",
         "portal_id": "39487190",
         "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
         "region": "na1"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "Free Brand Audit - Content Cucumber",
         "meta_description": "Get a free brand audit. We review your blog, social, email, and product content for voice consistency and give you a clear action plan. Powered by RequestDesk brand intelligence.",
         "slug": "brand-audit"
@@ -58,22 +61,22 @@
                         "text": "Your product pages are where voice matters most. We check whether your descriptions match your brand personality or sound like they were copied from a manufacturer spec sheet."
                     },
                     {
-                        "icon": "calendar",
+                        "icon": "settings",
                         "title": "Email Marketing",
                         "text": "Subject lines, body copy, CTAs. Your emails are the most personal touchpoint with your audience. We audit them for voice consistency and brand alignment."
                     },
                     {
-                        "icon": "target",
+                        "icon": "search",
                         "title": "Social Media",
-                        "text": "Does your Instagram sound like your LinkedIn? It probably shouldn't. But both need to be unmistakably your brand. We review your social presence across platforms."
+                        "text": "Your Instagram and your LinkedIn can sound different, as long as both are unmistakably your brand. We review your social presence across platforms."
                     },
                     {
-                        "icon": "book",
+                        "icon": "pen",
                         "title": "Website Copy",
                         "text": "Homepage, about page, services pages, landing pages. Every page a visitor touches shapes their perception. We audit your entire site for voice consistency."
                     },
                     {
-                        "icon": "compass",
+                        "icon": "search",
                         "title": "Competitor Comparison",
                         "text": "Does your content stand out from competitors, or could someone swap the logos and not notice? We compare your voice against your top 3 competitors."
                     }
@@ -98,12 +101,12 @@
                     {
                         "number": "03",
                         "title": "Brand Strength Score",
-                        "text": "You get a score across 20 brand dimensions: voice, tone, values, audience alignment, terminology consistency, and more. Each dimension is rated so you know exactly where to focus."
+                        "text": "You get a score across 20 brand dimensions: voice, tone, values, audience alignment, terminology consistency, and more. Each dimension is rated so you know where to focus."
                     },
                     {
                         "number": "04",
                         "title": "Action Plan",
-                        "text": "Not a 50-page strategy deck. A clear, prioritized list of what to fix first. Specific examples from your own content showing what's on-brand and what's drifting."
+                        "text": "You get a clear, prioritized list of what to fix first, with examples from your own content. Specific examples from your own content showing what's on-brand and what's drifting."
                     }
                 ]
             }
@@ -112,7 +115,6 @@
             "type": "shift",
             "data": {
                 "eyebrow": "Why It Matters",
-                "paragraphs": [""],
                 "old_way": {
                     "heading": "Without a Brand Audit",
                     "items": [
@@ -132,7 +134,8 @@
                     ]
                 },
                 "title": "You Can't Fix What You Can't See"
-            }
+            },
+            "variant": "stacked"
         },
         {
             "type": "credibility",
@@ -142,8 +145,7 @@
                 "paragraphs": [
                     "We've analyzed how <a href='/blog/what-is-trader-joes-marketing-secret/' target='_blank'>Trader Joe's built a cult brand without advertising</a>, how <a href='/blog/how-dominos-transformed-its-reputation/' target='_blank'>Domino's publicly admitted failure and rebuilt from scratch</a>, and how <a href='/blog/5-ways-target-encourages-shoppers-to-overspend/' target='_blank'>Target's brand consistency drives billions in impulse purchases</a>.",
                     "<a href='/blog/subaru-case-study/' target='_blank'>Subaru didn't know who their customer was</a> until they did the audit work. <a href='/blog/coca-colas-rebrand-disaster/' target='_blank'>Coca-Cola changed what didn't need changing</a> and paid for it. Your brand audit prevents both mistakes."
-                ],
-                "stats": []
+                ]
             }
         },
         {
@@ -176,7 +178,7 @@
                     },
                     {
                         "question": "What if our brand voice is already strong?",
-                        "answer": "Then the audit confirms it, and you get a documented baseline. Most brands think they're consistent until they see their content side by side. The audit shows you what's actually happening."
+                        "answer": "Then the audit confirms it, and you get a documented baseline. Most brands think they're consistent until they see their content side by side. The audit shows you what's happening."
                     },
                     {
                         "question": "Will you try to sell me something after?",

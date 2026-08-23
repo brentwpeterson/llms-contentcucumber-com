@@ -1,13 +1,17 @@
 {
     "seo": {
+        "title": "Producción de video en conferencias - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Producción profesional de video en conferencias para marcas de ecommerce. Filmamos en tu stand, te entregamos clips listos para publicar y convertimos 3 días de evento en 3 meses de contenido.",
         "og_description": "Llegamos a tu stand, grabamos entrevistas profesionales con tu equipo y te entregamos videos listos para usar. Cuando regreses a casa, ya tendrás contenido de marketing que sigue generando resultados.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "conference-video-es",
         "header": "Agenda tu cobertura de conferencia",
         "subtitle": "",
-        "trust_text": "Cientos de entrevistas grabadas. Más de 30 años en ecommerce. Sin relleno.",
+        "trust_text": "Cientos de entrevistas grabadas. Sin relleno.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
@@ -22,7 +26,7 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Producción de Video en Conferencias",
+                "eyebrow": "Producción de video en conferencias",
                 "title": "Convierte tu evento de 3 días en<br><em>3 meses de marketing</em>.",
                 "paragraphs": [
                     "Ya estás invirtiendo fuerte en exhibir: stand, viajes, hotel, material promocional, tiempo de tu equipo. Nuestro servicio te ayuda a regresar con mucho más que escaneos de gafetes.",
@@ -33,15 +37,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "100s", "label": "Entrevistas grabadas" },
-                { "number": "30+", "label": "Años en ecommerce" },
-                { "number": "500+", "label": "Episodios de podcast" },
-                { "number": "8", "label": "Tipos de entregables" }
-            ]
-        },
-        {
             "type": "challenges",
             "data": {
                 "title": "Qué hacemos en el evento",
@@ -49,7 +44,7 @@
                 "items": [
                     {
                         "title": "Entrevistas naturales",
-                        "text": "Guiamos conversaciones relajadas, sin guión, para que tu equipo se escuche seguro, claro y auténtico en cámara. Nada de scripts ni teleprompters incómodos. Solo personas reales hablando de lo que dominan.",
+                        "text": "Guiamos conversaciones relajadas, sin guión, para que tu equipo se escuche seguro, claro y auténtico en cámara. Solo personas reales hablando de lo que dominan, sin scripts ni teleprompters incómodos.",
                         "image": "conference-video-assets/interview.jpg"
                     },
                     {
@@ -142,8 +137,8 @@
                 "paragraphs": [
                     "Tus clientes están ahí. Tu equipo está con toda la energía. Tu mensaje está afilado. Es uno de los pocos momentos en que tu empresa está completamente \"encendida\".",
                     "La mayoría de las empresas se van con un montón de gafetes escaneados y un plan vago de \"dar seguimiento la próxima semana\". Para cuando el equipo llega a casa, la energía ya se fue. Los puntos clave se mezclan. Las conversaciones que se sentían tan prometedoras en el stand se convierten en contacto frío.",
-                    "Nosotros capturamos esa energía mientras está viva y la convertimos en autoridad, prueba social, impulso y contenido que se acumula. Una sesión de grabación. Meses de marketing.",
-                    "La diferencia no es solo tener video. Es tener video grabado cuando tu equipo estaba en su mejor momento, hablando con personas reales, sobre problemas reales, con entusiasmo genuino."
+                    "Nosotros capturamos esa energía mientras está viva y la convertimos en autoridad, prueba social, impulso y contenido que cada mes se suma al anterior. Una sola sesión de grabación produce meses de marketing.",
+                    "La diferencia está en tener video grabado cuando tu equipo estaba en su mejor momento, hablando con personas reales, sobre problemas reales, con entusiasmo genuino."
                 ],
                 "old_way": {
                     "heading": "Sin cobertura de conferencia",
@@ -171,7 +166,7 @@
             "type": "video-embed",
             "data": {
                 "label": "Del stand a la marca",
-                "heading": "Una sesión de grabación. <em>Meses de contenido</em>.",
+                "heading": "De una sesión de grabación a <em>meses de contenido</em>.",
                 "paragraphs": [
                     "Cada entrevista que grabamos se convierte en una biblioteca de materiales. Clips verticales para redes sociales. Cortes horizontales para tu sitio web. Subtítulos, branding, material en bruto. Todo incluido.",
                     "Y lo mejor es que nosotros nos encargamos de todo. Tu equipo se enfoca en el evento. Nosotros nos ocupamos del contenido."
@@ -212,7 +207,7 @@
                     {
                         "icon": "growth",
                         "title": "Secuencias de email y nurturing",
-                        "text": "Crea campañas de email post-evento con video integrado. La reutilización se vuelve opcional, no obligatoria. La distribución se vuelve flexible. El video hace el trabajo pesado."
+                        "text": "Crea campañas de email post-evento con video integrado. La reutilización queda a tu elección. La distribución se vuelve flexible. El video hace el trabajo pesado."
                     }
                 ]
             }
@@ -224,14 +219,8 @@
                 "title": "Entendemos posicionamiento, mensajes y estrategia de contenido.",
                 "paragraphs": [
                     "Hemos creado contenido para cientos de negocios y grabado cientos de entrevistas en ecommerce y B2B. No solo apuntamos una cámara. Entendemos qué hace una buena historia, qué necesitan escuchar tus compradores y cómo sacarle jugo a una conversación de 5 minutos.",
-                    "Content Cucumber ayuda a marcas de ecommerce y B2B en crecimiento a convertir ideas en materiales que generan resultados reales. Desde redacción y estrategia hasta video y distribución, nos especializamos en construir un inventario de marketing que se acumula con el tiempo.",
+                    "Content Cucumber ayuda a marcas de ecommerce y B2B en crecimiento a convertir ideas en materiales que generan resultados reales. Desde redacción y estrategia hasta video y distribución, nos especializamos en construir un inventario de marketing donde cada pieza se suma a la anterior.",
                     "Mensajes claros. Ejecución inteligente. Contenido que funciona."
-                ],
-                "stats": [
-                    { "number": "30+", "label": "Años en ecommerce" },
-                    { "number": "100s", "label": "Entrevistas grabadas" },
-                    { "number": "500+", "label": "Episodios de podcast" },
-                    { "number": "40+", "label": "Escritores profesionales" }
                 ]
             }
         },
@@ -242,7 +231,7 @@
                 "items": [
                     {
                         "question": "\"Ya tenemos un videógrafo.\"",
-                        "answer": "La mayoría de los videógrafos capturan tomas. Nosotros capturamos historias. Sabemos qué preguntas hacer, cómo guiar la conversación y cómo convertir entrevistas en bruto en meses de contenido de marketing. La estrategia es lo que hace diferente a nuestra cobertura de conferencia."
+                        "answer": "Nosotros capturamos historias, no solo tomas. Sabemos qué preguntas hacer, cómo guiar la conversación y cómo convertir entrevistas en bruto en meses de contenido de marketing. La estrategia es lo que hace diferente a nuestra cobertura de conferencia."
                     },
                     {
                         "question": "\"Nuestro equipo no se siente cómodo frente a cámara.\"",
@@ -250,7 +239,7 @@
                     },
                     {
                         "question": "\"No estamos seguros de que valga la inversión.\"",
-                        "answer": "Ya estás gastando miles en el stand, viajes, hotel y tiempo de tu equipo. La cobertura de conferencia convierte esa inversión que ya hiciste en contenido que trabaja durante meses. La pregunta no es si puedes pagarlo. Es si puedes darte el lujo de irte sin ello."
+                        "answer": "Ya estás gastando miles en el stand, viajes, hotel y tiempo de tu equipo. La cobertura de conferencia convierte esa inversión que ya hiciste en contenido que trabaja durante meses. La verdadera pregunta es si puedes darte el lujo de irte sin ello."
                     },
                     {
                         "question": "\"¿Qué tan rápido recibimos los materiales finales?\"",

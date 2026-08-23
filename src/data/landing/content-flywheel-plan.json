@@ -4,11 +4,13 @@
         "subtitle": "Tell us about your business. We'll build a marketing plan together.",
         "trust_text": "We have real people writing kick ass content!",
         "portal_id": "39487190",
-        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "form_id": "b8c0e11f-a956-43ac-b7c9-0f60c4e29eaf",
         "region": "na1",
         "campaign_code": "content-flywheel-plan"
     },
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "title": "The Content Flywheel - Content Cucumber",
         "meta_description": "We run your marketing. You run everything else. Channels of content firing every month from one interview with your dedicated writer. $1,000/mo, all-in.",
         "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/content-flywheel-plan-assets/content-flywheel-card.jpg",
@@ -40,27 +42,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "number": "Bi-Monthly",
-                    "label": "Check-Ins"
-                },
-                {
-                    "number": "1:1",
-                    "label": "Dedicated Writer"
-                },
-                {
-                    "number": "$1,000",
-                    "label": "All-In, Per Month"
-                },
-                {
-                    "number": "Unlimited",
-                    "label": "Revisions"
-                }
-            ]
-        },
-        {
             "type": "feature-image",
             "data": {
                 "image": "/wp-content/uploads/2026/04/contentcucumber-content-solution.mp4",
@@ -72,7 +53,7 @@
                 "paragraphs": [
                     "Your team can't keep up with the demand for fresh, quality content across all your channels.",
                     "Every day without new content is a missed opportunity. Your competitors are publishing constantly while your team struggles to keep up with blog posts, product descriptions, and marketing materials.",
-                    "Content Cucumber gives you a hand-picked team of human writers who learn your voice and deliver every week. Not a tool. Not a template. A partnership."
+                    "Content Cucumber gives you a hand-picked team of human writers who learn your voice and deliver every week. A real partnership with people who know your business."
                 ],
                 "bg_color": "#fdebd0"
             }
@@ -128,7 +109,7 @@
                 "eyebrow": "Buy writing vs hand off marketing",
                 "title": "What buying writing looks like vs what buying a marketing arm looks like",
                 "paragraphs": [
-                    "The Flywheel is different. We're not a writer for hire. We're the team that runs your marketing the way you would run it yourself."
+                    "The Flywheel is different. We're the team that runs your marketing the way you would run it yourself."
                 ],
                 "comparison_style": "illustrated",
                 "old_way": {
@@ -222,7 +203,7 @@
                         "text": "Written and distributed where it matters. Quarterly cadence or whenever news breaks in your business."
                     },
                     {
-                        "icon": "users",
+                        "icon": "share",
                         "title": "Customer interview series",
                         "text": "We interview your customers and turn their words into content. Their voice, your brand."
                     },
@@ -282,20 +263,132 @@
                     "Marketing Company"
                 ],
                 "rows": [
-                    { "label": "Monthly cost", "values": ["Retainer starts at $$", "$$$", "$", "$$$$"] },
-                    { "label": "Dedicated writer who learns your business", "values": ["✓", "Sometimes", "✗", "Sometimes"] },
-                    { "label": "Channels delivered each month", "values": ["Many (blog, pillar, social, video, newsletter, reports)", "One (blog only)", "One (you publish)", "Varies"] },
-                    { "label": "Monthly strategy: sales data + Google Search Console tied together", "values": ["✓ Reviewed together monthly to find new content opportunities", "Rarely", "✗", "Sometimes (siloed data)"] },
-                    { "label": "Captioned video clips from monthly interview", "values": ["✓", "✗", "✗", "Add-on"] },
-                    { "label": "Daily social posts on your platforms", "values": ["✓", "✗", "DIY", "Sometimes"] },
-                    { "label": "AI slop", "values": ["None. Real human writers.", "Usually none (human writers)", "Heavy. Generic, formulaic, drifts.", "Varies (some agencies lean on AI)"] },
-                    { "label": "Brand voice consistency", "values": ["✓ Maintained across writer transitions", "Lost when writer changes", "Drifts every prompt", "Lost when writer rotates"] },
-                    { "label": "RequestDesk Brand Voice Engine", "values": ["✓ Captures your voice, learns what's been written, survives staff changes", "✗", "✗", "✗"] },
-                    { "label": "Monthly performance reports", "values": ["✓ Content + social side by side, plain English (social reporting when we schedule)", "✗", "✗", "Black-box dashboard"] },
-                    { "label": "Curated email newsletter", "values": ["✓", "✗", "DIY", "Sometimes"] },
-                    { "label": "Your time investment per month", "values": ["1 hour minimum (interview). More if you want.", "Briefs + reviews", "Hours of prompting", "Briefs + reviews + meetings"] },
-                    { "label": "Revisions", "values": ["Unlimited", "Limited", "Unlimited (you redo)", "Limited"] },
-                    { "label": "Commitment", "values": ["Monthly, 6-month, or annual (save with longer commitment)", "Often 3 to 6 months", "None", "6 to 12 months"] }
+                    {
+                        "label": "Monthly cost",
+                        "values": [
+                            "Retainer starts at $$",
+                            "$$$",
+                            "$",
+                            "$$$$"
+                        ]
+                    },
+                    {
+                        "label": "Dedicated writer who learns your business",
+                        "values": [
+                            "✓",
+                            "Sometimes",
+                            "✗",
+                            "Sometimes"
+                        ]
+                    },
+                    {
+                        "label": "Channels delivered each month",
+                        "values": [
+                            "Many (blog, pillar, social, video, newsletter, reports)",
+                            "One (blog only)",
+                            "One (you publish)",
+                            "Varies"
+                        ]
+                    },
+                    {
+                        "label": "Monthly strategy: sales data + Google Search Console tied together",
+                        "values": [
+                            "✓ Reviewed together monthly to find new content opportunities",
+                            "Rarely",
+                            "✗",
+                            "Sometimes (siloed data)"
+                        ]
+                    },
+                    {
+                        "label": "Captioned video clips from monthly interview",
+                        "values": [
+                            "✓",
+                            "✗",
+                            "✗",
+                            "Add-on"
+                        ]
+                    },
+                    {
+                        "label": "Daily social posts on your platforms",
+                        "values": [
+                            "✓",
+                            "✗",
+                            "DIY",
+                            "Sometimes"
+                        ]
+                    },
+                    {
+                        "label": "AI slop",
+                        "values": [
+                            "None. Real human writers.",
+                            "Usually none (human writers)",
+                            "Heavy. Generic, formulaic, drifts.",
+                            "Varies (some agencies lean on AI)"
+                        ]
+                    },
+                    {
+                        "label": "Brand voice consistency",
+                        "values": [
+                            "✓ Maintained across writer transitions",
+                            "Lost when writer changes",
+                            "Drifts every prompt",
+                            "Lost when writer rotates"
+                        ]
+                    },
+                    {
+                        "label": "RequestDesk Brand Voice Engine",
+                        "values": [
+                            "✓ Captures your voice, learns what's been written, survives staff changes",
+                            "✗",
+                            "✗",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Monthly performance reports",
+                        "values": [
+                            "✓ Content + social side by side, plain English (social reporting when we schedule)",
+                            "✗",
+                            "✗",
+                            "Black-box dashboard"
+                        ]
+                    },
+                    {
+                        "label": "Curated email newsletter",
+                        "values": [
+                            "✓",
+                            "✗",
+                            "DIY",
+                            "Sometimes"
+                        ]
+                    },
+                    {
+                        "label": "Your time investment per month",
+                        "values": [
+                            "1 hour minimum (interview). More if you want.",
+                            "Briefs + reviews",
+                            "Hours of prompting",
+                            "Briefs + reviews + meetings"
+                        ]
+                    },
+                    {
+                        "label": "Revisions",
+                        "values": [
+                            "Unlimited",
+                            "Limited",
+                            "Unlimited (you redo)",
+                            "Limited"
+                        ]
+                    },
+                    {
+                        "label": "Commitment",
+                        "values": [
+                            "Monthly, 6-month, or annual (save with longer commitment)",
+                            "Often 3 to 6 months",
+                            "None",
+                            "6 to 12 months"
+                        ]
+                    }
                 ]
             }
         },
@@ -359,24 +452,6 @@
                 "paragraphs": [
                     "Business owners are busy. They're running a business. Hiring a dedicated marketing person costs thousands of dollars a month before a single article ships, before a single newsletter goes out, before any social calendar exists.",
                     "Outsource the marketing to Content Cucumber instead. You get a writer, a videographer, a designer, an email person, and an SEO analyst working on your business every month. For $1,000."
-                ],
-                "stats": [
-                    {
-                        "number": "5",
-                        "label": "Specialists Per Account"
-                    },
-                    {
-                        "number": "1",
-                        "label": "Hour Interview Monthly"
-                    },
-                    {
-                        "number": "Mid-Month",
-                        "label": "Status Call"
-                    },
-                    {
-                        "number": "Anytime",
-                        "label": "Communication"
-                    }
                 ]
             }
         },
@@ -465,7 +540,7 @@
                     },
                     {
                         "question": "How long until I see results?",
-                        "answer": "SEO blogs typically start ranking in 3-6 months. Social engagement and email opens build week over week. Each month builds on the last, so month 6 looks very different from month 1."
+                        "answer": "SEO blogs typically start ranking in 3-6 months. Social engagement and email opens build week over week. Each month builds on the last, so month 6 looks different from month 1."
                     },
                     {
                         "question": "How do you know what to write about my business?",

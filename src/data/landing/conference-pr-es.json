@@ -1,13 +1,17 @@
 {
     "seo": {
+        "title": "Contenido de conferencias para agencias de PR - Content Cucumber",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Agencias de PR: conviertan las apariciones de sus clientes en conferencias en meses de contenido. Talk Commerce graba las entrevistas. Content Cucumber escribe los artículos, casos de estudio y publicaciones para redes.",
         "og_description": "Sus clientes ya están en la conferencia. Convertimos su presencia en el stand en episodios de podcast, artículos de blog, casos de estudio y contenido para redes. Marca blanca disponible.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "conference-pr-es",
         "header": "Platiquemos sobre sus clientes",
         "subtitle": "Cuéntenos un poco sobre su agencia y programamos una llamada rápida.",
-        "trust_text": "Más de 40 escritores profesionales. Más de 500 episodios de podcast. Agencias confían en nosotros.",
+        "trust_text": "Agencias confían en nosotros.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
@@ -20,7 +24,7 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Para Agencias de PR y Marketing",
+                "eyebrow": "Para agencias de PR y Marketing",
                 "youtube_id": "B2DTOLMkzf4",
                 "youtube_layout": "grid",
                 "youtube_title": "Content Cucumber Conference Coverage",
@@ -30,15 +34,6 @@
                     "Tres paquetes para que sus clientes elijan. Marca blanca disponible. Sin contratos, sin mínimos. <a href=\"/conference-interview/\">Vea los paquetes completos de entrevista</a>."
                 ]
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "40+", "label": "Escritores profesionales" },
-                { "number": "500+", "label": "Episodios de podcast" },
-                { "number": "30+", "label": "Años en ecommerce" },
-                { "number": "100s", "label": "Marcas atendidas" }
-            ]
         },
         {
             "type": "bundles",

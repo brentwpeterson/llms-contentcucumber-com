@@ -1,0 +1,102 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Marketing Management Services - Content Cucumber",
+        "meta_description": "HubSpot implementation, marketing automation, and campaign management run by one team, so the platform work and the content inside it stop living apart.",
+        "slug": "marketing-management"
+    },
+    "form": {
+        "campaign_code": "marketing-management",
+        "header": "Tell us what your marketing runs on",
+        "subtitle": "We will look at what you already have set up before we reply, so the first conversation is about your stack and not a template.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1"
+    },
+    "hero": {
+        "eyebrow": "HubSpot, automation, and campaigns",
+        "title": "Marketing management, run by the people who write the content",
+        "subtitle": "One team builds the workflow and writes what goes inside it, so nothing waits on a handoff between the agency that owns your platform and the agency that owns your words."
+    },
+    "sections": [
+        {
+            "id": "what-this-is",
+            "title": "What marketing management covers here",
+            "content": "<p>Marketing management is the standing work of running your marketing operation rather than a project with an end date. It covers implementing and maintaining HubSpot, building the automation that moves people through it, and running the campaigns that fill it. We act as an extension of your team, which in practice means your marketing meeting has somebody in it who is accountable for the platform and the content at the same time.</p><p>Most teams buy these separately and then spend their attention on the seam. An agency configures a workflow, a different agency writes the emails inside it, and the person who has to make those two things agree is you.</p>"
+        },
+        {
+            "id": "hubspot",
+            "title": "HubSpot implementation and cleanup",
+            "content": "<p>Portal setup, migration, and the unglamorous work of making an existing portal usable. Properties that mean something, lifecycle stages that match how you sell, lists that are not quietly stale, and reporting you trust enough to act on. Plenty of this work is cleanup rather than implementation, because the portal was set up correctly for a business that has since changed.</p>",
+            "link_url": "/services/email-marketing/",
+            "link_text": "Email programs inside HubSpot"
+        },
+        {
+            "id": "automation",
+            "title": "Marketing automation",
+            "content": "<p>The workflows that route a lead, score it, hand it to sales, and follow up when nobody does. Automation fails in two ordinary ways, either nothing is built or too much is built and no one remembers what fires when. We document what exists before adding to it, and we turn off what is running for no reason.</p>"
+        },
+        {
+            "id": "campaigns",
+            "title": "Campaign management",
+            "content": "<p>Planning, building, and running campaigns end to end, with the writing included rather than subcontracted. A campaign is a landing page, a form, a sequence, a set of social posts, and reporting that says whether it worked, and every one of those is content somebody has to produce.</p>",
+            "link_url": "/services/content-creation/",
+            "link_text": "How the content gets made"
+        },
+        {
+            "id": "white-label",
+            "title": "White-label for agencies",
+            "content": "<p>All of it is available white-label. Agencies bring us in as their marketing operations team and the work goes out under their logo, with their client relationship untouched. If that is the shape you need, the agency track has its own page.</p>",
+            "link_url": "/content-for-ecommerce-agencies/",
+            "link_text": "Content for eCommerce agencies"
+        },
+        {
+            "id": "where-to-go-next",
+            "title": "Where to go next",
+            "content": "<p>If marketing management is not the piece you are missing, these are the neighboring pages.</p><ul><li><a href=\"/services/\"><strong>All services</strong></a> is the full picture of what we write and run.</li><li><a href=\"/services/email-marketing/\"><strong>Email Marketing</strong></a> is the lifecycle work on its own, without the platform engagement around it.</li><li><a href=\"/pricing/\"><strong>Pricing</strong></a> is public, so you can size this before you talk to anybody.</li></ul>"
+        }
+    ],
+    "faq": {
+        "title": "Questions we get asked",
+        "items": [
+            {
+                "question": "Do we need to be on HubSpot?",
+                "answer": "For the platform work, yes, that is what we run. The campaign and content work does not depend on it, and we will say so if HubSpot is the wrong tool for what you are trying to do."
+            },
+            {
+                "question": "Can you take over a portal somebody else built?",
+                "answer": "That is most of what we do. We audit what is there, document the workflows nobody can explain, and turn off what is firing for no reason before we add anything."
+            },
+            {
+                "question": "Is the content included or separate?",
+                "answer": "Included. The reason to buy marketing management from a content company is that the emails, pages, and posts inside the workflows get written by the same team that built them."
+            },
+            {
+                "question": "Can this go out under our agency's name?",
+                "answer": "Yes. White-label is available across the engagement, and your client relationship stays yours."
+            },
+            {
+                "question": "How do we start?",
+                "answer": "Tell us what your marketing runs on. We will look at what you already have set up before we reply."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Bring us your portal",
+        "text": "Tell us what your marketing runs on and what is not working in it. We will tell you what we would fix first, including when the answer is that you do not need us."
+    },
+    "sidebar": {
+        "title": "Talk to a person",
+        "text": "Tell us what your marketing runs on. We will tell you what we would fix first, including when the answer is that you do not need us.",
+        "form": {
+            "portal_id": "39487190",
+            "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+            "region": "na1"
+        },
+        "button_text": "Or book a call instead",
+        "button_url": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting",
+        "trust_text": "40+ human writers. 60,000+ pieces shipped."
+    }
+}

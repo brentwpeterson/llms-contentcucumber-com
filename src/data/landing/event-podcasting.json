@@ -1,13 +1,16 @@
 {
     "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
         "meta_description": "Event Podcasting for ecommerce and B2B brands. We bring the booth, the mics, and the host to your event and deliver episodes under your brand.",
         "og_description": "Your event. Your brand. Our podcast booth. We record audio (and video when you want it) at the show and hand you episodes ready to publish.",
         "og_image": ""
     },
     "form": {
+        "campaign_code": "event-podcasting",
         "header": "Book Event Podcasting",
         "subtitle": "",
-        "trust_text": "500+ podcast episodes produced. Podcast booth active at Shoptoberfest, the Ecomm Forum (Minneapolis), and the Shopware Partner Summit.",
+        "trust_text": "Podcast booth active at Shoptoberfest, the Ecomm Forum (Minneapolis), and the Shopware Partner Summit.",
         "portal_id": "39487190",
         "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
         "region": "na1"
@@ -31,15 +34,6 @@
                 "video_bg": "",
                 "video_bg_poster": ""
             }
-        },
-        {
-            "type": "proof-bar",
-            "data": [
-                { "number": "500+", "label": "Podcast Episodes Produced" },
-                { "number": "3", "label": "Events Covered in 2025-2026" },
-                { "number": "30+", "label": "Years in Ecommerce" },
-                { "number": "0", "label": "Scripts or Teleprompters" }
-            ]
         },
         {
             "type": "challenges",
@@ -74,7 +68,7 @@
             "type": "bundles",
             "data": {
                 "title": "How You Take It Home",
-                "subtitle": "Every engagement is scoped to what you actually need. Some clients want raw files and their own editor takes it from there. Others want us to deliver finished episodes straight to their podcast feed.",
+                "subtitle": "Every engagement is scoped to what you need. Some clients want raw files and their own editor takes it from there. Others want us to deliver finished episodes straight to their podcast feed.",
                 "items": [
                     {
                         "name": "Raw Capture",
@@ -143,7 +137,7 @@
                         "A full season of episodes from one event",
                         "Booth becomes the visible center of the show",
                         "Partners and customers quoted in your feed",
-                        "Content library that compounds each month"
+                        "Content library that grows each month"
                     ]
                 }
             }
@@ -183,15 +177,9 @@
                 "eyebrow": "Built for the Hallway",
                 "title": "We've done this at Shoptoberfest, the Ecomm Forum in Minneapolis, and the Shopware Partner Summit.",
                 "paragraphs": [
-                    "Event Podcasting is not a studio experience moved outside. It is a workflow built for expo halls, side rooms, sponsor lounges, and 15-minute slots between sessions. We know how to get clean audio in loud rooms, keep a guest relaxed in a chaotic setting, and move the schedule when the keynote runs long.",
+                    "Event Podcasting is a workflow built for expo halls, side rooms, sponsor lounges, and 15-minute slots between sessions. We know how to get clean audio in loud rooms, keep a guest relaxed in a chaotic setting, and move the schedule when the keynote runs long.",
                     "Brent W Peterson hosts. 500+ episodes produced. 30+ years in ecommerce. The interviews sound like conversations because they are.",
                     "Your brand on the booth. Your guests at the mic. Our team running the rest."
-                ],
-                "stats": [
-                    { "number": "500+", "label": "Podcast Episodes" },
-                    { "number": "30+", "label": "Years in Ecommerce" },
-                    { "number": "3", "label": "Events Covered" },
-                    { "number": "0", "label": "Missed Release Dates" }
                 ]
             }
         },
@@ -222,7 +210,7 @@
                     },
                     {
                         "question": "\"What about the audio in a loud expo hall?\"",
-                        "answer": "We bring broadcast microphones with tight pickup patterns and treat the booth where we can. Loud rooms are part of the workflow. The final audio sounds like a studio, not a hallway."
+                        "answer": "We bring broadcast microphones with tight pickup patterns and treat the booth where we can. Loud rooms are part of the workflow. The final audio is broadcast-clean even from a packed expo floor."
                     }
                 ]
             }
