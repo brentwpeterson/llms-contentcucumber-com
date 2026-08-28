@@ -9,13 +9,13 @@
     "nofollow": false
   },
   "form": {
-    "header": "Answer the question",
+    "header": "Should companies use AI to create content, and why?",
     "subtitle": "Three fields, and the finished report comes to you.",
     "trust_text": "No pitch, no sequence, no sales call. Leave the anonymous box unticked and you may be quoted by name.",
     "portal_id": "39487190",
     "form_id": "f78bc279-b7c1-42f0-a908-987c11f2262f",
     "region": "na1",
-    "campaign_code": "ai-content-study"
+    "campaign_code": "Should companies use AI to create content, and why?"
   },
   "thankyou": {
     "title": "Counted",
