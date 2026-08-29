@@ -4,7 +4,9 @@
         "title": "What's New, What's Next in AI Content",
         "meta_description": "A free 45-minute webinar with Brent Peterson and Isaac Morey of Content Cucumber. What shipped, what is coming, and where human and machine work is settling.",
         "og_description": "What shipped, what is coming, and where the line between human and machine content is settling. Free, 45 minutes, recording for everyone who registers.",
-        "og_type": "website"
+        "og_type": "website",
+        "noindex": true,
+        "nofollow": true
     },
     "form": {
         "header": "Save Your Spot",
