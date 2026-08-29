@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "Research and Reports on Commerce, Content and AI",
-    "meta_description": "Original research from Content Cucumber. Independent platform analyses and studies built from what practitioners told us in their own words.",
+    "title": "Studies and Research on Commerce, Content and AI",
+    "meta_description": "Independent platform comparisons and practitioner studies from Content Cucumber. Written by people, not models, and grounded in hands-on evaluation.",
     "og_type": "website",
     "twitter_card": "summary_large_image"
   },
@@ -25,20 +25,37 @@
     }
   },
   "hero": {
-    "eyebrow": "Research and Reports",
-    "title": "Original Research on Commerce, Content and AI",
-    "subtitle": "Content Cucumber writes for a living, so we hold our own work to the same standard we sell. These are independent platform analyses and studies built from what practitioners told us, in their own words."
+    "eyebrow": "Studies & Research",
+    "title": "Original Human-Led Studies and Research",
+    "subtitle": "Written by people, not models. Independent platform comparisons and practitioner studies, built on hands-on evaluation and the words of the people who run commerce.",
+    "video_bg": "research-hero-bg.mp4",
+    "video_bg_poster": "research-hero-bg-poster.jpg",
+    "image": "b2b-commerce-trends-report-cover.webp",
+    "image_alt": "The B2B Commerce Trends and Opportunities Report cover",
+    "image_url": "/b2b-commerce-trends-report/",
+    "image_label": "Our most recent report",
+    "image_caption": "The B2B Commerce Trends and Opportunities Report",
+    "tags": [
+      "Platform comparisons",
+      "Trends reports",
+      "Practitioner studies",
+      "Buyer's guides"
+    ],
+    "buttons": [
+      { "text": "Browse the research", "url": "#reports", "style": "primary" },
+      { "text": "Read the latest report", "url": "/b2b-commerce-trends-report/", "style": "ghost" }
+    ]
   },
   "sections": [
     {
       "id": "what-we-publish",
       "title": "What we publish, and how it gets made",
-      "content": "<p>Two kinds of thing live here. Platform analyses compare real systems against the requirements that break implementations, written from hands-on evaluation rather than vendor decks. Studies ask working practitioners one question and print what came back.</p><p>Brent Peterson and Isaac Morey write them. Every quote belongs to a named person who agreed to be named, and anyone who asked to stay anonymous is counted and never identified.</p>"
+      "content": "<ul><li><strong>Platform comparisons.</strong> Two systems put side by side on cost, architecture, and risk, from hands-on evaluation rather than vendor decks.</li><li><strong>Trends reports.</strong> Where a market is heading, built from interviews with the people running it.</li><li><strong>Practitioner studies.</strong> Questions put to working practitioners, with their answers printed and quoted in their own words.</li><li><strong>Buyer's guides.</strong> A decision framework for a specific purchase, so a team knows what to weigh before they sign.</li><li><strong>Benchmarks.</strong> A scored evaluation of the field against a fixed rubric, so results compare like for like.</li><li><strong>Category landscapes.</strong> A map of a space end to end, showing who does what and where the gaps are.</li></ul><p>Original research, done by hand, not a restatement of what is already out there.</p>"
     },
     {
       "id": "reports",
       "title": "Published research",
-      "content": "<p>Each of these is a document you can download and read end to end.</p>",
+      "content": "<p>Check out some of our research below.</p>",
       "verticals": [
         {
           "name": "The B2B Commerce Trends and Opportunities Report",
@@ -77,6 +94,29 @@
           "status": "live"
         }
       ]
+    },
+    {
+      "id": "case-studies",
+      "title": "Case studies",
+      "content": "<p>We write case studies for other businesses too, turning their results into stories that sell. We write a lot of them.</p>",
+      "link_url": "/services/we-write-case-studies/",
+      "link_text": "We write case studies"
+    },
+    {
+      "id": "talks",
+      "title": "Talks and presentations",
+      "content": "<p>We take the same arguments on the road. Conference talks and presentations on AEO, commerce, and where content is heading, given to rooms of practitioners. Recent talks include an AEO session at Meet Magento.</p>",
+      "link_url": "/free-56-point-aeo-seo-audit-checklist/",
+      "link_text": "Get the AEO + SEO checklist"
+    },
+    {
+      "id": "audits-checklists",
+      "title": "Audits and checklists",
+      "content": "<p>Free tools that put the research to work on your own site.</p>",
+      "verticals": [
+        { "name": "See a Real AI + SEO Audit", "short": "Sample audit", "blurb": "A full audit shown end to end, so you know what one looks like before you ask for yours.", "url": "/sample-ai-seo-audit/", "status": "live" },
+        { "name": "The robots.txt + llms.txt Punch List", "short": "llms.txt punch list", "blurb": "The file-level checklist for getting cited by AI engines.", "url": "/llms-txt-checklist/", "status": "live" }
+      ]
     }
   ],
   "faq": {
@@ -84,7 +124,7 @@
     "items": [
       {
         "question": "Who writes these?",
-        "answer": "Brent Peterson and Isaac Morey at Content Cucumber. Brent is CEO and Isaac co-founded the company."
+        "answer": "Content Cucumber's writers, the same people who write for our clients. It is human research and human writing from start to finish."
       },
       {
         "question": "Do I have to give my email?",

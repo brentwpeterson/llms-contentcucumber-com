@@ -1,5 +1,4 @@
 {
-    "no_nav": true,
     "seo": {
         "og_type": "website",
         "twitter_card": "summary_large_image",
@@ -24,7 +23,7 @@
         {
             "type": "hero",
             "data": {
-                "eyebrow": "Live on LinkedIn | August 5 at 2:00 PM ET",
+                "eyebrow": "Live on LinkedIn  |  August 5 at 2:00 PM ET",
                 "title": "Your HubSpot Portal Is <em>Working Against You.</em>",
                 "paragraphs": [
                     "Domains set up wrong, seats nobody uses, automations half-built, and content the portal hosts that buyers and AI engines never find. Most of it stays invisible until someone audits it.",
@@ -33,10 +32,58 @@
             }
         },
         {
+            "type": "proof-bar",
+            "data": [
+                { "number": "Aug 5", "label": "Live on LinkedIn" },
+                { "number": "2 PM ET", "label": "Eastern" },
+                { "number": "2 Free", "label": "Audits Included" },
+                { "number": "Free", "label": "To Attend" }
+            ]
+        },
+        {
             "type": "banner-image",
             "data": {
                 "src": "/wp-content/themes/cucumber-gp-child/landing-data/automations-and-audits-header.png",
                 "alt": "Automations and Audits, a HubSpot webinar with Portal IQ and Content Cucumber on August 5 at 2 PM ET, featuring Brent Peterson, Isaac Morey, and Mike Eastwood"
+            }
+        },
+        {
+            "type": "speakers",
+            "data": {
+                "eyebrow": "Your Presenters",
+                "title": "Two teams, one HubSpot session",
+                "subtitle": "Portal IQ on portal health and automation. Content Cucumber on content and AEO.",
+                "guests": [
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/brent-peterson.png",
+                        "name": "Brent Peterson",
+                        "title": "CEO",
+                        "company": "Content Cucumber"
+                    },
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/isaac-morey.png",
+                        "name": "Isaac Morey",
+                        "title": "Founder & Chief Editor",
+                        "company": "Content Cucumber"
+                    },
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/mike-eastwood.png",
+                        "name": "Mike Eastwood",
+                        "title": "Founder",
+                        "company": "Portal IQ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Why Both Teams",
+                "title": "Portal IQ + Content Cucumber. One HubSpot Session.",
+                "paragraphs": [
+                    "Mike Eastwood runs Portal IQ, an automated HubSpot audit platform that is certified in the HubSpot App Marketplace and a HubSpot Gold Solutions Partner. Portal IQ scans a portal across Marketing, Sales, Service, and the CRM and returns a prioritized set of fixes.",
+                    "Brent Peterson is CEO of Content Cucumber, a company that employs humans to write content for humans, and a HubSpot Solutions Partner bringing the content, schema, and AEO layer. Brent hosts the Talk Commerce podcast and writes The Agentic Commerce Guy. Isaac Morey, founder and chief editor at Content Cucumber, leads the content side."
+                ]
             }
         },
         {
@@ -79,32 +126,25 @@
                 "subtitle": "A working session built around real HubSpot portals, so you leave with fixes you can use.",
                 "steps": [
                     {
+                        "number": "1",
                         "title": "AEO in Your HubSpot Marketing or CMS",
                         "text": "Learn what AEO means inside your HubSpot Marketing or CMS account, where the content lives, the schema and structure that get it cited, and how to turn HubSpot pages into something AI engines name."
                     },
                     {
+                        "number": "2",
                         "title": "The Minimum Automations You Need",
                         "text": "Skip the sprawling build. Learn the small set of automations a HubSpot portal needs to perform, and which workflows are worth finishing first."
                     },
                     {
+                        "number": "3",
                         "title": "Two Free Audits When You Sign Up",
                         "text": "Everyone who signs up gets two free audits. A HubSpot portal audit from Portal IQ, and an AEO audit from Content Cucumber. You leave with a clear read on both how your portal performs and whether buyers and AI engines can find you."
                     },
                     {
+                        "number": "4",
                         "title": "The Hot Seat Walk-Through",
                         "text": "We pick one lucky registrant, Mike audits their HubSpot portal ahead of time, and we walk through the findings together during the session. Your call whether yours is on the screen for everyone or kept private."
                     }
-                ]
-            }
-        },
-        {
-            "type": "credibility",
-            "data": {
-                "eyebrow": "Your Presenters",
-                "title": "Portal IQ + Content Cucumber. One HubSpot Session.",
-                "paragraphs": [
-                    "Mike Eastwood runs Portal IQ, an automated HubSpot audit platform that is certified in the HubSpot App Marketplace and a HubSpot Gold Solutions Partner. Portal IQ scans a portal across Marketing, Sales, Service, and the CRM and returns a prioritized set of fixes.",
-                    "Brent Peterson is CEO of Content Cucumber, a company that employs humans to write content for humans, and a HubSpot Solutions Partner bringing the content, schema, and AEO layer. Brent hosts the Talk Commerce podcast and writes The Agentic Commerce Guy. Isaac Morey, founder and chief editor at Content Cucumber, leads the content side."
                 ]
             }
         },

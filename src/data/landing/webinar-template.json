@@ -1,0 +1,150 @@
+{
+    "_README": "WEBINAR LANDING-PAGE TEMPLATE (Optimizely-style, CC-native). Reusable: copy to landing-data/{slug}.json and swap the event specifics (title, date/time, platform, speakers, agenda). Structure mirrors optimizely.com/field-notes event pages: hero + register form, at-a-glance stats, presenters, what-we'll-cover agenda, who-it's-for, FAQ, final register CTA. Uses the 'Landing Page - JSON' template WITH nav (Brent's call 2026-08-27 — webinar pages keep the site nav). Shared HubSpot form 98689e3c; set campaign_code to the slug. Speaker headshots live in landing-data/speakers/{slug}.png (square, CSS masks them circular with a green ring). Rhythm-safe and avoids the over-cap challenges section (uses outcomes instead).",
+    "seo": {
+        "title": "What's New, What's Next in AI Content",
+        "meta_description": "A free 45-minute webinar with Brent Peterson and Isaac Morey of Content Cucumber. What shipped, what is coming, and where human and machine work is settling.",
+        "og_description": "What shipped, what is coming, and where the line between human and machine content is settling. Free, 45 minutes, recording for everyone who registers.",
+        "og_type": "website"
+    },
+    "form": {
+        "header": "Save Your Spot",
+        "subtitle": "Live on the second Thursday, at 11:00 AM Central. Forty-five minutes.",
+        "trust_text": "Free to attend. Every registrant gets the recording, even if you cannot make it live.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "webinar-template"
+    },
+    "thankyou": {
+        "title": "You're Registered.",
+        "text": "Watch your inbox for the join link and a calendar hold. If you cannot make it live, the recording comes to the same address."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Webinar  ·  Second Thursday  ·  11:00 AM Central",
+                "title": "What's New, What's Next in AI Content. <em>Forty-five minutes, no fluff.</em>",
+                "paragraphs": [
+                    "The tools change every week. What that means for the people who make content, and the companies paying for it, moves slower than the hype and faster than most teams can keep up with.",
+                    "This session walks through what shipped, what is coming, and where the line between human and machine work is settling. You leave knowing what to use, what to skip, and what to build next."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                { "number": "2nd Thu", "label": "Every Month" },
+                { "number": "11:00 AM", "label": "Central" },
+                { "number": "45 Min", "label": "Working Session" },
+                { "number": "Free", "label": "To Attend" }
+            ]
+        },
+        {
+            "type": "speakers",
+            "data": {
+                "eyebrow": "Your Presenters",
+                "title": "Two people who write for a living, talking about what changed",
+                "subtitle": "No panel of ten. Just the work, from the people who do it.",
+                "guests": [
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/brent-peterson.png",
+                        "name": "Brent Peterson",
+                        "title": "CEO",
+                        "company": "Content Cucumber"
+                    },
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/isaac-morey.png",
+                        "name": "Isaac Morey",
+                        "title": "Co-Host",
+                        "company": "Content Cucumber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "What We'll Cover",
+                "subtitle": "Forty-five minutes. No fluff. Straight answers.",
+                "steps": [
+                    {
+                        "number": "1",
+                        "title": "What Shipped",
+                        "text": "The releases that matter from the last quarter, and what each one changes for how you work day to day."
+                    },
+                    {
+                        "number": "2",
+                        "title": "What's Coming",
+                        "text": "A look at the road ahead so you can plan around it instead of reacting to it after the fact."
+                    },
+                    {
+                        "number": "3",
+                        "title": "Agentic Workflows",
+                        "text": "Where agents take the repetitive work, catalog copy, briefs, first drafts, so your team spends its time on the work that needs a human."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Who It's For",
+                "subtitle": "Built for the people who own the content, not just make it.",
+                "items": [
+                    {
+                        "icon": "users",
+                        "title": "Content Leads",
+                        "text": "Teams responsible for what gets published and how it performs."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Marketing Owners",
+                        "text": "Anyone accountable for pipeline who needs content to pull its weight."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Operators",
+                        "text": "The people wiring tools together and keeping the workflow running."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Founders",
+                        "text": "Owners deciding where AI fits in their content, and where it does not."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "When is it?",
+                        "answer": "The second Thursday of the month at 11:00 AM Central. The session runs 45 minutes with time for questions at the end."
+                    },
+                    {
+                        "question": "Is it free?",
+                        "answer": "Yes. Free to attend, and free to watch later. Registering is the only step."
+                    },
+                    {
+                        "question": "Who is it for?",
+                        "answer": "Content leads, marketing owners, operators, and founders who want a clear read on where AI content is heading without the hype."
+                    },
+                    {
+                        "question": "Will there be a recording?",
+                        "answer": "Yes. Everyone who registers gets the recording at the same email, so signing up is worth it even if you cannot make the live time."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Save Your Spot",
+                "text": "Register free. Bring a question. Leave with a plan for what to use, what to skip, and what to build next."
+            }
+        }
+    ]
+}
