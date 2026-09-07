@@ -1,13 +1,13 @@
 {
   "no_nav": true,
-  "noindex": true,
   "seo": {
     "og_type": "website",
     "twitter_card": "summary_large_image",
     "title": "The 56-Point AEO + SEO Audit Checklist | Content Cucumber",
     "meta_description": "Free 56-point AEO and SEO audit checklist. The same framework Content Cucumber runs for paid clients, organized into 12 categories you can work through yourself. Built for HubSpot AEO partners.",
     "og_description": "Free 56-point AEO and SEO audit checklist across 12 categories. AI search visibility, citations, schema, Core Web Vitals, content quality, and more.",
-    "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg",
+    "noindex": true
   },
   "form": {
     "campaign_code": "free-56-point-aeo-seo-audit-checklist",
@@ -20,7 +20,8 @@
     "title": "Got it",
     "text": "We'll send the 56-Point AEO + SEO Audit Checklist to your inbox shortly. Reach out if you want help running it on your site.",
     "link_anchor": "",
-    "link_text": ""
+    "link_text": "Read it online now",
+    "link_url": "/research/aeo-seo-audit-checklist/"
   },
   "sections": [
     {

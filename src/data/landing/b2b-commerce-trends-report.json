@@ -1,13 +1,13 @@
 {
     "no_nav": true,
-    "noindex": true,
     "seo": {
         "og_type": "website",
         "twitter_card": "summary_large_image",
         "title": "B2B Commerce Trends & Opportunities Report | Content Cucumber",
         "meta_description": "A research report built from interviews with nine B2B commerce leaders across seven firms. How manufacturers, distributors, and regulated sellers are modernizing without breaking what works. Presented by Shopware, researched and written by Content Cucumber.",
         "og_description": "Nine B2B commerce leaders on data readiness, PE-driven modernization, regulated commerce, agentic AI, and the future of B2B buying. Free download.",
-        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-og.png"
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-og.png",
+        "noindex": true
     },
     "form": {
         "header": "Get the Report",
@@ -20,7 +20,8 @@
         "title": "On its way",
         "text": "Check your inbox. We sent you the B2B Commerce Trends & Opportunities Report. If you want to talk through what it means for your business, reply to that email and we'll set up a time.",
         "link_anchor": "",
-        "link_text": ""
+        "link_text": "Read it online now",
+        "link_url": "/research/b2b-commerce-trends/"
     },
     "sections": [
         {

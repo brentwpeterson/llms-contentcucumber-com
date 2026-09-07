@@ -6,7 +6,8 @@
     "title": "See a Real AI + SEO Audit | Content Cucumber",
     "meta_description": "Download a real Content Cucumber AI + SEO audit. The exact format, depth, and live four-engine AI citation scoring you receive. A fast, beautiful commerce site that scores 0% in the AI answer layer.",
     "og_description": "A genuine Content Cucumber audit, start to finish. Every score, Core Web Vitals figure, and live AI engine result is real. See what you get.",
-    "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/sample-ai-seo-audit-cover.png"
+    "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/sample-ai-seo-audit-cover.png",
+    "noindex": true
   },
   "form": {
     "campaign_code": "sample-ai-seo-audit",
@@ -18,8 +19,8 @@
   "thankyou": {
     "title": "Your Audit is Underway",
     "text": "Thank you. The example audit is on its way to your inbox. If you shared your URL, your own audit has started. This part is not fully automated. A real person on our team runs and reviews every audit before it goes out, which is why it takes about one business day instead of a few seconds. That review is the whole point.",
-    "link_url": "/blog/your-website-is-fine-the-ai-cant-see-you/",
-    "link_text": "While you wait, read why this happens",
+    "link_url": "/research/ai-seo-audit-sample/",
+    "link_text": "Read it online now",
     "link_anchor": ""
   },
   "sections": [

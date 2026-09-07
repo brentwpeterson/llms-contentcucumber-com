@@ -6,7 +6,8 @@
         "title": "AI-Ready Plan to Future-Proof Your Store With AI-Driven Visibility | Content Cucumber",
         "meta_description": "Download the AI-Ready Plan. Learn how AI visibility works for eCommerce, what makes a store AI-ready, and build a 30-day plan to drive more traffic.",
         "og_description": "Free 43-page AI visibility plan for eCommerce. Understand how LLMs discover your store, make your pages AI-ready, and build a 30-day content plan.",
-        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg",
+        "noindex": true
     },
     "form": {
         "campaign_code": "ai-ready-plan",
@@ -19,7 +20,8 @@
         "title": "Check your inbox",
         "text": "The AI-Ready Plan is on its way. You'll receive a download link within a few minutes.",
         "link_anchor": "",
-        "link_text": ""
+        "link_text": "Read it online now",
+        "link_url": "/research/ai-visibility-plan/"
     },
     "sections": [
         {

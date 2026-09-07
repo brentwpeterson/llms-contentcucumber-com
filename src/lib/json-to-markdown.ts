@@ -260,13 +260,26 @@ export function pageToMarkdown(raw: any, slug: string): PageDoc {
       : slug);
   pageH1 = norm(title);
   const description = htmlToText(seo.meta_description || seo.og_description || "");
-  const canonicalPath = slug === "" || slug === "homepage" ? "/" : `/${slug}/`;
+  // seo.canonical_path lets a nested page (e.g. /research/<stem>/, or the
+  // /services/email-marketing/* children) declare its real URL. Without it the
+  // mirror assumed every page lived at the site root, which sent LLMs to 404s.
+  const declared = typeof seo.canonical_path === "string" ? seo.canonical_path.trim() : "";
+  const canonicalPath = declared
+    ? (declared.startsWith("/") ? declared : `/${declared}`).replace(/\/?$/, "/")
+    : slug === "" || slug === "homepage" ? "/" : `/${slug}/`;
   const canonical = `${MAIN_SITE}${canonicalPath}`;
 
   const out: string[] = [];
   out.push(`# ${title}`, "");
   if (description) out.push(`> ${description}`, "");
   out.push(`*Source: [${canonical}](${canonical})*`, "");
+  // Guide pages carry an author byline and an Updated stamp (E-E-A-T signals
+  // answer engines read); surface them next to the source line.
+  if (raw.meta && (raw.meta.author || raw.meta.updated)) {
+    const by = raw.meta.author ? `By ${htmlToText(raw.meta.author)}${raw.meta.author_title ? `, ${htmlToText(raw.meta.author_title)}` : ""}` : "";
+    const upd = raw.meta.updated ? `Updated ${htmlToText(raw.meta.updated)}` : "";
+    out.push(`*${[by, upd].filter(Boolean).join(". ")}*`, "");
+  }
   out.push("---", "");
 
   // Family B: top-level hero
@@ -275,6 +288,12 @@ export function pageToMarkdown(raw: any, slug: string): PageDoc {
     if (h.eyebrow) out.push(`**${htmlToText(h.eyebrow)}**`, "");
     if (h.subtitle) pushParagraphs(out, h.subtitle);
     pushParagraphs(out, h.paragraphs);
+  }
+  // Guide sidebar with a plain button_url (no form) is a real link worth
+  // keeping in the Markdown, e.g. the direct PDF download on the research twins.
+  if (raw.sidebar && raw.sidebar.button_url && !raw.sidebar.form_id) {
+    const label = htmlToText(raw.sidebar.button_text) || "Read more";
+    out.push(`[${label}](${raw.sidebar.button_url})`, "");
   }
   if (raw.proof_bar) renderSection(out, "proof-bar", raw.proof_bar);
 

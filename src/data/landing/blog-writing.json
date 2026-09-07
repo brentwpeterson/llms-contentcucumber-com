@@ -1,174 +1,253 @@
 {
-    "form": {
-        "header": "Get Your Free Growth Audit",
-        "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
-        "trust_text": "HubSpot Solutions Partner.",
-        "portal_id": "39487190",
-        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
-        "region": "na1",
-        "campaign_code": "blog-writing"
-    },
-    "seo": {
-        "title": "Blog Writing Services - Content Cucumber",
-        "meta_description": "Professional blog writing for ecommerce brands. SEO-optimized, human-written articles delivered weekly. Dedicated writers who learn your brand voice and industry.",
-        "og_description": "Blog posts written by a person who knows your brand, delivered on a weekly cadence.",
-        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg",
-        "og_type": "website",
-        "twitter_card": "summary_large_image",
-        "noindex": false,
-        "nofollow": false,
-        "slug": "blog-writing"
-    },
-    "sections": [
-        {
-            "type": "hero",
-            "data": {
-                "eyebrow": "Content Creation",
-                "title": "Expert Blog Writing That<br><em>Drives Traffic and Engagement</em>",
-                "paragraphs": [
-                    "Professional blog content that ranks, engages, and converts readers into customers. Our writers craft compelling articles that build authority and drive organic growth."
-                ]
-            }
-        },
-        {
-            "type": "services",
-            "data": {
-                "eyebrow": "What We Do",
-                "items": [
-                    {
-                        "icon": "pen",
-                        "title": "Dedicated Writers",
-                        "text": "Every client gets a writer who learns your brand voice, industry terminology, and audience. No rotating freelancers. Your writer knows your business inside out."
-                    },
-                    {
-                        "icon": "search",
-                        "title": "SEO-Optimized",
-                        "text": "Every post targets specific keywords with proper heading structure, internal linking, and meta data. Written for readers first, optimized for search engines second."
-                    },
-                    {
-                        "icon": "zap",
-                        "title": "Weekly Delivery",
-                        "text": "Consistent publishing schedule with articles delivered on time, every time. We handle the writing so you can focus on running your business."
-                    },
-                    {
-                        "icon": "shield",
-                        "title": "Editorial Review",
-                        "text": "Every article goes through our editorial process including fact-checking, grammar review, and SEO optimization before delivery. Every article ships publish-ready."
-                    },
-                    {
-                        "icon": "palette",
-                        "title": "Written In Your Voice",
-                        "text": "We build a voice profile from your existing material and write against it, so a new post reads like the ones your team wrote before we showed up."
-                    },
-                    {
-                        "icon": "chart",
-                        "title": "Reporting That Says What Worked",
-                        "text": "You see which posts earned traffic, which queries they landed for, and what that means for next month's topics. The calendar adjusts to the data."
-                    }
-                ],
-                "title": "What is Blog Writing?",
-                "subtitle": "Blog writing means creating valuable content that answers your audience's questions and positions your brand as an industry leader. We combine SEO expertise with storytelling to produce blogs that perform."
-            }
-        },
-        {
-            "type": "how-it-works",
-            "data": {
-                "steps": [
-                    {
-                        "number": "01",
-                        "title": "Discovery Call",
-                        "text": "We learn your business, audience, competitors, and content goals. This shapes every article we write for you."
-                    },
-                    {
-                        "number": "02",
-                        "title": "Content Calendar",
-                        "text": "We build a monthly topic calendar aligned with your SEO strategy and business objectives. You approve topics before we write."
-                    },
-                    {
-                        "number": "03",
-                        "title": "Writing and Editing",
-                        "text": "Your dedicated writer researches, writes, and our editorial team reviews. You get polished, publish-ready articles."
-                    },
-                    {
-                        "number": "04",
-                        "title": "Publish and Measure",
-                        "text": "Articles publish on your schedule. We track performance and adjust strategy based on what ranks and converts."
-                    }
-                ],
-                "title": "How Our Blog Writing Works"
-            }
-        },
-        {
-            "type": "shift",
-            "data": {
-                "eyebrow": "Why It Matters",
-                "paragraphs": [
-                    "A blog stops working the moment it becomes something you owe. The posts get shorter, the gaps get longer, and the archive turns into a record of the months you had time rather than a case for why anyone would buy from you.",
-                    "Handing the blog to one writer who stays on your account changes what the archive becomes. That writer carries the context from the last post into the next one, so the library builds an argument over a year rather than restating an introduction twelve times."
-                ],
-                "old_way": {
-                    "heading": "Without Content Cucumber",
-                    "items": [
-                        "Inconsistent posting that kills momentum",
-                        "Generic content that sounds like everyone else",
-                        "Blog posts that get no traffic"
-                    ]
-                },
-                "new_way": {
-                    "heading": "With Content Cucumber",
-                    "items": [
-                        "Weekly articles delivered like clockwork",
-                        "A dedicated writer who knows your brand voice",
-                        "SEO-optimized content that ranks and builds traffic each month"
-                    ]
-                },
-                "title": "Why Choose Our Blog Writing?"
-            }
-        },
-        {
-            "type": "credibility",
-            "data": {
-                "eyebrow": "Results",
-                "title": "What Our Clients Say",
-                "paragraphs": [
-                    "\"We put the team to the test with a 2,000 word graphic design statistics post. They absolutely knocked it out of the park. The articles were well researched and not cookie-cutter posts. A great alternative to hiring a full-time writer or paying freelancers per article.\" Stefan Schulz"
-                ]
-            }
-        },
-        {
-            "type": "faq",
-            "data": {
-                "items": [
-                    {
-                        "question": "How many blog posts do I get per month?",
-                        "answer": "Our standard plans include 4-8 articles per month, but we scale up to 16+ for clients who need aggressive content velocity. We recommend starting with 4 per month and increasing as you see results."
-                    },
-                    {
-                        "question": "How much do blog writing services cost?",
-                        "answer": "Blog writing runs on a monthly plan set by how many articles you want and how long they run. One conversation is enough to scope it, and you get the number before you commit to anything."
-                    },
-                    {
-                        "question": "Do I get the same writer every time?",
-                        "answer": "Yes. Every client is assigned a dedicated writer who learns your brand voice and industry. Consistency in voice builds reader trust and brand recognition."
-                    },
-                    {
-                        "question": "How long are the blog posts?",
-                        "answer": "Most articles are 800-1,500 words, depending on the topic and SEO requirements. We write to the length each topic needs."
-                    },
-                    {
-                        "question": "Can I request revisions?",
-                        "answer": "Yes. Every article includes revisions until you're satisfied. We'd rather get it right than publish something that doesn't represent your brand."
-                    }
-                ],
-                "title": "Frequently Asked Questions"
-            }
-        },
-        {
-            "type": "bottom-cta",
-            "data": {
-                "text": "Stop struggling with content. Let our expert writers fuel your organic growth with blog posts that rank and convert.",
-                "title": "Ready to Grow Your Blog?"
-            }
-        }
+ "form": {
+  "header": "Get Your Free Growth Audit",
+  "subtitle": "See where your content drives revenue, where you're invisible in AI search, and what to fix first.",
+  "trust_text": "HubSpot Solutions Partner.",
+  "portal_id": "39487190",
+  "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+  "region": "na1",
+  "campaign_code": "blog-writing"
+ },
+ "seo": {
+  "title": "Blog Writing Services That Find, Write, Promote and Measure - Content Cucumber",
+  "meta_description": "Blog content built from your own Search Console data, written by a dedicated writer in your voice, promoted with targeted social, and measured in GA4. The whole loop, not just the writing.",
+  "og_description": "We find the opening in your search data, write the post, put it in front of the right people, and show you what it did.",
+  "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "noindex": false,
+  "nofollow": false,
+  "slug": "blog-writing"
+ },
+ "sections": [
+  {
+   "type": "hero",
+   "data": {
+    "eyebrow": "Content Creation",
+    "title": "Find the Opening, Write the Post,<br><em>Measure What It Did</em>",
+    "paragraphs": [
+     "Writing on its own stopped being enough. We go into your Search Console and find the questions you already show up for and hardly ever get clicked on, write the post that answers one of them, put it in front of the people it was written for, and then show you in your own analytics what moved.",
+     "Your free growth audit reads your own data and tells you:",
+     "<ul><li>The questions you already rank for on page two, which are the cheapest wins you have</li><li>Whether Google's AI names you when a buyer asks about your category, and who it names instead</li><li>The pages earning impressions and almost no clicks</li><li>What to write first, and the reason it is that one</li></ul>"
     ]
+   }
+  },
+  {
+   "type": "services-grid",
+   "data": {
+    "title": "Judge the Writing Yourself",
+    "subtitle": "The top row is what people read most on our site, and none of it is about marketing, which is the point. A writer who can hold a reader on the history of the letter A can hold one on your category. The bottom row is the same writers pointed at the work you would hire us for. Would you have finished any of these?",
+    "items": [
+     {
+      "title": "The History Of Vowels",
+      "text": "The most-read thing on our site by a wide margin, and it sits on page one for a question nobody expected a marketing agency to answer.",
+      "image": "https://contentcucumber.com/wp-content/uploads/2021/05/unnamed-300x225.png",
+      "image_alt": "Illustration for The History Of Vowels",
+      "link": "https://contentcucumber.com/blog/the-history-of-vowels/",
+      "link_text": "Read it",
+      "link_new_window": true
+     },
+     {
+      "title": "Pinterest vs Snapchat",
+      "text": "Two platforms compared without the usual hedging, which is why it holds a top-three position.",
+      "image": "https://contentcucumber.com/wp-content/uploads/2020/01/pinterest-with-woman-CC-768x512.jpeg",
+      "image_alt": "Woman using Pinterest on a phone",
+      "link": "https://contentcucumber.com/blog/pinterest-vs-snapchat/",
+      "link_text": "Read it",
+      "link_new_window": true
+     },
+     {
+      "title": "Spider-Man And Spelling Errors",
+      "text": "A piece about proofreading that people read for fun, which is a harder brief than it sounds.",
+      "image": "https://contentcucumber.com/wp-content/uploads/2020/01/spiderman-CC-768x512.jpeg",
+      "image_alt": "Spider-Man comic artwork",
+      "link": "https://contentcucumber.com/blog/spider-man-spelling-errors/",
+      "link_text": "Read it",
+      "link_new_window": true
+     },
+     {
+      "title": "10 Great Blog Topic Ideas For Finance Companies",
+      "text": "Our best-performing business post, written for an industry most writers avoid because the compliance rules are real.",
+      "image": "https://contentcucumber.com/wp-content/uploads/2022/09/unnamed-300x154.jpeg",
+      "image_alt": "Finance blog topic ideas",
+      "link": "https://contentcucumber.com/blog/10-great-blog-topic-ideas-for-finance-companies/",
+      "link_text": "Read it",
+      "link_new_window": true
+     },
+     {
+      "title": "10 Copywriting Worksheets To Improve Your Skills",
+      "text": "We gave away the exercises we train writers on rather than describing them from a distance.",
+      "image": "https://contentcucumber.com/wp-content/uploads/2022/05/student-gd4d3d3ca4_1920-768x512.jpg",
+      "image_alt": "Student working through copywriting exercises",
+      "link": "https://contentcucumber.com/blog/10-copywriting-worksheets-that-will-help-you-improve-your-skills/",
+      "link_text": "Read it",
+      "link_new_window": true
+     },
+     {
+      "title": "10 Examples Of The Perfect Product Description",
+      "text": "Product copy taken apart example by example, the kind of piece that is easy to write badly and hard to write usefully.",
+      "image": "https://contentcucumber.com/wp-content/uploads/2022/07/website-1624028_1280-768x607.png",
+      "image_alt": "Product page layout example",
+      "link": "https://contentcucumber.com/blog/10-examples-of-the-perfect-product-description/",
+      "link_text": "Read it",
+      "link_new_window": true
+     }
+    ]
+   }
+  },
+  {
+   "type": "services",
+   "data": {
+    "eyebrow": "What We Do",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Opportunity From Your Own Data",
+      "text": "We start in your Search Console instead of a brainstorm. The queries where you already earn impressions and almost no clicks are the cheapest wins you have, and they are sitting in an account you already own and probably have not opened in a while."
+     },
+     {
+      "icon": "pen",
+      "title": "A Dedicated Writer",
+      "text": "You get one writer, and you keep them. They learn your voice, your industry and the things your customers ask, and they carry what they learned on the last post into the next one."
+     },
+     {
+      "icon": "palette",
+      "title": "Written In Your Voice",
+      "text": "We build a voice profile from your existing material and write against it, so a new post reads like the ones your team wrote before we showed up."
+     },
+     {
+      "icon": "share",
+      "title": "Targeted Social After It Publishes",
+      "text": "A post nobody sees earns nothing while it waits for search to catch up, so each piece goes out with social written for the people it was aimed at, on the platforms where those people spend their time."
+     },
+     {
+      "icon": "chart",
+      "title": "Measured In Your GA4",
+      "text": "You see which posts brought people in, what they searched to get there, and what they did once they landed. Numbers out of your analytics, not a screenshot of ours."
+     },
+     {
+      "icon": "shield",
+      "title": "Editorial Review",
+      "text": "Each article gets fact-checked, edited and put through an SEO pass before it reaches you, so what lands in your inbox is ready to publish."
+     }
+    ],
+    "title": "This Ain't Your Traditional Blog Service",
+    "subtitle": "Four things have to happen before content earns anything, and most agencies sell you one of them. Which one are you paying for right now? We run all four, and the last one is how you find out whether the first three worked."
+   }
+  },
+  {
+   "type": "how-it-works",
+   "data": {
+    "steps": [
+     {
+      "number": "01",
+      "title": "We Read Your Search Console",
+      "text": "We pull your real query data and find where demand and outcome disagree, the pages earning impressions without clicks and the questions you rank for on page two."
+     },
+     {
+      "number": "02",
+      "title": "We Write the Post",
+      "text": "Your dedicated writer takes one of those openings and writes the piece that answers it, in your voice, reviewed by an editor before it reaches you."
+     },
+     {
+      "number": "03",
+      "title": "We Put It In Front of People",
+      "text": "Search takes months to reward a post, so targeted social carries it to the audience it was written for while the ranking builds, and the piece earns attention in week one rather than in month three."
+     },
+     {
+      "number": "04",
+      "title": "We Measure It In GA4",
+      "text": "Traffic, queries, and what visitors did after landing. That result picks the next topic, which is what makes this a loop instead of a content calendar."
+     }
+    ],
+    "title": "How the Loop Works"
+   }
+  },
+  {
+   "type": "shift",
+   "data": {
+    "eyebrow": "Why It Matters",
+    "paragraphs": [
+     "A blog stops working the moment it becomes something you owe. The posts get shorter, the gaps get longer, and the archive turns into a record of the months you had time rather than a case for why anyone would buy from you.",
+     "Handing the blog to one writer who stays on your account changes what the archive becomes. That writer carries the context from the last post into the next one, so the library builds an argument over a year rather than restating an introduction twelve times.",
+     "If you want the longer version before you talk to anyone, we have written up <a href=\"https://contentcucumber.com/blog/blog-writing-service-pricing/\" target=\"_blank\" rel=\"noopener\">what this work costs</a>, <a href=\"https://contentcucumber.com/blog/blog-writing-services-the-ultimate-guide/\" target=\"_blank\" rel=\"noopener\">how a blog writing service runs end to end</a>, and <a href=\"https://contentcucumber.com/blog/how-shopify-blog-writing-helps-store-owners/\" target=\"_blank\" rel=\"noopener\">what changes when the store is on Shopify</a>."
+    ],
+    "old_way": {
+     "heading": "Without Content Cucumber",
+     "items": [
+      "Topics picked in a meeting instead of out of your data",
+      "Posts that go up and then sit there waiting to be found",
+      "No clear answer when someone asks which post did anything"
+     ]
+    },
+    "new_way": {
+     "heading": "With Content Cucumber",
+     "items": [
+      "Topics that come out of your own Search Console",
+      "One writer who carries context from the last post into the next",
+      "Social that takes each post to the people it was written for",
+      "Results you read in your own GA4, not in a slide from us"
+     ]
+    },
+    "title": "What Changes"
+   }
+  },
+  {
+   "type": "credibility",
+   "data": {
+    "eyebrow": "Results",
+    "title": "What Our Clients Are Saying",
+    "paragraphs": [
+     "\"We put the team to the test with a 2,000 word graphic design statistics post. They absolutely knocked it out of the park. The articles were well researched and not cookie-cutter posts. A great alternative to hiring a full-time writer or paying freelancers per article.\" Stefan Schulz"
+    ]
+   }
+  },
+  {
+   "type": "faq",
+   "data": {
+    "items": [
+     {
+      "question": "How do you decide what to write about?",
+      "answer": "We read your Search Console first. The best starting point is usually a question you already rank for on page two, because Google has told you there is demand and told you that you are close. You approve the topics before anyone writes anything."
+     },
+     {
+      "question": "What does the social part involve?",
+      "answer": "Each article goes out with social written for the audience that article was aimed at, on the platforms where that audience spends time. Search takes months to reward a post, and social gets it read while you wait."
+     },
+     {
+      "question": "How do I know it worked?",
+      "answer": "We report out of your GA4 and your Search Console, so the numbers are yours and you can check them without us. You see which posts brought traffic, which queries they landed for, and what people did after they arrived."
+     },
+     {
+      "question": "How many blog posts do I get per month?",
+      "answer": "Most plans run 4 to 8 articles a month, and we go to 16 and beyond for teams pushing harder. Starting at 4 and raising it once you can see what is working is usually the sensible way in."
+     },
+     {
+      "question": "How much does this cost?",
+      "answer": "The work runs on a monthly plan set by how many articles you want and how long they run. One conversation is enough to scope it, and you get the number before you commit to anything."
+     },
+     {
+      "question": "Do I get the same writer every time?",
+      "answer": "Yes. You are assigned a writer who learns your brand voice and your industry, and they stay on your account. That consistency is most of what makes an archive read like one company wrote it."
+     },
+     {
+      "question": "How long are the posts?",
+      "answer": "Most run 800 to 1,500 words, though we write to the length the topic needs rather than to a number."
+     },
+     {
+      "question": "Can I request revisions?",
+      "answer": "Yes, and they are included until you are happy with it. We would rather get it right than put something out that does not sound like you."
+     }
+    ],
+    "title": "Frequently Asked Questions"
+   }
+  },
+  {
+   "type": "bottom-cta",
+   "data": {
+    "text": "The first conversation is us reading your Search Console and telling you what we find in there. If there is nothing in your data worth writing about yet, we will tell you that too.",
+    "title": "Start With Your Search Data"
+   }
+  }
+ ]
 }

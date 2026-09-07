@@ -1,0 +1,85 @@
+{
+    "no_nav": true,
+    "noindex": true,
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "Name Your Price for a Blog Post | Content Cucumber",
+        "meta_description": "One blog post will not move the needle. It shows you how easy it is to get real content from Content Cucumber, picked from your own search data and written by a person in your voice, at a price you name.",
+        "og_description": "Name your price and get a real Content Cucumber blog post, picked from your Search Console and written by a person in your voice.",
+        "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    },
+    "form": {
+        "campaign_code": "name-your-price-blog-post",
+        "header": "Name Your Price",
+        "portal_id": "39487190",
+        "form_id": "d980b539-219e-46d6-a456-b59cab4f7a4c",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Got it",
+        "text": "We'll look at your search data and reach back out within one business day with the topic we would pick and to confirm the scope.",
+        "link_anchor": "",
+        "link_text": ""
+    },
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "Content Cucumber Blog Post POC",
+                "title": "Name Your Price for a <em>Real Blog Post</em>",
+                "subtitle": "One blog post is not going to move the needle. It takes a sustained effort to get there, and this post is here to show you how easy it is to get content from us and to find a path forward, one that makes it plain we are better than ChatGPT. Name a number that works for you and we write it, picked from your own search data and written by a person in your voice.",
+                "bullets": [
+                    "<strong>One full blog post, written by a human writer in your voice.</strong> 800 to 1,200 words on a topic we pick together from your own Search Console data, written against a voice profile built from what you have already published, so it reads like the ones your team wrote before we showed up.",
+                    "<strong>An AEO question block at the end.</strong> The questions buyers ask ChatGPT, Perplexity and Google AI Overviews, answered inside the post so an engine has something to cite.",
+                    "<strong>Social copy to carry it.</strong> A LinkedIn post and two short variants written for the audience the article was aimed at, because search takes months to reward a post and the first readers come from the feed.",
+                    "<strong>11 rounds of revisions.</strong> Because 11 is one better than 10. We don't stop until you like it."
+                ],
+                "thumbnail": "",
+                "authors": "Brent Peterson, CEO of Content Cucumber",
+                "form_title": "Tell us about the post",
+                "form_subtitle": "Tell us your site, the topic if you have one, and what you can pay. We'll find the opening in your search data and handle the rest.",
+                "testimonials_heading": "What our clients are saying",
+                "testimonials": [
+                    {
+                        "text": "They took the time to look into my business and needs, and created engaging articles. They listened, delivered, and provided ideas moving forward.",
+                        "client": "Adam Phillips",
+                        "role": "",
+                        "org": ""
+                    },
+                    {
+                        "text": "I've been doing this for 20 years, and in six months you've helped me find the right space, the right content, and pushed my boundaries every week.",
+                        "client": "Mike Eastwood",
+                        "role": "",
+                        "org": "Portal-IQ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "Why one post now?",
+                "heading": "One post is the cheapest way to test what is sitting in your search data.",
+                "items": [
+                    {
+                        "title": "The topic is already in your Search Console.",
+                        "body": "The queries where you earn impressions and almost no clicks are openings a post can close in weeks, and they cost nothing to find. We start there instead of in a brainstorm."
+                    },
+                    {
+                        "title": "AI search cites posts that answer a question plainly.",
+                        "body": "ChatGPT, Perplexity and Google AI Overviews quote the page that says the thing in one clear paragraph, so the post ships with a question block answered inside it. The Schema.org JSON-LD comes as a separate file you drop into your CMS, and the post earns rich results in Google and clean citations from AI search."
+                    },
+                    {
+                        "title": "One writer, kept.",
+                        "body": "You get a dedicated writer who learns your voice and your industry on this post and carries it into the next one, so the second post starts ahead of the first."
+                    },
+                    {
+                        "title": "You measure it in your own GA4.",
+                        "body": "Traffic, the queries that brought it, and what visitors did after they landed, in your own analytics, where you can check it yourself. Take the one post and use it how you want. You will know, warmingly, that it was created by a human for you and not a machine."
+                    }
+                ]
+            }
+        }
+    ]
+}

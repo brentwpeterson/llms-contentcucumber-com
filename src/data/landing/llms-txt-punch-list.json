@@ -1,0 +1,97 @@
+{
+    "seo": {
+        "title": "The robots.txt and llms.txt Punch List | Content Cucumber",
+        "meta_description": "The full robots.txt and llms.txt punch list for AI search visibility. Five steps, the AI crawlers to allow or block, and copy-paste templates for a spec-compliant llms.txt. Read it here or download the PDF, no form.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/llm-discovery-guide-cover.png",
+        "og_type": "article",
+        "twitter_card": "summary_large_image",
+        "slug": "llms-txt-punch-list",
+        "canonical_path": "/research/llms-txt-punch-list/"
+    },
+    "hero": {
+        "eyebrow": "Checklist",
+        "title": "The robots.txt and llms.txt Punch List",
+        "subtitle": "Five steps and copy-paste templates that get a site's robots.txt and llms.txt right in an afternoon, including which AI crawlers to allow and which to block. This is the same punch list Content Cucumber works through before publishing either file for a client. All of it is on this page, and the PDF needs no form."
+    },
+    "meta": {
+        "author": "Brent Peterson",
+        "author_title": "CEO, Content Cucumber",
+        "author_url": "/blog/author/brentwpeterson/",
+        "updated": "April 2026"
+    },
+    "sidebar": {
+        "title": "Take the PDF with you",
+        "text": "The designed 11 page punch list, same content as this page.",
+        "button_text": "Download the PDF",
+        "button_url": "https://contentcucumber.com/wp-content/uploads/2026/09/llms-txt-punch-list.pdf",
+        "trust_text": "No form. No email required."
+    },
+    "sections": [
+        {
+            "id": "introduction",
+            "title": "Introduction",
+            "content": "<p>AI systems are already answering questions about businesses. Right now those answers come from whatever a website's homepage says and whatever meta tags a crawler can parse. A site's <strong>robots.txt</strong> and <strong>llms.txt</strong> are the two files that change who writes the script.</p><p><strong>robots.txt</strong> controls where crawlers can go. Every site has one.</p><p><strong>llms.txt</strong> tells AI systems who the business is and what matters. Most sites don't have one.</p><p>This punch list walks through both files. Follow the five steps, copy the templates, and by the end of the afternoon any site is AI-ready.</p>"
+        },
+        {
+            "id": "step-1-check-what-you-have",
+            "title": "Step 1: Check What You Have",
+            "content": "<p>Before fixing anything, find out where the site stands.</p><h3>Checklist</h3><ul><li>Open <code>yourdomain.com/robots.txt</code> in a browser. Does it load?</li><li>Open <code>yourdomain.com/llms.txt</code> in a browser. Does it load?</li><li>Check for SSL errors on both URLs.</li><li>Note which AI crawlers are mentioned (or not mentioned) in robots.txt.</li></ul><h3>Score Yourself</h3><ul><li><strong>Both files exist and load</strong> — ahead of 90% of sites.</li><li><strong>robots.txt exists, no llms.txt</strong> — normal, most sites are here.</li><li><strong>Neither exists</strong> — fix robots.txt first, then llms.txt.</li></ul>"
+        },
+        {
+            "id": "step-2-robots-txt-essentials",
+            "title": "Step 2: robots.txt Essentials",
+            "content": "<p>robots.txt controls where crawlers can go. Every site needs one.</p><h3>Required Entries</h3><ul><li><code>User-agent: *</code> with <code>Allow: /</code> (let crawlers in)</li><li><code>Disallow:</code> for admin paths (<code>/wp-admin/</code>, <code>/admin/</code>, <code>/api/</code>)</li><li><code>Sitemap:</code> pointing to the XML sitemap URL</li><li>Verify the sitemap URL returns a valid XML file</li></ul><h3>AI Crawler Decisions</h3><p>The choice: allow search crawlers, block training crawlers, or both.</p><h4>AI Search Crawlers (recommended: ALLOW)</h4><p>These power the search and answer experiences that reference the business.</p><ul><li><strong>GPTBot</strong> — ChatGPT search answers</li><li><strong>OAI-SearchBot</strong> — OpenAI web search</li><li><strong>ChatGPT-User</strong> — ChatGPT browsing</li><li><strong>ClaudeBot</strong> — Claude search and citations</li><li><strong>anthropic-ai</strong> — Anthropic AI systems</li><li><strong>PerplexityBot</strong> — Perplexity AI search</li><li><strong>Amazonbot</strong> — Amazon Alexa and product search</li><li><strong>Applebot-Extended</strong> — Apple intelligence features</li></ul><h4>AI Training Crawlers (recommended: BLOCK)</h4><p>These take content to train future models. No attribution, no traffic back.</p><ul><li><strong>CCBot</strong> — Common Crawl dataset</li><li><strong>Bytespider</strong> — ByteDance/TikTok model training</li><li><strong>Google-Extended</strong> — Google Gemini model training</li><li><strong>cohere-ai</strong> — Cohere model training</li></ul><h3>robots.txt Template</h3><p>Copy and adapt. Replace <code>yourdomain.com</code> with the real site.</p><p><code>User-agent: *<br>Allow: /<br>Disallow: /admin/<br><br>Sitemap: https://yourdomain.com/sitemap.xml<br><br># AI Search Crawlers - Allowed<br>User-agent: GPTBot<br>Allow: /<br><br>User-agent: OAI-SearchBot<br>Allow: /<br><br>User-agent: ChatGPT-User<br>Allow: /<br><br>User-agent: ClaudeBot<br>Allow: /<br><br>User-agent: anthropic-ai<br>Allow: /<br><br>User-agent: PerplexityBot<br>Allow: /<br><br>User-agent: Amazonbot<br>Allow: /<br><br># Training Crawlers - Blocked<br>User-agent: CCBot<br>Disallow: /<br><br>User-agent: Bytespider<br>Disallow: /<br><br>User-agent: Google-Extended<br>Disallow: /<br><br>User-agent: cohere-ai<br>Disallow: /</code></p>"
+        },
+        {
+            "id": "step-3-llms-txt-setup",
+            "title": "Step 3: llms.txt Setup",
+            "content": "<p>llms.txt tells AI systems who a business is and what matters on a site. Think of it as a business card for machines.</p><h3>Format Rules</h3><ul><li>Plain text file at the site root (<code>/llms.txt</code>)</li><li>H1 (<code>#</code>) with the company or site name</li><li>Blockquote (<code>&gt;</code>) with a one-line summary immediately after H1</li><li>Optional paragraph with more detail</li><li>H2 (<code>##</code>) sections for each category of pages</li><li>Markdown links: <code>- <a href=\"https://url\" target=\"_blank\" rel=\"noopener\">Page Title</a>: Brief description</code></li></ul><h3>Required Sections</h3><ul><li><strong>Company name</strong> as H1</li><li><strong>One-line summary</strong> as blockquote (what the business does, who it serves)</li><li><strong>Core Pages</strong> section with the most important URLs</li><li><strong>Services</strong> or <strong>Products</strong> section with links to key offerings</li></ul><h3>Recommended Sections</h3><ul><li><strong>About / Team</strong> with key people and credentials</li><li><strong>Blog</strong> or <strong>Resources</strong> linking to best content</li><li><strong>Contact</strong> with website and location</li><li><strong>Integrations</strong> or <strong>Platforms</strong> if applicable</li><li><strong>Brand Family</strong> if there are related brands or parent companies</li></ul><h3>What to Include</h3><ul><li>Pages AI should cite and reference</li><li>Services associated with the brand name</li><li>Key people with their credentials (AI attributes expertise)</li><li>Locations (helps with local and regional queries)</li><li>Links to downloadable resources (research, guides, tools)</li></ul><h3>What to Leave Out</h3><ul><li>Marketing copy and superlatives</li><li>Every page on the site (curate, don't dump)</li><li>Pricing details that change frequently</li><li>Internal pages, login portals, utility pages</li><li>Anything that wouldn't go on a business card</li></ul><h3>llms.txt Template</h3><p>Copy and adapt. Replace the placeholders with real content.</p><p><code># Your Company Name<br><br>&gt; One-line description of what you do and who you serve.<br><br>Brief paragraph with additional context. Keep it factual. Two to three sentences.<br><br>## Core Pages<br><br>- [Homepage](https://yourdomain.com/): What visitors find on the homepage.<br>- [About](https://yourdomain.com/about): Company background and team.<br>- [Services](https://yourdomain.com/services): Overview of what you offer.<br>- [Blog](https://yourdomain.com/blog): Articles and insights.<br>- [Contact](https://yourdomain.com/contact): How to get in touch.<br><br>## Services<br><br>- [Service One](https://yourdomain.com/service-one): Brief description.<br>- [Service Two](https://yourdomain.com/service-two): Brief description.<br><br>## Contact<br><br>- Website: yourdomain.com<br>- Location: City, State</code></p>"
+        },
+        {
+            "id": "step-4-verify-after-deployment",
+            "title": "Step 4: Verify After Deployment",
+            "content": "<p>Once both files are deployed, check they're working.</p><ul><li>Load <code>yourdomain.com/robots.txt</code> in browser. Confirm it shows the rules.</li><li>Load <code>yourdomain.com/llms.txt</code> in browser. Confirm it shows structured content (not a 404 or the homepage).</li><li>Check SSL. Both files must load over HTTPS without certificate errors.</li><li>Test with an AI. Ask ChatGPT, Claude, or Perplexity <em>\"What is [your company]?\"</em> Compare the answer before and after.</li><li>Validate robots.txt syntax at <a href=\"https://www.google.com/webmasters/tools/robots-testing-tool\" target=\"_blank\" rel=\"noopener\">Google's robots.txt tester</a>.</li></ul>"
+        },
+        {
+            "id": "step-5-ongoing-maintenance",
+            "title": "Step 5: Ongoing Maintenance",
+            "content": "<p>These files aren't set-and-forget.</p><ul><li>Review llms.txt <strong>quarterly</strong>. Update when new services, pages, or team members appear.</li><li>Review robots.txt when new AI crawlers appear. The list grows every few months.</li><li>Monitor AI crawler traffic in Google Analytics 4 (check server logs or GA4 for bot user agents).</li><li>Re-audit after any major site restructure, rebrand, or domain change.</li><li>Watch the llms.txt spec. It's still evolving. Check <a href=\"https://llmstxt.org\" target=\"_blank\" rel=\"noopener\">llmstxt.org</a> for updates.</li></ul>"
+        },
+        {
+            "id": "quick-reference-robots-txt-vs-llms-txt",
+            "title": "Quick Reference: robots.txt vs llms.txt",
+            "content": "<p><strong>robots.txt</strong> = <em>\"Where can you go?\"</em> Controls crawler access. The front door.</p><p><strong>llms.txt</strong> = <em>\"Who are we?\"</em> Describes the business for AI systems. The business card.</p><p>Both are needed. One lets AI in. The other tells AI who's inside.</p>"
+        },
+        {
+            "id": "six-common-mistakes",
+            "title": "Six Common Mistakes",
+            "content": "<p><strong>1. Allowing training crawlers by default.</strong> If robots.txt doesn't mention CCBot or Bytespider, they have access. Block what you don't want.</p><p><strong>2. Writing llms.txt like marketing copy.</strong> AI systems want facts and links, not superlatives. <em>\"Award-winning industry-leading solutions\"</em> tells an AI nothing.</p><p><strong>3. Using AI-flagged language.</strong> The file represents the brand. Run it through an AI content checker. Words like <em>\"approach,\" \"capture,\"</em> and <em>\"leverage\"</em> are heavily overused by AI and make the file sound robotic. If a brand prides itself on human writing, the file introducing it to AI systems sounds human too.</p><p><strong>4. Listing every page.</strong> Curate 10 to 15 most important pages. An AI map, not a sitemap.</p><p><strong>5. Forgetting SSL.</strong> If llms.txt throws a certificate error, no AI system reads it.</p><p><strong>6. Setting and forgetting.</strong> New AI crawlers appear regularly. Review quarterly.</p>"
+        },
+        {
+            "id": "ready-for-the-next-step",
+            "title": "Ready for the Next Step?",
+            "content": "<p>This checklist gets the foundation right. The harder work is the writing inside llms.txt. <strong>Content Cucumber writes llms.txt files for brands that want AI systems to represent them accurately.</strong></p><p>If the checklist surfaces work, Content Cucumber can handle it.</p><p><strong>Get in touch:</strong> <a href=\"https://contentcucumber.com/contact\">contentcucumber.com/contact</a></p>"
+        }
+    ],
+    "faq": {
+        "title": "Questions about this document",
+        "items": [
+            {
+                "question": "What is this punch list?",
+                "answer": "Five steps and copy-paste templates for getting a site's robots.txt and llms.txt right, including which AI crawlers to allow and which to block. It is the same list Content Cucumber works through before publishing either file for a client."
+            },
+            {
+                "question": "Is the full punch list on this page?",
+                "answer": "Yes, all five steps, both templates, the quick reference, and the six common mistakes. The PDF is the designed version with the same content, and it downloads with no form."
+            },
+            {
+                "question": "What is llms.txt?",
+                "answer": "A plain text file at the root of a site that tells AI systems who the business is and which pages matter, in a format they can read. The setup step on this page covers the format rules and what to leave out."
+            },
+            {
+                "question": "Which AI crawlers does the list say to allow?",
+                "answer": "The search and answer crawlers that send visibility back, such as GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and Amazonbot. Training-only crawlers like CCBot and Bytespider are the ones it says to block."
+            }
+        ]
+    }
+}

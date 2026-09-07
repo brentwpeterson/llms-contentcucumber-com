@@ -1,0 +1,77 @@
+{
+    "seo": {
+        "title": "Lost in the Forest of Composable Commerce | Content Cucumber",
+        "meta_description": "Research paper comparing composable and embedded commerce platforms. Year one costs, timelines, and team requirements for commercetools and VTEX. Full text on this page, PDF download without a form.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/composable-commerce-cover.png",
+        "og_type": "article",
+        "twitter_card": "summary_large_image",
+        "slug": "composable-commerce-report",
+        "canonical_path": "/research/composable-commerce-report/"
+    },
+    "hero": {
+        "eyebrow": "Research report",
+        "title": "Lost in the Forest of Composable Commerce",
+        "subtitle": "commercetools and VTEX compared on year one cost, time to market, the team each one needs, and where the risk sits. By Brent Peterson and Isaac Morey. The whole paper is on this page, with the PDF available without a form."
+    },
+    "meta": {
+        "author": "Brent Peterson and Isaac Morey",
+        "author_title": "Content Cucumber",
+        "author_url": "/blog/author/brentwpeterson/",
+        "updated": "2026"
+    },
+    "sidebar": {
+        "title": "Take the PDF with you",
+        "text": "The designed 10 page paper, same content as this page.",
+        "button_text": "Download the PDF",
+        "button_url": "https://contentcucumber.com/wp-content/uploads/2026/09/composable-commerce-report.pdf",
+        "trust_text": "No form. No email required."
+    },
+    "sections": [
+        {
+            "id": "the-composable-and-complete-commerce-platform",
+            "title": "The Composable and Complete Commerce Platform",
+            "content": "<h3>Lost in the Forest of Composable Commerce?</h3><h3>Learn how to find your way again: Take the right step for enterprises.</h3><p>Brent W. Peterson is a 5x Magento Master and commerce consultant with deep expertise in platform architecture, composable commerce, and AI-driven automation. He helps enterprises navigate complex technology decisions and publishes \"The Agentic Commerce Guy\" newsletter on LinkedIn, covering</p><h3>Brent Peterson</h3><p>agentic commerce, platform strategy, Commerce Technology and the intersection of AI and Consultant commerce. Isaac Morey is an editor and content strategist with a background in building content systems that help brands grow. He has spent years shaping SEO and AIO strategies, managing editorial teams, and producing long-form content across many industries. His focus on clarity, structure, and audience</p><h3>Isaac Morey</h3><p>relevance brings a practical lens to Editor and Content research on commerce platforms Strategist and enterprise technology.</p>"
+        },
+        {
+            "id": "composable-commerce-got-lost-in-the-woods",
+            "title": "Composable commerce got lost in the woods.",
+            "content": "<p>Composable commerce was designed to clear the path to faster ecommerce innovation. It was intended to be a smarter shortcut to move companies through fragmented systems and operational bottlenecks, not strand them in it. Instead, the industry has largely wandered off the trail. Pure wandered off the trail. Pure microservice-based architecture became the compass that ecommerce teams started following blindly. Teams went deeper and deeper into the forest, collecting more services, more vendors, and more integrations, until nobody could tell which parts actually moved the business forward and which were just architectural trophies. Commerce leaders suddenly found themselves surrounded by trees, unable to see the forest (aka: revenue, speed to market, customer experience). Every new “best-of” tool had teams moving in a new direction, but not on the right path.</p><h3>Because somewhere along the way, the point stopped being about selling things. Now, the point is assembling the machinery that might someday allow you to sell things.</h3>"
+        },
+        {
+            "id": "time-investment",
+            "title": "Time Investment",
+            "content": "<h3>Every customization is a choice, and choices aren’t cheap.</h3><h3>Two Architectural Approaches: Modular Assembly | Embedded Commerce</h3><p>Enterprise commerce platforms typically follow one of two models:</p><h4>Modular assembly</h4><p>or</p><h4>Embedded commerce capabilities.</h4><p>The distinction shapes cost structure, timelines, and long-term ownership.</p><h3>commercetools</h3><p>Maximum flexibility, with enterprise-owned orchestration</p><h4>Architecture:</h4><p>API-first, MACH-based, modular services</p><h4>Included:</h4><p>Core commerce APIs (cart, pricing, promotions, catalog) Full headless flexibility Independent service composition</p><h4>Not Native:</h4><p>Production-ready storefront Order Management System (OMS) Marketplace engine This model can be advantageous for organizations with mature internal engineering teams and highly specialized architectural requirements.</p><h3>VTEX</h3><p>Operational readiness with reduced infrastructure assembly</p><h4>Architecture:</h4><p>Composable platform with embedded enterprise capabilities</p><h4>Included:</h4><p>Robust B2B + B2C native features Production-ready storefront Native OMS Native marketplace engine Pre-integrated operational workflows</p><h4>Flexibility:</h4><p>Headless deployment optional API extensibility available VTEX embeds core commerce primitives directly within the platform while maintaining extensibility.</p><h3>Order Management &amp; Marketplace</h3><p>Foundational Operational Capabilities. functionality are central to enterprise commerce scale.</p><h3>Order Management commercetools</h3><p>Additional vendor licensing and integration Ongoing coordination between systems Requires third-party OMS selection No native OMS</p><h3>Marketplace Capability commercetools</h3><p>Marketplace implemented via partner solution or custom development Additional integration and vendor management required Native marketplace engine Integrated seller onboarding and order routing Multi-seller support built into the platform Operational Consideration: When OMS and marketplace capabilities are external, integration becomes a sustained enterprise responsibility. When embedded, more operational ownership shifts to the platform provider. Order management and marketplace</p><h3>VTEX</h3><p>Native OMS included Unified commerce and order orchestration Single platform governance</p><h3>VTEX</h3><h3>Storefront Strategy</h3><h4>Frontend and Experience Layer.</h4><p>The storefront determines how commerce capabilities are presented to customers and business users.</p><h3>commercetools</h3><p>No native production-ready storefront Frontend must be built or selected separately Headless architecture required Provides full control over frontend architecture and user experience, with associated engineering investment.</p><h3>VTEX</h3><p>Production-ready storefront included Optional headless deployment Pre-integrated performance and optimization frameworks Allows enterprises to launch with a stable storefront foundation and extend, or replace components as needed.</p><h3>Strategic Framing</h3><h4>commercetools:</h4><p>Architect and assemble a fully customized commerce environment.</p><h4>VTEX</h4><p>: Start with embedded enterprise capabilities, with the option to extend or decompose selectively as architectural needs evolve.</p><h3>Leadership teams should evaluate where differentiation creates the most value: In infrastructure architecture or in go-to-market execution.</h3><h3>The Assembly Tax vs Built-In Infrastructure</h3><p>Composable architectures provide flexibility, but they also require enterprises to assemble multiple systems during implementation. When core commerce capabilities must be sourced and integrated separately, the first year of a project often includes significant assembly costs. Below is an illustrative Year-1 investment model showing how those costs can unfold.</p><h3>Year-1 Investment with VTEX</h3><p>Platform license (includes OMS, marketplace, storefront capabilities) Implementation and integrations Optional customization or extensions Modeled Year-1 program investment: $600K – $1.2M</p><h3>Year-1 Assembly Costs in a Modular Stack</h3><p>Frontend development and deployment OMS implementation or integration Search and personalization configuration Marketplace capability CMS integration Systems integration and deployment partners</p><h3>Key Consideration</h3><p>When core commerce capabilities are included within the platform, enterprises can reduce the number of external systems required during implementation. This can lower initial assembly effort and improve cost predictability over time. $300K–$600K $200K–$400K $50K–$100K $100K–$200K $50K–$100K $500K–$1M Modeled Year-1 investment: $1.45M – $2.8M</p><h4>Every month of setbacks is revenue you&#x27;ll never get back.</h4><p>In enterprise commerce, time is compounding capital. Every month the system is not live, not transacting, not scaling, is a month of revenue permanently gone. Pure microservices platforms also extend delivery. 18–24 months is a common implementation range for large composable commerce programs, because every feature needs to become a project, and every project takes time. While your teams are cutting their own trail, the market is moving on without you. Category adjustments, merchandising cycles, and consumer expectation curves? None of it pauses while you’re still wiring up an OMS integration or negotiating your 9th partner contract. VTEX shortens that wait to 6-9 months, and the difference between 8 months and 24 months is the difference between capturing a peak revenue cycle and missing out on it entirely. Remember, speed is an ROI multiplier, while slowness is a compounding tax. The longer the platform takes to set up, the longer the business stays stuck in theoretical value instead of real value. VTEX lets you get selling faster, because the core commerce trail is already cut, stabilized, tested, and proven. You start closer to generating revenue, not two years of assembly work away from it</p>"
+        },
+        {
+            "id": "team-requirements",
+            "title": "Team Requirements",
+            "content": "<p>In addition to the cost and timeline, composable architecture also reshapes the long-term staffing burden required to keep the platform operational. You’ll also need solution architects, integration specialists, a QA team, and DevOps. We’ve seen commerce stacks grow to teams of over 50 full-time engineers, and for most companies, that’s more of a liability than a team. Those 5-8 people are just there to keep the lights on, but if you want to grow, you’ll need more staff. Typical commercetools programs require 5-8 full-time developers. Even after launch, the operational overhead of commercetools remains high. Because when you assemble the platform yourself, you own it forever. Every new feature, every performance improvement, every optimization, every roadmap pivot becomes engineering work you have to constantly reinvest in. With VTEX, the team load is closer to 2-4 blended resources. That means less lift, less burn, and less organizational drag. More of the actual headcount investment can then go to growth work (like merchandising, segmentation, and user experience), not just platform survival. VTEX shifts the burden back to the platform, where it belongs, so that your most valuable talent is working on revenue creation, not infrastructure care.</p><h3>This is another hidden truth of pure microservices environments: the more flexible they claim to be, the more humans you have to permanently feed into the machine to keep it functioning.</h3><p>Native Order Management System Marketplace Capabilities ProductionReady Storefront Ability to Go Optional; Headless choice based on ROI Time-to-Live Permanent 2-4 blended resources, Resource freeing your engineers for Load more important tasks Total Cost of ~50-60% lower Ownership (3Year Horizon)</p><h3>To conclude, VTEX delivers modern flexibility</h3><p>Included Requires partner OMS Included Mandatory 3 party, no rd single source option Included Start from zero</p><h4>you</h4><p>make the Required architecture (frontend built separately) 6-9 months 18-24 months; possibly more than twice as long as VTEX outcomes 5-8 FTE devs minimum, just for maintenance High + compounding, with many necessary license fees</p><h3>that gives teams the freedom to innovate where it actually produces competitive advantage. This is pragmatic composability: flexibility where it matters and completeness where it saves massive time, cost, and risk.</h3>"
+        },
+        {
+            "id": "making-the-decision",
+            "title": "Making the Decision",
+            "content": "<h3>Choose commercetools If...</h3><p>You’re investing in a highly customized commerce architecture. You have at least 5 dedicated developers for build and maintenance. You are prepared for an 18–24 month implementation timeline. You have budget flexibility for third-party tools and integrations. Your requirements justify assembling multiple core capabilities. You’re comfortable managing multiple vendors long-term. You want deep architectural control across the commerce stack.</p><h3>Choose VTEX If...</h3><p>You want to go live in six to nine months, not years. You want a predictable cost structure, not an open-ended integration expense. You require enterprise commerce primitives out-of-the-box (OMS, marketplace, B2B). You want to orchestrate multiple channels without owning the entire burden yourself. You value smaller teams, lower TCO, and less ongoing complexity. You want business users empowered without routing everything through engineering. You want to grow your business, not maintain infrastructure.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Questions about this document",
+        "items": [
+            {
+                "question": "What does this paper compare?",
+                "answer": "commercetools and VTEX, as two answers to the same enterprise commerce question. It looks at year one cost, time to market, the team each platform needs to run, and where the risk sits over the long term."
+            },
+            {
+                "question": "Is this the whole paper?",
+                "answer": "Yes. The full text is on this page, and the designed PDF with the same content is one click away with no form."
+            },
+            {
+                "question": "Who wrote it?",
+                "answer": "Brent Peterson and Isaac Morey of Content Cucumber. Brent is a 5x Magento Master and commerce consultant, Isaac is an editor and content strategist."
+            },
+            {
+                "question": "How do I know which platform fits my company?",
+                "answer": "The last section, Making the Decision, lists the conditions under which each platform makes sense, from developer headcount and implementation timeline to how much of the stack you want to own."
+            }
+        ]
+    }
+}

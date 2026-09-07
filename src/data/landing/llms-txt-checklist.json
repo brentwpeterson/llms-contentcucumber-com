@@ -6,7 +6,8 @@
     "title": "The robots.txt + llms.txt Punch List | Content Cucumber",
     "meta_description": "Free checklist for AI search visibility. Audit your site for robots.txt and llms.txt, know which AI crawlers to allow or block, and publish a spec-compliant llms.txt that AI systems can read.",
     "og_description": "Free AI visibility checklist. Five-step punch list with robots.txt + llms.txt templates, AI crawler allow/block decisions, and a quarterly maintenance plan.",
-    "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg"
+    "og_image": "https://contentcucumber.com/wp-content/uploads/2026/01/human-creativity-in-writing.jpg",
+    "noindex": true
   },
   "form": {
     "campaign_code": "llms-txt-checklist",
@@ -19,7 +20,8 @@
     "title": "Check your inbox",
     "text": "The robots.txt + llms.txt Punch List is on its way. You'll receive a download link within a few minutes.",
     "link_anchor": "",
-    "link_text": ""
+    "link_text": "Read it online now",
+    "link_url": "/research/llms-txt-punch-list/"
   },
   "sections": [
     {

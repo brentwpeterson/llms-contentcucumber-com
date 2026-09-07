@@ -1,0 +1,282 @@
+{
+    "seo": {
+        "title": "AI-Ready, Future-Proofing Your Store With AI-Driven Visibility | Content Cucumber",
+        "meta_description": "The AI-Ready plan in full. How AI visibility works for ecommerce, what makes a store AI-ready, and a 30 day roadmap to drive more traffic from AI answers. Read every slide here or download the PDF, no form.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/ai-ready-workshop-cover.png",
+        "og_type": "article",
+        "twitter_card": "summary_large_image",
+        "slug": "ai-visibility-plan",
+        "canonical_path": "/research/ai-visibility-plan/"
+    },
+    "hero": {
+        "eyebrow": "Workshop plan",
+        "title": "AI-Ready, Future-Proofing Your Store With AI-Driven Visibility",
+        "subtitle": "How AI visibility works for ecommerce, what makes a store AI-ready, and a 30 day plan to build the content flywheel that drives traffic from AI answers. The full workshop deck is on this page, slide by slide, with the PDF available without a form."
+    },
+    "meta": {
+        "author": "Brent Peterson",
+        "author_title": "CEO, Content Cucumber",
+        "author_url": "/blog/author/brentwpeterson/",
+        "updated": "February 2026"
+    },
+    "sidebar": {
+        "title": "Take the PDF with you",
+        "text": "The 46 slide workshop deck, same content as this page.",
+        "button_text": "Download the PDF",
+        "button_url": "https://contentcucumber.com/wp-content/uploads/2026/09/ai-visibility-plan.pdf",
+        "trust_text": "No form. No email required."
+    },
+    "sections": [
+        {
+            "id": "ai-ready",
+            "title": "AI-Ready",
+            "content": "<p>FUTURE-PROOFING YOUR STORE WITH AI-DRIVEN VISIBILITY</p>"
+        },
+        {
+            "id": "meet-the-presenters",
+            "title": "Meet the Presenters",
+            "content": "<p>Brent Peterson David “Psy” Deppner CEO, CONTENT CEO, PSYBERWARE, CUCUMBER Isaac Morey CHIEF EDITOR, INC. CONTENT CUCUMBER</p>"
+        },
+        {
+            "id": "objectives",
+            "title": "OBJECTIVES",
+            "content": "<p>Understand how AI visibility 1 works for eCommerce. Learn what makes a 2 Magento store “AI-ready.” 3 Build a 30-day plan to drive more traffic.</p>"
+        },
+        {
+            "id": "the-traditional-search-engine-model",
+            "title": "The Traditional Search Engine Model",
+            "content": "<p>HOW IT WORKED SEO handled long-term organic discovery Paid ads filled gaps and accelerated growth Rankings and bids determined who showed up Traffic flowed from search engines to websites Conversion happened on the site</p>"
+        },
+        {
+            "id": "the-traditional-search-engine-model-2",
+            "title": "The Traditional Search Engine Model",
+            "content": "<p>WHY IT WORKED SO WELL Search behavior was predictable Keywords mapped cleanly to intent Rankings were visible and measurable Ads captured high-intent demand Users expected to click links and compare options</p>"
+        },
+        {
+            "id": "the-traditional",
+            "title": "The Traditional",
+            "content": "<p>Search Engine Model What Still Works? SEO still matters Paid ads still drive demand Technical optimization still pays off What’s Changing? Discovery platforms are more diverse Users prefer direct \"zeroclick\" answers Visibility depends on being understood by LLMs.</p>"
+        },
+        {
+            "id": "ecosystem",
+            "title": "Ecosystem",
+            "content": "<p>The New Search for Ecommerce Search Isn’t Dead. It’s Fragmented. Search engines are still important But discovery no longer happens in one place AI-powered answers capture many early queries Social platforms function as search tools Visibility now spans multiple surfaces</p>"
+        },
+        {
+            "id": "the-new-search-ecosystem-for-ecommerce",
+            "title": "The New Search Ecosystem for Ecommerce",
+            "content": "<p>Where Discovery Happens Today Traditional search engines AI assistants and chat-based tools Social media platforms Communities and forums Each surface plays a different role</p>"
+        },
+        {
+            "id": "the-new-search-ecosystem-for-ecommerce-2",
+            "title": "The New Search Ecosystem for Ecommerce",
+            "content": "<p>Why Discovery Behaviors Changed Information overload reduced patience for browsing Users want synthesized answers, not lists of links Trust shifted toward peers and lived experience Mobile-first behavior favors speed and clarity AI lowered the cost of asking better questions</p>"
+        },
+        {
+            "id": "the-new-search-ecosystem-for-ecommerce-3",
+            "title": "The New Search Ecosystem for Ecommerce",
+            "content": "<p>The Right Tool for the Right Question Breaking news favors traditional search Complex comparisons favor AI assistants Visual learning favors social video Personal experience favors community platforms Users choose the lowest-friction option</p>"
+        },
+        {
+            "id": "the-new-search-ecosystem-for-ecommerce-4",
+            "title": "The New Search Ecosystem for Ecommerce",
+            "content": "<p>What This Means for Ecommerce Brands Discovery rarely starts on your website Evaluation happens before the click Trust is built across multiple channels Content must travel beyond your site Visibility depends on consistency everywhere</p>"
+        },
+        {
+            "id": "the-new-search-ecosystem-for-ecommerce-5",
+            "title": "The New Search Ecosystem for Ecommerce",
+            "content": "<p>Visibility Is a System, Not a Channel No single tactic wins on its own Search, AI, and social reinforce each other Content, structure, and performance must align Systems outperform one-off optimizations Modern visibility is cumulative</p>"
+        },
+        {
+            "id": "who-is-your-target-audience",
+            "title": "Who Is Your Target Audience?",
+            "content": "<p>WHERE THEY SPEND TIME SOCIAL MEDIA PLATFORMS WHAT THEY SEARCH FOR WHO THEY ARE ONLINE SOLUTIONS THEY NEED THEIR DESIRED OUTCOMES HOW YOUR OFFER HELPS</p>"
+        },
+        {
+            "id": "built-to-be-discovered",
+            "title": "Built to Be Discovered",
+            "content": "<p>The Invisible Foundation of Modern Visibility Strong content needs a solid foundation Machines require clarity and structure Technical health enables discovery at scale Small issues compound over time Foundations determine ceilings</p>"
+        },
+        {
+            "id": "built-to-be-discovered-2",
+            "title": "Built to Be Discovered",
+            "content": "<p>Why Technical Readiness Matters More in an AI World AI systems extract and summarize content Speed affects crawlability and trust Structure reduces ambiguity Stability supports consistent publishing Technical gaps limit visibility</p>"
+        },
+        {
+            "id": "built-to-be-discovered-3",
+            "title": "Built to Be Discovered",
+            "content": "<p>Speed, Structure, and Stability Fast pages reduce friction for users and bots Clear site structure aids understanding Consistent URLs support indexing Schema provides explicit context Stability supports long-term growth</p>"
+        },
+        {
+            "id": "built-to-be-discovered-4",
+            "title": "Built to Be Discovered",
+            "content": "<p>Human Experience Is the Signal Machines Care About UX metrics reflect real behavior Slow or broken pages lose trust Clear layouts improve comprehension Accessibility benefits humans and machines Good UX scales understanding</p>"
+        },
+        {
+            "id": "built-to-be-discovered-5",
+            "title": "Built to Be Discovered",
+            "content": "<p>Technical Readiness Enables Everything Else Content performs better on healthy platforms AI summaries rely on accessible data Social sharing depends on load speed Conversions improve with clarity Foundations unlock leverage</p>"
+        },
+        {
+            "id": "how-is-your-site-performance",
+            "title": "How Is Your Site Performance?",
+            "content": "<p>SITE HEALTH OR SPEED CONCERNS: USER EXPERIENCE GAPS: (SEARCH, NAVIGATION, CHECKOUT, TRUST) TOP 3 PAGES OR BLOGS YOU SHOULD HAVE BUT DON’T: DOWNLOAD SLIDES & GET MORE INFO HERE!</p>"
+        },
+        {
+            "id": "social-media-as-a-search-engine",
+            "title": "Social Media as a Search Engine",
+            "content": "<p>LLMs: Not The Only Google Competitor Search behavior diversified rapidly Social platforms absorb discovery intent Communities provide unfiltered perspectives AI is one of several shifts Search is no longer centralized</p>"
+        },
+        {
+            "id": "social-media-as-a-search-engine-2",
+            "title": "Social Media as a Search Engine",
+            "content": "<p>How People Actively Search on Social Platforms Users search for recommendations They look for tutorials and demos They validate opinions and experiences They scan comments for nuance Social search feels human</p>"
+        },
+        {
+            "id": "social-media-as-a-search-engine-3",
+            "title": "Social Media as a Search Engine",
+            "content": "<p>Reddit, Pinterest, and Experience-Driven Search Reddit surfaces real-world experience Pinterest supports visual inspiration Users seek context, not marketing Long-tail questions thrive here Experience builds trust</p>"
+        },
+        {
+            "id": "social-media-as-a-search-engine-4",
+            "title": "Social Media as a Search Engine",
+            "content": "<p>How Social Content Influences AI Systems User-generated content reflects natural language Social content captures emerging topics LLMs learn from public discourse Patterns signal relevance and trust Social shapes AI understanding</p>"
+        },
+        {
+            "id": "social-media-as-a-search-engine-5",
+            "title": "Social Media as a Search Engine",
+            "content": "<p>Search, Social, and AI Reinforce Each Other Discovery starts in different places Validation happens across channels AI summarizes what it trusts Strong brands appear everywhere Visibility compounds across systems</p>"
+        },
+        {
+            "id": "answer-ready-web-pages",
+            "title": "Answer- Ready Web Pages",
+            "content": "<p>Building a Magento Site That Leads the Pack Clarity differentiates strong stores Structure supports discovery Depth builds confidence Consistency builds authority Leaders remove friction</p>"
+        },
+        {
+            "id": "answer-ready-web-pages-2",
+            "title": "Answer- Ready Web Pages",
+            "content": "<p>Product Pages as Knowledge Assets Product pages answer real questions Details support informed decisions Clear differentiation reduces confusion Depth supports AI summaries PDPs anchor trust</p>"
+        },
+        {
+            "id": "answer-ready-web-pages-3",
+            "title": "Answer- Ready Web Pages",
+            "content": "<p>Why FAQs Matter More Than Ever FAQs surface customer intent They provide direct answers They reduce ambiguity for machines They support featured snippets They improve UX</p>"
+        },
+        {
+            "id": "answer-ready-web-pages-4",
+            "title": "Answer- Ready Web Pages",
+            "content": "<p>E-E-A-T for Humans and Machines Experience reflects real usage Expertise shows depth and accuracy Authority signals reliability Trust builds confidence AI evaluates these signals</p>"
+        },
+        {
+            "id": "answer-ready-web-pages-5",
+            "title": "Answer- Ready Web Pages",
+            "content": "<p>If Humans Trust It, AI Can Cite It Clear answers build confidence Consistency reinforces understanding Transparency reduces doubt Strong signals attract citations Trust scales visibility</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>Scale Your Content Supply Chain (Without Sacrificing Quality) Output increases through focus Reuse creates efficiency Quality improves with repetition Systems reduce burnout Momentum replaces guesswork</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel-2",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>Create Leverage with Pillar Topics One topic anchors each cycle Research happens once Insights extend across formats Pillars support multiple surfaces Focus drives scale</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel-3",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>Keep Humans in the Loop Judgment guides quality Context shapes relevance Creativity drives differentiation AI supports, not replaces Humans set direction</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel-4",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>Use AI to Reduce Friction (Not to Create Slop) AI accelerates ideation It expands angles efficiently It maintains consistency Quality requires oversight Tools amplify effort</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel-5",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>Repurpose & Distribute One core asset fuels many pieces Social posts extend reach Distribution ensures visibility Consistency builds familiarity Publishing completes creation</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel-6",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>Consider Lite Video Video increases engagement Production can stay simple Talking-head formats work Clips extend written content Accessibility matters more than polish</p>"
+        },
+        {
+            "id": "creating-a-content-flywheel-7",
+            "title": "Creating a Content Flywheel",
+            "content": "<p>How a Content Flywheel Drives Discovery Content reinforces itself Visibility compounds over time Systems outperform campaigns Effort creates momentum Discovery becomes predictable</p>"
+        },
+        {
+            "id": "create-your-content-flywheel",
+            "title": "Create Your Content Flywheel",
+            "content": "<p>LIST YOUR PILLAR TOPICS LIST DISTRIBUTION CHANNELS BRAINSTORM 4 TO 10 CORE TOPICS LIST MEDIA FORMATS</p>"
+        },
+        {
+            "id": "workshop-your-30-day-gameplan",
+            "title": "Workshop: Your 30 Day Gameplan",
+            "content": "<p>WHAT WE’RE BUILDING TOGETHER A realistic first-month plan Focused content priorities Clear execution steps Reduced overwhelm A repeatable process</p>"
+        },
+        {
+            "id": "workshop-your-30-day-gameplan-2",
+            "title": "Workshop: Your 30 Day Gameplan",
+            "content": "<p>START WITH TOPIC PILLARS, NOT KEYWORDS Pillars reflect customer questions They support multiple assets They reduce content sprawl Depth beats breadth Focus creates clarity</p>"
+        },
+        {
+            "id": "workshop-your-30-day-gameplan-3",
+            "title": "Workshop: Your 30 Day Gameplan",
+            "content": "<p>PROMPT ENGINEERING FOR PILLAR TOPICS Writing provides context Context improves AI output Specificity beats vague prompts Clarity produces relevance Inputs shape results</p>"
+        },
+        {
+            "id": "workshop-your-30-day-gameplan-4",
+            "title": "Workshop: Your 30 Day Gameplan",
+            "content": "<p>CURATE YOUR FIRST FOUR PILLARS Generate a broad set of ideas Evaluate relevance and intent Select four strong topics Plan one per week Consistency beats volume</p>"
+        },
+        {
+            "id": "workshop-your-30-day-gameplan-5",
+            "title": "Workshop: Your 30 Day Gameplan",
+            "content": "<p>DESIGN YOUR WEEKLY CONTENT MIX Each week starts with one blog Outline with four key points Repurpose into social posts Two platforms, two posts each One piece per day</p>"
+        },
+        {
+            "id": "workshop-your-30-day-gameplan-6",
+            "title": "Workshop: Your 30 Day Gameplan",
+            "content": "<p>A QUICK AND EASY TECHNICAL AUDIT Run a Core Web Vitals check Identify speed issues Note layout or stability problems Flag barriers to visibility Prioritize obvious fixes</p>"
+        },
+        {
+            "id": "q-and-a-break",
+            "title": "Q & A Break!",
+            "content": ""
+        },
+        {
+            "id": "thank-you",
+            "title": "Thank You!",
+            "content": "<p>View Slides & More Here!</p>"
+        },
+        {
+            "id": "thank-you-2",
+            "title": "Thank You!",
+            "content": "<p>Now, please welcome ... David “Psy” Deppner CEO, Psyberware, Inc.</p>"
+        }
+    ],
+    "faq": {
+        "title": "Questions about this document",
+        "items": [
+            {
+                "question": "What is this?",
+                "answer": "The full deck from the AI-Ready workshop Brent Peterson and David Deppner presented for Magento merchants. It walks through how AI visibility works for ecommerce, what makes a store AI-ready, and a 30 day plan to build a content flywheel."
+            },
+            {
+                "question": "Why is it presented slide by slide?",
+                "answer": "Because the source is a workshop deck. Each slide is here as a heading with its points, so the whole plan is readable and citable. The PDF is the designed deck with the same content."
+            },
+            {
+                "question": "Do I need to fill out a form?",
+                "answer": "No. The download button links straight to the PDF."
+            },
+            {
+                "question": "Does it apply outside Magento?",
+                "answer": "Yes. The workshop was built for a Magento audience, and the visibility model, the answer ready page principles, and the 30 day gameplan apply to any ecommerce platform."
+            }
+        ]
+    }
+}
