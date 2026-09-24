@@ -1,0 +1,39 @@
+{
+  "form": {
+    "campaign_code": "newsletter",
+    "header": "Get The AI Slop Report",
+    "subtitle": "One email a week, on Wednesdays. Your email and nothing else.",
+    "trust_text": "Unsubscribe with one click, any issue.",
+    "portal_id": "39487190",
+    "form_id": "2ede53b0-d276-4189-b43a-0e0e237bd688",
+    "region": "na1",
+    "embed": "v2"
+  },
+  "seo": {
+    "og_type": "website",
+    "twitter_card": "summary_large_image",
+    "title": "The AI Slop Report, a weekly newsletter from Content Cucumber",
+    "meta_description": "The AI Slop Report is Content Cucumber's weekly email on AI slop and on using AI to create content without producing any. One take, one audit finding, five news stories, and what real writers shipped.",
+    "slug": "newsletter"
+  },
+  "thankyou": {
+    "title": "You are in",
+    "text": "The next issue of The AI Slop Report lands Wednesday. Until then, the first one is linked below.",
+    "link_anchor": "",
+    "link_text": ""
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "eyebrow": "A weekly newsletter from Content Cucumber",
+        "title": "The <em>AI Slop Report</em>",
+        "paragraphs": [
+          "AI slop is real, and the platforms are building buttons for it. LinkedIn added a report option that reads \"Seems like AI slop,\" X stamps a Made with AI label on images, and readers who were fooled a year ago can spot the stuff now.",
+          "The AI Slop Report is our weekly email on AI slop and on using AI to create content without producing any. Each issue has one take from Brent, one thing we found in a real audit, five news stories on the humans still in the loop, what our writers shipped, and one ask.",
+          "It goes out on Wednesdays. Drop your email on the right and the next issue is yours."
+        ]
+      }
+    }
+  ]
+}

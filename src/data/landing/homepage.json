@@ -69,36 +69,10 @@
                     "Buyers stopped Googling and started asking ChatGPT, Perplexity, and Gemini.",
                     "We run AI research across all four engines to surface where you stand and the patterns hiding in what they say, then our people turn that into the findings and the body of work that make the AI name you instead of your competitor."
                 ],
-                "image": "audit-sample-pages/03-ai-visibility.png",
+                "image": "audit-sample-pages/02-score.webp",
                 "cta_text": "Get your free AI Search audit",
-                "cta_link": "/aeo-audit/"
-            }
-        },
-        {
-            "type": "hero-bold",
-            "data": {
-                "eyebrow": "NEW REPORT · CREATED WITH SHOPWARE",
-                "headline": "B2B Commerce Trends<br>& Opportunities",
-                "lede": "We interviewed seven firms first-hand, then wrote and edited every finding by human hand. Original research on the new era of B2B commerce complexity. No scraped averages, no AI filler.",
-                "cta_primary": {
-                    "text": "Get the B2B Report",
-                    "link": "/b2b-report/",
-                    "new_tab": false
-                },
-                "cta_secondary": {
-                    "text": "Learn about thought leadership",
-                    "link": "/how-to-create-thought-leadership-content/"
-                },
-                "bg_color": "#0f2a44",
-                "accent_color": "#58c558",
-                "text_color": "#ffffff",
-                "visual": {
-                    "image": "/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-cover.webp",
-                    "image_alt": "B2B Commerce Trends and Opportunities Report cover",
-                    "image_width": 1275,
-                    "image_height": 1650,
-                    "position": "right"
-                }
+                "cta_link": "/aeo-audit/",
+                "bg_color": "#f9fafb"
             }
         },
         {
@@ -117,7 +91,7 @@
                 "image": "/wp-content/uploads/2026/04/contentcucumber-content-solution.mp4",
                 "image_width": 1280,
                 "image_height": 720,
-                "image_poster": "/wp-content/themes/cucumber-gp-child/landing-data/content-solution-poster.webp",
+                "image_poster": "/wp-content/themes/cucumber-gp-child/landing-data/content-solution-poster-960.webp",
                 "alt": "How the Content Flywheel turns one interview into a month of content",
                 "headline": "The Content Flywheel",
                 "paragraphs": [
@@ -131,19 +105,8 @@
             }
         },
         {
-            "type": "feature-image",
+            "type": "event-feature",
             "data": {
-                "image": "/wp-content/themes/cucumber-gp-child/landing-data/etail-boston-header.png",
-                "image_width": 2560,
-                "image_height": 1440,
-                "alt": "Brent Peterson and Isaac Morey of Content Cucumber at eTail Boston, August 10 to 12 at the Sheraton Boston",
-                "headline": "Brent and Isaac will be at eTail Boston, August 10-12",
-                "paragraphs": [
-                    "Content Cucumber is on the show floor at the Sheraton Boston, recording live interviews with the brands, platforms, and agencies moving ecommerce forward.",
-                    "Interviews run about fifteen minutes, cost nothing, and reach thousands of ecommerce professionals. Bring what you are working on and we will talk about it."
-                ],
-                "cta_text": "Book an Interview",
-                "cta_link": "https://talk-commerce.com/events/etail-boston",
                 "reverse": true,
                 "bg_color": "#ffffff"
             }
@@ -406,6 +369,25 @@
                     ]
                 },
                 "guarantee": "Try Content Cucumber risk-free for 14 days. If you're not happy with the quality, get your money back. No questions asked."
+            }
+        },
+        {
+            "type": "feature-image",
+            "data": {
+                "eyebrow": "NEW REPORT · CREATED WITH SHOPWARE",
+                "headline": "B2B Commerce Trends<br>& Opportunities",
+                "paragraphs": [
+                    "We interviewed seven firms first-hand, then wrote and edited every finding by human hand. Original research on the new era of B2B commerce complexity. No scraped averages, no AI filler."
+                ],
+                "image": "/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-cover.webp",
+                "alt": "B2B Commerce Trends and Opportunities Report cover",
+                "image_width": 1275,
+                "image_height": 1650,
+                "cta_text": "Get the B2B Report",
+                "cta_link": "/b2b-report/",
+                "cta_new_tab": false,
+                "reverse": true,
+                "bg_color": "#ffffff"
             }
         },
         {

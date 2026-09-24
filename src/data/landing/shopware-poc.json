@@ -35,7 +35,7 @@
                 "title": "We built one ourselves first",
                 "paragraphs": [
                     "Cucumber &amp; Co., est. 1826. A fictional 200-year-old cucumber distributor with twelve SKUs, MOQs, bulk pricing, kosher and organic certifications. We built it in seven days to prove the arc, the deploy, the hardening, and the automated test coverage.",
-                    "<a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Click through the live demo &rarr;</a>",
+                    "<a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#15803d;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Click through the live demo &rarr;</a>",
                     "The brand is fictional, and the working cart is real. So is the order number you will get when you place a test order.",
                     "<figure style=\"margin-top:24px;\"><a href=\"https://contentcucumber.com/?p=22663\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/wp-content/themes/cucumber-gp-child/landing-data/shopware-poc-homepage.png\" alt=\"Cucumber and Co. homepage screenshot\" loading=\"lazy\" style=\"width:100%;height:auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.12);display:block;\" /></a><figcaption style=\"margin-top:12px;font-size:0.9em;color:#6b7280;text-align:center;\"><a href=\"https://contentcucumber.com/?p=22663\" target=\"_blank\" rel=\"noopener noreferrer\">Read the full build story on the blog &rarr;</a></figcaption></figure>"
                 ],
@@ -142,7 +142,7 @@
                 "title": "Our partner for serious commerce",
                 "paragraphs": [
                     "Shopware is a German enterprise commerce platform. Open source core, commercial editions on top, headless-ready from day one, multi-storefront and multi-region in the same install. Content Cucumber is an official Shopware partner.",
-                    "<a href=\"/partners/shopware/\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Read our Shopware partner profile &rarr;</a>"
+                    "<a href=\"/partners/shopware/\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#15803d;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Read our Shopware partner profile &rarr;</a>"
                 ]
             }
         },

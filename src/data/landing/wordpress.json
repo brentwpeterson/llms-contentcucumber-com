@@ -1,0 +1,218 @@
+{
+    "seo": {
+        "title": "WordPress Development Services - Content Cucumber",
+        "meta_description": "WordPress development, custom builds, migrations, and maintenance by Content Cucumber and Evrig, with teams in Chicago, Minneapolis and Hawaii.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "form": {
+        "header": "Get a written estimate",
+        "subtitle": "Tell us about your site and your team.",
+        "trust_text": "Written estimate after a short call.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "cms-wordpress"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Content Cucumber and Evrig",
+                "title": "WordPress development services",
+                "paragraphs": [
+                    "Content Cucumber and Evrig have teamed up to bring you world class WordPress sites from ideation to launch and everything in between.",
+                    "The traditional agency left content to \"someone\" and the content company left the development work to someone else. With one team, the writer and the developer sit in the same call from the start. The page structure, the copy, and the code get decided together, and nothing falls into the gap between two vendors.",
+                    "People plan the site and write the pages, AI speeds up the build, and your team gets a site it can edit without calling a developer.",
+                    "Brent Peterson and Vijay Golani have worked together for nearly 20 years. Vijay is a two-time Magento Master, Evrig is a Hyva Gold Partner with Adobe Commerce certifications, and Content Cucumber brings 40+ human writers to every build.",
+                    "WordPress is one of the platforms we build on, and the <a href='/cms/'>CMS development</a> page covers the rest. We have teams in Chicago, Minneapolis and Hawaii."
+                ],
+                "platforms_label": "Development partner",
+                "platforms": "<a href='https://www.evrig.com/' target='_blank' rel='noopener' style='display:inline-block;margin-right:40px'><img src='/wp-content/themes/cucumber-gp-child/landing-data/partner-logos/evrig-white.svg' alt='Evrig' width='221' height='48' style='height:48px;width:auto;vertical-align:middle'></a><img src='/wp-content/themes/cucumber-gp-child/landing-data/partner-logos/wordpress-white.png' alt='WordPress' width='141' height='48' style='height:48px;width:auto;vertical-align:middle'>"
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "What we build",
+                "heading": "WordPress web design and development for teams that publish",
+                "items": [
+                    {
+                        "title": "Custom WordPress development",
+                        "body": "Custom themes, plugins, and block editor patterns built around how your team edits, so a new page or a price change does not need a developer."
+                    },
+                    {
+                        "title": "WordPress migration services",
+                        "body": "Moves to WordPress from Drupal, Wix, Squarespace, Webflow, and custom builds, with content, redirects, and search rankings carried over and a parity check before launch."
+                    },
+                    {
+                        "title": "WordPress maintenance services",
+                        "body": "Updates, security patches, and content changes on a monthly plan once the site is live, handled by the same team that built it."
+                    },
+                    {
+                        "title": "Content and search built in",
+                        "body": "Content Cucumber writers draft and load the pages, and each build ships with structured data and the setup AI search engines read."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "comparison-grid",
+            "data": {
+                "title": "How a Content Cucumber and Evrig build compares",
+                "subtitle": "Which way of getting a WordPress site built fits your business? The table compares four common options and what each one tends to include.",
+                "highlight_column": 0,
+                "columns": [
+                    "Content Cucumber and Evrig",
+                    "Local agency",
+                    "Freelance developer",
+                    "Offshore-only shop"
+                ],
+                "rows": [
+                    {
+                        "label": "US project lead you can meet in person",
+                        "values": [
+                            "✓ Twin Cities and Chicago",
+                            "✓",
+                            "Sometimes",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Pages written by human writers",
+                        "values": [
+                            "✓",
+                            "Add-on",
+                            "✗",
+                            "✗"
+                        ]
+                    },
+                    {
+                        "label": "Redirects and rankings carried over on a migration",
+                        "values": [
+                            "✓",
+                            "Varies",
+                            "Varies",
+                            "Varies"
+                        ]
+                    },
+                    {
+                        "label": "Support after launch",
+                        "values": [
+                            "✓ Monthly plans",
+                            "✓",
+                            "Rarely",
+                            "Varies"
+                        ]
+                    },
+                    {
+                        "label": "Starting price",
+                        "values": [
+                            "From $500",
+                            "$$$$",
+                            "$$",
+                            "$"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "What does a WordPress website cost?",
+                "items": [
+                    {
+                        "label": "Starting price",
+                        "value": "WordPress builds with Content Cucumber and Evrig start at $500."
+                    },
+                    {
+                        "label": "What moves the price",
+                        "value": "Page count, how much custom design you want, and the systems the site connects to, such as a CRM, an ERP, or your marketing tools."
+                    },
+                    {
+                        "label": "After launch",
+                        "value": "Monthly support plans cover updates, security patches, and content changes."
+                    },
+                    {
+                        "label": "Next step",
+                        "value": "Book a short call and you get a written estimate with the cost and the timeline before anything starts."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "variant": "timeline",
+            "data": {
+                "title": "How a WordPress build works",
+                "subtitle": "Four steps from the first call to a site your team can run.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Strategy call",
+                        "text": "We talk through your team, your current site, and the searches you want to win, and confirm WordPress is the right fit."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Written estimate",
+                        "text": "You get the cost, the timeline, and the page list in writing, so you can decide before any work begins."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Build and content",
+                        "text": "Evrig builds the theme and the functionality while Content Cucumber writes and loads the pages."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Launch and handoff",
+                        "text": "We launch, check redirects and page speed, and train your team to edit the site in WordPress."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "WordPress development questions",
+                "items": [
+                    {
+                        "question": "How much does it cost to hire a WordPress developer?",
+                        "answer": "With Content Cucumber and Evrig, WordPress builds start at $500, and the written estimate you get after a short call sets the price before work begins. The final number depends on page count, custom design, and integrations."
+                    },
+                    {
+                        "question": "Is WordPress outdated in 2026?",
+                        "answer": "No, WordPress still runs a large share of the web, has a big plugin ecosystem, and keeps getting updates. WordPress fits teams that publish often and want control over their site."
+                    },
+                    {
+                        "question": "Why are some businesses moving away from WordPress?",
+                        "answer": "Some teams want a faster static site, and others want the site inside their CRM. We build on Astro and HubSpot CMS as well, so the recommendation on your call comes from what fits your team. See the <a href='/cms/'>CMS development</a> page for the other platforms."
+                    },
+                    {
+                        "question": "Can you move my site to WordPress?",
+                        "answer": "Yes. We move sites from Drupal, Wix, Squarespace, Webflow, and custom builds, with content, redirects, and search rankings carried over and a parity check before launch."
+                    },
+                    {
+                        "question": "Do you offer WordPress maintenance?",
+                        "answer": "Yes. Monthly support plans cover updates, security patches, and content changes, handled by the team that built the site."
+                    },
+                    {
+                        "question": "Who does the development work?",
+                        "answer": "Evrig, our development partner, with an office in Northeast Minneapolis and developers in Ahmedabad, India. Content Cucumber runs the project and writes the pages, so you have one US point of contact."
+                    },
+                    {
+                        "question": "Do you work with businesses outside Minneapolis and Chicago?",
+                        "answer": "Yes. Businesses in the Twin Cities and the Chicago area can meet us in person, and businesses everywhere else work with us over video with the same team and the same process."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Start your WordPress project",
+                "text": "Tell us about your current site and what you want the new one to do, and we come back with a written estimate."
+            }
+        }
+    ]
+}

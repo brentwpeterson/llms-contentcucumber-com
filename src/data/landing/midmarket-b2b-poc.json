@@ -67,7 +67,7 @@
                 "paragraphs": [
                     "Traditional B2B platform decisions run twelve weeks of discovery and end in a six-figure SOW, slides, a Figma file, and a wireframe deck. What you do not get is anything that touches your ERP, your customer-group pricing, or the dealer portal you have been patching together for years. The operational question stays open until day one of the build.",
                     "A POC closes that question first. We took Shopware and built Cucumber and Co., a fictional 200-year-old B2B distributor, in seven days. Customer-group pricing, real cart, real checkout, B2B-ready out of the box. Click through and place a test order.",
-                    "<a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Open the live demo &rarr;</a>",
+                    "<a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#15803d;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Open the live demo &rarr;</a>",
                     "<figure style=\"margin-top:24px;\"><a href=\"https://shopware.contentcucumber.com\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/wp-content/themes/cucumber-gp-child/landing-data/shopware-poc-homepage.png\" alt=\"Cucumber and Co. B2B storefront homepage on Shopware\" loading=\"lazy\" style=\"width:100%;height:auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.12);display:block;\" /></a><figcaption style=\"margin-top:12px;font-size:0.9em;color:#6b7280;text-align:center;\">Cucumber and Co. on Shopware. Real cart. Real checkout. Try it.</figcaption></figure>"
                 ],
                 "old_way": {
@@ -97,7 +97,7 @@
                 "title": "Shopware for serious B2B",
                 "paragraphs": [
                     "Shopware ships B2B in the same install as B2C. Customer-group pricing, multi-storefront, multi-region, multi-currency, an advanced rule-builder that routes business processes without custom development, and a self-hosted option that matters when regulated data is in scope. It meets the business where it is. Content Cucumber is an official Shopware partner.",
-                    "<a href=\"/partners/shopware/\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#16a34a;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Read our Shopware partner profile &rarr;</a>"
+                    "<a href=\"/partners/shopware/\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#15803d;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:600;text-decoration:none;margin-top:8px;\">Read our Shopware partner profile &rarr;</a>"
                 ]
             }
         },

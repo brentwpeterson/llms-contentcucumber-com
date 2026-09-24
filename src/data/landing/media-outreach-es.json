@@ -1,0 +1,171 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "meta_description": "Si tienes una agencia de PR, la participación de tus clientes en una conferencia puede darte meses de contenido. Talk Commerce graba las entrevistas y Content Cucumber escribe los artículos, casos de éxito y posts.",
+        "og_description": "Tus clientes ya van a estar en la conferencia. Convertimos su presencia en el stand en episodios de podcast, artículos, casos de éxito y contenido para redes, todo con opción de marca blanca.",
+        "og_image": ""
+    },
+    "form": {
+        "campaign_code": "media-outreach",
+        "header": "Platiquemos de tus clientes",
+        "subtitle": "Cuéntanos un poco de tu agencia y agendamos una llamada corta.",
+        "trust_text": "Agencias como la tuya ya trabajan con nosotros.",
+        "portal_id": "39487190",
+        "form_id": "9d691a33-12d2-4f57-a049-595036e9e162",
+        "region": "na1"
+    },
+    "thankyou": {
+        "title": "Gracias por escribirnos.",
+        "text": "Te contactamos en breve para agendar la llamada. Nos da gusto conocer a tus clientes."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Para agencias de PR y marketing",
+                "youtube_id": "B2DTOLMkzf4",
+                "youtube_layout": "grid",
+                "youtube_title": "Contenido en eventos en vivo con Content Cucumber",
+                "title": "Tus clientes ya están en la conferencia.<br><em>Nosotros lo convertimos en contenido</em>.",
+                "paragraphs": [
+                    "Tus clientes ya pagaron el stand, los vuelos y al equipo que viaja. Talk Commerce graba ahí mismo entrevistas con calidad profesional, y el equipo de redacción de Content Cucumber convierte esas pláticas en artículos para blog, casos de éxito, posts para redes y contenido SEO.",
+                    "Hay tres paquetes para que cada cliente elija el suyo, todos con opción de marca blanca y sin contratos ni mínimos. <a href=\"/es/entrevista-de-conferencias/\">Conoce los paquetes de entrevista completos</a>."
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "anchor": "packages",
+            "data": {
+                "title": "Paquetes para tus clientes",
+                "subtitle": "Todos los paquetes incluyen una entrevista profesional en cámara durante la conferencia. Los niveles más altos suman contenido escrito por el equipo de Content Cucumber, y todos se pueden entregar con tu marca.",
+                "items": [
+                    {
+                        "name": "Spotlight",
+                        "badge": "Gratis",
+                        "target": "Una entrevista corta y bien producida que lleva a tu cliente al podcast de Talk Commerce. Tú le entregas los clips.",
+                        "price": "Gratis",
+                        "form_modal": {
+                            "heading": "Reserva una entrevista gratis para tu cliente",
+                            "subtitle": "Dinos de qué evento y de qué cliente se trata, y te confirmamos el horario.",
+                            "button_text": "Reservar entrevista gratis",
+                            "portal_id": "39487190",
+                            "form_id": "c558d377-b3be-4091-87ff-da48f320145c",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Entrevista guiada de 3 minutos en su stand",
+                            "Cámara y audio profesionales",
+                            "Publicada en el podcast de Talk Commerce",
+                            "Clip de video listo para los canales de tu cliente",
+                            "Entrega con marca blanca si la necesitas"
+                        ]
+                    },
+                    {
+                        "name": "Deep Dive",
+                        "badge": "El más solicitado",
+                        "featured": true,
+                        "target": "Una conversación completa que tu cliente puede aprovechar en todos sus canales. Tú te quedas con el material en bruto y tu cliente gana visibilidad.",
+                        "price": "$200 USD",
+                        "form_modal": {
+                            "heading": "Reserva un Deep Dive para tu cliente",
+                            "subtitle": "Entrevista a fondo de 15 minutos. $200 USD por sesión.",
+                            "button_text": "Reservar ahora ($200 USD)",
+                            "portal_id": "39487190",
+                            "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Entrevista a fondo de 15 minutos",
+                            "Episodio completo publicado en el podcast",
+                            "Varios clips editados para redes sociales",
+                            "Tomas de apoyo (B-roll) de su stand",
+                            "Material en bruto entregado a tu agencia"
+                        ]
+                    },
+                    {
+                        "name": "Paquete de contenido completo",
+                        "target": "Una sola entrevista se convierte en toda una biblioteca de contenido. Talk Commerce graba, Content Cucumber escribe y tú lo entregas todo con tu marca.",
+                        "price": "A la medida",
+                        "form_modal": {
+                            "heading": "Armemos el paquete de tu cliente",
+                            "subtitle": "Cuéntanos del evento y de lo que busca tu cliente, y agendamos una llamada corta.",
+                            "button_text": "Agendar llamada",
+                            "portal_id": "39487190",
+                            "form_id": "39446d06-5fd2-4464-9e6f-ed642fb34d3a",
+                            "region": "na1"
+                        },
+                        "outcomes": [
+                            "Todo lo del Deep Dive, y además",
+                            "Caso de éxito escrito por Content Cucumber",
+                            "Artículo de blog optimizado para SEO",
+                            "Calendario de contenido para redes con los clips",
+                            "Materiales para la campaña de email después del evento",
+                            "Todo el contenido con la marca de tu agencia"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Así funciona para agencias",
+                "subtitle": "Tú reservas las entrevistas de tus clientes y nosotros nos encargamos de lo demás.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Elige un paquete para cada cliente",
+                        "text": "Para cada cliente que vaya a la conferencia, elige Spotlight (gratis), Deep Dive ($200 USD) o el paquete de contenido completo (a la medida). Llenas el formulario y te confirmamos los horarios."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Llegamos a su stand",
+                        "text": "Talk Commerce llega con equipo profesional y lleva una plática natural y relajada. No hace falta guion, porque tu cliente habla de lo que mejor conoce."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Recibes el contenido en tu agencia",
+                        "text": "Los clips de video llegan en un máximo de dos semanas. En el paquete de contenido completo, el equipo de Content Cucumber escribe artículos, casos de éxito y contenido para redes, todo con marca blanca, y tú se lo entregas a tu cliente."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Preguntas de agencias",
+                "items": [
+                    {
+                        "question": "¿Todo se entrega con marca blanca?",
+                        "answer": "Sí, en todos los paquetes. Clips de video, artículos, casos de éxito y contenido para redes llegan a tu agencia, y tú se los entregas a tu cliente con tu marca. Nosotros nos quedamos tras bambalinas."
+                    },
+                    {
+                        "question": "¿Puedo reservar entrevistas para varios clientes en el mismo evento?",
+                        "answer": "Claro. Tenemos un máximo de 8 entrevistas por evento, pero puedes reservar varias para distintos clientes y combinar paquetes. Es muy común que una sola agencia traiga a varios clientes."
+                    },
+                    {
+                        "question": "¿Cómo se factura a las agencias?",
+                        "answer": "Las entrevistas Spotlight son gratis. El Deep Dive cuesta $200 USD por entrevista y se factura a tu agencia. El paquete de contenido completo se cotiza según el alcance. Sin contratos, sin mínimos y sin cargos recurrentes."
+                    },
+                    {
+                        "question": "¿En cuánto tiempo recibo el contenido?",
+                        "answer": "Los clips de video y los episodios publicados, en un máximo de dos semanas después del evento. El contenido escrito (artículos y casos de éxito), en tres semanas. Si lo necesitas antes, podemos acelerar la entrega."
+                    },
+                    {
+                        "question": "¿Qué son Content Cucumber y Talk Commerce?",
+                        "answer": "Content Cucumber es una agencia de contenido con más de 40 redactores de carne y hueso especializados en ecommerce. Talk Commerce es un podcast y plataforma de medios con más de 500 episodios. Talk Commerce graba la entrevista y Content Cucumber la convierte en contenido escrito, así que con una sola relación de trabajo tus clientes reciben todo su contenido."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Reserva las entrevistas de tus clientes.",
+                "text": "Hay 8 lugares por evento. Dinos a qué conferencia van tus clientes y qué paquetes quieres, y nosotros nos encargamos del resto."
+            }
+        }
+    ]
+}

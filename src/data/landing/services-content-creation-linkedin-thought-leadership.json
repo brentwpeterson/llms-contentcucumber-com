@@ -1,0 +1,326 @@
+{
+    "seo": {
+        "title": "Human Written Thought Leadership - Content Cucumber",
+        "meta_description": "We interview you once a month, write your LinkedIn posts in your voice, and you approve each one before it publishes. Written by people, not prompts.",
+        "og_description": "We interview you once a month, write your LinkedIn posts in your voice, and you approve each one before it publishes. Written by people, not prompts.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "canonical_path": "/services/content-creation/linkedin-thought-leadership/",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Start with a conversation",
+        "subtitle": "Tell us what you want to be known for and we will scope the first month around it.",
+        "trust_text": "No credit card. We will read your market before we quote anything.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "linkedin-thought-leadership"
+    },
+    "thankyou": {
+        "title": "Thank you, we will read first",
+        "text": "Before we come back to you we will read what the people you want to reach have been publishing, so the first conversation starts with your market rather than our pitch."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "LinkedIn Content",
+                "title": "Human written thought leadership",
+                "paragraphs": [
+                    "You write thought leadership to show you have authority in your space. That is not something just anyone can do. And certainly don't entrust it to AI.",
+                    "That is why we start with an interview once a month. 30 to 60 minutes, and the longer the better. We get your voice, your thoughts and your content, just like a great ghostwriter.",
+                    "We then make that into your thought leadership on LinkedIn. Every week. Every month. Consistently."
+                ]
+            }
+        },
+        {
+            "type": "proof-bar",
+            "data": [
+                {
+                    "number": "1",
+                    "label": "Interview a Month"
+                },
+                {
+                    "number": "4",
+                    "label": "Posts a Month"
+                },
+                {
+                    "number": "52",
+                    "label": "Posts a Year"
+                },
+                {
+                    "number": "0",
+                    "label": "Posts Written by a Prompt"
+                }
+            ]
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "Why it carries your name",
+                "heading": "A company page can publish anything it likes, without ever holding a position anyone can argue with.",
+                "items": [
+                    {
+                        "title": "People follow people.",
+                        "body": "Your buyers joined LinkedIn to hear from operators rather than from logos, which is a habit no brand account has ever talked anyone out of. A post under your name arrives as a colleague talking, while the same words under the brand account arrive as marketing, and get read that way."
+                    },
+                    {
+                        "title": "A position needs someone to hold it.",
+                        "body": "Brands hedge, because a brand has to be acceptable to the people who work there. You can say the thing you believe about your category and be wrong about it in public, which is the entire reason anyone finds it worth reading."
+                    },
+                    {
+                        "title": "A model can only look backward.",
+                        "body": "Anything generated is assembled from what has already been written, so it can move sideways across what exists and no further. Since the argument you have not published yet is the one thing a model cannot reach, we interview you rather than brief a tool."
+                    },
+                    {
+                        "title": "Your name follows you.",
+                        "body": "A company page belongs to the company. The audience you build under your own name is yours through the next role, the next raise, and the next company you start."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "LinkedIn thought leadership at Content Cucumber",
+                "items": [
+                    {
+                        "label": "What we do",
+                        "value": "We baseline your profile, interview you once a month, and write four posts a month in your voice from that conversation. You choose whether that is one article cut into four posts or four short posts. Each one comes back for your approval before it publishes."
+                    },
+                    {
+                        "label": "Best for",
+                        "value": "Founders and executives at commerce and SaaS companies who have a point of view about their category and no hour in the week to write it down."
+                    },
+                    {
+                        "label": "Not for",
+                        "value": "Anyone who wants volume. Usually less is better, so we would rather publish eight posts you would defend in a room than thirty nobody finishes reading."
+                    },
+                    {
+                        "label": "Proof",
+                        "value": "We run the same program on our own CEO, in public, and the numbers below are his. Content Cucumber has written for more than a thousand brands with a 4.97 average client rating across 445 reviews."
+                    },
+                    {
+                        "label": "Next step",
+                        "value": "Tell us what you want to be known for. We will run the baseline on your profile and come back with what the first month looks like."
+                    }
+                ],
+                "cta_text": "Start a conversation",
+                "cta_link": "/contact/"
+            }
+        },
+        {
+            "type": "comparison-grid",
+            "data": {
+                "title": "Four ways this gets handled",
+                "subtitle": "Where the position comes from, before anyone types anything, is what separates these four.",
+                "highlight_column": 0,
+                "columns": [
+                    "Content Cucumber",
+                    "An AI post generator",
+                    "An agency on your company page",
+                    "Doing it yourself"
+                ],
+                "rows": [
+                    {
+                        "label": "Where the position comes from",
+                        "values": [
+                            "An interview with you",
+                            "What is already published",
+                            "A brand brief",
+                            "You"
+                        ]
+                    },
+                    {
+                        "label": "Whose name is on it",
+                        "values": [
+                            "Yours",
+                            "Yours",
+                            "The company's",
+                            "Yours"
+                        ]
+                    },
+                    {
+                        "label": "Who writes the words",
+                        "values": [
+                            "A person who read your market",
+                            "A model",
+                            "Varies",
+                            "You"
+                        ]
+                    },
+                    {
+                        "label": "You approve before it publishes",
+                        "values": [
+                            "✓",
+                            "✗ Posts on its own",
+                            "Sometimes",
+                            "✓"
+                        ]
+                    },
+                    {
+                        "label": "Survives you changing jobs",
+                        "values": [
+                            "✓",
+                            "✓",
+                            "✗",
+                            "✓"
+                        ]
+                    },
+                    {
+                        "label": "Cost",
+                        "values": [
+                            "$$",
+                            "$",
+                            "$$$",
+                            "Your evenings"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "How the month runs",
+                "subtitle": "It is a loop. One hour from you, and each time around starts from what the last one earned.",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "We baseline where you are",
+                        "subtitle": "Where you stand, and what your market is arguing about",
+                        "text": "We read your profile through the LinkedIn API and write down what is there now. What you have published, what each post earned, who has been turning up in your comments. Alongside it we read what the people you want to reach have been publishing and arguing about in other people's threads, which is where the first month of content comes from. That is the starting line, so there is something to measure against later rather than a feeling."
+                    },
+                    {
+                        "title": "We record an interview",
+                        "subtitle": "It is the questions the interviewer asks",
+                        "text": "Isaac and Brent have interviewed hundreds of merchants, platforms and integrators, and that practice is what makes the hour work. We draw the great content out of you, and we make it into content people will want to read."
+                    },
+                    {
+                        "title": "We write the posts",
+                        "subtitle": "One article, or four short posts",
+                        "text": "One interview becomes a month of content, and you decide what shape it takes. We can write one article and cut it into four posts, or we can write four short posts that stand on their own. Some months one way suits the material better than the other, and that call is yours."
+                    },
+                    {
+                        "title": "You approve and publish",
+                        "subtitle": "About ten minutes a week",
+                        "text": "Each post comes back to you before it goes anywhere. Change a line, kill it, or send it back. We batch them so you are approving a week at a time, we chase you when you go quiet, and you press publish from your own profile. One post a week, 52 weeks a year."
+                    },
+                    {
+                        "title": "We measure, and that becomes the next baseline",
+                        "subtitle": "What landed, who showed up, what to write next",
+                        "text": "At the end of the month we read the profile again and put it next to where you started. Which posts earned something and which went quiet. Who commented, who keeps coming back, and whether those are the people you wanted in the room. What your market published while you were writing, which is where the next month's topics come from. That read is what the next interview opens on, so the second month is built on evidence and the twelfth is built on eleven months of it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "who-its-for",
+            "data": {
+                "title": "Whether this fits",
+                "subtitle": "The version we would rather you read now than find out on the second call.",
+                "fits": [
+                    {
+                        "text": "You have opinions about your category that you have not written down"
+                    },
+                    {
+                        "text": "You can give us one hour a month and ten minutes a week"
+                    },
+                    {
+                        "text": "You will press publish yourself, from your own account"
+                    },
+                    {
+                        "text": "You want eight posts you would defend, not thirty you would not"
+                    },
+                    {
+                        "text": "You are willing to be wrong in public about something you believe"
+                    }
+                ],
+                "not_fits": [
+                    {
+                        "text": "You want us to hold your login and post without you"
+                    },
+                    {
+                        "text": "You want your company page run, which is a different service"
+                    },
+                    {
+                        "text": "You want comments written and posted under your name"
+                    },
+                    {
+                        "text": "You want a post a day and do not mind what is in them"
+                    },
+                    {
+                        "text": "You want to approve a content calendar once and stop looking"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "variant": "light",
+            "data": {
+                "eyebrow": "We run it on ourselves",
+                "title": "We do this under our own name, in public, where you can check it",
+                "paragraphs": [
+                    "Brent runs this program on his own LinkedIn profile. You can scroll back through it and judge whether the work held up, which is the only kind of proof worth anything before you have hired anybody.",
+                    "The posts are the visible half. Underneath them sits the reading, and that is what we are selling you."
+                ],
+                "stats": [
+                    {
+                        "number": "129",
+                        "label": "Posts in 93 Days"
+                    },
+                    {
+                        "number": "174",
+                        "label": "People Reached"
+                    },
+                    {
+                        "number": "234",
+                        "label": "Comments Written"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get",
+                "items": [
+                    {
+                        "question": "Whose LinkedIn account is this on?",
+                        "answer": "Yours, and it stays yours. We write the posts and hand them to you. You publish from your own account, so there is no password to share and nothing to untangle if we stop working together."
+                    },
+                    {
+                        "question": "Is this written by AI?",
+                        "answer": "No. A person interviews you and a person writes the posts. On LinkedIn that matters more than ever, because anyone can push the \"sounds like AI slop\" button. We use research tools to read what your market is publishing, the same way a writer uses a search engine, and the writing is done by one of our writers."
+                    },
+                    {
+                        "question": "What happens if we stop?",
+                        "answer": "You keep the posts, the audience, and the voice profile we built. What we published is on your account under your name. There is no platform to be locked into and nothing switches off."
+                    },
+                    {
+                        "question": "Can you write my comments too?",
+                        "answer": "Not today. Commenting in a client's voice is something we do for ourselves and have not opened to clients, and we would rather say that than sell you something we are still building."
+                    },
+                    {
+                        "question": "How much of my time does this take?",
+                        "answer": "One hour a month for the interview, and roughly ten minutes a week approving posts. If a month gets away from you we can work from the last interview rather than stopping."
+                    },
+                    {
+                        "question": "How much does it cost?",
+                        "answer": "We scope it to what you want to be known for and how much of the writing you want us carrying, so there is no published rate. Tell us the goal and we will put a number on it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Tell us what you want to be known for",
+                "text": "We will read your market, show you where you have something to say that nobody is saying, and come back with what the first month looks like."
+            }
+        }
+    ]
+}

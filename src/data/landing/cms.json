@@ -1,0 +1,131 @@
+{
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "CMS Development Services for WordPress, HubSpot, and Astro - Content Cucumber",
+        "meta_description": "CMS development on WordPress, HubSpot CMS, Astro, and ButterCMS by Content Cucumber and Evrig, with teams in Chicago, Minneapolis and Hawaii.",
+        "slug": "cms"
+    },
+    "form": {
+        "header": "Tell us about your website",
+        "subtitle": "",
+        "trust_text": "Written estimate after the call.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "cms"
+    },
+    "hero": {
+        "eyebrow": "CMS Development",
+        "title": "CMS development and website builds",
+        "subtitle": "Content Cucumber and Evrig build websites on WordPress, HubSpot CMS, Astro, and ButterCMS. People plan the site and write the words, and AI speeds up the build in between. We have teams in Chicago, Minneapolis and Hawaii."
+    },
+    "sections": [
+        {
+            "id": "what-we-build",
+            "title": "Websites your team can run after launch",
+            "content": [
+                "Who on your team will edit the website each week, and which systems does it have to talk to? We build around those answers and the searches you want to win.",
+                "We start with your team and your goals, recommend the platform that fits, and hand back a site your team can update without calling a developer for a new page or a price change.",
+                "Store builds live under <a href='/services/content-in-commerce/'>Commerce</a>. This page covers company websites, marketing sites, and content platforms."
+            ]
+        },
+        {
+            "id": "platforms",
+            "title": "The platforms we build on",
+            "content": [
+                "<strong><a href='/cms/wordpress/'>WordPress</a>.</strong> Custom themes, plugin development, and the block editor or classic editor, whichever your team knows. The right fit when a content team publishes often and wants control over the site.",
+                "<strong>HubSpot CMS.</strong> Full implementation, custom themes, HubDB, and workflow automation, from a HubSpot Solutions Partner. The right fit when marketing automation and the CRM sit at the center of the business.",
+                "<strong>Astro.</strong> Fast static sites with island architecture and content collections. The right fit when speed and search visibility lead and the team is comfortable with a technical setup.",
+                "<strong>ButterCMS.</strong> A headless CMS with a clean editor for marketers and an API for developers. The right fit when the same content feeds a website and an app."
+            ]
+        },
+        {
+            "id": "services",
+            "title": "CMS development services",
+            "content": [
+                "<strong>New website builds</strong>, covering design, development, content, and launch on the platform that fits your team.",
+                "<strong>CMS migration</strong> from Drupal, Wix, Squarespace, Webflow, and custom builds, with content, redirects, and search rankings carried over and a parity check before launch.",
+                "<strong>Custom development</strong> of themes, plugins, modules, and integrations built around how your business works.",
+                "<strong>Integrations</strong> between your CMS and your CRM, ERP, and marketing tools, so data moves without manual copying.",
+                "<strong>Speed and search work</strong> on page speed, caching, structured data, and the setup AI search engines read, measured before and after.",
+                "<strong>Support after launch</strong> for updates, security patches, and content changes on a monthly plan."
+            ]
+        },
+        {
+            "id": "pricing",
+            "title": "What does a CMS build cost?",
+            "content": [
+                "Builds start at $500, and the final price comes down to page count, how much custom design you want, and which systems the site has to connect to.",
+                "After a short call you get a written estimate with cost and timeline, so you know the number before anything starts.",
+                "Monthly support plans cover updates, security, and content changes once the site is live."
+            ]
+        },
+        {
+            "id": "who-builds-it",
+            "title": "Who builds your site",
+            "content": [
+                "Content Cucumber runs the project, plans the site, and writes the content with human writers. <a href='https://www.evrig.com/' target='_blank' rel='noopener'>Evrig</a> does the development, with an office in Northeast Minneapolis and a development team in Ahmedabad, India.",
+                "You get a US project lead in your time zone and a development team in India, and you will know the names of the people doing the work."
+            ]
+        },
+        {
+            "id": "how-it-works",
+            "title": "How a build works",
+            "content": [
+                "<strong>A strategy call</strong> where we talk through your team, your goals, and your current site, and recommend a platform.",
+                "<strong>A written estimate</strong> with the cost, the timeline, and the page list, so you can decide before anything starts.",
+                "<strong>Build and content</strong>, with Evrig building the site while Content Cucumber writes and loads the pages.",
+                "<strong>Launch and handoff</strong>, where we launch, check redirects and speed, and train your team to edit the site."
+            ]
+        },
+        {
+            "id": "minneapolis-chicago",
+            "title": "Serving Chicago, Minneapolis-St. Paul, Hawaii, and beyond",
+            "content": [
+                "Our teams work out of Chicago, Minneapolis and Hawaii, so businesses in those areas can meet us in person.",
+                "Businesses everywhere else work with us over video, with the same team and the same process."
+            ]
+        }
+    ],
+    "faq": {
+        "title": "CMS development questions",
+        "items": [
+            {
+                "question": "How much does it cost to build a website on a CMS?",
+                "answer": "Our builds start at $500, and the final price comes down to page count, custom design, and integrations. You get a written estimate with cost and timeline after a short call."
+            },
+            {
+                "question": "Which CMS fits my business?",
+                "answer": "Who edits the site decides most of it. HubSpot CMS fits when marketing automation and the CRM are central. WordPress fits a content team that publishes often. Astro fits when speed leads and the team is technical. ButterCMS fits when one set of content feeds a site and an app. We recommend one on the strategy call."
+            },
+            {
+                "question": "Is WordPress outdated in 2026?",
+                "answer": "No, WordPress still runs a large share of the web, has a big plugin ecosystem, and keeps getting updates. WordPress fits teams that publish often. For a small, fast marketing site with few editors, Astro can be the better choice, and we will tell you which one fits."
+            },
+            {
+                "question": "Can you move my site from another CMS?",
+                "answer": "Yes. We have moved sites from Drupal, Wix, Squarespace, Webflow, and custom builds. A migration includes content, redirects, search rankings, and a parity check before launch."
+            },
+            {
+                "question": "Who does the development work?",
+                "answer": "Evrig, our development partner, with an office in Northeast Minneapolis and developers in Ahmedabad, India. Content Cucumber runs the project and writes the content, so you have one US point of contact."
+            },
+            {
+                "question": "Do you handle hosting?",
+                "answer": "We deploy to your hosting or recommend a host for your platform, such as WP Engine for WordPress, Vercel or Netlify for Astro, and HubSpot's hosting for HubSpot CMS."
+            }
+        ]
+    },
+    "sidebar": {
+        "title": "Get a written estimate",
+        "text": "Tell us about your site and your team. After a short call you get the cost and timeline in writing.",
+        "button_text": "Book a Call",
+        "button_url": "https://meetings.hubspot.com/cucumber/cucumber-sales-meeting",
+        "trust_text": "Teams in Chicago, Minneapolis and Hawaii."
+    },
+    "cta": {
+        "title": "Start your website project",
+        "text": "Tell us about your current site and what you want the new one to do. We come back with a platform recommendation and a written estimate."
+    }
+}

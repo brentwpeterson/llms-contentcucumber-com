@@ -2,8 +2,8 @@
     "seo": {
         "og_type": "website",
         "twitter_card": "summary_large_image",
-        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $100 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
-        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $100, or custom packages.",
+        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $200 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
+        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $200, or custom packages.",
         "og_image": ""
     },
     "form": {
@@ -25,7 +25,7 @@
                 "title": "One interview.<br><em>Months of content</em>.",
                 "paragraphs": [
                     "Talk Commerce records a professional podcast interview with your team at the conference. Content Cucumber's 40+ writers turn that conversation into blog articles, social clips, case studies, and SEO content.",
-                    "Three packages. Limited to 8 interviews per event. <a href=\"/conference-coverage/\">See our full conference video production service</a>."
+                    "Three packages. Limited to 8 interviews per event, with paid interviews booked first. <a href=\"/conference-coverage/\">See our full conference video production service</a>."
                 ]
             }
         },
@@ -43,7 +43,7 @@
                         "price": "Free",
                         "form_modal": {
                             "heading": "Book Your Free Interview",
-                            "subtitle": "Tell us which event you're attending and we'll confirm your slot.",
+                            "subtitle": "Paid interviews are booked first, so tell us which event you're attending and we'll confirm your slot once the schedule is set.",
                             "button_text": "Book Free Interview",
                             "portal_id": "39487190",
                             "form_id": "c558d377-b3be-4091-87ff-da48f320145c",
@@ -61,11 +61,11 @@
                         "badge": "Most Popular",
                         "featured": true,
                         "target": "A full-length conversation. Tell your story, explain your product, and share your perspective on the industry.",
-                        "price": "$100",
+                        "price": "$200",
                         "form_modal": {
                             "heading": "Book Your Deep Dive Interview",
-                            "subtitle": "15-minute in-depth interview. $100 per session.",
-                            "button_text": "Book Now - $100",
+                            "subtitle": "15-minute in-depth interview. $200 per session.",
+                            "button_text": "Book Now - $200",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
                             "region": "na1"
@@ -111,7 +111,7 @@
                     {
                         "number": "01",
                         "title": "Pick Your Package",
-                        "text": "Choose Spotlight (free), Deep Dive ($100), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
+                        "text": "Choose Spotlight (free), Deep Dive ($200), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
                     },
                     {
                         "number": "02",
@@ -158,7 +158,7 @@
             "type": "bottom-cta",
             "data": {
                 "title": "Ready to book your interview?",
-                "text": "8 slots per event. Tell us which conference you're attending and which package you want. <a href=\"/conference-pr/\">PR agencies: see our agency content services</a>."
+                "text": "8 slots per event, and paid interviews get first pick of times. Tell us which conference you're attending and which package you want. <a href=\"/conference-pr/\">PR agencies: see our agency content services</a>."
             }
         }
     ]

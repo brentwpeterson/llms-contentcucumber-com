@@ -56,9 +56,16 @@
         {
             "id": "social-media-content",
             "title": "Social media content written for the platform it lives on",
-            "content": "<p>Platform-specific posts written for the audience that shows up there. LinkedIn for B2B and thought leadership. X for industry conversations. Instagram for brand. We write to a calendar with a strategy underneath it.</p><p>Each platform gets a voice that fits. The brand stays consistent across them. We do not cross-post the same caption to every channel and call it a strategy.</p>",
+            "content": "<p>Platform-specific posts for your brand accounts, written for the audience that shows up there. X for industry conversations, Instagram for brand, LinkedIn for the company page. We write to a calendar with a strategy underneath it.</p><p>Each platform gets a voice that fits, while the brand stays consistent across them. We do not cross-post the same caption to every channel and call it a strategy. Content for a founder or an executive's own profile is a different job, and it lives in <a href=\"/services/content-creation/linkedin-thought-leadership/\">LinkedIn thought leadership</a>.</p>",
             "link_url": "/services/content-creation/social-media-content/",
             "link_text": "Explore social media content"
+        },
+        {
+            "id": "linkedin-thought-leadership",
+            "title": "LinkedIn thought leadership under a founder or executive's own name",
+            "content": "<p>Your buyers look at a person's profile before they take the call. We interview that person once a month, a writer turns the hour into a month of posts in their voice, and they approve each one before it publishes.</p><p>This is the executive's own profile rather than the company page, because a brand account can publish anything it likes without ever holding a position anyone can argue with. Where two leaders at one company are both writing, each gets a separate voice profile.</p>",
+            "link_url": "/services/content-creation/linkedin-thought-leadership/",
+            "link_text": "Explore LinkedIn thought leadership"
         },
         {
             "id": "how-we-work",

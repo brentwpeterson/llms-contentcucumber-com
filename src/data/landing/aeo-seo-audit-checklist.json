@@ -1,7 +1,7 @@
 {
     "seo": {
         "title": "The 56-Point AEO and SEO Audit Checklist | Content Cucumber",
-        "meta_description": "The full 56-point AEO and SEO audit checklist Content Cucumber runs for paid clients, organized into 12 categories with the what, how, why, and tool for every item. Read it here or download the PDF, no form.",
+        "meta_description": "The full 56-point AEO and SEO audit checklist Content Cucumber runs for paid clients, organized into 12 categories with the what, how, why, and tool for each item. Read it here or download the PDF, no form.",
         "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/aeo-seo-audit-checklist-cover.png",
         "og_type": "article",
         "twitter_card": "summary_large_image",
@@ -11,7 +11,7 @@
     "hero": {
         "eyebrow": "Checklist",
         "title": "The 56-Point AEO and SEO Audit Checklist",
-        "subtitle": "The same audit framework Content Cucumber runs for paid clients, laid out in 12 categories with the what, how, why, and tool for each item so a team can work through it on its own. Every item is on this page, and the PDF is free to download."
+        "subtitle": "The same audit framework Content Cucumber runs for paid clients, laid out in 12 categories with the what, how, why, and tool for each item so a team can work through it on its own. The 56 items are on this page, and the PDF is free to download."
     },
     "meta": {
         "author": "Brent Peterson",
@@ -108,10 +108,10 @@
         "items": [
             {
                 "question": "What is this checklist?",
-                "answer": "The same 56 item audit framework Content Cucumber runs for paid clients, organized into 12 categories. Every item has the what, the how, the why, and the tool, so a team can work through it on its own."
+                "answer": "The same 56 item audit framework Content Cucumber runs for paid clients, organized into 12 categories. Each item has the what, the how, the why, and the tool, so a team can work through it on its own."
             },
             {
-                "question": "Is every item on this page?",
+                "question": "Are all 56 items on this page?",
                 "answer": "Yes, all 56 items across the 12 categories, plus the tool stack and the scoring guide. The PDF has the same content in a designed layout, and it downloads with no form."
             },
             {
@@ -120,7 +120,7 @@
             },
             {
                 "question": "How do I score my audit?",
-                "answer": "Every item is a Pass, a Partial, or a Fail. The last section explains the tiers, from strong SEO health at 50 or more passes down to systemic issues under 20, and what to fix first in each tier."
+                "answer": "Each item is a Pass, a Partial, or a Fail. The last section explains the tiers, from strong SEO health at 50 or more passes down to systemic issues under 20, and what to fix first in each tier."
             },
             {
                 "question": "What does AEO mean here?",

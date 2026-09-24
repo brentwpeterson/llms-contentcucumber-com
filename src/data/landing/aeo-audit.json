@@ -77,7 +77,7 @@
                         "text": "Every audit opens with the scope and the snapshot it references. This is a genuine deliverable we ran on our own commerce demo, with the client name, domain, and homepage captured as they were the moment we looked. Nothing in the report is hypothetical.<br><br>Every finding points back to this snapshot, so when we say a tag is missing or a score is low, you can see precisely where and why. The format, the depth, the structure, and the tone are what lands in your inbox when you run an audit on your own site."
                     },
                     {
-                        "image": "audit-sample-pages/02-score.png",
+                        "image": "audit-sample-pages/02-score.webp",
                         "image_alt": "Out-of-100 health score with a nine-category breakdown from a real audit",
                         "title": "Your score, nine categories",
                         "text": "An out-of-100 health score with a weighted breakdown across nine categories: crawlability, on-page, schema, performance, Core Web Vitals, social and Open Graph, mobile, content depth, and AI search. AI is split into infrastructure (what is built) and measured outcome (what the engines do), because a site can pass every technical check and still be invisible in the answer layer. Live mobile and desktop PageSpeed figures sit right beside the score, so the number is grounded in real measurement, not estimates. You see at a glance where you stand and which single category is dragging the rest of the score down."

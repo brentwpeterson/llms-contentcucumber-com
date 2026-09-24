@@ -67,6 +67,39 @@
       }
     },
     {
+      "type": "arguments",
+      "data": {
+        "eyebrow": "Example answers, written by us",
+        "heading": "A few ways you could answer",
+        "items": [
+          {
+            "title": "Yes, but",
+            "body": "“Yes for first drafts and research, but a person has to own the finished piece, because readers can tell when nobody did.”"
+          },
+          {
+            "title": "Yes, and",
+            "body": "“Yes, and we already do, for product descriptions across a catalog of thousands of items, with an editor reviewing them before they go live.”"
+          },
+          {
+            "title": "No, but",
+            "body": "“No for anything with our name on it, but we use it to transcribe interviews and pull research together, and that saves us hours each week.”"
+          },
+          {
+            "title": "No, and",
+            "body": "“No, and the reason is trust, since the first time a customer catches a made-up fact, the brand pays for it longer than the time the tool saved.”"
+          },
+          {
+            "title": "It depends",
+            "body": "“It depends on what the content is for, since a support article and a founder’s letter are different jobs and I’d answer each one differently.”"
+          },
+          {
+            "title": "Tell us your thoughts",
+            "body": "“I care less about who wrote it than whether it’s true, and I’d want to be told which one I’m reading.”"
+          }
+        ]
+      }
+    },
+    {
       "type": "credibility",
       "data": {
         "eyebrow": "Who is asking",

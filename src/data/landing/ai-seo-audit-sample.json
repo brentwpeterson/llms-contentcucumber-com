@@ -1,7 +1,7 @@
 {
     "seo": {
-        "title": "A Real AI and SEO Audit, Page by Page | Content Cucumber",
-        "meta_description": "A real Content Cucumber AI and SEO audit, in full. The exact format, depth, and live four engine AI citation scoring a client receives, run on a fast commerce site that scores zero in the AI answer layer. Read it here or download the PDF.",
+        "title": "A Complete AI and SEO Audit, Page by Page | Content Cucumber",
+        "meta_description": "A complete Content Cucumber AI and SEO audit, in full. The exact format, depth, and live four engine AI citation scoring a client receives, run on a fast commerce site that scores zero in the AI answer layer. Read it here or download the PDF.",
         "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/sample-ai-seo-audit-cover.png",
         "og_type": "article",
         "twitter_card": "summary_large_image",
@@ -10,7 +10,7 @@
     },
     "hero": {
         "eyebrow": "Sample audit",
-        "title": "A Real AI and SEO Audit, Page by Page",
+        "title": "A Complete AI and SEO Audit, Page by Page",
         "subtitle": "A complete Content Cucumber audit of a fast, well built commerce site that scores zero in the AI answer layer. The exact format, depth, and four engine AI citation scoring a client receives. The whole audit is on this page, and the PDF needs no form."
     },
     "meta": {
@@ -30,7 +30,7 @@
         {
             "id": "cucumber-and-co",
             "title": "Cucumber & Co.",
-            "content": "<h3>A Real AI and SEO Audit, Page by Page</h3><p>SEO + AI AUDIT · INTERNAL DEMO SHOWCASE</p><p>A comprehensive audit of the Content Cucumber commerce demo (shopware.contentcucumber.com), a fictional 1826 B2B cucurbit and brining-stock trade catalog. It is fast, well-built, and beautifully written, and it is completely invisible to the AI answer layer. That contrast is the entire point of the demo. AUDIT DATE 2026-05-17 shopware.contentcucumber.com homepage as captured 2026-05-17. Audit findings reference this snapshot.</p>"
+            "content": "<h3>A Complete AI and SEO Audit, Page by Page</h3><p>SEO + AI AUDIT · INTERNAL DEMO SHOWCASE</p><p>A comprehensive audit of the Content Cucumber commerce demo (shopware.contentcucumber.com), a fictional 1826 B2B cucurbit and brining-stock trade catalog. It is fast, well-built, and beautifully written, and it is completely invisible to the AI answer layer. That contrast is the entire point of the demo. AUDIT DATE 2026-05-17 shopware.contentcucumber.com homepage as captured 2026-05-17. Audit findings reference this snapshot.</p>"
         },
         {
             "id": "the-short-version",
@@ -119,7 +119,7 @@
             },
             {
                 "question": "Can I get one for my site?",
-                "answer": "Yes. The sample audit page lets you request one with your URL, and a real person on our team runs and reviews every audit before it goes out."
+                "answer": "Yes. The sample audit page lets you request one with your URL, and a person on our team runs and reviews each audit before it goes out."
             }
         ]
     }

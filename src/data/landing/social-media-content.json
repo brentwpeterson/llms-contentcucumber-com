@@ -17,7 +17,8 @@
         "og_type": "website",
         "twitter_card": "summary_large_image",
         "noindex": false,
-        "nofollow": false
+        "nofollow": false,
+        "canonical_path": "/services/content-creation/social-media-content/"
     },
     "sections": [
         {
@@ -37,8 +38,10 @@
                 "items": [
                     {
                         "icon": "share",
-                        "title": "LinkedIn Thought Leadership",
-                        "text": "Position your leadership team as industry voices. Long-form posts, articles, and commentary that build professional credibility and generate B2B leads."
+                        "title": "LinkedIn for Your Company Page",
+                        "text": "Posts, articles and commentary published by the brand account, written for a B2B audience that checks the company page before it checks the website.",
+                        "link": "/services/content-creation/linkedin-thought-leadership/",
+                        "link_text": "Executive profiles"
                     },
                     {
                         "icon": "palette",
@@ -135,15 +138,19 @@
                     },
                     {
                         "question": "Do you post the content or just write it?",
-                        "answer": "We write and schedule the content. For clients using HubSpot, we publish directly through the Social tool. For other platforms, we deliver the content calendar and copy for your team to post."
+                        "answer": "We write and schedule the content. For clients using HubSpot, we publish directly through the Social tool. For other platforms, we deliver the content calendar and copy for your team to post. We do not publish from a founder or executive's personal LinkedIn profile, which stays in their hands."
                     },
                     {
                         "question": "How many posts per month do I get?",
-                        "answer": "Typical plans include 12-20 posts per month across your chosen platforms. Volume depends on your goals and which platforms you're active on."
+                        "answer": "Typical plans include 12-20 posts per month for your brand accounts across your chosen platforms. Volume depends on your goals and which platforms you are active on."
                     },
                     {
                         "question": "Can you repurpose our blog content for social?",
                         "answer": "Yes. This is one of our most popular services. We take your existing blog posts, podcast episodes, or video content and extract social-ready content from them."
+                    },
+                    {
+                        "question": "Can you write my CEO's LinkedIn?",
+                        "answer": "Yes, as a separate service. Writing under a person's own name starts with an interview with that person and gets its own voice profile, so it runs differently from brand-account work. Look for LinkedIn thought leadership under Content Creation."
                     }
                 ],
                 "title": "Frequently Asked Questions"

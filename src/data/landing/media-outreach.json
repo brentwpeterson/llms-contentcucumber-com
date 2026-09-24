@@ -67,11 +67,11 @@
                         "badge": "Most Popular",
                         "featured": true,
                         "target": "A full-length conversation your client can use across every channel. You keep the raw footage, and your client gets exposure across their channels.",
-                        "price": "$100",
+                        "price": "$200",
                         "form_modal": {
                             "heading": "Book a Deep Dive for Your Client",
-                            "subtitle": "15-minute in-depth interview. $100 per session.",
-                            "button_text": "Book Now - $100",
+                            "subtitle": "15-minute in-depth interview. $200 per session.",
+                            "button_text": "Book Now - $200",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
                             "region": "na1"
@@ -117,7 +117,7 @@
                     {
                         "number": "01",
                         "title": "Pick Packages for Your Clients",
-                        "text": "Choose Spotlight (free), Deep Dive ($100), or Full Content Package (custom) for each client attending the conference. Fill out the form and we confirm the slots."
+                        "text": "Choose Spotlight (free), Deep Dive ($200), or Full Content Package (custom) for each client attending the conference. Fill out the form and we confirm the slots."
                     },
                     {
                         "number": "02",
@@ -147,7 +147,7 @@
                     },
                     {
                         "question": "How does billing work for agencies?",
-                        "answer": "Spotlight interviews are free. Deep Dive is $100 per interview, billed to your agency. Full Content Packages are custom-quoted based on scope. No contracts, no minimums, no recurring fees."
+                        "answer": "Spotlight interviews are free. Deep Dive is $200 per interview, billed to your agency. Full Content Packages are custom-quoted based on scope. No contracts, no minimums, no recurring fees."
                     },
                     {
                         "question": "What's the turnaround?",
