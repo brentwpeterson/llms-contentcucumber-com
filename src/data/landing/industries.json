@@ -103,6 +103,13 @@
                     "short": "Financial"
                 },
                 {
+                    "name": "B2B payments",
+                    "status": "live",
+                    "url": "/industries/payments/",
+                    "blurb": "Interchange, net terms, ACH rules, and what the card networks let you claim.",
+                    "short": "Payments"
+                },
+                {
                     "name": "Specialty food makers",
                     "status": "live",
                     "url": "/industries/specialty-food/",

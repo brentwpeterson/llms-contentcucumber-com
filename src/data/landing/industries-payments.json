@@ -1,0 +1,277 @@
+{
+    "seo": {
+        "title": "Payment Content for the Payments Industry",
+        "meta_description": "Content for B2B payments companies that reads like it came from inside the industry, with interchange, net terms, ACH rules, and embedded payments handled right, and a subject matter expert behind the work.",
+        "og_description": "Content for B2B payments companies that reads like it came from inside the industry, with interchange, net terms, ACH rules, and embedded payments handled right, and a subject matter expert behind the work.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you publish",
+        "subtitle": "Send your site and the argument you want to own. We will scope a first paper and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-payments"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your work and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "industries-assets/payments-hero.webp",
+                "eyebrow": "Industries",
+                "title": "Payment content<br>for the<br><em>Payments Industry</em>",
+                "paragraphs": [
+                    "A payments buyer can tell inside a paragraph whether the writer has read a rate table, handled an ACH return, or watched a chargeback dispute play out, and much of the marketing copy in this industry reads like it was assembled from a competitor's homepage.",
+                    "Your interchange explainer, your net terms page, your partner content, and your long-form papers come out sounding like your own product team wrote them, because a subject matter expert stands behind the work, either one we bring in or the product or risk lead on your side, and your team approves the piece before it publishes."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What goes wrong when a generalist writes it",
+                "subtitle": "The expensive mistakes in payments read like ordinary marketing copy on the way out the door.",
+                "items": [
+                    {
+                        "image": "industries-assets/payments-c1.webp",
+                        "title": "Approval rates written as a promise",
+                        "text": "A paper that guarantees higher authorization rates or an end to chargebacks has made a claim the card networks and the FTC both take an interest in, and a merchant who has run a dispute program hears the promise for what it is."
+                    },
+                    {
+                        "image": "industries-assets/payments-c2.webp",
+                        "title": "Interchange explained from memory",
+                        "text": "Interchange plus, tiered, and flat rate get described as if they were three prices instead of three ways of passing the same cost through, and the controller reading the paper has the latest statement open in another tab."
+                    },
+                    {
+                        "image": "industries-assets/payments-c3.webp",
+                        "title": "Net terms sold as a feature",
+                        "text": "Trade credit is a credit decision, with underwriting, risk, and a cost of capital behind it, and copy that treats it as a checkbox on a checkout page loses the finance reader the paper was written for."
+                    },
+                    {
+                        "image": "industries-assets/payments-c4.webp",
+                        "title": "Research nobody can defend",
+                        "text": "A survey with no stated method, a sample nobody sized, and a percentage that rounds up gets quoted back to your sales team by a prospect who did the math, which is the opposite of what the study was for."
+                    }
+                ]
+            },
+            "variant": "alternating"
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Who writes it",
+                "title": "Human writers, and an editor on every piece",
+                "paragraphs": [
+                    "Content Cucumber staffs human writers and puts an editor on every piece before it reaches you, so nothing arrives generated and handed over unread.",
+                    "We assign writers to your account and keep them there, so the person writing the third paper already carries your positions and your language. We do not present writers as payments compliance officers or risk underwriters, which is why a subject matter expert stands behind each paper, either one we bring in or your product, risk, or partnerships lead."
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What our writers already know",
+                "subtitle": "A generalist looks this up once the draft is due, and it is where a payments writer starts.",
+                "items": [
+                    {
+                        "icon": "shield",
+                        "title": "Card network and surcharging rules",
+                        "text": "What Visa and Mastercard permit on surcharges, cash discounts, and claims, which vary by state and change on a schedule marketers do not follow."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Interchange and pricing models",
+                        "text": "Interchange plus, tiered, flat rate, and the effective rate a controller computes from the statement, written so the numbers survive that check."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Net terms, trade credit, and AR",
+                        "text": "Underwriting, days sales outstanding, and the cost of carrying receivables, which is the language a CFO uses to decide whether your product is worth a meeting."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "ACH, NACHA rules, and returns",
+                        "text": "Same day windows, return codes, and the difference between a failed payment and a disputed one, because a paper that blurs them loses the operations reader."
+                    },
+                    {
+                        "icon": "code",
+                        "title": "Embedded payments and the PayFac line",
+                        "text": "Where a software company stops being a referral partner and starts carrying underwriting and risk, and what that means for the ISV reading your paper."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "PCI scope and tokenization",
+                        "text": "What tokenization takes out of scope and what it does not, so the security claim in the paper is one your compliance lead will sign."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "Payments copy sounds the same from one provider to the next",
+                "blocks": [
+                    {
+                        "paragraphs": [
+                            "Faster approvals, lower cost, embedded everything. A merchant, a controller, or a software partner reading the third payments homepage of the afternoon cannot tell the providers apart, and the piece that reads like it came from someone who has worked a return file is the one that gets remembered, forwarded, and cited.",
+                            "That fluency is the part a prompt cannot produce, which is why payments work goes to writers who have it, with a subject matter expert behind the piece, whether the piece is a blog post, a partner page, or a long-form paper with a number nobody else has."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "outcomes",
+            "data": {
+                "title": "Found in AI search because an expert wrote it",
+                "subtitle": "Answer engines quote passages they can lift without the passage falling apart, and vague copy does not clear that bar.",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "The answer comes first",
+                        "text": "Sections that open with the answer, which is the shape an engine can quote and a buyer can skim."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Specific enough to quote",
+                        "text": "Named rates, named rules, and named metrics, because a passage with nothing concrete in it gives a model nothing to cite."
+                    },
+                    {
+                        "icon": "users",
+                        "title": "Written the way your buyer asks",
+                        "text": "A controller or a partnerships lead at a software company searches in their own words, and the heading that matches the question is the one that gets surfaced."
+                    },
+                    {
+                        "icon": "growth",
+                        "title": "Passages that stand alone",
+                        "text": "Each section holds up on its own, so a citation points at something that still reads right out of context."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "data": {
+                "title": "Where payments companies start",
+                "subtitle": "Long-form is what payments companies ask us for first, so the three packages below are built around a paper. Blog, partner, and product content sit alongside on the Flywheel Plan.",
+                "items": [
+                    {
+                        "name": "Focused Paper",
+                        "target": "One argument your company wants to own",
+                        "outcome": "A long-form paper built around that argument, with your expert's point of view and each claim sourced",
+                        "outcomes": [
+                            "An interview with your subject matter expert",
+                            "Claims sourced and checked against the rules as they read",
+                            "A designed PDF in your brand, ready to gate or send"
+                        ]
+                    },
+                    {
+                        "name": "Paper Program",
+                        "target": "Companies that want the paper to work for sales, partners, and media at once",
+                        "outcome": "The paper in two versions, plus the content that launches it",
+                        "featured": true,
+                        "badge": "Recommended",
+                        "outcomes": [
+                            "Everything in the Focused Paper",
+                            "One version branded for sales and one neutral for partners and media",
+                            "Three or four blog posts pulled from the paper, and the download page copy",
+                            "A LinkedIn launch run"
+                        ]
+                    },
+                    {
+                        "name": "Research-Backed Study",
+                        "target": "Companies that want a number nobody else has",
+                        "outcome": "Original research with a benchmark section buyers forward to their boss",
+                        "outcomes": [
+                            "A survey or structured interviews with B2B merchants and finance leaders",
+                            "A comparison or benchmark section",
+                            "The full Paper Program",
+                            "A Talk Commerce episode with your executive to launch it"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "Your argument, and how the paper ships",
+                "subtitle": "An expert informs the paper, a writer writes it, and your team approves it.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We read what you publish",
+                        "text": "The papers and posts you have published, your brand guide if you have one, and the companies you get compared to, which becomes a style sheet the writers work from."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We agree the argument",
+                        "text": "One position the paper exists to prove, who it is meant to reach, and what the reader does after the last page, settled before an outline exists."
+                    },
+                    {
+                        "number": "03",
+                        "title": "We name the subject matter expert",
+                        "text": "Either someone we bring in from payments or your product, risk, or partnerships lead, agreed before the writing starts, so you know whose expertise sits behind the paper."
+                    },
+                    {
+                        "number": "04",
+                        "title": "A writer is assigned and stays",
+                        "text": "The same people write for you paper after paper, so your positions carry forward from one brief to the next."
+                    },
+                    {
+                        "number": "05",
+                        "title": "An editor reads it, then your team approves it",
+                        "text": "The draft arrives on your schedule for the compliance and product read, because in payments the last word belongs to the company whose name is on the cover."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions we get asked",
+                "items": [
+                    {
+                        "question": "Do you write for payments companies or for merchants?",
+                        "answer": "For payments companies. The reader of the paper is a merchant, a finance leader, or a software partner, so we write to that reader in the voice of the company sponsoring the paper."
+                    },
+                    {
+                        "question": "Can the paper claim our approval rates or savings?",
+                        "answer": "Yes, as reporting, with the method and the qualification sitting next to the number, and your compliance lead approves the phrasing before it publishes."
+                    },
+                    {
+                        "question": "Do you do original research?",
+                        "answer": "Yes. A research-backed study runs a survey or structured interviews with B2B merchants and finance leaders, states the method in the paper, and gives you a benchmark section nobody else can publish."
+                    },
+                    {
+                        "question": "Who is the subject matter expert?",
+                        "answer": "Either someone we bring in from payments or a lead on your side, agreed before the writing starts. We do not present our writers as compliance officers or underwriters."
+                    },
+                    {
+                        "question": "Can our partners use the paper?",
+                        "answer": "The Paper Program produces a neutral version for partners and media alongside the branded version for sales, so an ISV or an ERP partner can share it without it reading as your ad."
+                    },
+                    {
+                        "question": "How long does a paper take?",
+                        "answer": "It depends on the tier and on how soon your expert can sit for an interview, and we set the delivery date when we scope the paper, so you know the date before the work starts."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Give payments buyers content that sounds like their industry",
+                "text": "Tell us what you publish and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

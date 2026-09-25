@@ -1,0 +1,182 @@
+{
+    "seo": {
+        "title": "Website Accessibility and Speed Audit - Content Cucumber",
+        "meta_description": "Accessibility, mobile speed and Agentic Browsing audit for your website. WCAG 2.2 AA and Core Web Vitals checks, failures traced to their source, and a ranked fix list.",
+        "og_description": "We test your site for people using screen readers, buyers on phones and AI agents, then trace each failure to the template or setting that causes it.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "form": {
+        "header": "Request Your Accessibility Audit",
+        "subtitle": "Send us your URL and we will scan it at phone and desktop width.",
+        "trust_text": "HubSpot Solutions Partner. Tested on our own site first.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "accessibility-audit"
+    },
+    "thankyou": {
+        "title": "Your audit request is in",
+        "text": "We will run the first scan on your site and reach out with what we find."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "audit-assets/accessibility-audit-hero.webp",
+                "title": "Accessibility Audits<br><em><span style=\"font-size:1.142em;color:#f97316\"><span style=\"color:#fff\">For</span> AI Agents <span style=\"color:#fff\">and</span><br><span style=\"font-size:2.223em\">Humans</span></span></em>",
+                "paragraphs": [
+                    "People reach your site with screen readers and keyboards, on phones and tablets with weak signals, and AI agents open your pages to answer a question or finish a task for someone.",
+                    "We test your site at phone and desktop width, against WCAG 2.2 AA, Core Web Vitals and the Agentic Browsing checks in Google Lighthouse, then we trace each failure back to the template or setting that causes it so the fix happens once."
+                ]
+            }
+        },
+        {
+            "type": "longform",
+            "data": {
+                "title": "Why Your Site Needs an Accessibility Audit",
+                "lede": "Your site serves visitors you don't see, people using screen readers and keyboards, buyers on phones with a weak signal, and AI agents acting on behalf of someone else.",
+                "blocks": [
+                    {
+                        "heading": "AI agents read the same structure a screen reader does",
+                        "paragraphs": [
+                            "When an AI agent opens your page to compare vendors or fill in a form for a buyer, the agent works from the accessibility tree, the labeled links, headings, buttons and image text that screen readers use. Google Lighthouse now scores how well agents can use a page, in a category called Agentic Browsing."
+                        ]
+                    },
+                    {
+                        "heading": "Slow pages lose the visit on a phone",
+                        "paragraphs": [
+                            "A buyer who taps your link on a phone waits for tag managers, chat widgets and form scripts to load before your headline appears, and a page that stalls on a weak signal loses that buyer before your message shows up."
+                        ]
+                    },
+                    {
+                        "heading": "Accessibility carries legal exposure",
+                        "paragraphs": [
+                            "Websites are a regular subject of ADA claims in the US, and the European Accessibility Act has applied to many businesses selling into the EU since June 2025. An audit gives you a record of what was found and what was fixed."
+                        ]
+                    },
+                    {
+                        "heading": "The failures don't show up on your own screen",
+                        "paragraphs": [
+                            "You review your site on a fast laptop with a mouse, which hides low-contrast text, links with no name and tables a keyboard can't reach. The visitors and agents who hit those failures leave without telling you."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What the Audit Covers",
+                "subtitle": "Checks run in a real Chrome browser on the URLs in your sitemap.",
+                "items": [
+                    {
+                        "icon": "globe",
+                        "title": "Agentic Browsing",
+                        "text": "The Lighthouse category for AI agents checks whether software can make sense of your accessibility tree, whether the layout holds still while it loads, and whether an llms.txt file points agents at the content you want read."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Accessibility, WCAG 2.2 AA",
+                        "text": "Color contrast, link names, image alt text, keyboard access to scrolling tables, heading order and tap target size, checked with axe-core, the engine behind the accessibility score in Lighthouse."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Mobile Speed and Core Web Vitals",
+                        "text": "Load time, layout shift and blocking time measured on a phone connection, with the scripts, images and stylesheets that slow you down ranked by cost."
+                    },
+                    {
+                        "icon": "code",
+                        "title": "Third-Party Scripts",
+                        "text": "Tag managers, chat widgets, form embeds and testing tools that load before your content. We show what each one costs and how to delay it while tracking keeps working."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Templates and Shared Elements",
+                        "text": "One link color in your theme settings or one sidebar widget can fail hundreds of pages. We group failures by where they come from, so you fix a handful of sources instead of a thousand pages."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Content-Level Fixes",
+                        "text": "Missing alt text, empty links left over from old imports, posts with no author and broken screenshots. On WordPress sites running the RequestDesk Connector, we fix these in bulk."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "Tested on our own site",
+                "title": "We Practice What We Preach",
+                "paragraphs": [
+                    "Before we offered this audit to anyone, we ran the audit on contentcucumber.com, and the first scan found accessibility failures on nearly every page of our own site. The bulk of them traced back to a handful of shared sources, a link color in the theme settings, a green button style, icon links in a sidebar widget and an author box on posts whose author had been deleted.",
+                    "We fixed those sources, cleaned up the content the templates could not reach, and rescanned the site at phone and desktop width until the scan came back clean. The same work got our homepage loading in under three seconds on a phone, and the audit we run on your site is the one we ran on ours."
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "variant": "timeline",
+            "data": {
+                "title": "How the Audit Works",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "Scan the Site",
+                        "text": "We load the URLs in your sitemap at phone and desktop width in a real Chrome browser and run the accessibility, speed and Agentic Browsing checks on each one."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Trace Failures to Their Source",
+                        "text": "We group the results by the template, setting or shared block that produces them, so you see the short list of sources behind the long list of pages."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Fix or Hand Off",
+                        "text": "You get a ranked fix list. On WordPress we can make the theme and content fixes ourselves, and for other platforms we write the fixes up for your developers."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Rescan and Confirm",
+                        "text": "After the fixes go live we scan the site again past the page cache and show you the before and after numbers side by side."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Frequently Asked Questions",
+                "items": [
+                    {
+                        "question": "What is Agentic Browsing?",
+                        "answer": "Agentic Browsing is an experimental category in Google Lighthouse that checks how well AI agents can read and use a page. It looks at the accessibility tree, layout stability and llms.txt, and it reports WebMCP and ai-catalog.json support on sites that offer them."
+                    },
+                    {
+                        "question": "Why does accessibility matter for AI search?",
+                        "answer": "AI agents read a page through much of the same structure a screen reader uses, labeled links, real headings and text alternatives for images. A page that works for a screen reader gives an agent less to guess about."
+                    },
+                    {
+                        "question": "Is this an ADA compliance certification?",
+                        "answer": "No. The audit tests against WCAG 2.2 AA with automated checks in a real browser, plus a look at the spots automated tools skip, such as text over gradient backgrounds, and it gives you a record of what was found and fixed. Legal compliance is a question for your attorney."
+                    },
+                    {
+                        "question": "Which platforms do you work with?",
+                        "answer": "The scan works on any public website. We make fixes ourselves on WordPress, and we write up fixes for Shopify, Magento, BigCommerce and custom builds."
+                    },
+                    {
+                        "question": "How long does it take?",
+                        "answer": "Our own site, about 950 URLs, took three days from first scan to a clean rescan, with the fixes included. Timing for your site depends on page count and how fast fixes can ship."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Get the Fix List for Your Site",
+                "text": "Send us your URL and we will scan it at phone and desktop width, then show you the sources behind the failures."
+            }
+        }
+    ]
+}
