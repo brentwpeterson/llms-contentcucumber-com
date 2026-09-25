@@ -43,6 +43,17 @@
             "link_text": "Learn more about Technical SEO Audits"
         },
         {
+            "id": "accessibility-audit",
+            "title": "Accessibility Audit",
+            "content": [
+                "An audit of how AI agents and people using screen readers, keyboards and phones get through your site, tested against WCAG 2.2 AA, Core Web Vitals and the Agentic Browsing checks in Google Lighthouse.",
+                "We trace each failure back to the template, setting or shared block that causes it, so a handful of fixes clears the problem across the site instead of page by page.",
+                "We ran the audit on contentcucumber.com first, and on WordPress sites we can make the fixes ourselves."
+            ],
+            "link_url": "/accessibility-audit/",
+            "link_text": "Learn more about Accessibility Audits"
+        },
+        {
             "id": "ai-citation-audit",
             "title": "AI Citation Audit",
             "content": [
