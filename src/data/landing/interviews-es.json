@@ -2,8 +2,8 @@
     "seo": {
         "og_type": "website",
         "twitter_card": "summary_large_image",
-        "meta_description": "Reserva una entrevista profesional para podcast en tu próxima conferencia de ecommerce, ya sea Spotlight gratis de 3 minutos, Deep Dive de $200 USD o el paquete de contenido completo. Talk Commerce graba y Content Cucumber escribe.",
-        "og_description": "Talk Commerce te entrevista en cámara durante la conferencia y Content Cucumber lo convierte en artículos, clips para redes y casos de éxito. Paquetes gratis, de $200 USD o a la medida.",
+        "meta_description": "Reserva una entrevista profesional para podcast en tu próxima conferencia de ecommerce, ya sea Spotlight gratis de 3 minutos, Deep Dive de $300 USD o el paquete de contenido completo. Talk Commerce graba y Content Cucumber escribe.",
+        "og_description": "Talk Commerce te entrevista en cámara durante la conferencia y Content Cucumber lo convierte en artículos, clips para redes y casos de éxito. Paquetes gratis, de $300 USD o a la medida.",
         "og_image": ""
     },
     "form": {
@@ -25,8 +25,14 @@
                 "title": "Una entrevista.<br><em>Meses de contenido</em>.",
                 "paragraphs": [
                     "Talk Commerce graba una entrevista de podcast con calidad profesional con tu equipo, ahí mismo en la conferencia. Después, los más de 40 redactores de Content Cucumber convierten esa plática en artículos para blog, clips para redes, casos de éxito y contenido SEO.",
-                    "Hay tres paquetes y solo 8 entrevistas por evento, y las entrevistas pagadas se agendan primero. <a href=\"/conference-coverage/\">Conoce nuestro servicio completo de video en conferencias</a>."
+                    "Hay tres paquetes y solo 8 entrevistas por evento, y las entrevistas pagadas se agendan primero. <a href=\"/es/video-de-conferencias/\">Conoce nuestro servicio completo de video en conferencias</a>."
                 ]
+            }
+        },
+        {
+            "type": "event-banner",
+            "data": {
+                "kicker": "Próximo evento"
             }
         },
         {
@@ -61,11 +67,11 @@
                         "badge": "El más solicitado",
                         "featured": true,
                         "target": "Una conversación completa para contar tu historia, explicar tu producto y dar tu punto de vista sobre la industria.",
-                        "price": "$200 USD",
+                        "price": "$300 USD",
                         "form_modal": {
                             "heading": "Reserva tu entrevista Deep Dive",
-                            "subtitle": "Entrevista a fondo de 15 minutos. $200 USD por sesión.",
-                            "button_text": "Reservar ahora ($200 USD)",
+                            "subtitle": "Entrevista a fondo de 15 minutos. $300 USD por sesión.",
+                            "button_text": "Reservar ahora ($300 USD)",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
                             "region": "na1"
@@ -73,10 +79,13 @@
                         "outcomes": [
                             "Entrevista a fondo de 15 minutos",
                             "Publicada como episodio completo del podcast",
+                            "Video de YouTube incluido",
                             "Varios clips editados para redes sociales",
                             "Incluye tomas de apoyo (B-roll) de tu stand",
                             "Material en bruto entregado a tu equipo"
-                        ]
+                        ],
+                        "cta_url": "https://meetings.hubspot.com/isaac-morey/deep-dive-event?uuid=54801004-99fe-4230-83f9-e9b1004d72a2",
+                        "cta_label": "Reservar ahora ($300 USD)"
                     },
                     {
                         "name": "Paquete de contenido completo",
@@ -103,6 +112,34 @@
             }
         },
         {
+            "type": "video-grid",
+            "data": {
+                "title": "Entrevistas desde el piso del evento",
+                "subtitle": "Conversaciones recientes de Talk Commerce, grabadas en cámara durante la conferencia.",
+                "videos": [
+                    {
+                        "youtube_id": "EDwCa4c-zwI",
+                        "title": "Why Health Nutrition Stopped Being a Niche Category with Catherine Hayden",
+                        "label": "eTail"
+                    },
+                    {
+                        "youtube_id": "CrFXNPPz0Zc",
+                        "title": "Plaid for Retail with Allison Reilly of Closai",
+                        "start": 46
+                    },
+                    {
+                        "youtube_id": "bIVrEDzfvHE",
+                        "title": "AI Slop is REAL"
+                    },
+                    {
+                        "youtube_id": "7kskgrQTLWg",
+                        "title": "Own What an AI Cannot Copy with Mark Stanley of Shopware",
+                        "start": 367
+                    }
+                ]
+            }
+        },
+        {
             "type": "how-it-works",
             "data": {
                 "title": "Así funciona",
@@ -111,7 +148,7 @@
                     {
                         "number": "01",
                         "title": "Elige tu paquete",
-                        "text": "Escoge Spotlight (gratis), Deep Dive ($200 USD) o el paquete de contenido completo (a la medida). Llenas el formulario y te confirmamos tu horario."
+                        "text": "Escoge Spotlight (gratis), Deep Dive ($300 USD) o el paquete de contenido completo (a la medida). Llenas el formulario y te confirmamos tu horario."
                     },
                     {
                         "number": "02",

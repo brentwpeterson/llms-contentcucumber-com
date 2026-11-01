@@ -2,8 +2,8 @@
     "seo": {
         "og_type": "website",
         "twitter_card": "summary_large_image",
-        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $200 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
-        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $200, or custom packages.",
+        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $300 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
+        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $300, or custom packages.",
         "og_image": ""
     },
     "form": {
@@ -25,8 +25,15 @@
                 "title": "One interview.<br><em>Months of content</em>.",
                 "paragraphs": [
                     "Talk Commerce records a professional podcast interview with your team at the conference. Content Cucumber's 40+ writers turn that conversation into blog articles, social clips, case studies, and SEO content.",
-                    "Three packages. Limited to 8 interviews per event, with paid interviews booked first. <a href=\"/conference-coverage/\">See our full conference video production service</a>."
+                    "Three packages. Limited to 8 interviews per event, with paid interviews booked first. <a href=\"/conference-coverage/\">See our full conference video production service</a>.",
+                    "Interviews can be done in Spanish if you prefer."
                 ]
+            }
+        },
+        {
+            "type": "event-banner",
+            "data": {
+                "kicker": "Next up"
             }
         },
         {
@@ -61,11 +68,11 @@
                         "badge": "Most Popular",
                         "featured": true,
                         "target": "A full-length conversation. Tell your story, explain your product, and share your perspective on the industry.",
-                        "price": "$200",
+                        "price": "$300",
                         "form_modal": {
                             "heading": "Book Your Deep Dive Interview",
-                            "subtitle": "15-minute in-depth interview. $200 per session.",
-                            "button_text": "Book Now - $200",
+                            "subtitle": "15-minute in-depth interview. $300 per session.",
+                            "button_text": "Book Now - $300",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
                             "region": "na1"
@@ -73,10 +80,13 @@
                         "outcomes": [
                             "15-minute in-depth interview",
                             "Published as a full podcast episode",
+                            "YouTube video included",
                             "Multiple edited clips for social media",
                             "B-roll footage of your booth included",
                             "Raw footage delivered to your team"
-                        ]
+                        ],
+                        "cta_url": "https://meetings.hubspot.com/isaac-morey/deep-dive-event?uuid=54801004-99fe-4230-83f9-e9b1004d72a2",
+                        "cta_label": "Book Now - $300"
                     },
                     {
                         "name": "Full Content Package",
@@ -103,6 +113,34 @@
             }
         },
         {
+            "type": "video-grid",
+            "data": {
+                "title": "Interviews From the Floor",
+                "subtitle": "Recent Talk Commerce conversations, recorded on camera at the conference.",
+                "videos": [
+                    {
+                        "youtube_id": "EDwCa4c-zwI",
+                        "title": "Why Health Nutrition Stopped Being a Niche Category with Catherine Hayden",
+                        "label": "eTail"
+                    },
+                    {
+                        "youtube_id": "CrFXNPPz0Zc",
+                        "title": "Plaid for Retail with Allison Reilly of Closai",
+                        "start": 46
+                    },
+                    {
+                        "youtube_id": "bIVrEDzfvHE",
+                        "title": "AI Slop is REAL"
+                    },
+                    {
+                        "youtube_id": "7kskgrQTLWg",
+                        "title": "Own What an AI Cannot Copy with Mark Stanley of Shopware",
+                        "start": 367
+                    }
+                ]
+            }
+        },
+        {
             "type": "how-it-works",
             "data": {
                 "title": "How It Works",
@@ -111,7 +149,7 @@
                     {
                         "number": "01",
                         "title": "Pick Your Package",
-                        "text": "Choose Spotlight (free), Deep Dive ($200), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
+                        "text": "Choose Spotlight (free), Deep Dive ($300), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
                     },
                     {
                         "number": "02",

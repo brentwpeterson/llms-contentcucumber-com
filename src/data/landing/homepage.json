@@ -28,10 +28,13 @@
                 "accent_color": "#FFD500",
                 "text_color": "#ffffff",
                 "visual": {
-                    "image": "/wp-content/themes/cucumber-gp-child/landing-data/report-fan.webp",
-                    "image_alt": "Three Content Cucumber flagship reports: B2B Commerce Trends and Opportunities, The Winning Blueprint for Enterprise Commerce, and Lost in the Forest of Composable Commerce",
-                    "image_width": 2000,
-                    "image_height": 2000,
+                    "video": "/wp-content/themes/cucumber-gp-child/landing-data/humans-wrote-it.mp4",
+                    "poster": "/wp-content/themes/cucumber-gp-child/landing-data/humans-wrote-it-poster.jpg",
+                    "video_label": "Brent Peterson and a Talk Commerce guest talk about how the Content Cucumber team interviewed and wrote the B2B Commerce Trends report themselves",
+                    "video_source": "cc",
+                    "video_note": "Talk Commerce clip, Brent on writing the B2B Commerce Trends report, 79s, YouTube yw-XQbKER-g",
+                    "video_width": 960,
+                    "video_height": 540,
                     "position": "right"
                 }
             }

@@ -45,6 +45,23 @@
             }
         },
         {
+            "type": "video-embed",
+            "data": {
+                "youtube_id": "yw-XQbKER-g",
+                "title": "How the B2B Commerce Trends Report was written",
+                "description": "Brent Peterson on Talk Commerce explaining how nine interviews across seven firms became the B2B Commerce Trends Report, written by Isaac Morey and Brent at Content Cucumber.",
+                "aspect": "16x9",
+                "label": "From Talk Commerce",
+                "heading": "We interviewed nine people and <em>wrote the report ourselves</em>",
+                "paragraphs": [
+                    "Brent Peterson explains how the report got made. Nine conversations with the system integrators, agencies, and technology providers who deliver B2B commerce projects, then Isaac Morey and Brent sat down and wrote it from those conversations."
+                ],
+                "caption": "79 seconds from Talk Commerce",
+                "video_source": "cc",
+                "video_note": "Talk Commerce clip, Brent on writing the B2B Commerce Trends report, 79s, YouTube yw-XQbKER-g"
+            }
+        },
+        {
             "type": "banner-image",
             "data": {
                 "src": "/wp-content/themes/cucumber-gp-child/landing-data/b2b-commerce-trends-report-banner.jpg",
