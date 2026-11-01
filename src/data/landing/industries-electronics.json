@@ -1,0 +1,170 @@
+{
+    "seo": {
+        "title": "Electronics Content Writing for Specs, Compatibility and Setup",
+        "meta_description": "Comparison pages, compatibility guides and setup content for electronics brands and retailers, written by people who explain what a spec means.",
+        "og_description": "Comparison pages, compatibility guides and setup content for electronics brands and retailers, written by people who explain what a spec means.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": true,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us about your products",
+        "subtitle": "Send your site and the products you sell. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-electronics"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your business and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Industries",
+                "title": "Electronics content that explains <em>what the spec means</em>",
+                "paragraphs": [
+                    "A buyer shopping for a monitor, a router, or a set of headphones meets a wall of numbers, refresh rates, throughput, impedance, and asks the question the spec sheet leaves unanswered, which is whether the product works with the gear already at home.",
+                    "We write the comparison pages, the compatibility guides, and the setup content that answer that question, with writers who read the spec and translate it for the person buying, and your team checks each page against the product before it goes live."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Where electronics content loses the buyer",
+                "subtitle": "A buyer in this category worries about buying the wrong thing, and the page that settles the worry wins the sale.",
+                "items": [
+                    {
+                        "title": "Specs without translation",
+                        "text": "A page lists numbers a specialist understands and leaves a regular buyer unsure whether the product does what the buyer needs.",
+                        "text2": "A plain line beside each key spec, written as what the buyer will notice, turns the numbers into a decision."
+                    },
+                    {
+                        "title": "Compatibility left to guesswork",
+                        "text": "A buyer wants to know whether a charger fits a phone or a speaker pairs with a TV, and the page says nothing.",
+                        "text2": "A compatibility section with clear yes and no answers removes the doubt that sends buyers to a forum."
+                    },
+                    {
+                        "title": "Setup guides that assume expertise",
+                        "text": "An owner unboxes a device and finds a guide written for an engineer, then returns the device.",
+                        "text2": "A setup guide in plain steps, tied to the exact model, cuts support calls and returns."
+                    },
+                    {
+                        "title": "Comparisons that pick no winner",
+                        "text": "A page lays two products side by side and does not say which one suits which buyer.",
+                        "text2": "A comparison that names the buyer each product suits gives a shopper a clear next step."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What we write for an electronics brand or retailer",
+                "subtitle": "Six kinds of pages around the question of whether a product fits.",
+                "items": [
+                    {
+                        "icon": "chart",
+                        "title": "Comparison pages",
+                        "text": "Side-by-side pages that say which product suits which buyer and why."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Compatibility guides",
+                        "text": "Pages that answer what works with what, in clear yes and no terms."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Product pages",
+                        "text": "Descriptions that translate specs into what a buyer will notice."
+                    },
+                    {
+                        "icon": "code",
+                        "title": "Setup and troubleshooting content",
+                        "text": "Step-by-step guides tied to each model, written for a first-time owner."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Buying guides",
+                        "text": "Guides built on the questions buyers ask, opening with the answer."
+                    },
+                    {
+                        "icon": "mail",
+                        "title": "Launch and firmware email",
+                        "text": "Email for new products, updates, and accessories that reads like a person wrote it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "From product to published page",
+                "subtitle": "Your engineers know the product, and the writing starts with them.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We interview your engineers",
+                        "text": "A conversation with the people who built the product, so the page states what the product does and where the product stops."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We list the questions buyers ask",
+                        "text": "Support tickets and search data show where buyers get stuck."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer learns the category",
+                        "text": "The same writer covers a product family, so terms and claims stay consistent."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Technical check, then approval",
+                        "text": "Your team checks each page against the product, and nothing publishes until you approve it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions electronics brands and retailers ask",
+                "items": [
+                    {
+                        "question": "Can your writers handle technical products?",
+                        "answer": "Our writers work from your spec sheets and from conversations with your engineers, and your team checks each page for accuracy before publication."
+                    },
+                    {
+                        "question": "Can you write compatibility content that stays current?",
+                        "answer": "Yes. We write compatibility pages around a table your team can update, so the copy holds when a new model arrives."
+                    },
+                    {
+                        "question": "Do you write support documentation?",
+                        "answer": "We write setup and troubleshooting pages for owners. Formal manuals that carry legal or safety text stay with your team."
+                    },
+                    {
+                        "question": "Can you write comparison pages for competing brands?",
+                        "answer": "Yes. A retailer needs comparisons across brands, and we keep the comparisons factual and sourced."
+                    },
+                    {
+                        "question": "What do you need to start?",
+                        "answer": "Your spec sheets and the product families you want to push first, and we scope a first month from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Tell the buyer whether it works with what they own",
+                "text": "Tell us about your products, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

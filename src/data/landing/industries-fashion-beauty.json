@@ -1,0 +1,170 @@
+{
+    "seo": {
+        "title": "Fashion and Beauty Content Writing for Fit, Fabric and Ingredients",
+        "meta_description": "Product descriptions, size and shade guides, ingredient explainers and collection stories for fashion and beauty brands, written by people who sell what a screen cannot show.",
+        "og_description": "Product descriptions, size and shade guides, ingredient explainers and collection stories for fashion and beauty brands, written by people who sell what a screen cannot show.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": true,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us about your line",
+        "subtitle": "Send your site and the products you sell. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-fashion-beauty"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your business and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Industries",
+                "title": "Fashion and beauty content that answers <em>how it fits and what is in it</em>",
+                "paragraphs": [
+                    "A shopper cannot touch the fabric, try on the cut, or test the shade, so the page has to stand in for the fitting room and the counter, saying how the jacket sits across the shoulders, whether a foundation suits a cool undertone, and what an unfamiliar ingredient does.",
+                    "We write the product descriptions, the size and shade guides, the ingredient explainers, and the collection stories that replace the fitting room and the counter, for brands that launch on a season's schedule, with writers who learn your cut, your formulas, and your voice, and your team approves each page before it goes live."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Where fashion and beauty content loses the shopper",
+                "subtitle": "Returns and abandoned carts trace back to questions a page left open.",
+                "items": [
+                    {
+                        "title": "Descriptions that list features and skip fit",
+                        "text": "A description names the collar and the fabric weight and does not say whether the item runs small or sits loose.",
+                        "text2": "A fit note in the first line, written from how the garment hangs, saves the shopper a guess and the brand a return."
+                    },
+                    {
+                        "title": "Ingredient lists with no explanation",
+                        "text": "A list of long chemical names sits below the fold, and the shopper who cares about one ingredient cannot find what the ingredient does.",
+                        "text2": "A short plain explanation beside each key ingredient turns the list into a reason to buy."
+                    },
+                    {
+                        "title": "Claims that outrun the support",
+                        "text": "Phrases such as clinically proven or dermatologist tested draw attention, and a claim without support behind the claim invites a complaint.",
+                        "text2": "Copy that states what the product does and attaches the support keeps the claim standing."
+                    },
+                    {
+                        "title": "Seasonal launches with thin pages",
+                        "text": "A collection drops with a hero image and a few lines, and the search traffic for the styles goes to larger sites with more to read.",
+                        "text2": "A collection story with materials, shades, and styling ideas gives the launch pages search can find."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What we write for a fashion or beauty brand",
+                "subtitle": "Six kinds of pages around fit, fabric, shade, and formula.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Product descriptions",
+                        "text": "Copy that leads with fit, fabric, or what the product does for skin, in a voice that matches the brand."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Size and shade guides",
+                        "text": "Guides that compare sizes to garments a shopper owns and shades to undertone and depth."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Ingredient and fabric explainers",
+                        "text": "Plain pages on what is in the formula and how a fabric wears, washes, and ages."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Claims review support",
+                        "text": "Copy written so each claim sits next to the support behind the claim, ready for your review."
+                    },
+                    {
+                        "icon": "palette",
+                        "title": "Collection and launch stories",
+                        "text": "Pages for each drop that tell the story of the season, the materials, and the people behind the line."
+                    },
+                    {
+                        "icon": "mail",
+                        "title": "Launch, restock, and replenishment email",
+                        "text": "Email for drops, restocks, and the moment a product runs low."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "From sample and formula to published page",
+                "subtitle": "A launch calendar and a review process set the pace.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We learn the line",
+                        "text": "Samples, spec sheets, formulas, and fit notes from your team, so a writer starts with what the product does."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We agree the claims",
+                        "text": "A short list of what each product says and the support behind each statement, settled before the writing starts."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer keeps the voice",
+                        "text": "One writer covers a collection from the first description to the email, so the voice holds across the season."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Editor, then your review",
+                        "text": "An editor reads each piece, and your team or your reviewer approves each piece before the launch goes live."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions fashion and beauty brands ask",
+                "items": [
+                    {
+                        "question": "Can you write to our launch schedule?",
+                        "answer": "Yes. We plan the pages and the email backward from each drop date, so the copy is approved before the collection goes live."
+                    },
+                    {
+                        "question": "How do you write about fit without trying the garment on?",
+                        "answer": "We work from your fit notes, measurements, and photos of the garment on a model, and we ask your team about the details we cannot see."
+                    },
+                    {
+                        "question": "Do you write product claims?",
+                        "answer": "We write the copy so a claim sits next to the support behind the claim, and your team or your regulatory reviewer approves each claim before publication."
+                    },
+                    {
+                        "question": "Can you write shade guidance for products sold online?",
+                        "answer": "Yes. We write shade notes from your swatches, undertone data, and photos on a range of skin tones."
+                    },
+                    {
+                        "question": "What do you need to start?",
+                        "answer": "Your site, your next collection or product line, and the claim support you hold, and we scope a first month from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Let the page do the fitting room and the counter's job",
+                "text": "Tell us about your next line, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "seo": {
+        "title": "Home and Furnishings Content Writing for Big-Ticket Buyers",
+        "meta_description": "Product pages, buying guides, project stories and delivery content for home improvement, appliance and furniture businesses, written by people who help a buyer commit to a large purchase.",
+        "og_description": "Product pages, buying guides, project stories and delivery content for home improvement, appliance and furniture businesses, written by people who help a buyer commit to a large purchase.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": true,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us what you sell",
+        "subtitle": "Send your site and the products or jobs you want more of. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-home-furnishings"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your business and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Industries",
+                "title": "Home and furnishings content for the buyer making a <em>big decision</em>",
+                "paragraphs": [
+                    "A kitchen remodel, a new washer, and a sofa share one trait, which is that the buyer researches for weeks, measures the room twice, and chooses the business whose pages answer the questions the buyer has not asked yet, from whether the unit fits through the door to what the fabric does with a dog.",
+                    "We write the product pages, the buying guides, the project stories, and the delivery and care pages that carry a home buyer from the first search to the order or the quote request, for makers, retailers, and installers, with writers who learn your catalog and your jobs, and nothing publishes until you approve it."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Where home and furnishings content loses the buyer",
+                "subtitle": "A large purchase raises large doubts, and a thin page leaves the doubts in place.",
+                "items": [
+                    {
+                        "title": "Product pages that repeat the supplier",
+                        "text": "A description copied from the manufacturer says what the item is and nothing about the room it goes in, so the buyer compares on price alone.",
+                        "text2": "A page written for the room, with sizes, care, and the jobs the item suits, gives the buyer a reason to choose your business."
+                    },
+                    {
+                        "title": "Numbers with no sense of scale",
+                        "text": "A page gives cubic feet, decibels, or width and depth and does not say whether the item suits a family of four or a small living room.",
+                        "text2": "A line that translates each number into a household, and a measuring tip, gives the buyer confidence before ordering."
+                    },
+                    {
+                        "title": "Delivery, install, and lead times left vague",
+                        "text": "Buyers ask whether the old unit gets hauled away, whether the crew carries the piece upstairs, and when the order arrives, and the product page links to a policy.",
+                        "text2": "Plain answers on the product page remove the doubt that stalls an order of this size."
+                    },
+                    {
+                        "title": "Finished work with no story",
+                        "text": "A gallery of finished rooms with no caption on the materials, the size of the job, or the neighborhood gives a buyer nothing to picture a project from.",
+                        "text2": "A project story that names the materials and describes the job gives a homeowner a reason to ask for a quote."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What we write for a home and furnishings business",
+                "subtitle": "Six kinds of pages around the decision to buy.",
+                "items": [
+                    {
+                        "icon": "pen",
+                        "title": "Product and material pages",
+                        "text": "Descriptions that put the item in a room and translate each spec into what a household notices."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Comparison and buying guides",
+                        "text": "Pages that explain the difference between two near-identical models and who each one suits."
+                    },
+                    {
+                        "icon": "palette",
+                        "title": "Room and project stories",
+                        "text": "Finished-job and room write-ups that pair pieces and name the materials."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Delivery, install, and care pages",
+                        "text": "Plain content on lead times, installation, warranty, and how to look after the item."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Service area pages",
+                        "text": "A page for each city or region you serve, written for that area."
+                    },
+                    {
+                        "icon": "mail",
+                        "title": "Quote follow-up and seasonal email",
+                        "text": "Email that reads like your business and follows a quote or a season."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "From catalog to published page",
+                "subtitle": "Your catalog and your showroom staff set the plan.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We learn the catalog",
+                        "text": "Spec sheets, materials, and the rooms each item suits, so each page starts accurate."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We ask the showroom",
+                        "text": "Your sales staff and installers tell us the questions buyers ask before a large order."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer stays on the account",
+                        "text": "One writer learns your lines, so the language for a material or a feature holds from the first page to the fiftieth."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Editor, then your approval",
+                        "text": "An editor reads each page against your data, and your team approves each page before the page goes live."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions home and furnishings businesses ask",
+                "items": [
+                    {
+                        "question": "Can you write for hundreds of products?",
+                        "answer": "Yes. We build a template for each product family, fill in each item from your data, and put the difference between near-identical items in the first paragraph."
+                    },
+                    {
+                        "question": "Does the platform our site runs on matter?",
+                        "answer": "No. We write the pages, and your team or ours puts the pages live on Magento, WordPress, Shopify, or the platform you already use."
+                    },
+                    {
+                        "question": "Can you write project stories from our photos?",
+                        "answer": "Yes. Send the photos and a few notes on the job, and a writer turns the material into a project story you approve before publication."
+                    },
+                    {
+                        "question": "Can you write about pieces you cannot sit on or install?",
+                        "answer": "Our writers work from your staff, your spec sheets, and your photos, and your team checks the comfort and fit language before publication."
+                    },
+                    {
+                        "question": "What do you need to start?",
+                        "answer": "Your site and the products or jobs you want to push first, and we scope a first month from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Help the buyer picture the purchase in the room",
+                "text": "Tell us what you sell and where you want to grow, and we will scope a first month and walk you through it."
+            }
+        }
+    ]
+}

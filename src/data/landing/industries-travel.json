@@ -1,0 +1,170 @@
+{
+    "seo": {
+        "title": "Travel Content Writing for Destinations, Itineraries and Booking Pages",
+        "meta_description": "Destination guides, itineraries and seasonal content for travel brands, written by people who write from the place and the season.",
+        "og_description": "Destination guides, itineraries and seasonal content for travel brands, written by people who write from the place and the season.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": true,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Tell us about your trips",
+        "subtitle": "Send your site and the destinations you sell. We will scope a first month and walk you through it.",
+        "trust_text": "Written and edited by people.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "industries-travel"
+    },
+    "thankyou": {
+        "title": "We have it.",
+        "text": "We read what you already publish before we reply, so the first conversation is about your business and not a template."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Industries",
+                "title": "Travel content written from the <em>place and the season</em>",
+                "paragraphs": [
+                    "A traveler picking a trip reads about the destination months before booking, checking when the weather turns, what a week costs, and which neighborhood suits a family, and the travel brand whose pages answer those questions earns the booking when the traveler is ready.",
+                    "We write the destination guides, the itineraries, and the seasonal pages that carry a traveler from a first search to a booking, with writers who learn your destinations and your trip styles, and your team approves each page before it goes live."
+                ]
+            }
+        },
+        {
+            "type": "challenges",
+            "variant": "alternating",
+            "data": {
+                "title": "Where travel content loses the traveler",
+                "subtitle": "A booking follows weeks of research, and the research happens on the page that feels like it came from someone who has been there.",
+                "items": [
+                    {
+                        "title": "Destination pages that read like a brochure",
+                        "text": "A page lists beaches and landmarks in the same words other sites use, so the traveler cannot tell why your trip differs.",
+                        "text2": "A page built on specific places, meals, and the feel of a morning gives a traveler a reason to trust your trip."
+                    },
+                    {
+                        "title": "Itineraries with no reasoning",
+                        "text": "A day-by-day list gives times and stops and does not say why the day runs in that order or what to skip when the weather turns.",
+                        "text2": "An itinerary that explains the order and offers a wet-weather swap reads like advice from a guide."
+                    },
+                    {
+                        "title": "Seasonal questions left open",
+                        "text": "A traveler wants to know whether August is too hot or April too wet, and a page that dodges the question loses the traveler to a blog that answers.",
+                        "text2": "A seasonal section with plain ranges gives search and AI assistants something to quote and gives a traveler the answer."
+                    },
+                    {
+                        "title": "Booking pages with doubt left in",
+                        "text": "A traveler stalls at the booking page over cancellation terms, what is included, and who runs the trip.",
+                        "text2": "Plain statements on those three points at the point of decision move a traveler from interested to booked."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What we write for a travel brand",
+                "subtitle": "Six kinds of pages from the first search to the booking.",
+                "items": [
+                    {
+                        "icon": "globe",
+                        "title": "Destination guides",
+                        "text": "Guides written from the place, with the neighborhoods, meals, and moments that set the trip apart."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Itineraries",
+                        "text": "Day-by-day plans that explain the order and offer swaps for weather."
+                    },
+                    {
+                        "icon": "chart",
+                        "title": "Seasonal and timing pages",
+                        "text": "Pages on when to go, what a month feels like, and what a trip costs across seasons."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Booking and policy pages",
+                        "text": "Plain-language pages on what is included, who runs the trip, and what happens if plans change."
+                    },
+                    {
+                        "icon": "mail",
+                        "title": "Trip email",
+                        "text": "Pre-trip, in-trip, and return email that reads like a guide and not a form."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Social and video scripts",
+                        "text": "Short posts and scripts from the destination, written from your guides' notes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "From guide's notes to published page",
+                "subtitle": "Your people know the place, and the writing starts with them.",
+                "steps": [
+                    {
+                        "number": "01",
+                        "title": "We interview your guides",
+                        "text": "A conversation with the people who run the trip, so the details on the page come from the place."
+                    },
+                    {
+                        "number": "02",
+                        "title": "We map the booking calendar",
+                        "text": "Peak and shoulder seasons set which destinations get pages first."
+                    },
+                    {
+                        "number": "03",
+                        "title": "A writer learns the trips",
+                        "text": "The same writer covers a destination across guides, itineraries, and email, so the voice stays steady."
+                    },
+                    {
+                        "number": "04",
+                        "title": "Editor, then your approval",
+                        "text": "An editor reads each page, and your team checks the details before anything goes live."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Questions travel brands ask",
+                "items": [
+                    {
+                        "question": "Can you write about places you have not visited?",
+                        "answer": "Our writers work from interviews with your guides, your itineraries, and your photos, and your team checks the details before anything publishes."
+                    },
+                    {
+                        "question": "Do you write for tour operators, agencies, and hotels?",
+                        "answer": "Yes. The pages differ for each, and we agree which kind of page matters most before we start."
+                    },
+                    {
+                        "question": "Can you write in several languages?",
+                        "answer": "We write in English first. If you need another language, we scope that on its own."
+                    },
+                    {
+                        "question": "How do you handle prices and dates that change?",
+                        "answer": "We keep prices and dates in fields your team controls and write the surrounding copy so the page stays accurate when a number moves."
+                    },
+                    {
+                        "question": "What do you need to start?",
+                        "answer": "Your destinations, your guides, and the trips you want to sell first, and we scope a first month from there."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Write the trip a traveler wants to book",
+                "text": "Tell us about your destinations and your next season, and we will scope a first month."
+            }
+        }
+    ]
+}

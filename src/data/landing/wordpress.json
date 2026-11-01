@@ -19,7 +19,7 @@
             "type": "hero",
             "data": {
                 "eyebrow": "Content Cucumber and Evrig",
-                "title": "WordPress development services",
+                "title": "WordPress Development Services",
                 "paragraphs": [
                     "Content Cucumber and Evrig have teamed up to bring you world class WordPress sites from ideation to launch and everything in between.",
                     "The traditional agency left content to \"someone\" and the content company left the development work to someone else. With one team, the writer and the developer sit in the same call from the start. The page structure, the copy, and the code get decided together, and nothing falls into the gap between two vendors.",
@@ -113,6 +113,68 @@
                             "$$",
                             "$"
                         ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "WordPress sites for the industries we work in",
+                "subtitle": "Content Cucumber and Evrig build and write WordPress sites for businesses in these industries.",
+                "items": [
+                    {
+                        "icon": "video",
+                        "title": "Broadcasting",
+                        "text": "David spent 27 years building and running the WordPress sites for KSTP TV and Radio."
+                    },
+                    {
+                        "icon": "palette",
+                        "title": "Home & Furnishings",
+                        "text": "Product pages, buying guides, and project stories for home improvement, appliance, and furniture businesses."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Fashion & Beauty",
+                        "text": "Fit, fabric, shade, and ingredient content for fashion and beauty brands."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Electronics",
+                        "text": "Comparison, compatibility, and setup content for electronics brands and retailers."
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "Travel",
+                        "text": "Destination guides, itineraries, and seasonal pages for travel brands."
+                    },
+                    {
+                        "icon": "shield",
+                        "title": "Healthcare",
+                        "text": "Content written to clear medical-legal review.",
+                        "link": "/industries/healthcare/",
+                        "link_text": "See Healthcare"
+                    },
+                    {
+                        "icon": "megaphone",
+                        "title": "Specialty Food",
+                        "text": "Content that gets specialty food products found.",
+                        "link": "/industries/specialty-food/",
+                        "link_text": "See Specialty Food"
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Real Estate",
+                        "text": "Content written by writers who know Fair Housing.",
+                        "link": "/industries/real-estate/",
+                        "link_text": "See Real Estate"
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Manufacturing",
+                        "text": "Industrial content written by people who can read a spec sheet.",
+                        "link": "/industries/manufacturing/",
+                        "link_text": "See Manufacturing"
                     }
                 ]
             }
