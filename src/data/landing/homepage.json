@@ -47,23 +47,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "number": "40+",
-                    "label": "Human writers"
-                },
-                {
-                    "number": "0",
-                    "label": "Pages written by a prompt"
-                },
-                {
-                    "number": "1000s",
-                    "label": "Brands served"
-                }
-            ]
-        },
-        {
             "type": "flex-callout",
             "data": {
                 "eyebrow": "AI SEARCH AUDIT",
