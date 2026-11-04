@@ -1,0 +1,153 @@
+{
+    "seo": {
+        "title": "HEO, Human Engagement Optimization - Content Cucumber",
+        "meta_description": "Buyers find you in Google, in a direct question to an AI tool, and in an AI recommendation. HEO is the work on the person who reads the answer.",
+        "og_description": "SEO, AEO, GEO, and HEO. Content Cucumber measures how buyers find you and writes for the person who reads the answer.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "form": {
+        "header": "Get Your HEO Review",
+        "subtitle": "Send us your URL. We look at how your content does in search, in AI answers, and with the people reading it.",
+        "trust_text": "HubSpot Solutions Partner.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "heo"
+    },
+    "thankyou": {
+        "title": "Got it.",
+        "text": "We will reply by email with next steps."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "heo-assets/heo-hero.webp",
+                "eyebrow": "HEO, Human Engagement Optimization",
+                "title": "Found in Search and AI.<br>Read by People.",
+                "paragraphs": [
+                    "Buyers find you three ways, in Google, in a direct question to an AI tool, and in an AI recommendation. HEO is the layer on top of all three, the person who reads the answer and decides whether to call you."
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "Four ways a buyer finds you",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "SEO, search engine optimization",
+                        "text": "A buyer searches \"content agency near me\" and Google shows a list. We start by measuring what already performs for you there, in Google Analytics and Google Search Console."
+                    },
+                    {
+                        "title": "AEO, answer engine optimization",
+                        "text": "A buyer asks an AI tool a direct question about a brand they already know, like \"does Content Cucumber write case studies?\" AEO makes sure the answer is there and correct."
+                    },
+                    {
+                        "title": "GEO, generative engine optimization",
+                        "text": "A buyer asks an AI tool who to hire, like \"who writes case studies for commerce brands?\" GEO is getting the AI tool to include you in that answer and cite you."
+                    },
+                    {
+                        "title": "HEO, human engagement optimization",
+                        "text": "Then a person reads what you wrote. Readers trust content that sounds like a person talking, and AI tools keep getting better at telling a person from a bot."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "How we write",
+                "title": "Written by people, with AI for research and editing",
+                "paragraphs": [
+                    "Content Cucumber's 40+ writers make original content that isn't derived from an average of content across the internet.",
+                    "Our writers use AI for research and for editing. The research part of our work has vastly increased the writers' efficiency, and AI editing has allowed our writers to focus on creating content rather than going back to edit."
+                ],
+                "stats": [
+                    { "number": "40+", "label": "Human writers" },
+                    { "number": "30+", "label": "Years in commerce" }
+                ]
+            }
+        },
+        {
+            "type": "quick-answer",
+            "data": {
+                "title": "How an HEO engagement works",
+                "items": [
+                    {
+                        "label": "What do you measure first?",
+                        "value": "What already performs for you in Google Analytics and Google Search Console, and what your buyers ask AI tools about your category."
+                    },
+                    {
+                        "label": "Where do topics come from?",
+                        "value": "We constantly look at Google Analytics and Google Search Console to come up with topics."
+                    },
+                    {
+                        "label": "How often do we meet?",
+                        "value": "We meet with you every other week."
+                    },
+                    {
+                        "label": "Can you start from content we already have?",
+                        "value": "We can create hundreds of posts based on a blog, and the short content is in your voice, because each post is either a direct quote or a paraphrase of what you said."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "What you get",
+                "items": [
+                    {
+                        "icon": "search",
+                        "title": "Search Discovery Audit",
+                        "text": "The audit shows where you show up in Google and in AI answers, and where your competitors show up instead.",
+                        "link": "/audits/",
+                        "link_text": "See the audits"
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "Blog and SEO content",
+                        "text": "Posts built from your search data and written by our writers.",
+                        "link": "/blog-writing/",
+                        "link_text": "See blog writing"
+                    },
+                    {
+                        "icon": "share",
+                        "title": "Social posts in your voice",
+                        "text": "Short posts made from your blog, each one a direct quote or a paraphrase of what you said."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "HEO questions",
+                "items": [
+                    {
+                        "question": "What is HEO?",
+                        "answer": "HEO stands for Human Engagement Optimization. SEO, AEO, and GEO get your content in front of a buyer. HEO is the work on the person who reads it."
+                    },
+                    {
+                        "question": "What is the difference between AEO and GEO?",
+                        "answer": "AEO is a direct question about a brand the buyer already knows, like \"does this agency write case studies?\" GEO is a buyer asking an AI tool for a recommendation, like \"who writes case studies for commerce brands?\", and getting you included and cited in the answer."
+                    },
+                    {
+                        "question": "Do your writers use AI?",
+                        "answer": "Our writers use AI for research and for editing. Our writers do the writing."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "See how buyers find you",
+                "text": "Send us your URL and we will show you where you stand in search and in AI answers."
+            }
+        }
+    ]
+}
