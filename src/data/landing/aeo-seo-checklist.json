@@ -129,22 +129,18 @@
                 "title": "How the Audit Runs",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Crawl & Analyze",
                         "text": "We run the full 56+ point checklist on your site. Every signal: technical, on-page, schema, content quality, AI search readiness, and local SEO. A prioritized report you can act on."
                     },
                     {
-                        "number": "02",
                         "title": "Prioritized Report",
                         "text": "Every issue categorized as Pass, Partial, or Fail with a severity rank. Critical (fix this week), High (this month), Medium (this quarter), Low (backlog)."
                     },
                     {
-                        "number": "03",
                         "title": "Implementation Roadmap",
                         "text": "You get a written deliverable: every fix described with implementation guidance for WordPress, Shopify, Magento, and custom platforms, severity-ranked so your team can ship it. The roadmap is yours."
                     },
                     {
-                        "number": "04",
                         "title": "Implement & Verify (Paid Engagement)",
                         "text": "If you hire us to execute the fixes, we ship them and verify each one against the original audit findings. You see exactly what changed and the impact in the data."
                     }

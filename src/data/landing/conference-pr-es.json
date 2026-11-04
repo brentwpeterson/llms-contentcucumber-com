@@ -116,17 +116,14 @@
                 "subtitle": "Usted agenda entrevistas para sus clientes. Nosotros nos encargamos de todo lo demás.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Elija paquetes para sus clientes",
                         "text": "Elija Spotlight (gratis), Deep Dive ($100) o Paquete completo de contenido (personalizado) para cada cliente que asista a la conferencia. Complete el formulario y confirmamos los espacios."
                     },
                     {
-                        "number": "02",
                         "title": "Llegamos a su stand",
                         "text": "Talk Commerce llega con equipo profesional y guía una conversación natural y relajada. Sin guiones necesarios. Su cliente habla de lo que conoce."
                     },
                     {
-                        "number": "03",
                         "title": "Contenido entregado a su agencia",
                         "text": "Clips de video en un máximo de dos semanas. Para los paquetes completos, los escritores de Content Cucumber producen artículos, casos de estudio y contenido para redes. Todo en marca blanca. Usted se lo entrega a su cliente."
                     }

@@ -92,32 +92,26 @@
                 "subtitle": "A structured path from what you sell to ICPs your CRM can track.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Offer Inventory",
                         "text": "We document every offer you sell, formal or informal, from your website, your CRM, and a working session with you."
                     },
                     {
-                        "number": "2",
                         "title": "Buyer Mapping",
                         "text": "For each offer, we identify who actually bought the last few deals. Role, stage, industry, trigger, channel. By name, not in the abstract."
                     },
                     {
-                        "number": "3",
                         "title": "Channels and Acquisition",
                         "text": "Where each buyer came from, what proof they needed, how long the sale took, and which objections showed up."
                     },
                     {
-                        "number": "4",
                         "title": "Tier Logic",
                         "text": "What concretely separates your service tiers, and which offers belong on which tier."
                     },
                     {
-                        "number": "5",
                         "title": "Validation",
                         "text": "We map every active customer to an offer, buyer, channel, and tier, then find the gaps: customers who fit no profile, profiles with no customers."
                     },
                     {
-                        "number": "6",
                         "title": "Define the ICPs",
                         "text": "We cluster validated buyers into 3-5 ICPs, each with a name, defining attributes, target value, and a CRM tagging signal."
                     }

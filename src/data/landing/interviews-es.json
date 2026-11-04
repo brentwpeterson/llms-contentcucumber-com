@@ -146,17 +146,14 @@
                 "subtitle": "Sin guiones ni montajes incómodos. Nosotros vamos a tu stand.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Elige tu paquete",
                         "text": "Escoge Spotlight (gratis), Deep Dive ($300 USD) o el paquete de contenido completo (a la medida). Llenas el formulario y te confirmamos tu horario."
                     },
                     {
-                        "number": "02",
                         "title": "Llegamos a tu stand",
                         "text": "Talk Commerce llega con equipo profesional y guía una plática natural y relajada. Sin guiones ni teleprompter, tu equipo habla de lo que sabe."
                     },
                     {
-                        "number": "03",
                         "title": "Recibes tu contenido",
                         "text": "Talk Commerce edita y publica el episodio. En el paquete de contenido completo, los redactores de Content Cucumber escriben artículos, casos de éxito y contenido para redes a partir de la entrevista."
                     }

@@ -61,22 +61,18 @@
                 "title": "How Our Technical Audit Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Crawl & Analyze",
                         "text": "We crawl your entire site and analyze every technical signal: page speed, indexation status, schema markup, security headers, mobile optimization, and more."
                     },
                     {
-                        "number": "02",
                         "title": "Prioritized Report",
                         "text": "You get a detailed report with every issue categorized by severity: Critical (fix immediately), High (this week), Medium (this month), and Low (backlog)."
                     },
                     {
-                        "number": "03",
                         "title": "Fix & Implement",
                         "text": "For WordPress and Shopify sites, we can implement the fixes directly. For other platforms, we provide detailed instructions for your development team."
                     },
                     {
-                        "number": "04",
                         "title": "Verify & Monitor",
                         "text": "After fixes are deployed, we verify everything works. Set up monitoring for Core Web Vitals and crawl health so issues get caught early."
                     }

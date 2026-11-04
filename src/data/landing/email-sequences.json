@@ -62,22 +62,18 @@
    "data": {
     "steps": [
      {
-      "number": "01",
       "title": "Strategy Session",
       "text": "We define your email goals, audience segments, and key sequences. Map out the customer journey and identify where email fits at each stage."
      },
      {
-      "number": "02",
       "title": "Sequence Planning",
       "text": "Build the email flow structure: triggers, timing, segmentation rules, and content themes. Every sequence has a clear goal and measurable outcome."
      },
      {
-      "number": "03",
       "title": "Copy Creation",
       "text": "Our writers craft subject lines, preview text, body copy, and CTAs. Each email is written to engage, not just inform. Optimized for mobile and tested for deliverability."
      },
      {
-      "number": "04",
       "title": "Launch and Optimize",
       "text": "Deploy through your email platform (HubSpot, Klaviyo, Mailchimp). Monitor open rates, click rates, and conversions. A/B test and refine based on real data."
      }

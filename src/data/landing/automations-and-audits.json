@@ -32,15 +32,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "Aug 5", "label": "Live on LinkedIn" },
-                { "number": "2 PM ET", "label": "Eastern" },
-                { "number": "2 Free", "label": "Audits Included" },
-                { "number": "Free", "label": "To Attend" }
-            ]
-        },
-        {
             "type": "banner-image",
             "data": {
                 "src": "/wp-content/themes/cucumber-gp-child/landing-data/automations-and-audits-header.png",
@@ -126,22 +117,18 @@
                 "subtitle": "A working session built around real HubSpot portals, so you leave with fixes you can use.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "AEO in Your HubSpot Marketing or CMS",
                         "text": "Learn what AEO means inside your HubSpot Marketing or CMS account, where the content lives, the schema and structure that get it cited, and how to turn HubSpot pages into something AI engines name."
                     },
                     {
-                        "number": "2",
                         "title": "The Minimum Automations You Need",
                         "text": "Skip the sprawling build. Learn the small set of automations a HubSpot portal needs to perform, and which workflows are worth finishing first."
                     },
                     {
-                        "number": "3",
                         "title": "Two Free Audits When You Sign Up",
                         "text": "Everyone who signs up gets two free audits. A HubSpot portal audit from Portal IQ, and an AEO audit from Content Cucumber. You leave with a clear read on both how your portal performs and whether buyers and AI engines can find you."
                     },
                     {
-                        "number": "4",
                         "title": "The Hot Seat Walk-Through",
                         "text": "We pick one lucky registrant, Mike audits their HubSpot portal ahead of time, and we walk through the findings together during the session. Your call whether yours is on the screen for everyone or kept private."
                     }

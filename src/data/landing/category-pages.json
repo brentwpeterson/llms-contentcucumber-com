@@ -61,22 +61,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Category Audit",
                         "text": "Analyze your current categories, competitor content, and keyword opportunities. Identify which categories have the highest SEO potential."
                     },
                     {
-                        "number": "02",
                         "title": "Content Strategy",
                         "text": "Define word count, keyword targets, and content structure for each category. Prioritize by search volume and commercial value."
                     },
                     {
-                        "number": "03",
                         "title": "Write and Optimize",
                         "text": "Our ecommerce writers create category descriptions that help shoppers and rank for target keywords. Includes heading structure, internal links, and schema recommendations."
                     },
                     {
-                        "number": "04",
                         "title": "Publish and Monitor",
                         "text": "Deploy to your store and track rankings, traffic, and conversion impact. Update content based on seasonal trends and performance data."
                     }

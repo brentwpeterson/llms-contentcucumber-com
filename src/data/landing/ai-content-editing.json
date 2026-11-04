@@ -205,22 +205,18 @@
                 "subtitle": "Four steps, and you are involved in the second one.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Send us what you generated",
                         "text": "One page or a library. We read what you already publish alongside it so the edit moves toward your voice rather than ours."
                     },
                     {
-                        "number": "02",
                         "title": "We ask you what you think",
                         "text": "Every piece needs one position, and the position has to be yours, so we ask a short question and write your answer into the page."
                     },
                     {
-                        "number": "03",
                         "title": "An editor rewrites it",
                         "text": "Position, structure, claims, voice. The same pass every time, done by a person who writes for a living."
                     },
                     {
-                        "number": "04",
                         "title": "You get it back with the reasoning",
                         "text": "The edited page plus what changed and why, so your team learns the pattern instead of sending us the same problem next month."
                     }

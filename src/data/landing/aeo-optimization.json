@@ -61,22 +61,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "AEO Audit",
                         "text": "Analyze your current content through the lens of AI readability. Identify what AI models can and cannot extract from your pages."
                     },
                     {
-                        "number": "02",
                         "title": "Content Restructuring",
                         "text": "Reformat existing content with clear definitions, quotable statements, structured data, and FAQ patterns that AI prefers to cite."
                     },
                     {
-                        "number": "03",
                         "title": "Schema and Technical",
                         "text": "Implement JSON-LD markup, llms.txt, and AI crawler access controls. Make your site machine-readable without sacrificing human readability."
                     },
                     {
-                        "number": "04",
                         "title": "Monitor and Optimize",
                         "text": "Track AI citations across ChatGPT, Perplexity, and Google AI Overviews. Adjust content based on what gets cited and what doesn't."
                     }

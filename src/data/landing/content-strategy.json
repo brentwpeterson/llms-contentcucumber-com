@@ -75,22 +75,18 @@
                 "title": "How Our Strategy Process Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Discovery",
                         "text": "We learn your business, audience, competitors, and goals. Audit your current content and rankings to understand where you stand."
                     },
                     {
-                        "number": "02",
                         "title": "Research",
                         "text": "Comprehensive keyword research, competitor content analysis, and search intent mapping. We identify every opportunity worth pursuing."
                     },
                     {
-                        "number": "03",
                         "title": "Strategy",
                         "text": "Build your content roadmap: topic clusters, editorial calendar, internal linking plan, and success metrics. You approve before we write a word."
                     },
                     {
-                        "number": "04",
                         "title": "Execute",
                         "text": "Our writers create the content. We publish on schedule, track rankings, and adjust the strategy based on what performs."
                     }

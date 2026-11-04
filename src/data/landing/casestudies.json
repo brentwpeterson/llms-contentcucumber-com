@@ -33,22 +33,18 @@
                 "subtitle": "",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "We Handle the Entire Workflow",
                         "text": "All you do is make the introduction. We coordinate outreach, schedule interviews, manage reviews, and deliver the final case study across all three stakeholders."
                     },
                     {
-                        "number": "2",
                         "title": "We Start Writing on Day One",
                         "text": "The minute we engage, we research, pull data, and start building the story. By the first call, we already have a working draft."
                     },
                     {
-                        "number": "3",
                         "title": "We Capture Real Voices",
                         "text": "Every interview is recorded. We deliver a quote library, real attributed quotes from every stakeholder you can use in proposals, emails, social posts, and presentations."
                     },
                     {
-                        "number": "4",
                         "title": "Your Brand Voice Written by Humans",
                         "text": "We use RequestDesk to capture your brand's tone, language, and style before we write a single word. Every case study is written by a human writer who sounds like your team, in your voice, never a template and never AI."
                     }

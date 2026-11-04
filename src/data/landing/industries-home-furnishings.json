@@ -109,22 +109,18 @@
                 "subtitle": "Your catalog and your showroom staff set the plan.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We learn the catalog",
                         "text": "Spec sheets, materials, and the rooms each item suits, so each page starts accurate."
                     },
                     {
-                        "number": "02",
                         "title": "We ask the showroom",
                         "text": "Your sales staff and installers tell us the questions buyers ask before a large order."
                     },
                     {
-                        "number": "03",
                         "title": "A writer stays on the account",
                         "text": "One writer learns your lines, so the language for a material or a feature holds from the first page to the fiftieth."
                     },
                     {
-                        "number": "04",
                         "title": "Editor, then your approval",
                         "text": "An editor reads each page against your data, and your team approves each page before the page goes live."
                     }

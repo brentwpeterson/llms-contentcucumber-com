@@ -73,22 +73,18 @@
                 "title": "Implementation Approach",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Configure",
                         "text": "CRM architecture, pipelines, properties, lifecycle stages, and dashboards. We design the foundation around your sales process, not a generic template."
                     },
                     {
-                        "number": "02",
                         "title": "Integrate",
                         "text": "Ecommerce platforms, marketing tools, and existing data sources connected. Two-way data sync where it matters. Single source of truth across your stack."
                     },
                     {
-                        "number": "03",
                         "title": "Automate",
                         "text": "Workflows, email sequences, lead scoring, and task automation. We build the automation that saves your team hours, then prove it with usage reports."
                     },
                     {
-                        "number": "04",
                         "title": "Launch",
                         "text": "Hands-on training, documentation, and ongoing support. Your team trains on their own live data during onboarding. We stay available for questions and refinements."
                     }

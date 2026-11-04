@@ -168,27 +168,22 @@
                 "subtitle": "An expert informs every piece, a writer writes it, and your firm approves it.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We read what you publish",
                         "text": "Your recent published work, your brand guide if you have one, and the companies you get compared to, all of which becomes a style sheet the writers work from."
                     },
                     {
-                        "number": "02",
                         "title": "We choose what gets written",
                         "text": "Built from the searches you already surface for and the questions a client types before calling a firm, so the calendar belongs to you."
                     },
                     {
-                        "number": "03",
                         "title": "We name the subject matter expert",
                         "text": "Either someone we bring in for the practice area or an attorney at your firm, agreed before the writing starts, so you always know whose expertise sits behind a page."
                     },
                     {
-                        "number": "04",
                         "title": "A writer is assigned and stays",
                         "text": "The same people write for you month over month, so your positions carry forward from one brief to the next."
                     },
                     {
-                        "number": "05",
                         "title": "An editor reads it, then your firm approves it",
                         "text": "It arrives on your schedule for the partner read, because in this field the last word belongs to the firm."
                     }

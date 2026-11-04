@@ -109,22 +109,18 @@
                 "subtitle": "Your engineers know the product, and the writing starts with them.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We interview your engineers",
                         "text": "A conversation with the people who built the product, so the page states what the product does and where the product stops."
                     },
                     {
-                        "number": "02",
                         "title": "We list the questions buyers ask",
                         "text": "Support tickets and search data show where buyers get stuck."
                     },
                     {
-                        "number": "03",
                         "title": "A writer learns the category",
                         "text": "The same writer covers a product family, so terms and claims stay consistent."
                     },
                     {
-                        "number": "04",
                         "title": "Technical check, then approval",
                         "text": "Your team checks each page against the product, and nothing publishes until you approve it."
                     }

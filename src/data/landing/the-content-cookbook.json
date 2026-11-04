@@ -97,32 +97,26 @@
                 "subtitle": "Automate the drafting. Staff the judgment.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Ideas",
                         "text": "Human-led. A person decides what your audience needs to hear. That comes from knowing the business."
                     },
                     {
-                        "number": "02",
                         "title": "Research and outline",
                         "text": "Shared. AI gathers and structures. A person decides what matters and what the angle is."
                     },
                     {
-                        "number": "03",
                         "title": "First draft",
                         "text": "AI-assisted. This is where the speed lives, and where a model earns its place."
                     },
                     {
-                        "number": "04",
                         "title": "Editing and voice",
                         "text": "Human, always. Voice, cuts, point of view, the line that does not belong."
                     },
                     {
-                        "number": "05",
                         "title": "Fact-checking",
                         "text": "Human, always. Every claim, number, and name verified by someone who can be held to it."
                     },
                     {
-                        "number": "06",
                         "title": "Publish and strategy",
                         "text": "Human-led. What goes out, to whom, and how it connects to the pieces around it."
                     }

@@ -109,22 +109,18 @@
                 "subtitle": "A launch calendar and a review process set the pace.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We learn the line",
                         "text": "Samples, spec sheets, formulas, and fit notes from your team, so a writer starts with what the product does."
                     },
                     {
-                        "number": "02",
                         "title": "We agree the claims",
                         "text": "A short list of what each product says and the support behind each statement, settled before the writing starts."
                     },
                     {
-                        "number": "03",
                         "title": "A writer keeps the voice",
                         "text": "One writer covers a collection from the first description to the email, so the voice holds across the season."
                     },
                     {
-                        "number": "04",
                         "title": "Editor, then your review",
                         "text": "An editor reads each piece, and your team or your reviewer approves each piece before the launch goes live."
                     }

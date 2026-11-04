@@ -117,22 +117,18 @@
                 "title": "How Our SEO Services Work",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "SEO Audit & Research",
                         "text": "We analyze your current rankings, competitor landscape, keyword opportunities, and technical health. You get a clear picture of where you stand and where the opportunities are."
                     },
                     {
-                        "number": "02",
                         "title": "Strategy & Roadmap",
                         "text": "We build a prioritized content calendar targeting keywords with the best ROI potential. Quick wins first, then long-term authority plays. Every piece has a clear business goal."
                     },
                     {
-                        "number": "03",
                         "title": "Content Creation",
                         "text": "Our writers produce SEO-optimized content (blog posts, pages, pillar content) with proper heading structure, internal linking, and schema markup. Human-written, editor-reviewed, publish-ready."
                     },
                     {
-                        "number": "04",
                         "title": "Publish & Optimize",
                         "text": "Content goes live on your schedule. We track rankings, traffic, and conversions. Update what's working, fix what isn't. SEO is a continuous process, not a one-time project."
                     }

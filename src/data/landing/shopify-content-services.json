@@ -91,22 +91,18 @@
                 "title": "How It Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Apply",
                         "text": "Fill out a quick form telling us about your store and products. We'll review and confirm your spot within 48 hours."
                     },
                     {
-                        "number": "02",
                         "title": "Onboarding",
                         "text": "We connect to your Shopify store, sync your product catalog, and learn your brand voice. You'll meet your dedicated content strategist."
                     },
                     {
-                        "number": "03",
                         "title": "Content Creation",
                         "text": "Each week, we create and publish blog content tailored to your products. You review drafts before they go live."
                     },
                     {
-                        "number": "04",
                         "title": "Results",
                         "text": "Watch your organic traffic grow. After 3 months, you'll have a library of SEO-optimized content driving visitors to your store."
                     }

@@ -71,22 +71,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Product Analysis",
                         "text": "We review your products, competitor listings, and target audience. Understand what differentiates your products and what customers care about most."
                     },
                     {
-                        "number": "02",
                         "title": "Template and Style Guide",
                         "text": "Define the structure, tone, and length for each product type. Create a style guide that ensures consistency across your entire catalog."
                     },
                     {
-                        "number": "03",
                         "title": "Write at Scale",
                         "text": "Our ecommerce writers produce descriptions in batches, maintaining quality and voice consistency. Every description goes through editorial review."
                     },
                     {
-                        "number": "04",
                         "title": "Import and Optimize",
                         "text": "Deliver formatted for your platform (Shopify CSV, Magento import, API). Track conversion impact and refine top-selling product copy."
                     }

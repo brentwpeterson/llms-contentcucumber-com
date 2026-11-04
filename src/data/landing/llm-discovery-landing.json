@@ -103,22 +103,18 @@
                 "title": "How LLM Discovery Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "AI Visibility Audit",
                         "text": "We test your brand across every major AI platform. Ask the questions your customers ask and see who AI recommends. You get a report showing where you're visible, where you're invisible, and where competitors appear instead."
                     },
                     {
-                        "number": "02",
                         "title": "Content Optimization",
                         "text": "Restructure existing content for AI citability. Add definition patterns, quotable data points, FAQ schema, and self-contained answer blocks that AI prefers to extract and cite."
                     },
                     {
-                        "number": "03",
                         "title": "Technical Implementation",
                         "text": "Set up llms.txt, configure AI crawler access in robots.txt, implement JSON-LD schema markup, and add structured data that helps AI understand your business and offerings."
                     },
                     {
-                        "number": "04",
                         "title": "Monitor & Optimize",
                         "text": "Track AI citations and brand mentions across platforms over time. See which content gets cited, which doesn't, and continuously optimize. AI models update their knowledge regularly, and so does your optimization."
                     }

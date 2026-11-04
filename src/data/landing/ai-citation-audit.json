@@ -61,22 +61,18 @@
                 "title": "How the AI Citation Audit Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Define Queries",
                         "text": "We identify the questions your customers ask AI. Industry-specific queries, product comparisons, and recommendation requests that matter to your business."
                     },
                     {
-                        "number": "02",
                         "title": "Test Across Platforms",
                         "text": "Run every query across ChatGPT, Perplexity, Google AI Overviews, and Claude. Document who gets mentioned, cited, and recommended."
                     },
                     {
-                        "number": "03",
                         "title": "Competitor Comparison",
                         "text": "Map your visibility against your top competitors. See who AI recommends for each query type and where you have gaps."
                     },
                     {
-                        "number": "04",
                         "title": "Actionable Report",
                         "text": "Prioritized recommendations for improving your AI visibility. Specific content changes, schema additions, and structural improvements ranked by impact."
                     }

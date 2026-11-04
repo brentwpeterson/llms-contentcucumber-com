@@ -75,22 +75,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Discovery Session",
                         "text": "We analyze your business, audience, competitors, and goals. Learn what makes you different and what your customers care about most."
                     },
                     {
-                        "number": "02",
                         "title": "Messaging Framework",
                         "text": "Define your core value proposition, key messages, and tone of voice. This framework guides every page we write."
                     },
                     {
-                        "number": "03",
                         "title": "Write and Refine",
                         "text": "Our copywriters craft each page with conversion in mind. Headlines, body copy, CTAs, and meta content. You review and we refine until it's right."
                     },
                     {
-                        "number": "04",
                         "title": "Launch and Optimize",
                         "text": "New copy goes live. We track conversion rates and user behavior. A/B test headlines and CTAs to maximize performance."
                     }

@@ -186,22 +186,18 @@
                 "subtitle": "A first engagement runs like this.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We interview you",
                         "text": "Your point of view is the raw material. Isaac and Brent have interviewed hundreds of merchants, platforms, and integrators, so the conversation gets to the story underneath fast."
                     },
                     {
-                        "number": "02",
                         "title": "We scope the first piece",
                         "text": "You say which argument is worth owning. We come back with one piece scoped to it and the sequence that follows."
                     },
                     {
-                        "number": "03",
                         "title": "A writer takes it",
                         "text": "One human writer owns your account and learns how you sound, so the second piece costs you less explaining than the first."
                     },
                     {
-                        "number": "04",
                         "title": "You review, we publish",
                         "text": "You see drafts before anything goes live. A whitepaper or flagship report runs four to six weeks from kickoff to a design-ready draft."
                     }

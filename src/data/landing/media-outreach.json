@@ -115,17 +115,14 @@
                 "subtitle": "You book interviews for your clients. We handle everything else.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Pick Packages for Your Clients",
                         "text": "Choose Spotlight (free), Deep Dive ($200), or Full Content Package (custom) for each client attending the conference. Fill out the form and we confirm the slots."
                     },
                     {
-                        "number": "02",
                         "title": "We Show Up at Their Booth",
                         "text": "Talk Commerce arrives with pro gear and guides a natural, relaxed conversation. No scripts needed. Your client talks about what they know."
                     },
                     {
-                        "number": "03",
                         "title": "Content Delivered to Your Agency",
                         "text": "Video clips within two weeks. For Full Content packages, Content Cucumber's writers produce articles, case studies, and social content. All white-labeled. You deliver it to your client."
                     }

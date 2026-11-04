@@ -61,22 +61,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Content Audit",
                         "text": "Analyze your product catalog for LLM readiness. Identify gaps in structured data, content quality, and machine readability."
                     },
                     {
-                        "number": "02",
                         "title": "Optimization Strategy",
                         "text": "Prioritize products by revenue potential and AI discoverability gap. Build a roadmap for content improvements across your catalog."
                     },
                     {
-                        "number": "03",
                         "title": "Content Enhancement",
                         "text": "Rewrite product descriptions with AI citation in mind. Add comparison content, use-case descriptions, and structured attributes that AI models prefer."
                     },
                     {
-                        "number": "04",
                         "title": "Monitor and Iterate",
                         "text": "Track AI product recommendations across platforms. Measure which products get cited and refine content for those that don't."
                     }

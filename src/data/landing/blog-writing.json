@@ -140,22 +140,18 @@
    "data": {
     "steps": [
      {
-      "number": "01",
       "title": "We Read Your Search Console",
       "text": "We pull your real query data and find where demand and outcome disagree, the pages earning impressions without clicks and the questions you rank for on page two."
      },
      {
-      "number": "02",
       "title": "We Write the Post",
       "text": "Your dedicated writer takes one of those openings and writes the piece that answers it, in your voice, reviewed by an editor before it reaches you."
      },
      {
-      "number": "03",
       "title": "We Put It In Front of People",
       "text": "Search takes months to reward a post, so targeted social carries it to the audience it was written for while the ranking builds, and the piece earns attention in week one rather than in month three."
      },
      {
-      "number": "04",
       "title": "We Measure It In GA4",
       "text": "Traffic, queries, and what visitors did after landing. That result picks the next topic, which is what makes this a loop instead of a content calendar."
      }

@@ -211,22 +211,18 @@
                 "subtitle": "Four steps from the first call to a site your team can run.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Strategy call",
                         "text": "We talk through your team, your current site, and the searches you want to win, and confirm WordPress is the right fit."
                     },
                     {
-                        "number": "02",
                         "title": "Written estimate",
                         "text": "You get the cost, the timeline, and the page list in writing, so you can decide before any work begins."
                     },
                     {
-                        "number": "03",
                         "title": "Build and content",
                         "text": "Evrig builds the theme and the functionality while Content Cucumber writes and loads the pages."
                     },
                     {
-                        "number": "04",
                         "title": "Launch and handoff",
                         "text": "We launch, check redirects and page speed, and train your team to edit the site in WordPress."
                     }

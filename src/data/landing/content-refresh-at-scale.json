@@ -284,27 +284,22 @@
                 "subtitle": "Voice capture and quality control run as a system you can see, step by step.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Capture your voice",
                         "text": "RequestDesk studies your existing content and builds a voice profile. It captures tone, rhythm, reading level, and what you do and do not say. We refine it with you and lock it as the standard."
                     },
                     {
-                        "number": "02",
                         "title": "Encode your brand rules",
                         "text": "Banned phrases, required spellings, competitors you never link. We load them into RequestDesk so the rules are enforced on every page automatically."
                     },
                     {
-                        "number": "03",
                         "title": "Ground it in your content",
                         "text": "We index your current pages and source documents so each rewrite draws on your own facts. This is the layer that keeps the work grounded."
                     },
                     {
-                        "number": "04",
                         "title": "Rewrite and encode at scale",
                         "text": "Each page is rewritten to your voice and structured for AI search, with a clear answer up front, descriptive headings, internal and authority links, and an FAQ block."
                     },
                     {
-                        "number": "05",
                         "title": "QA-gate every piece",
                         "text": "Nothing ships until it passes the gate for voice match, fact accuracy, brand rules, and AEO structure. Whatever fails gets reworked before it ships."
                     }

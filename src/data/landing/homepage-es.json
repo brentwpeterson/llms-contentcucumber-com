@@ -105,22 +105,18 @@
                 "subtitle": "De la primera llamada al primer borrador en días, no en semanas.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Descubrimiento",
                         "text": "Conocemos la voz de tu marca, tus objetivos y tu audiencia. Tú nos cuentas qué es lo que importa. Nosotros escuchamos."
                     },
                     {
-                        "number": "2",
                         "title": "Estrategia",
                         "text": "Armamos un calendario de contenido y un plan de temas basado en tus objetivos, palabras clave y el panorama competitivo."
                     },
                     {
-                        "number": "3",
                         "title": "Creación",
                         "text": "Redactores humanos crean tu contenido. Cada pieza pasa por revisión editorial antes de entregarse."
                     },
                     {
-                        "number": "4",
                         "title": "Resultados",
                         "text": "El contenido se publica a tiempo. El tráfico crece. Tu marca construye autoridad que se acumula con el tiempo."
                     }

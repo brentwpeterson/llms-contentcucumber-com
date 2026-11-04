@@ -97,22 +97,18 @@
                 "title": "How It Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Discovery",
                         "text": "We learn your goals, audience, and brand. You tell us what you need. We figure out how to build it. Platform recommendation comes out of this call."
                     },
                     {
-                        "number": "02",
                         "title": "Design",
                         "text": "Custom design that matches your brand. Mobile-first, optimized for speed and conversions. You review one round before we build."
                     },
                     {
-                        "number": "03",
                         "title": "Build",
                         "text": "AI-leveraged development on WordPress or Astro. AEO and SEO baked in from the first line of code. You see progress on a staging site as we build."
                     },
                     {
-                        "number": "04",
                         "title": "Launch",
                         "text": "Final review, Lighthouse validation, and go-live. Your site is fast, findable, and ready for traffic. Lighthouse report goes in your hands as proof."
                     }

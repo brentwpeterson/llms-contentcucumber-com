@@ -168,27 +168,22 @@
                 "subtitle": "An expert informs every piece, a writer writes it, and you approve it.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We read what you publish",
                         "text": "Your recent published work, your brand guide if you have one, and the practices you get compared to, all of which becomes a style sheet the writers work from."
                     },
                     {
-                        "number": "02",
                         "title": "We agree the topics",
                         "text": "Built from what you already surface for and the questions patients ask before they book."
                     },
                     {
-                        "number": "03",
                         "title": "We name the subject matter expert",
                         "text": "Either someone we bring in for your specialty or someone on your team, agreed before the writing starts, so you always know whose expertise sits behind a page."
                     },
                     {
-                        "number": "04",
                         "title": "A writer is assigned and stays",
                         "text": "The same people write for you month over month, so your approved language carries forward from one brief to the next."
                     },
                     {
-                        "number": "05",
                         "title": "An editor reads it, then you approve it",
                         "text": "It arrives on your schedule for your final read, because in this field the last word belongs to you."
                     }

@@ -70,22 +70,18 @@
                 "title": "Cómo funciona",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Llamada de descubrimiento",
                         "text": "Conocemos tu negocio, tu audiencia, tus competidores y tus objetivos de contenido. Esto define cada artículo que escribimos."
                     },
                     {
-                        "number": "02",
                         "title": "Calendario de contenido",
                         "text": "Creamos un calendario mensual alineado con tu estrategia SEO y objetivos de negocio. Tú apruebas los temas antes de que escribamos."
                     },
                     {
-                        "number": "03",
                         "title": "Redacción y edición",
                         "text": "Tu escritor dedicado investiga, escribe y nuestro equipo editorial revisa. Recibes artículos pulidos y listos para publicar."
                     },
                     {
-                        "number": "04",
                         "title": "Publicación y medición",
                         "text": "Los artículos se publican en tu calendario. Medimos el rendimiento y ajustamos la estrategia según lo que posiciona y convierte."
                     }

@@ -89,22 +89,18 @@
                 "title": "How the Brand Audit Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Connect Your Content",
                         "text": "Share access to your site, social accounts, and email platform. Or just send us your URL and we'll pull what's public. RequestDesk's Brand Discovery scans your existing content automatically."
                     },
                     {
-                        "number": "02",
                         "title": "AI + Human Analysis",
                         "text": "RequestDesk analyzes your content for brand signals, voice patterns, and terminology. Then our editorial team reviews the findings and adds the nuance that AI misses."
                     },
                     {
-                        "number": "03",
                         "title": "Brand Strength Score",
                         "text": "You get a score across 20 brand dimensions: voice, tone, values, audience alignment, terminology consistency, and more. Each dimension is rated so you know where to focus."
                     },
                     {
-                        "number": "04",
                         "title": "Action Plan",
                         "text": "You get a clear, prioritized list of what to fix first, with examples from your own content. Specific examples from your own content showing what's on-brand and what's drifting."
                     }

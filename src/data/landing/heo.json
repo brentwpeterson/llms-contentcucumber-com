@@ -64,10 +64,6 @@
                 "paragraphs": [
                     "Content Cucumber's 40+ writers make original content that isn't derived from an average of content across the internet.",
                     "Our writers use AI for research and for editing. The research part of our work has vastly increased the writers' efficiency, and AI editing has allowed our writers to focus on creating content rather than going back to edit."
-                ],
-                "stats": [
-                    { "number": "40+", "label": "Human writers" },
-                    { "number": "30+", "label": "Years in commerce" }
                 ]
             }
         },

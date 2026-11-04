@@ -114,22 +114,18 @@
     "subtitle": "Four steps from kickoff to review call.",
     "steps": [
      {
-      "number": "1",
       "title": "Kickoff Call",
       "text": "Day 1. Platform access, scope, timeline. 30 minutes."
      },
      {
-      "number": "2",
       "title": "Data Pull and Scoring",
       "text": "Days 2-7. We pull data, score the program, document findings against 40+ checkpoints."
      },
      {
-      "number": "3",
       "title": "Report Writing",
       "text": "Days 8-10. We write the report, prep the review call, and co-brand with your platform."
      },
      {
-      "number": "4",
       "title": "Review Call",
       "text": "Day 10. 60 minutes. We walk through findings, answer questions, recommend the next step. No pressure."
      }

@@ -106,22 +106,18 @@
                 "subtitle": "You'll leave with a completed audit in hand. Here is what you get.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Live Audit on a Real Account",
                         "text": "Brent walks through 5 audit gaps on an anonymized commerce site. You see what we look for, where it lives in Mailchimp, and how to fix it."
                     },
                     {
-                        "number": "2",
                         "title": "The Mailchimp Tool Map",
                         "text": "A Mailchimp partner expert shows which features close each gap. Segmentation, automation, lifecycle. What your tier already includes and what unlocks the rest."
                     },
                     {
-                        "number": "3",
                         "title": "Your Free Email Audit",
                         "text": "Every registrant gets a free audit on their own program. Submit your last 3 campaigns, copy doc, and historical stats. We deliver a one-pager within 7 days."
                     },
                     {
-                        "number": "4",
                         "title": "The Audit Framework PDF",
                         "text": "A printable 5-gap audit checklist you can rerun every quarter. Free to every registrant, whether you attend live or watch the recording."
                     }

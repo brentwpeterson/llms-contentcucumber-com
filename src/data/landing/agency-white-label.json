@@ -104,22 +104,18 @@
                 "subtitle": "From first call to first deliverable in under two weeks. Four steps to a fully operational white-label SEO partnership.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Discovery Call",
                         "text": "We learn about your agency, your clients, and the SEO services you want to offer. We map out which services fit (content creation, analytics, scoring, or all three) and define the white-label arrangement."
                     },
                     {
-                        "number": "02",
                         "title": "Brand Voice Capture",
                         "text": "For each client you onboard, we capture their brand voice, tone, terminology, and content preferences in RequestDesk. Your clients' content sounds like them, not like a content mill."
                     },
                     {
-                        "number": "03",
                         "title": "Content Production and Scoring",
                         "text": "Our writers create SEO-optimized content. Every piece gets Lighthouse performance scoring, keyword optimization checks, and AEO visibility analysis before delivery. You review and deliver to your client under your brand."
                     },
                     {
-                        "number": "04",
                         "title": "Ongoing Reporting and Optimization",
                         "text": "Monthly analytics reports, Lighthouse score tracking, and AEO visibility monitoring. All white-labeled with your agency branding. We flag opportunities and issues so you can be proactive with your clients."
                     }

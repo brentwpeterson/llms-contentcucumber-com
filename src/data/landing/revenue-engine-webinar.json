@@ -112,22 +112,18 @@
                 "subtitle": "This is a working session. Everything below is yours to walk away with.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "The HubSpot Stack Blueprint",
                         "text": "Brent breaks down how to properly configure HubSpot Sales Pro so your CRM drives revenue instead of collecting dust. Includes AI automation opportunities most companies miss."
                     },
                     {
-                        "number": "2",
                         "title": "The Sales Leadership Rhythm",
                         "text": "Chris reveals the daily and weekly cadence that top-performing sales teams run. Huddles, call reviews, pipeline scrubs, and the management dashboard that ties it all together."
                     },
                     {
-                        "number": "3",
                         "title": "The Quick Cash Campaign",
                         "text": "A step-by-step playbook for reactivating dead leads in your database. Most companies are sitting on immediate revenue they have already paid to acquire."
                     },
                     {
-                        "number": "4",
                         "title": "Your 90-Day Action Plan",
                         "text": "Leave with a prioritized roadmap. Week 1 through Week 12. What to fix first, what to build second, and what to measure along the way."
                     }

@@ -104,22 +104,18 @@
                 "subtitle": "Four steps from submission to actionable insights.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Enter Your Brand Information",
                         "text": "Tell us your company name, location, industry, and product or service. You can analyze your own company or evaluate a competitor's AI positioning."
                     },
                     {
-                        "number": "2",
                         "title": "Cross-Platform AI Analysis",
                         "text": "We send your brand information to ChatGPT, Perplexity, and Gemini and evaluate how each model characterizes your brand based on its training data."
                     },
                     {
-                        "number": "3",
                         "title": "Composite Score Calculation",
                         "text": "Your results are calculated across all five dimensions, producing a total score out of 100 with validated, consistent scoring."
                     },
                     {
-                        "number": "4",
                         "title": "Full Brand Assessment Report",
                         "text": "You receive your composite score, a breakdown across all five scoring dimensions, and a written interpretation of what your scores mean for your brand's current AI representation."
                     }

@@ -142,37 +142,30 @@
                 "subtitle": "The same pattern we run for every qualified POC, scoped to the moving parts your team flagged on the discovery call.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Stack and scope",
                         "text": "Stand up Shopware in Docker. Map your moving parts to platform primitives: customer groups, contract pricing, approval rules, ERP integration shape. No surprises after this day."
                     },
                     {
-                        "number": "02",
                         "title": "Catalog import",
                         "text": "Bring in ten to fifty representative SKUs with B2B metadata (MOQs, customer-group pricing, certifications). Content Cucumber writes descriptions and category copy if you hand us a catalog CSV."
                     },
                     {
-                        "number": "03",
                         "title": "Customer groups and pricing",
                         "text": "Configure customer-group pricing, contract prices, and volume breaks against your real numbers. Tiered storefront experience per buying group."
                     },
                     {
-                        "number": "04",
                         "title": "Quote and approval",
                         "text": "Quote request workflow live on the storefront. Approval routing configured against the spend limits and approval chain you describe on day one."
                     },
                     {
-                        "number": "05",
                         "title": "Punch-out integration",
                         "text": "OCI feed wired up against a test procurement system. Optional SAP Ariba CIF setup if your buyers require it."
                     },
                     {
-                        "number": "06",
                         "title": "Cart, checkout, orders",
                         "text": "Real cart, real checkout, real order numbers on your data shape. Net terms, PO numbers, tax exemption flow, and cost centers as applicable."
                     },
                     {
-                        "number": "07",
                         "title": "Walkthrough and decision",
                         "text": "Working URL ready for your team to demo internally. Walkthrough call. Discovery findings and a production scope proposal. Your call from there: sign a production cutover contract, refine the scope, or walk away clean."
                     }

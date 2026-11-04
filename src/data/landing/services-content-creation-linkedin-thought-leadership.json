@@ -36,27 +36,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                {
-                    "number": "1",
-                    "label": "Interview a Month"
-                },
-                {
-                    "number": "4",
-                    "label": "Posts a Month"
-                },
-                {
-                    "number": "52",
-                    "label": "Posts a Year"
-                },
-                {
-                    "number": "0",
-                    "label": "Posts Written by a Prompt"
-                }
-            ]
-        },
-        {
             "type": "arguments",
             "data": {
                 "eyebrow": "Why it carries your name",
@@ -266,20 +245,6 @@
                 "paragraphs": [
                     "Brent runs this program on his own LinkedIn profile. You can scroll back through it and judge whether the work held up, which is the only kind of proof worth anything before you have hired anybody.",
                     "The posts are the visible half. Underneath them sits the reading, and that is what we are selling you."
-                ],
-                "stats": [
-                    {
-                        "number": "129",
-                        "label": "Posts in 93 Days"
-                    },
-                    {
-                        "number": "174",
-                        "label": "People Reached"
-                    },
-                    {
-                        "number": "234",
-                        "label": "Comments Written"
-                    }
                 ]
             }
         },

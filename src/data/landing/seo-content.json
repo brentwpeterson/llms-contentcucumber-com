@@ -75,22 +75,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Keyword Research",
                         "text": "Identify high-value keywords that match your business goals and audience search behavior. Prioritize by volume, difficulty, and commercial intent."
                     },
                     {
-                        "number": "02",
                         "title": "Content Brief",
                         "text": "Build detailed briefs with target keywords, heading structure, competitor references, and internal linking targets. Writers get everything they need."
                     },
                     {
-                        "number": "03",
                         "title": "Write and Optimize",
                         "text": "Human writers create engaging content that naturally incorporates target keywords. Technical SEO elements (meta tags, schema, headings) are built in from the start."
                     },
                     {
-                        "number": "04",
                         "title": "Track and Iterate",
                         "text": "Monitor rankings, traffic, and conversions. Update content based on performance data. SEO needs ongoing attention to hold and grow rankings."
                     }

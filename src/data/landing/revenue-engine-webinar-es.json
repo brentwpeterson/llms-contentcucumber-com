@@ -111,22 +111,18 @@
                 "subtitle": "Es una sesión de trabajo. Esto es lo que obtienes.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "El blueprint del stack de HubSpot",
                         "text": "Brent explica cómo configurar correctamente HubSpot Sales Pro para que tu CRM realmente impulse ingresos en lugar de juntar polvo. Incluye oportunidades de automatización con IA que la mayoría de las empresas desaprovechan."
                     },
                     {
-                        "number": "2",
                         "title": "El ritmo de liderazgo de ventas",
                         "text": "Chris revela la cadencia diaria y semanal que siguen los equipos de ventas de alto rendimiento. Juntas rápidas, revisión de llamadas, limpieza de pipeline y el dashboard de gestión que conecta todo."
                     },
                     {
-                        "number": "3",
                         "title": "La campaña de efectivo rápido",
                         "text": "Un manual paso a paso para reactivar leads muertos en tu base de datos. La mayoría de las empresas están sentadas sobre ingresos inmediatos que ya pagaron por adquirir."
                     },
                     {
-                        "number": "4",
                         "title": "Tu plan de acción de 90 días",
                         "text": "Sal con una hoja de ruta priorizada. De la semana 1 a la semana 12. Qué arreglar primero, qué construir después y qué medir en el camino."
                     }

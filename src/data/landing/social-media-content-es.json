@@ -70,22 +70,18 @@
                 "title": "Cómo funciona",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Descubrimiento de marca",
                         "text": "Estudiamos tu voz de marca, tu audiencia y tus competidores en cada plataforma. Aprendemos qué funciona y qué no en tu industria."
                     },
                     {
-                        "number": "02",
                         "title": "Calendario de contenido",
                         "text": "Creamos un calendario mensual con temas, tipos de post y copy para cada plataforma. Tú revisas y apruebas antes de que se publique nada."
                     },
                     {
-                        "number": "03",
                         "title": "Redacción y programación",
                         "text": "Nuestros escritores crean contenido nativo para cada plataforma. Cada post se escribe para la plataforma donde vive. Cada plataforma recibe contenido pensado para cómo la gente la usa."
                     },
                     {
-                        "number": "04",
                         "title": "Reporte y ajuste",
                         "text": "Reportes mensuales de rendimiento que muestran qué funciona. Duplicamos los formatos ganadores y ajustamos lo que no está rindiendo."
                     }

@@ -70,17 +70,14 @@
                 "subtitle": "One meeting gets you a plan you can use, whether you hire us or not.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Book a time",
                         "text": "Pick a slot. Coffee, your office, or a call if that is easier. We come to you."
                     },
                     {
-                        "number": "02",
                         "title": "We map the plan",
                         "text": "We look at where you are, where you want to go, and what is in the way. You leave with a clear next step."
                     },
                     {
-                        "number": "03",
                         "title": "We run it",
                         "text": "When it fits, we take the marketing off your plate and run the plan. You stay in the loop the whole way."
                     }

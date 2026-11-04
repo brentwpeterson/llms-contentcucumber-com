@@ -69,17 +69,14 @@
                 "subtitle": "Three simple steps from signup to actionable insights.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Easy Setup",
                         "text": "Connect your HubSpot account and give the app permission to read your HubSpot objects. Setup takes less than two minutes."
                     },
                     {
-                        "number": "2",
                         "title": "Background Processing",
                         "text": "The audit runs in the background with minimal impact on your portal. It scans contacts, companies, deals, tickets, and more."
                     },
                     {
-                        "number": "3",
                         "title": "Prioritized Report",
                         "text": "Receive a detailed PDF report with prioritized, actionable recommendations. Focus on high-impact fixes first."
                     }

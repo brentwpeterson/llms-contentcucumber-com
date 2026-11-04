@@ -61,22 +61,18 @@
                 "title": "How Content Refresh Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Audit Existing Content",
                         "text": "We analyze your entire content library: rankings, traffic trends, backlink profiles, and search intent alignment. Identify which pages have the highest potential for improvement."
                     },
                     {
-                        "number": "02",
                         "title": "Prioritize by Impact",
                         "text": "Not every page is worth refreshing. We prioritize by ranking proximity (pages on page 2-3), traffic decline severity, and business value of the target keywords."
                     },
                     {
-                        "number": "03",
                         "title": "Refresh & Republish",
                         "text": "Our writers update the content: new data, better structure, stronger CTAs, improved readability. We keep the URL and preserve existing link equity."
                     },
                     {
-                        "number": "04",
                         "title": "Track Results",
                         "text": "Monitor ranking changes, traffic recovery, and conversion impact. Content refreshes typically show results within 2-4 weeks as Google recrawls the updated pages."
                     }

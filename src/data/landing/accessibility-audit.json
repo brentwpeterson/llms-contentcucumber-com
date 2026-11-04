@@ -111,24 +111,6 @@
                 "paragraphs": [
                     "Before we offered this audit to anyone, we ran the audit on contentcucumber.com, and the first scan found accessibility failures on nearly every page of our own site. The bulk of them traced back to a handful of shared sources, a link color in the theme settings, a green button style, icon links in a sidebar widget and an author box on posts whose author had been deleted.",
                     "We fixed those sources, cleaned up the content the templates could not reach, and rescanned the site at phone and desktop width until the scan came back clean. The same work got our homepage loading in under three seconds on a phone, and the audit we run on your site is the one we ran on ours."
-                ],
-                "stats": [
-                    {
-                        "number": "6",
-                        "label": "Shared sources behind the bulk of failures"
-                    },
-                    {
-                        "number": "37",
-                        "label": "Posts given a real author"
-                    },
-                    {
-                        "number": "54",
-                        "label": "Images given alt text"
-                    },
-                    {
-                        "number": "3 days",
-                        "label": "First scan to clean rescan"
-                    }
                 ]
             }
         },
@@ -139,22 +121,18 @@
                 "title": "How the Audit Works",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Scan the Site",
                         "text": "We load the URLs in your sitemap at phone and desktop width in a real Chrome browser and run the accessibility, speed and Agentic Browsing checks on each one."
                     },
                     {
-                        "number": "02",
                         "title": "Trace Failures to Their Source",
                         "text": "We group the results by the template, setting or shared block that produces them, so you see the short list of sources behind the long list of pages."
                     },
                     {
-                        "number": "03",
                         "title": "Fix or Hand Off",
                         "text": "You get a ranked fix list. On WordPress we can make the theme and content fixes ourselves, and for other platforms we write the fixes up for your developers."
                     },
                     {
-                        "number": "04",
                         "title": "Rescan and Confirm",
                         "text": "After the fixes go live we scan the site again past the page cache and show you the before and after numbers side by side."
                     }

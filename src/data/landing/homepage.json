@@ -165,22 +165,18 @@
                 "subtitle": "From first call to first draft in days, not weeks.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Discovery",
                         "text": "We learn your brand voice, goals, and audience. You tell us what matters. We listen."
                     },
                     {
-                        "number": "2",
                         "title": "Strategy",
                         "text": "We build a content calendar and topic plan based on your goals, keywords, and competitive landscape."
                     },
                     {
-                        "number": "3",
                         "title": "Creation",
                         "text": "Human writers create your content. Every piece goes through editorial review before delivery."
                     },
                     {
-                        "number": "4",
                         "title": "Results",
                         "text": "Content publishes on schedule, traffic grows, and your brand builds authority that lasts."
                     }

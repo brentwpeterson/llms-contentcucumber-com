@@ -109,22 +109,18 @@
                 "subtitle": "Your people know the place, and the writing starts with them.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "We interview your guides",
                         "text": "A conversation with the people who run the trip, so the details on the page come from the place."
                     },
                     {
-                        "number": "02",
                         "title": "We map the booking calendar",
                         "text": "Peak and shoulder seasons set which destinations get pages first."
                     },
                     {
-                        "number": "03",
                         "title": "A writer learns the trips",
                         "text": "The same writer covers a destination across guides, itineraries, and email, so the voice stays steady."
                     },
                     {
-                        "number": "04",
                         "title": "Editor, then your approval",
                         "text": "An editor reads each page, and your team checks the details before anything goes live."
                     }

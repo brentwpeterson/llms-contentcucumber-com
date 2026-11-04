@@ -110,27 +110,22 @@
                 "subtitle": "La captura de voz y el control de calidad funcionan como un sistema que puedes ver, paso a paso.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Capturamos tu voz",
                         "text": "RequestDesk estudia tu contenido actual y construye un perfil de voz. Captura el tono, el ritmo, el nivel de lectura y lo que dices y lo que no. Lo afinamos contigo y lo dejamos como estándar."
                     },
                     {
-                        "number": "02",
                         "title": "Codificamos las reglas de tu marca",
                         "text": "Frases prohibidas, formas de escribir obligatorias, competidores que nunca enlazas. Las cargamos en RequestDesk para que las reglas se apliquen en cada página de forma automática."
                     },
                     {
-                        "number": "03",
                         "title": "La anclamos en tu contenido",
                         "text": "Indexamos tus páginas actuales y tus documentos fuente para que cada reescritura parta de tus propios datos. Esa es la capa que mantiene el trabajo bien fundamentado."
                     },
                     {
-                        "number": "04",
                         "title": "Reescribimos y estructuramos a escala",
                         "text": "Cada página se reescribe con tu voz y se estructura para la búsqueda con IA, con una respuesta clara desde el inicio, encabezados descriptivos, enlaces internos y de autoridad, y una sección de preguntas frecuentes."
                     },
                     {
-                        "number": "05",
                         "title": "Filtro de calidad en cada pieza",
                         "text": "Nada se publica hasta pasar el filtro de voz, exactitud, reglas de marca y estructura para AEO. Lo que no pasa, se rehace antes de publicarse."
                     }

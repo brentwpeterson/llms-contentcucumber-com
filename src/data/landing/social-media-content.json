@@ -78,22 +78,18 @@
             "data": {
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Brand Discovery",
                         "text": "We study your brand voice, audience, and competitors on each platform. Learn what resonates and what falls flat in your industry."
                     },
                     {
-                        "number": "02",
                         "title": "Content Calendar",
                         "text": "Build a monthly calendar with themes, post types, and copy for each platform. You review and approve before anything goes live."
                     },
                     {
-                        "number": "03",
                         "title": "Write and Schedule",
                         "text": "Our writers build each post for the platform it lives on. Each platform gets content built for how people use it."
                     },
                     {
-                        "number": "04",
                         "title": "Report and Refine",
                         "text": "Monthly performance reports show what's working. We double down on winning formats and adjust what isn't performing."
                     }

@@ -118,22 +118,18 @@
                 "subtitle": "Four steps, and you keep the same writer through all of them.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Tell us about your brand",
                         "text": "We read what you already publish so the writing moves toward your voice rather than ours."
                     },
                     {
-                        "number": "02",
                         "title": "We assign your writer",
                         "text": "One person, matched to your subject, who stays with the account."
                     },
                     {
-                        "number": "03",
                         "title": "Request what you need",
                         "text": "Send requests as they come up. Topic development is included, so an empty list is not a blocker."
                     },
                     {
-                        "number": "04",
                         "title": "Review and publish",
                         "text": "Revise as many times as you want, and we will publish it for you when you are happy."
                     }

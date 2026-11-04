@@ -69,48 +69,39 @@
                 "subtitle": "Writing starts at step 3. Not after all interviews. That's why delivery takes weeks.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Brand Voice",
                         "text": "We learn your brand standards, tone, and format preferences. This is a onetime investment that pays off across every case study."
                     },
                     {
-                        "number": "02",
                         "title": "Research",
                         "text": "We dig into the merchant's business, industry, platform implementation, and tech stack before anyone gets on a call."
                     },
                     {
-                        "number": "03",
                         "badge": "Draft starts here",
                         "title": "Interview the Stakeholder",
                         "text": "We start drafting the moment we interview your team. By the time we reach the merchant, the story is already taking shape."
                     },
                     {
-                        "number": "04",
                         "title": "Interview the Agency",
                         "text": "We talk to the implementation partner. The draft gets sharper. Real technical details go in. Composable architecture, ERP integrations, checkout customization."
                     },
                     {
-                        "number": "05",
                         "title": "Interview the Merchant",
                         "text": "By now the case study is 70% written. The merchant sees a draft, adds their perspective, and approves. If they can't participate, you still have a deliverable."
                     },
                     {
-                        "number": "06",
                         "title": "Write and Refine",
                         "text": "Our writer has been embedded since step 1. They go back for more detail, tighten the narrative, and run revision rounds with all parties."
                     },
                     {
-                        "number": "07",
                         "title": "Extract Assets",
                         "text": "We pull key metrics for graphics, create social proof snippets, and clip interview highlights for premium deliverables."
                     },
                     {
-                        "number": "08",
                         "title": "Format and Brand",
                         "text": "Final case study gets formatted to your brand template. PDF, web-ready, CMS-compatible. Whatever you need."
                     },
                     {
-                        "number": "09",
                         "title": "Deliver",
                         "text": "You get a finished, branded case study ready to publish under your name. We're never credited. That's the point."
                     }

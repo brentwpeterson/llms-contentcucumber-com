@@ -105,22 +105,18 @@
                 "subtitle": "Desde la primera llamada hasta el primer entregable en menos de dos semanas. Cuatro pasos para una alianza SEO de marca blanca totalmente operativa.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Llamada de descubrimiento",
                         "text": "Conocemos tu agencia, tus clientes y los servicios SEO que quieres ofrecer. Definimos qué servicios encajan (creación de contenido, análisis, monitoreo, o los tres) y establecemos el acuerdo de marca blanca."
                     },
                     {
-                        "number": "02",
                         "title": "Captura de voz de marca",
                         "text": "Para cada cliente que incorpores, capturamos su voz de marca, tono, terminología y preferencias de contenido en RequestDesk. El contenido de tus clientes suena como ellos."
                     },
                     {
-                        "number": "03",
                         "title": "Producción de contenido y evaluación",
                         "text": "Nuestros redactores crean contenido optimizado para SEO. Cada pieza recibe evaluación de rendimiento Lighthouse, verificación de optimización de palabras clave y análisis de visibilidad AEO antes de la entrega. Tú revisas y entregas a tu cliente bajo tu marca."
                     },
                     {
-                        "number": "04",
                         "title": "Reportes y optimización continuos",
                         "text": "Reportes de análisis mensuales, seguimiento de puntuaciones Lighthouse y monitoreo de visibilidad AEO. Todo con marca blanca y el branding de tu agencia. Señalamos oportunidades y problemas para que puedas anticiparte con tus clientes."
                     }

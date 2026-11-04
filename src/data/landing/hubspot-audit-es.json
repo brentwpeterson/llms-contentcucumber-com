@@ -70,17 +70,14 @@
                 "subtitle": "Tres pasos sencillos desde el registro hasta información que puedes aplicar.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "Configuración fácil",
                         "text": "Conecta tu cuenta de HubSpot y dale permiso a la aplicación para leer tus objetos de HubSpot. La configuración toma menos de dos minutos."
                     },
                     {
-                        "number": "2",
                         "title": "Procesamiento en segundo plano",
                         "text": "La auditoría se ejecuta en segundo plano con impacto mínimo en tu portal. Escanea contactos, empresas, negocios, tickets y más."
                     },
                     {
-                        "number": "3",
                         "title": "Progreso sobre perfección",
                         "text": "Recibe un reporte PDF detallado con recomendaciones priorizadas y prácticas. Enfócate primero en las correcciones de mayor impacto."
                     }

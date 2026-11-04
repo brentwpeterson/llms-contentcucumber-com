@@ -78,22 +78,18 @@
                 "title": "From request to report in 24 hours",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Submit your URL",
                         "text": "Email and website only. Company name is optional. No CMS, no analytics, no Search Console access required."
                     },
                     {
-                        "number": "02",
                         "title": "We confirm receipt",
                         "text": "You get a confirmation email immediately with your request reference. Includes the expected delivery window."
                     },
                     {
-                        "number": "03",
                         "title": "A human runs the audit",
                         "text": "We apply the full 56+ point checklist to your site, score every item Pass / Partial / Fail, and write the implementation guidance for your platform."
                     },
                     {
-                        "number": "04",
                         "title": "PDF in your inbox",
                         "text": "The full audit lands in your inbox within one business day. Yours to act on, hand to your team, or talk to us about implementation."
                     }

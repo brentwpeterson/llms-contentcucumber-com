@@ -109,17 +109,14 @@
                 "subtitle": "No scripts. No awkward setups. We come to you.",
                 "steps": [
                     {
-                        "number": "01",
                         "title": "Pick Your Package",
                         "text": "Choose Spotlight (free), Deep Dive ($200), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
                     },
                     {
-                        "number": "02",
                         "title": "We Come to You",
                         "text": "Talk Commerce shows up with pro gear and guides a natural, relaxed conversation. No scripts, no teleprompters. Just your team talking about what they know."
                     },
                     {
-                        "number": "03",
                         "title": "Content Delivered",
                         "text": "Talk Commerce edits and publishes the episode. For Full Content packages, Content Cucumber's writers produce blog articles, case studies, and social content from the interview."
                     }

@@ -34,15 +34,6 @@
             }
         },
         {
-            "type": "proof-bar",
-            "data": [
-                { "number": "2nd Thu", "label": "Every Month" },
-                { "number": "11:00 AM", "label": "Central" },
-                { "number": "45 Min", "label": "Working Session" },
-                { "number": "Free", "label": "To Attend" }
-            ]
-        },
-        {
             "type": "speakers",
             "data": {
                 "eyebrow": "Your Presenters",
@@ -71,17 +62,14 @@
                 "subtitle": "Forty-five minutes. No fluff. Straight answers.",
                 "steps": [
                     {
-                        "number": "1",
                         "title": "What Shipped",
                         "text": "The releases that matter from the last quarter, and what each one changes for how you work day to day."
                     },
                     {
-                        "number": "2",
                         "title": "What's Coming",
                         "text": "A look at the road ahead so you can plan around it instead of reacting to it after the fact."
                     },
                     {
-                        "number": "3",
                         "title": "Agentic Workflows",
                         "text": "Where agents take the repetitive work, catalog copy, briefs, first drafts, so your team spends its time on the work that needs a human."
                     }
