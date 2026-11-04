@@ -110,9 +110,30 @@
                     },
                     {
                         "icon": "pen",
-                        "title": "Blog & SEO Content",
-                        "text": "Buyers search three ways. They search \"content agency near me\" (SEO), they ask an AI tool a direct question about your brand (AEO), and they ask an AI tool who to hire, like \"who writes case studies for commerce brands?\" (GEO). We measure all three, then write for the person who reads the answer. We call that Human Read Optimization. Readers trust content that sounds like a person talking, and AI tools keep getting better at telling a person from a bot.",
+                        "title": "Blog & LinkedIn Articles",
+                        "text": "Articles for your blog and for LinkedIn, written by our writers in your voice.",
                         "link": "/services/content-creation/blog-writing/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "search",
+                        "title": "SEO",
+                        "text": "Buyers search \"content agency near me.\" We measure where you show up in Google and write the pages that answer the search.",
+                        "link": "/seo/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "globe",
+                        "title": "AEO",
+                        "text": "Buyers ask an AI tool about your brand, or who to hire, like \"who writes case studies for commerce brands?\" We measure what AI says about you, then write for the person who reads the answer. We call that Human Read Optimization.",
+                        "link": "/ai-search/aeo-optimization/",
+                        "link_text": "Learn more"
+                    },
+                    {
+                        "icon": "video",
+                        "title": "Professional Video",
+                        "text": "Professional video, shot and edited by our video producer.",
+                        "link": "/conference-coverage/video/",
                         "link_text": "Learn more"
                     },
                     {
