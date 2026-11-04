@@ -13,7 +13,7 @@
             "type": "hero-bold",
             "data": {
                 "eyebrow": "FOR COMMERCE AND SAAS PLATFORMS",
-                "headline": "Become the Voice<br>of Your Industry",
+                "headline": "Real Humans<br>Real Content",
                 "lede": "We write the reports, case studies, and sales enablement docs that earn your buyers' trust and get you quoted.<br>Storytelling by humans, for humans.",
                 "cta_primary": {
                     "text": "Get Started",
@@ -43,7 +43,7 @@
             "type": "lede",
             "data": {
                 "title": "Real humans write your content.",
-                "text": "Content Cucumber's 40+ writers produce the flagship reports, original research, guides, and case studies that anchor your authority. The flywheel keeps the short-form flowing on top. AI helps with research and ideation, and our writers do the writing."
+                "text": "Content Cucumber's 40+ writers make original content that isn't derived from an average of content across the internet.<br><br>We can create hundreds of posts based on a blog, and the wonderful part about those posts is the short content is in your voice, because each post is either a direct quote or a paraphrase of what you said.<br><br>Our writers use AI for research and for editing. The research part of our work has vastly increased the writers' efficiency, and AI editing has now allowed our writers to focus on creating content rather than going back to edit. AI editing has also allowed our editors to free up their time."
             }
         },
         {
@@ -52,8 +52,8 @@
                 "eyebrow": "AI SEARCH AUDIT",
                 "title": "Your buyers ask AI now. Does it know you exist?",
                 "paragraphs": [
-                    "Buyers stopped Googling and started asking ChatGPT, Perplexity, and Gemini.",
-                    "We run AI research across all four engines to surface where you stand and the patterns hiding in what they say, then our people turn that into the findings and the body of work that make the AI name you instead of your competitor."
+                    "The rate of people using LLMs for searching is increasing exponentially, and that increase is seen in Google's recent earnings call. You need to be seen by users in LLMs now, not later.",
+                    "The client can get great insights from an AI audit."
                 ],
                 "image": "audit-sample-pages/02-score.webp",
                 "cta_text": "Get your free AI Search audit",
@@ -81,7 +81,7 @@
                 "alt": "How the Content Flywheel turns one interview into a month of content",
                 "headline": "The Content Flywheel",
                 "paragraphs": [
-                    "One monthly hour-long interview turns into 4+ articles, daily social posts, and a curated newsletter. Google Search Console data drives topic selection, bi-monthly check-ins keep us aligned, and our team is available to talk anytime.",
+                    "One monthly hour-long interview turns into 4+ articles, daily social posts, and a curated newsletter.",
                     "Built for founders, marketing leads, and small teams who know content matters but can't keep up writing it. We run your marketing so you can run everything else."
                 ],
                 "cta_text": "See How the Flywheel Works",
@@ -113,7 +113,7 @@
                     {
                         "icon": "pen",
                         "title": "Blog & SEO Content",
-                        "text": "Consistent, high-quality blog posts optimized for search and written by humans who understand your industry. Weekly delivery, every week.",
+                        "text": "Buyers search three ways. They search \"content agency near me\" (SEO), they ask an AI tool a direct question about your brand (AEO), and they ask an AI tool who to hire, like \"who writes case studies for commerce brands?\" (GEO). We measure all three, then write for the person who reads the answer. We call that Human Read Optimization. Readers trust content that sounds like a person talking, and AI tools keep getting better at telling a person from a bot.",
                         "link": "/services/content-creation/blog-writing/",
                         "link_text": "Learn more"
                     },
@@ -126,8 +126,8 @@
                     },
                     {
                         "icon": "video",
-                        "title": "Live Event Content",
-                        "text": "We show up at your booth, film professional interviews, and deliver polished video assets. One shoot, months of content.",
+                        "title": "Turn Your 3-Day Event Into 3 Months of Marketing",
+                        "text": "You're already spending serious money to exhibit. We help you leave with more than badge scans. Professional video, guided interviews, event podcasts, and PR outreach captured on-site and delivered.",
                         "link": "/conference-coverage/",
                         "link_text": "Learn more"
                     },
@@ -162,23 +162,27 @@
             "type": "how-it-works",
             "data": {
                 "title": "How It Works",
-                "subtitle": "From first call to first draft in days, not weeks.",
+                "subtitle": "From first call to first draft in 1 week.",
                 "steps": [
                     {
-                        "title": "Discovery",
-                        "text": "We learn your brand voice, goals, and audience. You tell us what matters. We listen."
+                        "title": "",
+                        "text": "We start with a call to learn how you talk about your business and who buys from you."
                     },
                     {
-                        "title": "Strategy",
-                        "text": "We build a content calendar and topic plan based on your goals, keywords, and competitive landscape."
+                        "title": "",
+                        "text": "We look at your Google Analytics and Google Search Console to see what already works, and we pick topics from there."
                     },
                     {
-                        "title": "Creation",
-                        "text": "Human writers create your content. Every piece goes through editorial review before delivery."
+                        "title": "",
+                        "text": "We meet with you every other week."
                     },
                     {
-                        "title": "Results",
-                        "text": "Content publishes on schedule, traffic grows, and your brand builds authority that lasts."
+                        "title": "",
+                        "text": "A writer drafts each piece, and an editor reads it before you see it."
+                    },
+                    {
+                        "title": "",
+                        "text": "You approve it, and it goes live on the schedule we set together."
                     }
                 ]
             }
@@ -231,7 +235,7 @@
                     {
                         "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2'/><circle cx='9' cy='7' r='4'/><path d='M23 21v-2a4 4 0 0 0-3-3.87'/><path d='M16 3.13a4 4 0 0 1 0 7.75'/></svg>",
                         "title": "Long-Standing Human Writing Team",
-                        "text": "40+ experienced writers who learn your brand voice. No AI-generated filler. Real people writing real content that connects with your audience."
+                        "text": "40+ experienced writers who learn your brand voice. We ran our own homepage through an AI detector and it came back 56% AI, a strange result for a company of human writers, until we saw what it flagged, the same formulas every copywriter learns. We rewrote the page with our own names, numbers, and opinions, and that's how we write for you."
                     },
                     {
                         "icon": "<svg width='40' height='40' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><rect x='2' y='3' width='20' height='14' rx='2'/><line x1='8' y1='21' x2='16' y2='21'/><line x1='12' y1='17' x2='12' y2='21'/><path d='M7 8h2m2 0h2m2 0h2'/><path d='M7 11h10'/></svg>",
