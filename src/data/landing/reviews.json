@@ -83,6 +83,10 @@
   "portal-iq": {
    "name": "Portal-IQ",
    "industry": "saas"
+  },
+  "ambidextrous-studio": {
+   "name": "Ambidextrous Studio",
+   "industry": "agency"
   }
  },
  "reviews": [
@@ -5002,6 +5006,19 @@
    "rating": 5,
    "text": "I've been doing this for 20 years, and in six months you've helped me find the right space, the right content, and pushed my boundaries every week. Meeting in person and talking through the solutions has been the biggest win I could ask for.",
    "date": "2026-06-01",
+   "has_text": true,
+   "approved": true,
+   "is_testimonial": true
+  },
+  {
+   "id": 447,
+   "client": "Eric Martinez",
+   "org_slug": "ambidextrous-studio",
+   "role": "Founder & Creative Director",
+   "content_title": "Content Cucumber AI search audit",
+   "rating": 5,
+   "text": "After implementing Content Cucumber’s AI search audit, I got my first-ever cold inquiry within a month. This never happens. The prospect told me they found me through ChatGPT search.",
+   "date": "2026-11-04",
    "has_text": true,
    "approved": true,
    "is_testimonial": true
