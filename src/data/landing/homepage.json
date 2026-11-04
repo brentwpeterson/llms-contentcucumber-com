@@ -130,10 +130,10 @@
                         "link_text": "Learn more"
                     },
                     {
-                        "icon": "video",
-                        "title": "Professional Video",
-                        "text": "Professional video, shot and edited by our video producer.",
-                        "link": "/conference-coverage/video/",
+                        "icon": "message",
+                        "title": "HEO",
+                        "text": "Human Engagement Optimization. Buyers find you in Google, in a direct question to an AI tool, and in an AI recommendation. HEO is the layer on top of all three, the person who reads the answer and decides whether to call you.",
+                        "link": "/heo/",
                         "link_text": "Learn more"
                     },
                     {
