@@ -399,7 +399,7 @@
             "type": "latest-posts",
             "data": {
                 "title": "From the Blog",
-                "subtitle": "The latest thinking on content marketing, SEO, and building brands that last.",
+                "subtitle": "Read our thoughts on content marketing, search discovery, commerce, research, and more.",
                 "count": 3,
                 "cta_text": "View All Posts",
                 "cta_link": "/blog/"
