@@ -1,0 +1,178 @@
+{
+    "_README": "Building Trust webinar registration page (Jan 20 2027). Copy is built from the speakers' own words in the 32-minute Riverside prep recording (Campaigns/2027-01-building-trust-webinar/recording-transcript-riverside.txt), lightly cleaned for reading. Destination of the TrustPromoOutro QR. Shared HubSpot form 98689e3c, campaign_code building-trust-webinar.",
+    "seo": {
+        "title": "Building Trust on Your Website in the Era of S#!t AI Content",
+        "meta_description": "A live webinar with Brent Peterson, Isaac Morey and Mike Eastwood on what makes a customer trust your website enough to reach out. Wednesday, January 20 at 3pm CST.",
+        "og_description": "Real photos, real customer stories, reviews, and what AI tools say about your business. Brent Peterson and Isaac Morey of Content Cucumber with Mike Eastwood of Portal IQ, live January 20 at 3pm CST.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/building-trust-webinar-header.png",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "form": {
+        "header": "Save Your Seat",
+        "subtitle": "Wednesday, January 20 at 3pm CST. In New Zealand, Thursday, January 21 at 10am NZDT.",
+        "trust_text": "Register and we send your join link by email.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "building-trust-webinar"
+    },
+    "thankyou": {
+        "title": "You're Registered.",
+        "text": "Watch your inbox for the join link. We go live Wednesday, January 20 at 3pm CST, which is Thursday, January 21 at 10am NZDT in New Zealand. Bring your website."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "eyebrow": "Live Webinar  |  January 20 at 3pm CST",
+                "title": "Building Trust on Your Website <em>in the Era of S#!t AI Content</em>",
+                "paragraphs": [
+                    "“A lot of people may not see those design details repeated on AI websites, but they get it instinctually. People definitely see it and feel it.” Mike Eastwood",
+                    "“As humans mature, we understand AI content more and more. Make sure your homepage isn’t filled with AI slop.” Brent Peterson"
+                ]
+            }
+        },
+        {
+            "type": "banner-image",
+            "data": {
+                "src": "/wp-content/themes/cucumber-gp-child/landing-data/building-trust-webinar-header.png",
+                "alt": "Building Trust on Your Website, a live webinar on January 20 at 3pm CST with Brent Peterson and Isaac Morey of Content Cucumber and Mike Eastwood of Portal IQ"
+            }
+        },
+        {
+            "type": "arguments",
+            "data": {
+                "eyebrow": "The Warning Signs",
+                "heading": "“Are they cheap, are they unreliable, or has it been vibe coded?”",
+                "items": [
+                    {
+                        "title": "That Came Out of ChatGPT",
+                        "body": "“There’s such a distinct design aesthetic, a site with all the tropes of AI slop, and straight away that recognition of bad design is a detractor for me.” <strong>Mike Eastwood</strong>"
+                    },
+                    {
+                        "title": "No Photos of People",
+                        "body": "“You go straight to the About Us page and there’s no photos of people. So this is run by agents? Even if you get good clip art, it still looks like clip art.” <strong>Mike Eastwood</strong>"
+                    },
+                    {
+                        "title": "Two Colors and the Same Font",
+                        "body": "“You can see the website has been created with AI. It’s all two colors and the same font, a brand look that is brand generic. I’m not going to be excited at all to talk to them.” <strong>Brent Peterson</strong>"
+                    },
+                    {
+                        "title": "Copy That Sounds Like Everyone Else",
+                        "body": "“In today’s fast-paced digital landscape, businesses need to do more than simply have an online presence. That was my AI generated response. Using your own thoughts and words is how you stand out.” <strong>Isaac Morey</strong>"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "credibility",
+            "data": {
+                "eyebrow": "From a Client",
+                "title": "“I Got My First Cold Inbound Ever.”",
+                "paragraphs": [
+                    "“A client emailed me and said, I did your audit, and for the last month I’ve been implementing what you suggested, and I got my first cold inbound ever on my website. Get your website ready now for AI discoverability. An audit gives you a simple punch list, so go down the punch list and do what you need to do.” Brent Peterson"
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "variant": "timeline",
+            "data": {
+                "title": "What We'll Cover",
+                "subtitle": "“If someone had an hour to make their website more trustworthy, where would you suggest they start?” Brent Peterson",
+                "steps": [
+                    {
+                        "badge": "Mike Eastwood",
+                        "title": "Real Photos Beat a Polished Fake",
+                        "text": "“Even if the production values are lower, the authenticity is much higher. A real person doing real stuff, even shot on your phone, is still better than no photo, and much better than a fake photo.”"
+                    },
+                    {
+                        "badge": "Isaac Morey",
+                        "title": "Let the Customer Tell the Story",
+                        "text": "“Letting the customer talk about their own success is a lot more credible, and will connect with people more than listening to you sing your own praises.”"
+                    },
+                    {
+                        "badge": "Mike Eastwood",
+                        "title": "Video Starts With a Conversation",
+                        "text": "“Have a conversation. It’s much easier than standing there talking to camera. You’re going to hate your first video. Your next one will be better, and the one after that will be better.”"
+                    },
+                    {
+                        "badge": "Mike Eastwood",
+                        "title": "Ask for Reviews Early, and Hug Your Haters",
+                        "text": "“Ask when things are going well and ask early. People with external reviews get positive sentiment rather than neutral sentiment in the AI’s snapshot of the business. And when a bad one lands, you may need to walk outside and scream first, then reach out to resolve it.”"
+                    },
+                    {
+                        "badge": "Isaac Morey",
+                        "title": "Write the Pages That Count Yourself",
+                        "text": "“In key places like product pages and your homepage, you need to write that on your own. If you use AI, give it lots of context, feed it examples you like, and review and revise before you publish.”"
+                    },
+                    {
+                        "badge": "Mike Eastwood",
+                        "title": "Build a Website Shared With AI",
+                        "text": "“An AI agent will do a hundred searches in the time that we do one. The humans may not see a lack of alignment, but the agents will, and the agents will judge you.”"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Common Questions",
+                "items": [
+                    {
+                        "question": "When is it?",
+                        "answer": "Wednesday, January 20 at 3pm CST. In New Zealand that is Thursday, January 21 at 10am NZDT."
+                    },
+                    {
+                        "question": "How long does it run?",
+                        "answer": "About 45 minutes, and we save the last 10 for your questions."
+                    },
+                    {
+                        "question": "Who is it for?",
+                        "answer": "Business owners, marketers and agency teams who run their own website and want more of the right people to reach out from it."
+                    },
+                    {
+                        "question": "What do I bring?",
+                        "answer": "Your website. Keep it open while we talk, and you leave with three changes ranked by how much doubt they remove for a customer, plus one change you can make the same afternoon."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "speakers",
+            "data": {
+                "eyebrow": "Your Presenters",
+                "title": "Brent, Isaac and Mike",
+                "subtitle": "“We’re interacting together, Brent’s cracking jokes, sometimes we’re laughing.” Mike Eastwood",
+                "guests": [
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/brent-peterson.png",
+                        "name": "Brent Peterson",
+                        "title": "CEO",
+                        "company": "Content Cucumber"
+                    },
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/isaac-morey.png",
+                        "name": "Isaac Morey",
+                        "title": "Founder & Chief Editor",
+                        "company": "Content Cucumber"
+                    },
+                    {
+                        "image": "/wp-content/themes/cucumber-gp-child/landing-data/speakers/mike-eastwood.png",
+                        "name": "Mike Eastwood",
+                        "title": "Founder",
+                        "company": "Portal IQ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Save Your Seat",
+                "text": "“Make sure it’s backed up by customers. That’s the number one thing people want to see.” Brent Peterson. We go live Wednesday, January 20 at 3pm CST."
+            }
+        }
+    ]
+}

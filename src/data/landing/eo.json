@@ -1,0 +1,241 @@
+{
+  "_note": "EO member and chapter landing page. Destination of the QR code and the contentcucumber.com/eo slide at the end of the EO Visionary Voices intro video. Backlog 6ae9f451d82dfbd2fd3daedd. Offer per Brent 2026-11-03: a Flywheel-like package for EO members and EO chapters, plus the free AI search audit. No prices on the page until Brent sets EO pricing.",
+  "form": {
+    "header": "Tell Us About Your Chapter",
+    "subtitle": "Send the chapter site and what your MarCom calendar looks like. We set up a call and start with a free AI search audit.",
+    "trust_text": "Human writers, a monthly interview, and a team you can call.",
+    "portal_id": "39487190",
+    "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+    "region": "na1",
+    "campaign_code": "eo"
+  },
+  "seo": {
+    "title": "Marketing Support for EO Chapter MarCom Chairs - Content Cucumber",
+    "meta_description": "Help for EO chapter MarCom chairs. Four articles a month from one interview, republished member content, LinkedIn and social posts, and a monthly chapter video, written by human writers.",
+    "og_type": "website",
+    "twitter_card": "summary_large_image",
+    "noindex": false,
+    "nofollow": false
+  },
+  "thankyou": {
+    "title": "Thanks. We'll be in touch.",
+    "text": "We received your information. Brent or someone from the Content Cucumber team will reach out to set up a call about your chapter.",
+    "link_text": "Back to the EO page",
+    "link_anchor": ""
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "bg_image": "eo-assets/eo-hero.webp",
+        "eyebrow": "For EO Chapter MarCom Chairs",
+        "title": "We Are Here to Support <em><span style=\"color:#3D46F2\">EO Chapter</span> MarCom Chairs</em>",
+        "paragraphs": [
+          "We are here to help you and support you.",
+          "Four articles a month based on one monthly interview, republishing member content, social on LinkedIn or any other venue you have, and one video each month supplied by the chapter, with light editing."
+        ],
+        "platforms_label": "Member of",
+        "platforms": "<a href='https://www.eonetwork.org/' target='_blank' rel='noopener' style='display:inline-block;margin-right:40px'><img src='/wp-content/themes/cucumber-gp-child/landing-data/eo-assets/eo-network-logo.svg' alt='Entrepreneurs Organization' width='174' height='47' style='height:47px;width:auto;vertical-align:middle'></a><img src='/wp-content/themes/cucumber-gp-child/landing-data/eo-assets/eo-minnesota-logo.webp' alt='EO Minnesota' width='77' height='60' style='height:60px;width:auto;vertical-align:middle'>"
+      }
+    },
+    {
+      "type": "credibility",
+      "data": {
+        "eyebrow": "From one EO member to another",
+        "title": "Why We Built This for MarCom Chairs",
+        "paragraphs": [
+          "I'm Brent Peterson, CEO of Content Cucumber and an EO member. I also host EO Visionary Voices, where EO members tell the stories behind their businesses.",
+          "MarCom chairs struggle with strategy, direction, and consistent content, and ChatGPT is no longer the answer. Humans will deliver a much more reliable stream of content than ChatGPT."
+        ],
+        "tagline": "Humans for EO Content"
+      }
+    },
+    {
+      "type": "flex-callout",
+      "data": {
+        "eyebrow": "Video, audio, and photos",
+        "title": "More Ways We Help Your Chapter",
+        "paragraphs": [
+          "I attended the MarCom sessions at the EO Global Leadership Conference in Honolulu, and the number one recommendation was video and audio. We can help you do that.",
+          "Do you want to facilitate a podcast for your chapter? We can do it!",
+          "I host EO Visionary Voices and Talk Commerce.",
+          "We can also take your chapter's photos and create content around them."
+        ],
+        "image": "eo-assets/eo-podcast.webp",
+        "cta_text": "Talk About What Your Chapter Needs",
+        "cta_link": "#form"
+      }
+    },
+    {
+      "type": "services",
+      "data": {
+        "title": "What Your Chapter Gets",
+        "subtitle": "One monthly package built around your chapter.",
+        "items": [
+          {
+            "icon": "megaphone",
+            "title": "One monthly interview",
+            "text": "An hour with a member or chapter leader sets the topics for the month."
+          },
+          {
+            "icon": "pen",
+            "title": "Four articles a month",
+            "text": "The articles can be your blog or LinkedIn articles, and you can double up for really long-form articles."
+          },
+          {
+            "icon": "share",
+            "title": "Member content, republished",
+            "text": "Articles and posts your members have already written, republished on the chapter's channels."
+          },
+          {
+            "icon": "globe",
+            "title": "LinkedIn and your other channels",
+            "text": "Social posts on LinkedIn and any other channel the chapter uses."
+          },
+          {
+            "icon": "video",
+            "title": "One video a month",
+            "text": "The chapter supplies one video each month, and we give it light editing and post it with the rest of the month's content."
+          },
+          {
+            "icon": "shield",
+            "title": "You approve each piece",
+            "text": "Nothing goes out until the MarCom chair or the chapter board signs off."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bundles",
+      "anchor": "packages",
+      "data": {
+        "title": "Packages for Chapters and Members",
+        "subtitle": "Chapter work comes first at $500 a month. EO members can bring the Flywheel to their own companies at half price for the first three months.",
+        "items": [
+          {
+            "name": "EO Chapter Flywheel",
+            "target": "EO chapters and MarCom chairs",
+            "outcome": "Chapter content handled each month, with your MarCom chair in charge",
+            "outcomes": [
+              "Four articles a month from one monthly interview",
+              "Republishing member content",
+              "Social on LinkedIn or any other channel you use",
+              "One video each month, supplied by the chapter, with light editing"
+            ],
+            "cta_text": "Talk About Your Chapter",
+            "cta_link": "#form",
+            "featured": true,
+            "badge": "MarCom Chairs",
+            "price": "$500/mo"
+          },
+          {
+            "name": "EO Member Flywheel",
+            "target": "EO members and their companies",
+            "outcome": "You can get anything you want, and the Flywheel plan is an example",
+            "outcomes": [
+              "A monthly interview with your dedicated writer",
+              "Articles, social posts, video clips, and a newsletter",
+              "Search Console data driving topic selection",
+              "Three months at half price to try it, then special EO member pricing"
+            ],
+            "cta_text": "Claim the EO Member Offer",
+            "cta_link": "#form",
+            "price": "50% off your first three months"
+          },
+          {
+            "name": "Free AI Search Audit",
+            "target": "Any EO chapter or member",
+            "outcome": "A clear picture of how search and AI answer engines see your business",
+            "outcomes": [
+              "How ChatGPT, Perplexity, and Google describe your business",
+              "Where competitors get cited and you do not",
+              "A walkthrough call to go over the findings"
+            ],
+            "cta_text": "Get the Free Audit",
+            "cta_link": "#form"
+          }
+        ]
+      }
+    },
+    {
+      "type": "how-it-works",
+      "variant": "timeline",
+      "data": {
+        "title": "How It Starts",
+        "steps": [
+          {
+            "title": "Tell us about your chapter",
+            "text": "Send the chapter site and the events on your MarCom calendar."
+          },
+          {
+            "title": "Pick the month's interview",
+            "text": "We go over the calendar with you and choose the member or chapter leader to interview."
+          },
+          {
+            "title": "We interview and write",
+            "text": "We turn the interview into articles, and we line up member content to republish and the month's video."
+          },
+          {
+            "title": "You approve, the chapter posts",
+            "text": "You sign off on each piece, and the articles, posts, and video go out on your schedule."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": "Questions From MarCom Chairs",
+        "items": [
+          {
+            "question": "How much time does this take from a MarCom chair?",
+            "answer": "A planning call each month, the monthly video, and time to review drafts. We handle the interview, the writing, the editing, and the posting."
+          },
+          {
+            "question": "What does the chapter package cost?",
+            "answer": "$500 a month for four articles from one monthly interview, republished member content, social posts on LinkedIn and your other channels, and one video each month supplied by the chapter, with light editing."
+          },
+          {
+            "question": "Who approves what goes out?",
+            "answer": "You do. Nothing reaches the chapter's site or social channels until the MarCom chair or the chapter board signs off."
+          },
+          {
+            "question": "Why not have ChatGPT write the chapter's content?",
+            "answer": "ChatGPT is no longer the answer. Humans will deliver a much more reliable stream of content than ChatGPT."
+          },
+          {
+            "question": "Can you help our chapter start a podcast?",
+            "answer": "Yes. I attended the MarCom sessions at the EO Global Leadership Conference in Honolulu, and the number one recommendation was video and audio. We can help you do that."
+          },
+          {
+            "question": "Can you create content from our event photos?",
+            "answer": "Yes. We can take your chapter's photos and create content around them."
+          },
+          {
+            "question": "Can you interview our members directly?",
+            "answer": "Yes, we interview the member or chapter leader you pick each month, and you get four articles from that interview for your blog or LinkedIn."
+          },
+          {
+            "question": "Who writes the content?",
+            "answer": "Human writers on the Content Cucumber team, assigned to your chapter so they learn its members, its events, and its voice."
+          },
+          {
+            "question": "Can I sign up my own company as an EO member?",
+            "answer": "Yes. EO members get 50% off the first three months to try it, and we can have a special price for them going forward."
+          },
+          {
+            "question": "What is the free AI search audit?",
+            "answer": "A review of how Google, ChatGPT, Perplexity, and other AI answer engines find and describe your chapter or your company, and where others get cited instead. We walk through the findings on a call."
+          }
+        ]
+      }
+    },
+    {
+      "type": "bottom-cta",
+      "data": {
+        "title": "Let's Talk About Your Chapter",
+        "text": "Send us your chapter site and your MarCom calendar. We set up a call, run the free AI search audit, and show you how we can help."
+      }
+    }
+  ]
+}
