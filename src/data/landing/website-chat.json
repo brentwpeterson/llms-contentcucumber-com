@@ -1,0 +1,217 @@
+{
+    "seo": {
+        "title": "Website Chat Built on Your Content | Content Cucumber",
+        "meta_description": "Content Cucumber sets up and runs a chat on your website that answers from your own content and sends every lead to HubSpot.",
+        "og_description": "Website Chat, set up and run by Content Cucumber. Answers from your own content, leads into HubSpot.",
+        "og_type": "website",
+        "twitter_card": "summary_large_image"
+    },
+    "form": {
+        "header": "Put Website Chat on your site",
+        "subtitle": "Tell us your site and we will show you the chat answering from your own pages.",
+        "trust_text": "HubSpot Solutions Partner.",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "website-chat"
+    },
+    "thankyou": {
+        "title": "Got it.",
+        "text": "We will reply by email with next steps."
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "website-chat-assets/website-chat-hero.webp",
+                "eyebrow": "Website Chat",
+                "title": "A chat for your website,<br>set up and run by Content Cucumber",
+                "paragraphs": [
+                    "Your visitors have questions your content already answers. Our chat finds the answer, links the page it came from and sends the visitor's name and email to HubSpot.",
+                    "We load your content, connect HubSpot, install it and send you a report each month. Built on <a href=\"https://requestdesk.ai/solutions/website-chat\">RequestDesk</a>, our AI platform."
+                ]
+            }
+        },
+        {
+            "type": "content-list",
+            "data": {
+                "title": "Why visitors leave with their question",
+                "no_numbers": true,
+                "items": [
+                    {
+                        "title": "The answer is buried.",
+                        "text": "It sits on a page three clicks from where the visitor landed."
+                    },
+                    {
+                        "title": "Contact forms sit empty.",
+                        "text": "A visitor with one question rarely fills out a form to ask it."
+                    },
+                    {
+                        "title": "Generic chatbots guess.",
+                        "text": "A bot trained on the open web answers about someone else's product."
+                    },
+                    {
+                        "title": "Nobody reads the questions.",
+                        "text": "The things visitors ask are a content plan, and they disappear."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "From your content to a live chat",
+                "steps": [
+                    {
+                        "title": "We load your content.",
+                        "text": "Pages, posts, episodes and docs go into the chat's knowledge base."
+                    },
+                    {
+                        "title": "We connect HubSpot.",
+                        "text": "Names and emails land in your HubSpot form, tagged to the chat."
+                    },
+                    {
+                        "title": "You paste one line.",
+                        "text": "One script tag works on WordPress, Astro, Magento and plain HTML."
+                    },
+                    {
+                        "title": "We report monthly.",
+                        "text": "Messages, leads and the questions your content did not answer, with topics to write next."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bundles",
+            "anchor": "pricing",
+            "data": {
+                "title": "Pricing",
+                "items": [
+                    {
+                        "name": "Setup",
+                        "price": "$500 one time",
+                        "target": "Every new site",
+                        "outcomes": [
+                            "Chat agent built for your site",
+                            "Your content loaded",
+                            "HubSpot form connected",
+                            "Bot check",
+                            "Install on your site"
+                        ]
+                    },
+                    {
+                        "name": "Starter",
+                        "price": "$99 a month per site",
+                        "target": "Up to 2,000 messages a month",
+                        "outcomes": [
+                            "Leads into HubSpot",
+                            "Monthly usage report"
+                        ]
+                    },
+                    {
+                        "name": "Growth",
+                        "price": "$249 a month per site",
+                        "target": "Up to 10,000 messages a month",
+                        "featured": true,
+                        "outcomes": [
+                            "Leads into HubSpot",
+                            "Monthly usage report",
+                            "Monthly content refresh",
+                            "Answer tuning"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "Feed it what you already publish",
+                "subtitle": "The chat runs on the RequestDesk knowledge base, a retrieval system. Before the model writes a word, it searches your knowledge collections and answers only from what it finds. Each collection fills from its own source, and the chat reads the ones you pick.",
+                "items": [
+                    {
+                        "icon": "globe",
+                        "title": "Your website",
+                        "text": "We crawl the pages you list or your whole sitemap."
+                    },
+                    {
+                        "icon": "pen",
+                        "title": "WordPress",
+                        "text": "Posts and pages sync from your site, and new posts come in with each incremental sync."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Shopify",
+                        "text": "Products and collections sync from your store through the RequestDesk Shopify app."
+                    },
+                    {
+                        "icon": "share",
+                        "title": "RSS feeds",
+                        "text": "Blogs, podcasts and news feeds are checked on a schedule, and new items are added as they publish."
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Documents",
+                        "text": "PDF, Word, PowerPoint, Excel, CSV and text files, uploaded once or replaced when they change."
+                    },
+                    {
+                        "icon": "settings",
+                        "title": "Live records",
+                        "text": "Some answers read straight from RequestDesk records. On Talk Commerce the episode count and the latest episodes come from the episode list, so a new episode shows up the day it publishes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "Website Chat questions",
+                "items": [
+                    {
+                        "question": "Which AI model runs the chat?",
+                        "answer": "Amazon Nova Micro on AWS Bedrock, a small, fast model chosen for short answers."
+                    },
+                    {
+                        "question": "Does it make things up?",
+                        "answer": "It answers from your content and links the source. The widget tells visitors that AI answers can be wrong and to check the linked sources."
+                    },
+                    {
+                        "question": "What counts as a message?",
+                        "answer": "One visitor question and the answer to it."
+                    },
+                    {
+                        "question": "What happens at the monthly limit?",
+                        "answer": "The daily cap keeps the chat inside your plan. A site that keeps reaching it moves up to Growth."
+                    },
+                    {
+                        "question": "How does the chat stay current?",
+                        "answer": "Each source updates on its own. WordPress syncs new posts, RSS feeds are checked on a schedule, and live records are read at the moment a visitor asks."
+                    },
+                    {
+                        "question": "Can one chat read more than one source?",
+                        "answer": "Yes. Each source fills its own knowledge collection, and you pick which collections the chat searches."
+                    },
+                    {
+                        "question": "Do I need HubSpot?",
+                        "answer": "No. Without HubSpot the leads stay in the chat log."
+                    },
+                    {
+                        "question": "Can a visitor reach a person?",
+                        "answer": "A handoff to HubSpot live chat is planned for the next release."
+                    },
+                    {
+                        "question": "Who writes the content the chat answers from?",
+                        "answer": "Your existing content to start. The monthly report lists what visitors asked that your site does not answer, and Content Cucumber writers can fill those gaps."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Put Website Chat on your site",
+                "text": "Tell us your site and we will show you the chat answering from your own pages."
+            }
+        }
+    ]
+}
