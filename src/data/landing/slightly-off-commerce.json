@@ -1,0 +1,137 @@
+{
+    "seo": {
+        "title": "Slightly Off Commerce Game Show Night at eTail Palm Springs",
+        "meta_description": "eTail's after-hours game show on Tuesday, February 23, 2027. Your table against the room in a live e-commerce news quiz hosted by Scott Ohsman and Brent Peterson. Free, with buses from the JW Marriott Desert Springs.",
+        "og_description": "Your table against the room in three rounds of e-commerce news trivia. Free, with buses from the JW Marriott Desert Springs at 6:45 pm.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/slightly-off-commerce-assets/soc-og.jpg",
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "noindex": false,
+        "nofollow": false
+    },
+    "form": {
+        "header": "Save my seat",
+        "subtitle": "Free, with buses from the JW Marriott Desert Springs at 6:45 pm.",
+        "trust_text": "Free to attend. Your RSVP holds a seat on the bus.",
+        "portal_id": "39487190",
+        "form_id": "d782ec5a-813f-4596-8be7-a559134366ec",
+        "region": "na1",
+        "campaign_code": "slightly-off-commerce-cc",
+        "embed": "v2"
+    },
+    "thankyou": {
+        "title": "Your seat is saved.",
+        "text": "See you on the bus at 6:45 pm on February 23. The venue and the ride back come with the venue announcement.",
+        "link_anchor": "https://talk-commerce.com/slightly-off-commerce/",
+        "link_text": "See the event page on Talk Commerce"
+    },
+    "sections": [
+        {
+            "type": "hero",
+            "data": {
+                "bg_image": "slightly-off-commerce-assets/soc-hero.webp",
+                "eyebrow": "eTail Palm Springs, Tuesday, February 23, 2027",
+                "title": "eTail's After-Hours Game Show. <em>Your Table vs. Everyone.</em>",
+                "paragraphs": [
+                    "A live e-commerce news quiz where the audience is the cast. Table teams of six to eight play three rounds built from the year's e-commerce news, and one leaderboard decides the winning table.",
+                    "It is free, the buses leave the JW Marriott Desert Springs at 6:45 pm, and Talk Commerce and Always Off Brand are hosting."
+                ]
+            }
+        },
+        {
+            "type": "services",
+            "data": {
+                "title": "The Three Rounds",
+                "subtitle": "The questions come from the year in e-commerce news. Here is a taste of each round.",
+                "items": [
+                    {
+                        "icon": "megaphone",
+                        "title": "Who's Brent This Time?",
+                        "text": "Scott reads a real quote from the year in e-commerce news and your table names who said it. Try this one. Purchases by its AI agent are \"considered transactions authorized by you.\" Which retailer wrote that into its terms?"
+                    },
+                    {
+                        "icon": "search",
+                        "title": "Bluff the Listener",
+                        "text": "Three people from the audience read three strange stories. One is true, and your table votes. The sample theme is \"My AI agent did WHAT?\" with three shopping-agent disasters, two of them invented."
+                    },
+                    {
+                        "icon": "zap",
+                        "title": "Lightning Fill-in-the-Blank",
+                        "text": "Your table rep gets 45 seconds of rapid-fire blanks, and a miss lets the room steal it. Try this one. In 2026, Amazon moved Prime Day from July to ____."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "how-it-works",
+            "data": {
+                "title": "How the Night Works",
+                "subtitle": "About 60 minutes, hosted by Scott Ohsman of Always Off Brand and Brent Peterson of Talk Commerce.",
+                "steps": [
+                    {
+                        "title": "Grab a table",
+                        "text": "Come with your team or join one at the door. Six to eight people per table."
+                    },
+                    {
+                        "title": "Play three rounds",
+                        "text": "Name the quote, spot the true story, then race through rapid-fire blanks."
+                    },
+                    {
+                        "title": "Win for your table",
+                        "text": "One leaderboard runs the whole night. The top table takes the grand prize."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "variant": "gray",
+            "data": {
+                "eyebrow": "How the heck are we getting there?",
+                "title": "We Are Taking Buses",
+                "paragraphs": [
+                    "Buses pick up at the JW Marriott Desert Springs at 6:45 pm on Tuesday, February 23, 2027. Nobody drives, nobody hunts for an Uber, and your whole table rides together.",
+                    "The exact pickup spot and the ride back come with the venue announcement."
+                ],
+                "cta_text": "Save my seat",
+                "cta_link": "#form",
+                "image": "slightly-off-commerce-assets/soc-logo-card.webp"
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "The Details",
+                "items": [
+                    {
+                        "question": "When is it?",
+                        "answer": "Tuesday, February 23, 2027, during eTail Palm Springs. Buses leave at 6:45 pm, and the show time comes with the venue announcement."
+                    },
+                    {
+                        "question": "Where is it?",
+                        "answer": "Venue announced soon. We are booking a bar with a stage in the Palm Springs area, within 30 minutes of the JW Marriott Desert Springs."
+                    },
+                    {
+                        "question": "How much does it cost?",
+                        "answer": "It is completely free. There is a cost to having to endure Scott and Brent."
+                    },
+                    {
+                        "question": "What is the dress code?",
+                        "answer": "Most places in Palm Springs require you to wear clothes. We don't care what you wear, just wear something."
+                    },
+                    {
+                        "question": "Can my company sponsor the night?",
+                        "answer": "Yes. Headline, round, bar and table packages are on the <a href=\"https://talk-commerce.com/slightly-off-commerce/sponsor/\">sponsor page</a>."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Save Your Table's Seats",
+                "text": "RSVP once for yourself, then add your teammates' names so we can hold a table for you."
+            }
+        }
+    ]
+}
