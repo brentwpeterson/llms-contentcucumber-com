@@ -1,0 +1,19 @@
+{
+ "slug": "answer-engine",
+ "title": "Answer engine",
+ "content": "<!-- wp:paragraph -->\n<p>An answer engine is a search tool that responds to a question with a written answer and links to its sources in place of a list of pages.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI answer engine\nAI search engine",
+  "why": "A reader can get what they need from the answer and stop there. Your brand is seen as a cited source or a named option before any click.",
+  "example": "A person asks which accounting tools support multiple currencies and receives a short written comparison with links to four sources.",
+  "check": "Ask one buyer question in two answer engines and record which sources each one links and which brands each one names.",
+  "limitation": "The label covers products that work in different ways, and a result from one answer engine does not predict the result from another.",
+  "sources": "Perplexity: what is an answer engine | https://www.perplexity.ai/help-center/en/articles/10354917-what-is-an-answer-engine-and-how-does-perplexity-work-as-one | Vendor documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "aeo\nai-overviews\nconversational-search"
+ }
+}

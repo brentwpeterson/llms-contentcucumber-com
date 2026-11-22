@@ -1,0 +1,19 @@
+{
+ "slug": "geo",
+ "title": "GEO",
+ "content": "<!-- wp:paragraph -->\n<p>Generative engine optimization (GEO) describes work intended to improve how content is represented in answers produced by generative AI systems.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Generative engine optimization\nLLMO\nAI SEO",
+  "why": "The label appears in research and in marketing briefs, where a project still needs a concrete outcome and a measurement method.",
+  "example": "A team replaces an unsupported claim with a sourced explanation and checks how its page is represented in repeated answer samples.",
+  "check": "Define the target questions, the expected reader benefit, and the measurement before selecting a technique.",
+  "limitation": "The GEO research paper evaluated a particular benchmark. Its reported gains do not forecast results for your site or for every current assistant.",
+  "sources": "Aggarwal et al.: Generative Engine Optimization | https://arxiv.org/abs/2311.09735 | Research paper",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "aeo\ninformation-gain"
+ }
+}

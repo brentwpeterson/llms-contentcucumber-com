@@ -1,0 +1,19 @@
+{
+ "slug": "indexability",
+ "title": "Indexability",
+ "content": "<!-- wp:paragraph -->\n<p>Indexability is whether a page is eligible to be stored in a search engine’s index, given its access, content, and indexing directives.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Indexing\nSearch index\nnoindex",
+  "why": "Being reachable is one part of appearing in search, since a reachable page can still request exclusion.",
+  "example": "A guide loads successfully but includes a noindex directive left over from a staging environment.",
+  "check": "Use URL Inspection, check the robots meta tag and the X-Robots-Tag response header, and confirm that the intended canonical is eligible.",
+  "limitation": "Eligibility does not guarantee indexing, and Google’s AI supporting links also require the page to be eligible for snippets.",
+  "sources": "Google Search Central: robots meta tags | https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag | Platform documentation\nGoogle Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "crawlability\ncanonical-url"
+ }
+}

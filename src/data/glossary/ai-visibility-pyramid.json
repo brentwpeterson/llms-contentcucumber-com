@@ -1,0 +1,18 @@
+{
+ "slug": "ai-visibility-pyramid",
+ "title": "AI Visibility Pyramid",
+ "content": "<!-- wp:paragraph -->\n<p>The AI Visibility Pyramid is a framework from the agency Animalz that places traditional SEO at the base, context and content strategy in the middle, and trust and authority signals at the top.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "why": "The layers suggest an order of work. Start with the search basics a page needs, then move to content and reputation work.",
+  "example": "A team fixes indexing problems on its product pages before commissioning new articles or seeking mentions in trade publications.",
+  "check": "Sort your open search tasks into the three layers and confirm the base layer has no unresolved problems.",
+  "limitation": "The pyramid is one agency's model, and search engines and AI companies do not use it as a standard.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Agency framework",
+  "source_checked": "2026-11-21",
+  "related": "aeo\ngeo\neeat"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "chunking",
+ "title": "Chunking",
+ "content": "<!-- wp:paragraph -->\n<p>Chunking is the splitting of a document into smaller passages so a retrieval system can index and return the relevant part.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Content chunking\nText chunking",
+  "why": "Retrieval systems do the splitting themselves, and Google states that breaking content into tiny pieces is not required for its AI features.",
+  "example": "A retrieval system divides a long returns policy into sections and returns the section about refund timing for a question about refunds.",
+  "check": "Read each section of a key page apart from the others and confirm the section names its subject and keeps its conditions beside the claim.",
+  "limitation": "Each system sets its own chunk size, and Google lists chunking among the tactics a site can ignore for Google Search.",
+  "sources": "Microsoft Learn: chunk large documents for vector search | https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-chunk-documents | Platform documentation\nGoogle Search Central: optimizing for generative AI | https://developers.google.com/search/docs/fundamentals/ai-optimization-guide | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "rag\nextractability\npassage-retrieval"
+ }
+}

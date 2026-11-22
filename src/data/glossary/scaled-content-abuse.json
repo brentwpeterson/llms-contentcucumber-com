@@ -1,0 +1,19 @@
+{
+ "slug": "scaled-content-abuse",
+ "title": "Scaled content abuse",
+ "content": "<!-- wp:paragraph -->\n<p>Scaled content abuse is Google’s policy term for generating many pages primarily to manipulate rankings rather than help users.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Mass-produced content\nThin pages",
+  "why": "A glossary needs useful explanations, and repeating the same shallow entry across many keyword variations gives readers nothing new.",
+  "example": "A site creates near-identical definition pages with only a location or adjective changed.",
+  "check": "Keep minor variants together, and create a separate page only when it serves a distinct reader need with enough useful material.",
+  "limitation": "The policy looks at the purpose and value of the pages, whoever or whatever produced the text.",
+  "sources": "Google Search Central: scaled content abuse | https://developers.google.com/search/docs/essentials/spam-policies#scaled-content | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "information-gain\nquery-fan-out"
+ }
+}

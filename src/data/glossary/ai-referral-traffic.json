@@ -1,0 +1,19 @@
+{
+ "slug": "ai-referral-traffic",
+ "title": "AI referral traffic",
+ "content": "<!-- wp:paragraph -->\n<p>AI referral traffic is the set of visits that arrive when a person clicks a link inside an AI assistant&#039;s answer.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI assistant traffic\nLLM referral traffic",
+  "why": "Google Analytics groups visits from assistants such as ChatGPT, Gemini, and Copilot in an AI Assistant channel. That channel leaves out Google's AI Overviews and AI Mode, which Search Console reports inside regular web search traffic.",
+  "example": "An analytics report shows 40 sessions in the AI Assistant channel, and the largest group of those sessions landed on a comparison page.",
+  "check": "Open the default channel report in Google Analytics, find the AI Assistant row, and list the landing pages those visits reached.",
+  "limitation": "Because Google Analytics assigns the channel from the referrer, a visit that arrives without referrer information is counted elsewhere, and an answer read without a click produces no visit.",
+  "sources": "Google Analytics: default channel group | https://support.google.com/analytics/answer/9756891 | Platform documentation\nGoogle Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "zero-click-visibility\ncitation-rate\nprompt-tracking"
+ }
+}

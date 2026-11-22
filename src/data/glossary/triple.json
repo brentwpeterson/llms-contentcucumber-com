@@ -1,0 +1,19 @@
+{
+ "slug": "triple",
+ "title": "Triple",
+ "content": "<!-- wp:paragraph -->\n<p>A triple is a single fact expressed as a subject, a predicate, and an object, the unit that knowledge graphs use to store relationships.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Semantic triple\nRDF triple",
+  "why": "A sentence that states the subject, the relationship, and the value in plain order reads as one fact.",
+  "example": "The statement that Acme Software has its headquarters in Denver contains the subject Acme Software, the predicate has headquarters in, and the object Denver.",
+  "check": "Review key facts about your company and rewrite sentences whose subject is a vague pronoun so each fact names its subject.",
+  "limitation": "The triple is a data model from the W3C RDF specification, and writing in subject, predicate, object order does not add a fact to a knowledge graph.",
+  "sources": "W3C: RDF 1.1 Primer | https://www.w3.org/TR/rdf11-primer/ | Standards specification",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "knowledge-graph\nentity\nstructured-data"
+ }
+}

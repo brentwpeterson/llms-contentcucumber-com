@@ -1,0 +1,19 @@
+{
+ "slug": "crawlability",
+ "title": "Crawlability",
+ "content": "<!-- wp:paragraph -->\n<p>Crawlability is whether a particular crawler can reach and fetch a page and the resources it needs.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Crawling\nCrawler access\nAI crawlers",
+  "why": "A page can work in your browser while a firewall, authentication step, or robots rule prevents a crawler from reaching it.",
+  "example": "A public guide returns a normal page to people, but a security rule challenges automated requests.",
+  "check": "Check response codes, robots rules, and security logs for the relevant crawler, and verify crawler identities against the provider’s documentation.",
+  "limitation": "Access does not guarantee indexing or citation, and different crawlers can have different permissions and purposes.",
+  "sources": "Google Search Central: how Search works | https://developers.google.com/search/docs/fundamentals/how-search-works | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "robots-txt\nindexability"
+ }
+}

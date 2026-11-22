@@ -1,0 +1,19 @@
+{
+ "slug": "aeo",
+ "title": "AEO",
+ "content": "<!-- wp:paragraph -->\n<p>Answer engine optimization (AEO) is work intended to help a brand or its content appear in answers from search engines and AI assistants.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Answer engine optimization",
+  "why": "Decide what you are after before you brief the work. A source link, a brand mention, a recommendation, and a visit are four different outcomes, and each one needs its own measurement.",
+  "example": "A content team improves its delivery-policy page so a buyer can find the shipping cutoff and the conditions that apply.",
+  "check": "Choose a buyer question and, before changing the page, record the answer, its linked sources, and whether your brand is named.",
+  "limitation": "AEO and GEO overlap in industry usage. Google describes both as work on AI search visibility within SEO, and neither one is a separate Google eligibility standard.",
+  "sources": "Google Search Central: optimizing for generative AI | https://developers.google.com/search/docs/fundamentals/ai-optimization-guide | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "geo\nbrand-mention\ncitation-rate"
+ }
+}

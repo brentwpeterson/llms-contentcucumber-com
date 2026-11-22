@@ -1,0 +1,19 @@
+{
+ "slug": "entity-optimization",
+ "title": "Entity optimization",
+ "content": "<!-- wp:paragraph -->\n<p>Entity optimization means using the same names and descriptions for a company and its products across its site, its profiles, and its markup so systems can treat them as one entity.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Entity SEO",
+  "why": "Consistent names and descriptions help a system connect a company's site with its profiles and distinguish the company from others with similar names.",
+  "example": "A company uses one legal name, one product name, and one short description on its site, its LinkedIn page, and its Organization markup.",
+  "check": "Compare the company name, product names, and description on your site with your official profiles and your Organization markup, then correct the mismatches.",
+  "limitation": "Consistent naming does not guarantee a knowledge panel, and an AI answer can still describe the company in its own words.",
+  "sources": "Google Search Central: Organization structured data | https://developers.google.com/search/docs/appearance/structured-data/organization | Platform documentation",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-21",
+  "related": "entity\nknowledge-graph\nstructured-data"
+ }
+}

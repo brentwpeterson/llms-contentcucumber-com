@@ -1,0 +1,19 @@
+{
+ "slug": "hub-and-spoke",
+ "title": "Hub and spoke",
+ "content": "<!-- wp:paragraph -->\n<p>Hub and spoke is a site structure in which a hub page covers a broad topic and links to spoke pages on its subtopics, each of which links back to the hub.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Topic cluster\nPillar and cluster",
+  "why": "Google uses links to find pages and to judge their relevance, and a hub with spokes gives a reader and a crawler a path from the broad topic to the detail and back.",
+  "example": "A glossary page lists its terms and links to a separate page for each one, and each term page links back to the glossary.",
+  "check": "Confirm the hub links to each spoke with descriptive link text and each spoke links back to the hub.",
+  "limitation": "The structure organizes pages and does not make a thin spoke page useful.",
+  "sources": "Google Search Central: link best practices | https://developers.google.com/search/docs/crawling-indexing/links-crawlable | Platform documentation\nAnimalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-21",
+  "related": "crawlability\nquery-fan-out\nscaled-content-abuse"
+ }
+}

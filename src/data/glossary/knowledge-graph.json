@@ -1,0 +1,19 @@
+{
+ "slug": "knowledge-graph",
+ "title": "Knowledge graph",
+ "content": "<!-- wp:paragraph -->\n<p>A knowledge graph is a database of entities, such as people, organizations, products, and places, together with the relationships between them.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Google Knowledge Graph",
+  "why": "Google draws on its Knowledge Graph to show facts about an entity in search results, which is where inconsistent public information about your company can surface.",
+  "example": "A search for a company name shows a panel with the company's founder, headquarters, and official website.",
+  "check": "Search for your company name, read the knowledge panel if one appears, and compare its facts with your site and your official profiles.",
+  "limitation": "Google decides which entities appear in its Knowledge Graph, and markup or consistent naming does not guarantee an entry.",
+  "sources": "Google: introducing the Knowledge Graph | https://blog.google/products/search/introducing-knowledge-graph-things-not/ | Platform announcement\nGoogle Search Help: how Google's Knowledge Graph works | https://support.google.com/knowledgepanel/answer/9787176 | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "entity\ntriple\nstructured-data"
+ }
+}

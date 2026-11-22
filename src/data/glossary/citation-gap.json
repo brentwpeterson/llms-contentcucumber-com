@@ -1,0 +1,18 @@
+{
+ "slug": "citation-gap",
+ "title": "Citation gap",
+ "content": "<!-- wp:paragraph -->\n<p>A citation gap exists when your page ranks on the first page of regular search results for a query and the AI answer for that query cites other sources and leaves your domain out.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "why": "A ranking report can look healthy while the AI answer on the same results page sends readers to other sites.",
+  "example": "A site ranks on the first page for 40 queries that show an AI answer, and its domain is missing from 26 of those answers, a citation gap rate of 65%.",
+  "check": "Count the first-page queries where the AI answer leaves your domain out, divide by the first-page queries that showed an AI answer, and multiply by 100 to get a citation gap rate.",
+  "limitation": "We define the citation gap this way for our own reports, and another tool can set the ranking cutoff at a different position. AI answers change between runs, so sample each query more than once.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Content Cucumber reporting definition",
+  "source_checked": "2026-11-21",
+  "related": "citation-rate\ncitation\nnon-determinism"
+ }
+}

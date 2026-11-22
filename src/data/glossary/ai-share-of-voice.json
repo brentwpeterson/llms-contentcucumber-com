@@ -1,0 +1,19 @@
+{
+ "slug": "ai-share-of-voice",
+ "title": "AI share of voice",
+ "content": "<!-- wp:paragraph -->\n<p>AI share of voice is your brand&#039;s mentions as a percentage of the mentions of the tracked brands combined, across a set of sampled answers, with a brand counted once per answer.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI SOV\nShare of voice",
+  "why": "Which competitors and which prompts are you tracking? The figure depends on both, and two tools can report different numbers for the same brand.",
+  "example": "Five tracked brands are named 100 times across the sampled answers, and your brand accounts for 20 of those, a 20% share.",
+  "check": "Count the answers that name your brand, divide by the same count added up across the tracked brands, multiply by 100, and keep the brand list and the prompt set beside the number.",
+  "limitation": "We use mention counts for our reports and Ahrefs bases its version on impressions. A number from one method cannot be compared with a number from the other, and adding a competitor changes the denominator.",
+  "sources": "Ahrefs: AI visibility metrics | https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics | Vendor documentation",
+  "evidence": "Content Cucumber reporting definition",
+  "source_checked": "2026-11-21",
+  "related": "citation-share\nbrand-mention\nrecommendation-rate"
+ }
+}

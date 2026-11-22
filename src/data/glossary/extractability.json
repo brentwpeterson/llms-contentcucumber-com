@@ -1,0 +1,19 @@
+{
+ "slug": "extractability",
+ "title": "Extractability",
+ "content": "<!-- wp:paragraph -->\n<p>Extractability describes how well a passage retains its meaning when read separately from the surrounding page.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Standalone answer\nAtomic answer\nBLUF",
+  "why": "A definition or instruction is easier to reuse accurately when it names its subject and keeps its conditions, such as cutoffs or exclusions, in the same passage.",
+  "example": "“Orders placed by noon ship the same business day” is clearer on its own than “They go out then,” and both versions still need any relevant exclusions.",
+  "check": "Read a section’s opening without its heading, then make sure the opening names the subject and keeps important qualifications beside the claim.",
+  "limitation": "We use extractability as an editorial check, and no engine publishes a score for it or promises a citation for passing it. Cutting a passage too short can also strip out context the reader needs.",
+  "sources": "Google Search Central: optimizing for generative AI | https://developers.google.com/search/docs/fundamentals/ai-optimization-guide | Platform documentation",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-19",
+  "related": "information-gain\nrag"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "entity",
+ "title": "Entity",
+ "content": "<!-- wp:paragraph -->\n<p>An entity is a distinguishable person, organization, product, place, or concept described by a page or data system.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Organization identity",
+  "why": "Clear names help a reader distinguish your company from another company or product with a similar name.",
+  "example": "“Acme inventory software” identifies the product more clearly than switching between “Acme,” “our platform,” and an unrelated abbreviation.",
+  "check": "Use consistent company and product names, and check that your Organization markup and linked official profiles describe the same business.",
+  "limitation": "Organization markup can help Google distinguish an organization, although the markup does not guarantee a knowledge panel or control what an AI answer says.",
+  "sources": "Google Search Central: Organization structured data | https://developers.google.com/search/docs/appearance/structured-data/organization | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "structured-data\nbrand-mention\nentity-optimization"
+ }
+}

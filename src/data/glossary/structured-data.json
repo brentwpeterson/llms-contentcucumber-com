@@ -1,0 +1,19 @@
+{
+ "slug": "structured-data",
+ "title": "Structured data",
+ "content": "<!-- wp:paragraph -->\n<p>Structured data is machine-readable markup that describes a page’s content using a shared vocabulary, such as Schema.org.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Schema\nSchema markup\nJSON-LD",
+  "why": "Structured data can make the meaning of a page more explicit and support eligibility for applicable search features.",
+  "example": "A glossary uses DefinedTermSet for the collection and DefinedTerm for each visible definition.",
+  "check": "Validate the markup, compare it with the visible content, and keep names, URLs, descriptions, and dates consistent.",
+  "limitation": "Markup must describe the page accurately, Google requires no special schema for AI features, and valid markup does not guarantee a citation.",
+  "sources": "Google Search Central: structured data introduction | https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data | Platform documentation\nGoogle Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "entity\nindexability"
+ }
+}

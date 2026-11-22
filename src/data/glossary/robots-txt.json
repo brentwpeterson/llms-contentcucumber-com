@@ -1,0 +1,19 @@
+{
+ "slug": "robots-txt",
+ "title": "robots.txt",
+ "content": "<!-- wp:paragraph -->\n<p>robots.txt is a website file that tells cooperating crawlers which paths they may request.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Robots exclusion\nDisallow",
+  "why": "A rule can prevent a crawler from fetching a page you intended it to read.",
+  "example": "A Disallow rule for an old staging directory remains after that directory becomes a public resource library.",
+  "check": "Review the rules for the specific crawler and path, and coordinate changes with the person responsible for security and publishing.",
+  "limitation": "robots.txt is not a privacy control or a reliable removal method. A blocked URL can still appear in search, and a blocked crawler cannot read a page’s noindex tag.",
+  "sources": "Google Search Central: robots.txt introduction | https://developers.google.com/search/docs/crawling-indexing/robots/intro | Platform documentation\nGoogle Search Central: robots meta tags | https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "crawlability\nindexability"
+ }
+}

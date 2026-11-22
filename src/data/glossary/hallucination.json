@@ -1,0 +1,19 @@
+{
+ "slug": "hallucination",
+ "title": "Hallucination",
+ "content": "<!-- wp:paragraph -->\n<p>An AI hallucination is generated content that is unsupported or false but is presented as if it were reliable.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI error\nFabricated fact",
+  "why": "A fluent answer can still misstate your product’s capabilities, terms, or availability.",
+  "example": "An assistant describes a product integration that the vendor does not offer.",
+  "check": "Check the claim against an authoritative source, and preserve the prompt and response when investigating an error.",
+  "limitation": "An incorrect answer does not reveal its own cause. Outdated source material calls for a different investigation than a generation error does.",
+  "sources": "Google Cloud: generative AI glossary | https://docs.cloud.google.com/docs/ai-ml/generative-ai/glossary | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "grounding\nrag"
+ }
+}

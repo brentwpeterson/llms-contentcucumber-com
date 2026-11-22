@@ -1,0 +1,19 @@
+{
+ "slug": "citation",
+ "title": "Citation",
+ "content": "<!-- wp:paragraph -->\n<p>An AI citation is a source reference attached to an answer, and in this glossary a measurable web citation means a visible link to a source URL.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Source link\nAI citation",
+  "why": "The destination tells you which page was credited. The link alone does not show whether the answer represents that page accurately.",
+  "example": "An answer links to a shipping-policy page to support a claim about delivery times.",
+  "check": "Open the linked page, check that it supports the statement it is attached to, and record the source URL separately from brand mentions.",
+  "limitation": "Tools can count cited pages or cited domains differently. Document the unit before you compare totals.",
+  "sources": "Ahrefs: AI visibility metrics | https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics | Vendor documentation",
+  "evidence": "Reporting definition",
+  "source_checked": "2026-11-19",
+  "related": "brand-mention\ngrounding"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "content-refresh",
+ "title": "Content refresh",
+ "content": "<!-- wp:paragraph -->\n<p>A content refresh is an update to the facts, examples, and structure of a published page that keeps the page at its existing URL.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Content update",
+  "why": "The existing URL keeps the links that point to it, and readers get facts that still hold.",
+  "example": "A pricing guide gets new plan prices, a replaced screenshot, and a revised comparison table, then shows a new updated date.",
+  "check": "Review a page's dated facts, prices, and screenshots and change what is out of date. Then update the visible date and the dateModified value to match the change.",
+  "limitation": "Changing the date without changing the content gives a reader nothing new.",
+  "sources": "Google Search Central: publication dates | https://developers.google.com/search/docs/appearance/publication-dates | Platform documentation",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-21",
+  "related": "freshness-signal\ninformation-gain"
+ }
+}

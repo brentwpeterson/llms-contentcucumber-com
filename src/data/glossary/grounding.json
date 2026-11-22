@@ -1,0 +1,19 @@
+{
+ "slug": "grounding",
+ "title": "Grounding",
+ "content": "<!-- wp:paragraph -->\n<p>Grounding connects an AI response to supporting information, such as retrieved documents or a trusted data source.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Grounded answer",
+  "why": "A response can use current external material, but readers still need to check that the material supports the claim.",
+  "example": "An assistant consults a current returns policy before answering a question about the return window.",
+  "check": "Open the cited source, check its date and scope, and compare the answer with the original wording.",
+  "limitation": "Grounding can improve factual support without making every statement correct, since a retrieved source can itself be wrong.",
+  "sources": "Google Cloud: generative AI glossary | https://docs.cloud.google.com/docs/ai-ml/generative-ai/glossary | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "rag\nhallucination"
+ }
+}

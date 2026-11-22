@@ -1,0 +1,19 @@
+{
+ "slug": "non-determinism",
+ "title": "Non-determinism",
+ "content": "<!-- wp:paragraph -->\n<p>Non-determinism is the tendency of an AI system to return different answers to the same prompt on separate runs.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Answer variability\nResponse variance",
+  "why": "Because one answer is a single sample, a brand that appears in one run can be absent from the next.",
+  "example": "The same question asked five times names a brand in three answers and leaves the brand out of two.",
+  "check": "Run each tracked prompt several times, record each run, and report the share of runs in which your brand or page appears.",
+  "limitation": "More runs narrow the uncertainty without removing it, and results still differ by engine, location, and date.",
+  "sources": "Anthropic: glossary, temperature | https://platform.claude.com/docs/en/about-claude/glossary | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "prompt-tracking\ncitation-rate\nhallucination"
+ }
+}

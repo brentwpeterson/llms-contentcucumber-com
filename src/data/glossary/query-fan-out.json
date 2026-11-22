@@ -1,0 +1,19 @@
+{
+ "slug": "query-fan-out",
+ "title": "Query fan-out",
+ "content": "<!-- wp:paragraph -->\n<p>Query fan-out is the generation of related searches from an initial question to gather information for an answer.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Fanout\nFan out",
+  "why": "A detailed buyer question can lead a system to seek evidence about several requirements.",
+  "example": "A question about inventory software for multiple stores raises follow-up needs about stock transfers, reports, and user permissions.",
+  "check": "List the decisions that sit behind a buyer question, then cover the relevant ones with useful detail and clear internal links.",
+  "limitation": "Because the searches a system chooses can vary, guessed fan-out queries are no license to generate thin pages.",
+  "sources": "Google Search Central: optimizing for generative AI | https://developers.google.com/search/docs/fundamentals/ai-optimization-guide | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "rag\nscaled-content-abuse"
+ }
+}

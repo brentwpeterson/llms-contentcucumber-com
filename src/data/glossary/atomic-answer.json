@@ -1,0 +1,19 @@
+{
+ "slug": "atomic-answer",
+ "title": "Atomic answer",
+ "content": "<!-- wp:paragraph -->\n<p>Atomic answer is the agency Animalz's name for a short passage that handles one question and holds its meaning when lifted away from the rest of the page.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Standalone answer",
+  "why": "A passage quoted out of context keeps its meaning when the passage names its subject and states its conditions.",
+  "example": "A paragraph states that a store ships orders placed before 2 p.m. Eastern on the same business day, with the store's name and the exclusions in the same paragraph.",
+  "check": "Copy one answer paragraph into a blank document. Can a reader tell what the paragraph refers to and when the answer applies?",
+  "limitation": "The idea overlaps with extractability, and no engine promises a citation for a passage written this way.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-21",
+  "related": "extractability\nbluf\npassage-retrieval"
+ }
+}

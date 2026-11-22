@@ -1,0 +1,19 @@
+{
+ "slug": "llms-txt",
+ "title": "llms.txt",
+ "content": "<!-- wp:paragraph -->\n<p>llms.txt is a proposed website file for giving AI agents a concise description of a site and pointers to useful resources.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "LLM text file",
+  "why": "A maintained resource map may help a compatible tool navigate documentation, although helping a tool navigate is a separate claim from improving search visibility.",
+  "example": "A software documentation site supplies a short overview and links to installation, authentication, and API references.",
+  "check": "Identify the intended consumer and confirm that it uses the file before investing in an ongoing maintenance process.",
+  "limitation": "llms.txt is a proposal with no power to control access, and Google says its AI search features require no new AI text file.",
+  "sources": "Jeremy Howard: the llms.txt proposal | https://llmstxt.org/ | Proposal\nGoogle Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Proposal",
+  "source_checked": "2026-11-19",
+  "related": "robots-txt\ncrawlability"
+ }
+}

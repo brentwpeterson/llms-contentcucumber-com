@@ -22,6 +22,7 @@ USAGE
   sync-landing-data.py --apply     # copy source -> mirror
   sync-landing-data.py --apply --prune   # also delete mirror files with no source
   sync-landing-data.py --set research --check | --apply   # the research library seeds
+  sync-landing-data.py --set glossary --check | --apply   # the AEO glossary term seeds
 
   --json                           # machine-readable summary on stdout
   --source PATH                    # override the theme landing-data directory
@@ -49,6 +50,17 @@ MIRROR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))
 RESEARCH_SOURCE = "/Users/brent/scripts/CB-Workspace/brent-workspace/research/library/seeds"
 RESEARCH_MIRROR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                                "src", "data", "research")
+
+# A third set: AEO glossary terms (cc_glossary posts). One seed file per term,
+# in the shape the connector's glossary route takes. Pick it with --set glossary.
+GLOSSARY_SOURCE = "/Users/brent/scripts/CB-Workspace/brent-workspace/glossary/seeds"
+GLOSSARY_MIRROR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                               "src", "data", "glossary")
+SETS = {
+    "landing": (DEFAULT_SOURCE, MIRROR),
+    "research": (RESEARCH_SOURCE, RESEARCH_MIRROR),
+    "glossary": (GLOSSARY_SOURCE, GLOSSARY_MIRROR),
+}
 
 
 def digest(path):
@@ -86,13 +98,12 @@ def main():
     ap.add_argument("--prune", action="store_true")
     ap.add_argument("--json", action="store_true", dest="as_json")
     ap.add_argument("--source", default=None)
-    ap.add_argument("--set", choices=("landing", "research"), default="landing", dest="which")
+    ap.add_argument("--set", choices=tuple(SETS), default="landing", dest="which")
     a = ap.parse_args()
     global MIRROR
-    if a.which == "research":
-        MIRROR = RESEARCH_MIRROR
+    default_source, MIRROR = SETS[a.which]
     if a.source is None:
-        a.source = RESEARCH_SOURCE if a.which == "research" else DEFAULT_SOURCE
+        a.source = default_source
     if not (a.check or a.apply):
         ap.error("pass --check or --apply")
 

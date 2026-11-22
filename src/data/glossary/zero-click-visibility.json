@@ -1,0 +1,19 @@
+{
+ "slug": "zero-click-visibility",
+ "title": "Zero-click visibility",
+ "content": "<!-- wp:paragraph -->\n<p>Zero-click visibility is brand exposure inside a search result or an AI answer that the reader sees without clicking through to a website.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Zero-click search\nZero-click exposure",
+  "why": "A 2024 SparkToro study found that a majority of Google searches in the United States ended without a click to the open web, which means traffic reports miss part of how often your brand is seen.",
+  "example": "An AI answer names a company as an option for payroll software, and the reader moves on without visiting the company's site.",
+  "check": "Track brand mentions and citations in sampled answers alongside visits, and report the two measures as separate numbers.",
+  "limitation": "A sampled answer shows that a brand appeared for that prompt and does not show how many people saw the answer.",
+  "sources": "SparkToro: 2024 zero-click search study | https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/ | Industry study",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "ai-referral-traffic\nbrand-mention\nai-overviews"
+ }
+}

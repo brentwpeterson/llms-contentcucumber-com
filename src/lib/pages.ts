@@ -1,4 +1,4 @@
-import { pageToMarkdown, researchToMarkdown, type PageDoc } from "./json-to-markdown";
+import { pageToMarkdown, researchToMarkdown, glossaryToMarkdown, type PageDoc } from "./json-to-markdown";
 
 // Eagerly import every vendored landing JSON at build time.
 const modules = import.meta.glob("../data/landing/*.json", { eager: true });
@@ -7,10 +7,18 @@ const modules = import.meta.glob("../data/landing/*.json", { eager: true });
 // WordPress importer reads. Synced by `sync-landing-data.py --set research`.
 const research = import.meta.glob("../data/research/*.json", { eager: true });
 
+// AEO glossary terms (cc_glossary), one seed file per term. Synced by
+// `sync-landing-data.py --set glossary`. Each renders at aeo-glossary/<slug>,
+// under the hub page that comes from landing/aeo-glossary.json.
+const glossary = import.meta.glob("../data/glossary/*.json", { eager: true });
+const GLOSSARY_HUB = "aeo-glossary";
+
 export interface LoadedPage extends PageDoc {
   /** Path segment used by Astro routing. "" === site root. */
   routeSlug: string;
 }
+
+const MIRROR_SITE = "https://llms.contentcucumber.com";
 
 function fileToSlug(path: string): string {
   const base = path.split("/").pop()!.replace(/\.json$/, "");
@@ -50,6 +58,23 @@ export function loadPages(): LoadedPage[] {
     if (raw.status && raw.status !== "publish") continue;
     const doc = researchToMarkdown(raw);
     pages.push({ ...doc, routeSlug: raw.slug });
+  }
+  // Glossary terms, only when the hub itself is public. The hub then lists
+  // every term, because its landing JSON holds the intro and no definitions.
+  const hub = pages.find((p) => p.routeSlug === GLOSSARY_HUB);
+  if (hub) {
+    const terms = Object.values(glossary)
+      .map((mod) => (mod as any).default ?? mod)
+      .filter((raw: any) => raw?.slug && (!raw.status || raw.status === "publish"))
+      .sort((a: any, b: any) => String(a.title).localeCompare(String(b.title)));
+    const titles = new Map<string, string>(terms.map((t: any) => [t.slug, t.title]));
+    const index: string[] = ["## Terms", ""];
+    for (const raw of terms) {
+      const doc = glossaryToMarkdown(raw, titles);
+      pages.push({ ...doc, routeSlug: `${GLOSSARY_HUB}/${raw.slug}` });
+      index.push(`- [${doc.title}](${MIRROR_SITE}/${GLOSSARY_HUB}/${raw.slug}.md): ${doc.description}`);
+    }
+    if (terms.length) hub.markdown = hub.markdown.trimEnd() + "\n\n" + index.join("\n") + "\n";
   }
   pages.sort((a, b) => a.routeSlug.localeCompare(b.routeSlug));
   return pages;

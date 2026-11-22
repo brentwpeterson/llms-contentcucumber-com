@@ -1,0 +1,19 @@
+{
+ "slug": "ai-mode",
+ "title": "AI Mode",
+ "content": "<!-- wp:paragraph -->\n<p>AI Mode is a Google Search experience for exploring questions through AI responses and follow-up questions, with links to supporting websites.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Google AI Mode",
+  "why": "An opening question and its follow-up can require different information from your site.",
+  "example": "A buyer asks about inventory software, then adds that the business sells through multiple stores.",
+  "check": "Test an initial buyer question along with a realistic follow-up, then save the sources and the requirements each answer addresses.",
+  "limitation": "Availability and behavior can change, which means one appearance in one response does not establish a stable position.",
+  "sources": "Google Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "ai-overviews\nquery-fan-out"
+ }
+}

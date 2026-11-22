@@ -1,0 +1,19 @@
+{
+ "slug": "conversational-search",
+ "title": "Conversational search",
+ "content": "<!-- wp:paragraph -->\n<p>Conversational search is a way of searching in which a person asks a question in full sentences, receives a written answer, and asks follow-up questions that build on it.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Conversational AI search",
+  "why": "A follow-up question builds on the earlier turn, and the second answer can draw on pages the opening question did not reach.",
+  "example": "A buyer asks about payroll software, then asks which of the named options handles contractors in two countries.",
+  "check": "Write the follow-up questions a buyer asks after the opening one and confirm your site answers each of them in plain text.",
+  "limitation": "The context sits in the earlier turns of the conversation, and the same follow-up typed alone can return a different answer.",
+  "sources": "Google Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "ai-mode\nquery-fan-out\nanswer-engine"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "slug": "source-diversity",
+ "title": "Source diversity",
+ "content": "<!-- wp:paragraph -->\n<p>Source diversity describes how many different domains and kinds of content a single AI answer draws its citations from.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "why": "An answer that draws on reviews, forums, vendor sites, and news gives a brand several kinds of pages on which to be found.",
+  "example": "One answer about project management tools cites a vendor's documentation, a review site, a community forum thread, and a trade publication.",
+  "check": "For each tracked prompt, sort the cited URLs by domain and by type, then note which types appear in answers where your own site is absent.",
+  "limitation": "Each engine chooses its sources by its own methods, and the mix changes between runs.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Reporting definition",
+  "source_checked": "2026-11-21",
+  "related": "citation-share\ncitation\nbrand-mention"
+ }
+}

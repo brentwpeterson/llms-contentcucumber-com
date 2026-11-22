@@ -1,0 +1,19 @@
+{
+ "slug": "agentic-search",
+ "title": "Agentic search",
+ "content": "<!-- wp:paragraph -->\n<p>Agentic search is a search experience in which an AI agent runs several searches, compares what it finds, and can complete a task for the person, such as booking a reservation.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI agent search",
+  "why": "An agent reads your page to finish a task for someone else. Prices, availability, and policies need to sit in text the agent can read.",
+  "example": "A shopper asks an assistant to find a standing desk within a set budget, and the agent opens several product pages to compare dimensions and return policies.",
+  "check": "Complete a key task on your site using the keyboard alone. Google says browser agents read the page structure and the accessibility tree.",
+  "limitation": "Agent features differ by product and region, and a site an agent can read is still one option among those the agent compares.",
+  "sources": "Google: AI Mode agentic capabilities | https://blog.google/products/search/ai-mode-agentic-personalized/ | Platform announcement\nGoogle Search Central: optimizing for generative AI | https://developers.google.com/search/docs/fundamentals/ai-optimization-guide | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "ai-mode\nquery-fan-out\nconversational-search"
+ }
+}

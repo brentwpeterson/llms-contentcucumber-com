@@ -1,0 +1,19 @@
+{
+ "slug": "semantic-search",
+ "title": "Semantic search",
+ "content": "<!-- wp:paragraph -->\n<p>Semantic search is search that matches a query to content by meaning and intent in place of exact shared words.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Meaning-based search",
+  "why": "A page that explains a subject in plain terms can match questions phrased in several ways, including ones that share none of its exact words.",
+  "example": "A search for ways to stop cart abandonment returns a page whose title talks about checkout drop-off.",
+  "check": "List the different ways buyers phrase one question and confirm the page answers that question in plain language.",
+  "limitation": "Semantic matching finds related content and does not judge whether the content is correct.",
+  "sources": "Google Cloud: what is semantic search | https://cloud.google.com/discover/what-is-semantic-search | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "entity\nquery-fan-out\npassage-retrieval"
+ }
+}

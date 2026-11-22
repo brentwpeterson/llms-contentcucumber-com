@@ -411,3 +411,64 @@ export function researchToMarkdown(raw: any): PageDoc {
       .trim() + "\n";
   return { slug, title, description, canonical, markdown };
 }
+
+/**
+ * One AEO glossary term (cc_glossary seed) as Markdown. The fields and their
+ * headings match single-cc_glossary.php on the main site; an empty field is
+ * skipped there and here. `titles` maps slug to title for the related links.
+ */
+export function glossaryToMarkdown(raw: any, titles: Map<string, string>): PageDoc {
+  const slug = String(raw.slug || "");
+  const title = htmlToText(raw.title) || slug;
+  const definition = htmlToText(raw.content || "");
+  const description = htmlToText(raw.excerpt || "") || definition;
+  const canonical = `${MAIN_SITE}/aeo-glossary/${slug}/`;
+  const meta = raw.meta || {};
+  const lines = (v: unknown) =>
+    String(v || "").split("\n").map((x) => x.trim()).filter(Boolean);
+
+  const out: string[] = [];
+  out.push(`# ${title}`, "");
+  if (definition) out.push(`> ${definition}`, "");
+  out.push(`*Source: [${canonical}](${canonical})*`, "");
+  const bits = [
+    raw.topic ? `Topic: ${htmlToText(raw.topic)}` : "",
+    lines(meta.aliases).length ? `Also called: ${lines(meta.aliases).map(htmlToText).join(", ")}` : "",
+  ].filter(Boolean);
+  if (bits.length) out.push(`*${bits.join(". ")}*`, "");
+  out.push("---", "");
+  const sections: [string, unknown][] = [
+    ["Why it matters", meta.why],
+    ["Example (illustrative, not a client result)", meta.example],
+    ["What to check", meta.check],
+    ["What this does not tell you", meta.limitation],
+  ];
+  for (const [heading, value] of sections) {
+    const text = htmlToText(value);
+    if (text) out.push(`## ${heading}`, "", text, "");
+  }
+  const sources = lines(meta.sources);
+  if (sources.length) {
+    out.push("## Sources", "");
+    for (const row of sources) {
+      const [name, url, kind] = row.split("|").map((x) => x.trim());
+      const label = url ? `[${name}](${url})` : name;
+      out.push(`- ${label}${kind ? ` (${kind})` : ""}`);
+    }
+    const tail = [
+      meta.evidence ? `Evidence type: ${htmlToText(meta.evidence)}` : "",
+      meta.source_checked ? `Sources checked on ${htmlToText(meta.source_checked)}` : "",
+    ].filter(Boolean);
+    out.push("");
+    if (tail.length) out.push(`*${tail.join(". ")}*`, "");
+  }
+  const related = lines(meta.related).filter((s) => titles.has(s));
+  if (related.length) {
+    out.push("## Related terms", "");
+    for (const s of related) out.push(`- [${titles.get(s)}](https://llms.contentcucumber.com/aeo-glossary/${s}.md)`);
+    out.push("");
+  }
+
+  const markdown = out.join("\n").replace(/\n{3,}/g, "\n\n").trim() + "\n";
+  return { slug, title, description, canonical, markdown };
+}

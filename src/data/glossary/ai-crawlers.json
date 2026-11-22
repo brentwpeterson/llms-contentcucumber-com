@@ -1,0 +1,19 @@
+{
+ "slug": "ai-crawlers",
+ "title": "AI crawlers",
+ "content": "<!-- wp:paragraph -->\n<p>AI crawlers are automated programs that AI companies use to fetch web pages for model training, for search indexes, or in response to a person&#039;s request.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI bots\nLLM crawlers",
+  "why": "Each crawler has its own user agent name, which means a robots.txt rule that blocks a training crawler can leave a search crawler allowed.",
+  "example": "A publisher blocks GPTBot to keep pages out of training data and allows OAI-SearchBot so the same pages can appear in ChatGPT search results.",
+  "check": "Read your robots.txt file and your server logs for the user agents each AI company documents, then confirm the rules match what you intend to allow.",
+  "limitation": "OpenAI notes that robots.txt rules may not apply to a fetch a person starts. Treat robots.txt as a rule for crawlers, and expect an assistant to reach a page in other ways too.",
+  "sources": "OpenAI: overview of OpenAI crawlers | https://developers.openai.com/api/docs/bots | Platform documentation\nAnthropic: how site owners can block the crawler | https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "robots-txt\ncrawlability\nllms-txt"
+ }
+}

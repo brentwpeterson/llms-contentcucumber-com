@@ -1,0 +1,19 @@
+{
+ "slug": "citation-rate",
+ "title": "Citation rate",
+ "content": "<!-- wp:paragraph -->\n<p>Citation rate is the percentage of sampled answers that cite a specified page or domain, with a domain counted once per answer.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Citation frequency",
+  "why": "Citation rate measures how often you appear across the answers you sampled, which is why a single answer with five links to your domain still counts once.",
+  "example": "If 6 of 20 usable answers cite your domain, its citation rate is 30%, even when some of those answers link to it more than once.",
+  "check": "Divide the answers citing your domain by all usable sampled answers and multiply by 100, then keep the prompts, engines, dates, and failed runs in the report.",
+  "limitation": "We use this formula as our own reporting convention, and vendors may calculate citation rate differently. The sample covers the prompts we tested, which is a small slice of all AI searches.",
+  "sources": "Ahrefs: AI visibility metrics | https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics | Vendor documentation",
+  "evidence": "Reporting definition",
+  "source_checked": "2026-11-19",
+  "related": "citation-share\nprompt-tracking"
+ }
+}

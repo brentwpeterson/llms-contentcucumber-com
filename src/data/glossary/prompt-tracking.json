@@ -1,0 +1,19 @@
+{
+ "slug": "prompt-tracking",
+ "title": "Prompt tracking",
+ "content": "<!-- wp:paragraph -->\n<p>Prompt tracking is a repeatable process of asking selected questions in AI systems and recording the answers, mentions, and cited sources.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Prompt monitoring\nAI visibility tracking",
+  "why": "A recorded sample lets you compare one round of observations with the next and keeps the tested questions visible.",
+  "example": "A team repeats the same buyer questions each week and records whether its brand is named and its domain is cited.",
+  "check": "Keep the exact prompts, the engine or model, the search mode, the dates, the locale where relevant, and the count of usable responses, and record failures separately.",
+  "limitation": "Prompt tracking is our measurement workflow. The results describe the sample and neither establish a universal AI rank nor represent every buyer.",
+  "sources": "Ahrefs: AI visibility metrics | https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics | Vendor documentation",
+  "evidence": "Reporting definition",
+  "source_checked": "2026-11-19",
+  "related": "citation-rate\nbrand-mention"
+ }
+}

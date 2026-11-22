@@ -1,0 +1,19 @@
+{
+ "slug": "canonical-url",
+ "title": "Canonical URL",
+ "content": "<!-- wp:paragraph -->\n<p>A canonical URL is the representative URL selected for a page or a group of substantially duplicate pages.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Canonicalization\nrel canonical",
+  "why": "Competing versions of the same page can make reporting and internal linking harder to interpret.",
+  "example": "A product guide loads at a clean URL and again at a URL with campaign parameters, so the team declares the clean version as its canonical.",
+  "check": "Inspect the declared canonical and the Google-selected canonical in Search Console, then use the intended URL in internal links.",
+  "limitation": "A declared canonical is a signal, and Google can still choose a different representative URL.",
+  "sources": "Google Search Central: canonicalization | https://developers.google.com/search/docs/crawling-indexing/canonicalization | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "indexability\ncrawlability"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "rag",
+ "title": "RAG",
+ "content": "<!-- wp:paragraph -->\n<p>Retrieval-augmented generation (RAG) combines information retrieved from an external collection with a model’s generation of an answer.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Retrieval-augmented generation\nRetrieval augmented generation",
+  "why": "The answer depends on both the retrieved material and the generated explanation. Check each one.",
+  "example": "An assistant retrieves a delivery-policy document, then uses that document to answer a customer’s question.",
+  "check": "When evaluating a RAG answer, inspect which material was retrieved as well as what the system wrote.",
+  "limitation": "A RAG answer is only as accurate as the collection behind it, which may be outdated, incomplete, or poorly matched to the question.",
+  "sources": "Lewis et al.: Retrieval-Augmented Generation | https://arxiv.org/abs/2005.11401 | Research paper",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "grounding\nhallucination"
+ }
+}

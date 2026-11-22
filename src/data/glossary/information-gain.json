@@ -1,0 +1,19 @@
+{
+ "slug": "information-gain",
+ "title": "Information gain",
+ "content": "<!-- wp:paragraph -->\n<p>In content planning, information gain is the useful new information a page adds beyond what the reader can already find elsewhere.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Original information\nFirsthand evidence",
+  "why": "A new example, documented test, or original explanation is what makes a reader pick this page over the other pages that cover the same topic.",
+  "example": "A guide includes a documented comparison from the author’s own evaluation, with the method and limitations visible.",
+  "check": "What will this page offer that a reader cannot find elsewhere? Name that contribution in the brief, and confirm the writer has the records or experience to support it.",
+  "limitation": "Information gain in this editorial sense has no public Google score, and novelty alone does not make information accurate or useful.",
+  "sources": "Google Search Central: helpful, reliable content | https://developers.google.com/search/docs/fundamentals/creating-helpful-content | Platform documentation",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-19",
+  "related": "eeat\nextractability"
+ }
+}

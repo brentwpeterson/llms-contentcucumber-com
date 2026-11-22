@@ -1,0 +1,19 @@
+{
+ "slug": "ai-overviews",
+ "title": "AI Overviews",
+ "content": "<!-- wp:paragraph -->\n<p>AI Overviews are AI-generated summaries that Google shows for some searches, with links to supporting pages.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "AIO\nAI Overview",
+  "why": "AI Overviews give a reader another place to meet an explanation, or a business, before visiting any website.",
+  "example": "A search for a technical term displays a short explanation and links to pages used to support it.",
+  "check": "Record whether an overview appears for a relevant search and which pages it links to. Keep the date and the query with each observation.",
+  "limitation": "Google does not show an overview for every query, and a page that is eligible can still be left out.",
+  "sources": "Google Search Central: AI features and your website | https://developers.google.com/search/docs/appearance/ai-features | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "ai-mode\nindexability"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "bluf",
+ "title": "BLUF",
+ "content": "<!-- wp:paragraph -->\n<p>BLUF, short for bottom line up front, is a writing practice that puts the main point or the answer in the opening sentence of a passage.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Bottom line up front",
+  "why": "A reader who stops after one sentence still gets the answer, and the supporting detail follows for those who need it.",
+  "example": "A section on refund timing opens by stating that refunds post within five business days, then explains the exceptions.",
+  "check": "Read the opening sentence under each heading and confirm it answers the question the heading raises.",
+  "limitation": "Agencies recommend the practice for AI search, and platform documentation does not list it as a requirement.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Editorial practice",
+  "source_checked": "2026-11-21",
+  "related": "atomic-answer\nextractability"
+ }
+}

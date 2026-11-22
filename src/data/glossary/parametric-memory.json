@@ -1,0 +1,19 @@
+{
+ "slug": "parametric-memory",
+ "title": "Parametric memory",
+ "content": "<!-- wp:paragraph -->\n<p>Parametric memory is the knowledge a language model keeps in its trained parameters, as distinct from the information a system looks up while answering a question.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "AI search basics",
+ "status": "publish",
+ "meta": {
+  "aliases": "Training knowledge\nModel memory",
+  "why": "Training stops on a cutoff date. A model answering from memory repeats what was true before that date, and your new pricing, your new product, or your new company name reaches the answer when the system retrieves a page that states the change.",
+  "example": "An assistant without web access describes a company's old pricing because the new pricing was published after the model was trained.",
+  "check": "Ask an assistant about your company with web search turned off and again with web search turned on. Compare the two answers, and note which facts appear with search turned on and go missing without it.",
+  "limitation": "Treat the comparison as an estimate. Few answers show which parts came from training and which came from retrieval.",
+  "sources": "Lewis et al.: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | https://arxiv.org/abs/2005.11401 | Research paper",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "rag\ngrounding\nhallucination"
+ }
+}

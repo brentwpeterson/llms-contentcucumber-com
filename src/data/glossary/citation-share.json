@@ -1,0 +1,19 @@
+{
+ "slug": "citation-share",
+ "title": "Citation share",
+ "content": "<!-- wp:paragraph -->\n<p>Citation share is the proportion of counted source citations that belong to a specified page or domain within a sample.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Share of citations",
+  "why": "Citation share shows how much of the cited-source pool belongs to you, and it can stay small while your citation rate looks healthy.",
+  "example": "If your domain accounts for 6 of 40 counted domain citations, its share is 15%, even if it appeared in 30% of the sampled answers.",
+  "check": "Choose a counting unit, such as one citation per domain per answer, and use that same unit in both parts of the calculation.",
+  "limitation": "Adding competitors or changing how duplicates count changes the denominator. Label the method beside the number.",
+  "sources": "Ahrefs: AI visibility metrics | https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics | Vendor documentation",
+  "evidence": "Reporting definition",
+  "source_checked": "2026-11-19",
+  "related": "citation-rate\nbrand-mention"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "eeat",
+ "title": "E-E-A-T",
+ "content": "<!-- wp:paragraph -->\n<p>E-E-A-T stands for experience, expertise, authoritativeness, and trustworthiness, the qualities Google discusses when Google evaluates helpful content.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Experience expertise authoritativeness trustworthiness\nEEAT",
+  "why": "Readers want to know who produced an explanation, what experience backs it, and where its evidence comes from.",
+  "example": "A product review explains what the reviewer tested, the conditions of the test, and the limits of the conclusion.",
+  "check": "Add a truthful byline with relevant background, show how you reached the conclusion, and link to the evidence.",
+  "limitation": "Google says E-E-A-T itself is not a specific ranking factor, and adding a biography does not prove expertise.",
+  "sources": "Google Search Central: helpful, reliable content | https://developers.google.com/search/docs/fundamentals/creating-helpful-content | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "information-gain\nentity"
+ }
+}

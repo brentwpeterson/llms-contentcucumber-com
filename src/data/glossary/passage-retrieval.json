@@ -1,0 +1,19 @@
+{
+ "slug": "passage-retrieval",
+ "title": "Passage retrieval",
+ "content": "<!-- wp:paragraph -->\n<p>Passage retrieval is the step in which a search or answer system selects specific sections of a page, in place of the whole page, to answer a query.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "Passage ranking",
+  "why": "Google describes passage ranking as a system that identifies individual sections of a page to judge relevance, which means a section deep in a long page can be the section that gets used.",
+  "example": "A long guide to warehouse software contains one section on barcode scanning, and that section is selected for a question about barcodes.",
+  "check": "Give each section a heading that names its subject and open the section with the fact a reader came for.",
+  "limitation": "Google documents passage ranking for Search, and that description does not cover how other answer engines select passages.",
+  "sources": "Google Search Central: guide to Google Search ranking systems | https://developers.google.com/search/docs/appearance/ranking-systems-guide | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "chunking\nextractability\nrag"
+ }
+}

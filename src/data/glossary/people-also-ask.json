@@ -1,0 +1,19 @@
+{
+ "slug": "people-also-ask",
+ "title": "People Also Ask",
+ "content": "<!-- wp:paragraph -->\n<p>People Also Ask is a Google results feature that lists questions related to a search, each expanding to show a short answer and a link to its source.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "aliases": "PAA\nRelated questions",
+  "why": "The listed questions show how people phrase the next question on a topic, which is useful input for headings and for the prompts you track.",
+  "example": "A search for inventory software shows related questions about cost, options for small businesses, and spreadsheet alternatives.",
+  "check": "Search your main topics, record the related questions shown, and confirm your pages answer the ones relevant to your buyers.",
+  "limitation": "The questions vary by query, location, and date. Treat a recorded list as a snapshot.",
+  "sources": "Google Search Central: visual elements gallery | https://developers.google.com/search/docs/appearance/visual-elements-gallery | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "query-fan-out\nconversational-search"
+ }
+}

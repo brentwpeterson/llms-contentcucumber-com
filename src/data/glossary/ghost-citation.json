@@ -1,0 +1,19 @@
+{
+ "slug": "ghost-citation",
+ "title": "Ghost citation",
+ "content": "<!-- wp:paragraph -->\n<p>A ghost citation happens when an AI answer uses your page as a linked source while the answer text leaves your brand's name out.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "Unnamed citation",
+  "why": "Your page contributed to the answer, and a reader who skips the link does not see your company's name.",
+  "example": "A domain is cited in 10 sampled answers and the brand is named in 4 of them, so 6 are ghost citations, a ghost citation rate of 60%.",
+  "check": "Divide the answers that cite your domain without naming your brand by the answers that cite your domain, and multiply by 100 to get a ghost citation rate.",
+  "limitation": "We count a brand as named when the answer text contains the company name or a product name, and a tool that matches names by another rule produces a different count.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Content Cucumber reporting definition",
+  "source_checked": "2026-11-21",
+  "related": "citation\nbrand-mention\ncitation-rate"
+ }
+}

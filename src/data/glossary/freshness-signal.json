@@ -1,0 +1,19 @@
+{
+ "slug": "freshness-signal",
+ "title": "Freshness signal",
+ "content": "<!-- wp:paragraph -->\n<p>A freshness signal is a cue that a page is current, such as a visible updated date, a dateModified value in structured data, or a lastmod date in a sitemap.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Writing useful content",
+ "status": "publish",
+ "meta": {
+  "aliases": "Recency signal",
+  "why": "Google has systems that show fresher content for queries where a reader expects it. Readers do their own check too, and a visible date helps them judge whether the facts still hold.",
+  "example": "An article shows an updated date beside the byline, and the dateModified value in its structured data shows the same date.",
+  "check": "Confirm the visible date, the dateModified value, and the sitemap lastmod date agree and reflect a change to the content.",
+  "limitation": "Because Google's freshness systems apply to queries where recency is expected, a new date does not lift a page for other queries.",
+  "sources": "Google Search Central: guide to Google Search ranking systems | https://developers.google.com/search/docs/appearance/ranking-systems-guide | Platform documentation\nGoogle Search Central: publication dates | https://developers.google.com/search/docs/appearance/publication-dates | Platform documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "content-refresh\nstructured-data"
+ }
+}

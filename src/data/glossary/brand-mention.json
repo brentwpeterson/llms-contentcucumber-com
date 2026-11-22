@@ -1,0 +1,19 @@
+{
+ "slug": "brand-mention",
+ "title": "Brand mention",
+ "content": "<!-- wp:paragraph -->\n<p>A brand mention occurs when an AI answer names a brand, which is a separate observation from a source link to that brand’s site.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "aliases": "AI mention\nUnlinked mention",
+  "why": "A link to a brand's site and a mention of the brand's name turn up independently. One answer can have either without the other.",
+  "example": "An answer names Acme but links only to a trade publication, so we would record a mention for Acme and a citation for the publication.",
+  "check": "Save separate yes/no fields for brand named and owned domain cited in each sampled answer.",
+  "limitation": "Counting conventions vary, and Ahrefs, for one, counts a brand once per response even when its name appears several times.",
+  "sources": "Ahrefs: AI visibility metrics | https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics | Vendor documentation",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-19",
+  "related": "citation\ncitation-rate"
+ }
+}

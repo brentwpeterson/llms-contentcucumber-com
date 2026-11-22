@@ -1,0 +1,18 @@
+{
+ "slug": "recommendation-rate",
+ "title": "Recommendation rate",
+ "content": "<!-- wp:paragraph -->\n<p>Recommendation rate is the percentage of usable sampled answers in which an AI system endorses your brand as a choice for the buyer&#039;s need, counted once per answer.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Measuring visibility",
+ "status": "publish",
+ "meta": {
+  "why": "An answer can name a brand as an option to avoid. A count of mentions overstates how often the brand is recommended.",
+  "example": "A brand is named in 12 of 20 answers and recommended in 5 of them, which gives a 25% recommendation rate.",
+  "check": "Label each usable answer as recommended, named without a judgment, or named with a caution, then divide the recommended answers by the usable answers and multiply by 100.",
+  "limitation": "We count an answer as a recommendation when the answer presents the brand as a suitable choice for the buyer's need. Because a second reviewer can label a borderline answer differently, keep the labeling rules with the report.",
+  "sources": "Animalz: AEO glossary | https://animalz.co/blog/aeo-glossary | Industry glossary",
+  "evidence": "Content Cucumber reporting definition",
+  "source_checked": "2026-11-21",
+  "related": "brand-mention\nai-share-of-voice\nnon-determinism"
+ }
+}

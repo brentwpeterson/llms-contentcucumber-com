@@ -1,0 +1,18 @@
+{
+ "slug": "retrievability",
+ "title": "Retrievability",
+ "content": "<!-- wp:paragraph -->\n<p>Retrievability is a measure of how easily a retrieval system can return a given document across the range of queries the system receives.</p>\n<!-- /wp:paragraph -->",
+ "excerpt": "",
+ "topic": "Getting found",
+ "status": "publish",
+ "meta": {
+  "why": "A page that a system rarely returns cannot be cited, however well the page is written.",
+  "example": "A page that describes its product with internal code names is returned for fewer buyer questions than a page that uses the buyers' own words.",
+  "check": "Search for your page using the varied phrasings buyers use and record which phrasings return it.",
+  "limitation": "We use retrievability as a concept from information retrieval research, and no AI search product reports a retrievability score for a page.",
+  "sources": "Azzopardi and Vinay: Retrievability, an evaluation measure for higher order information access tasks | https://doi.org/10.1145/1458082.1458157 | Research paper",
+  "evidence": "Documented concept",
+  "source_checked": "2026-11-21",
+  "related": "crawlability\nindexability\nextractability"
+ }
+}
