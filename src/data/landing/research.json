@@ -58,6 +58,13 @@
       "content": "<p>Check out some of our research below.</p>",
       "verticals": [
         {
+          "name": "The Human Condition of AI Content",
+          "short": "AI in Content Study",
+          "blurb": "One question, asked of people who work in commerce, content and AI. Should companies use AI to create content, and why? 53% said yes, with a human owning the output.",
+          "url": "/ai-content-study/",
+          "status": "live"
+        },
+        {
           "name": "The B2B Commerce Trends and Opportunities Report",
           "short": "B2B Commerce Trends",
           "blurb": "Where B2B commerce is heading, built from interviews with people running it.",
@@ -76,21 +83,6 @@
           "short": "Enterprise Commerce",
           "blurb": "VTEX and Salesforce Commerce Cloud compared across architecture, order management, marketplace and total cost.",
           "url": "/winning-blueprint-enterprise-commerce/",
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "underway",
-      "title": "Studies underway",
-      "content": "<p>Research we are running now. These are open, and you can add your answer while collection is still going.</p>",
-      "coming_label": "Also in progress:",
-      "verticals": [
-        {
-          "name": "Should companies use AI to create content, and why",
-          "short": "AI in content",
-          "blurb": "One question, asked of people who work in commerce, content and AI. Still collecting, and your answer counts.",
-          "url": "/ai-content-study/",
           "status": "live"
         }
       ]

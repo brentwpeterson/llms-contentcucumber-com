@@ -1,8 +1,14 @@
 {
-    "_comment": "File-driven CTA cards for the mega panels. The walker reads this ONLY when the matching widget sidebar is empty, so an existing widget always wins. This exists because Content Cucumber deploys files and never the database: a widget built in wp-admin has to be rebuilt by hand on every environment, while this file ships with the normal file sync. Image paths are relative to landing-data/.",
+    "_comment": "File-driven CTA cards for the mega panels. The walker reads this ONLY when the matching widget sidebar is empty, so an existing widget wins unless the entry sets \"override\": true. This exists because Content Cucumber deploys files and never the database: a widget built in wp-admin has to be rebuilt by hand on every environment, while this file ships with the normal file sync. Image paths are relative to landing-data/.",
     "mega-menu-cta-industries": {
         "image": "mega-menu-assets/free-content-audit-industries.jpg",
         "alt": "Free content audit for your industry",
         "url": "/aeo-audit/"
+    },
+    "mega-menu-cta": {
+        "image": "mega-menu-assets/aeo-glossary-cover.jpg",
+        "alt": "AEO Glossary, definitions of AI search terms",
+        "url": "/aeo-glossary/",
+        "override": true
     }
 }

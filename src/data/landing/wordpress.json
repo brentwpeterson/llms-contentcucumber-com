@@ -24,7 +24,6 @@
                     "Content Cucumber and Evrig have teamed up to bring you world class WordPress sites from ideation to launch and everything in between.",
                     "The traditional agency left content to \"someone\" and the content company left the development work to someone else. With one team, the writer and the developer sit in the same call from the start. The page structure, the copy, and the code get decided together, and nothing falls into the gap between two vendors.",
                     "People plan the site and write the pages, AI speeds up the build, and your team gets a site it can edit without calling a developer.",
-                    "Brent Peterson and Vijay Golani have worked together for nearly 20 years. Vijay is a two-time Magento Master, Evrig is a Hyva Gold Partner with Adobe Commerce certifications, and Content Cucumber brings 40+ human writers to every build.",
                     "WordPress is one of the platforms we build on, and the <a href='/cms/'>CMS development</a> page covers the rest. We have teams in Chicago, Minneapolis and Hawaii."
                 ],
                 "platforms_label": "Development partner",
@@ -104,15 +103,6 @@
                             "Rarely",
                             "Varies"
                         ]
-                    },
-                    {
-                        "label": "Starting price",
-                        "values": [
-                            "From $500",
-                            "$$$$",
-                            "$$",
-                            "$"
-                        ]
                     }
                 ]
             }
@@ -185,10 +175,6 @@
                 "title": "What does a WordPress website cost?",
                 "items": [
                     {
-                        "label": "Starting price",
-                        "value": "WordPress builds with Content Cucumber and Evrig start at $500."
-                    },
-                    {
                         "label": "What moves the price",
                         "value": "Page count, how much custom design you want, and the systems the site connects to, such as a CRM, an ERP, or your marketing tools."
                     },
@@ -236,7 +222,7 @@
                 "items": [
                     {
                         "question": "How much does it cost to hire a WordPress developer?",
-                        "answer": "With Content Cucumber and Evrig, WordPress builds start at $500, and the written estimate you get after a short call sets the price before work begins. The final number depends on page count, custom design, and integrations."
+                        "answer": "The written estimate you get after a short call sets the price before work begins. The final number depends on page count, custom design, and integrations."
                     },
                     {
                         "question": "Is WordPress outdated in 2026?",

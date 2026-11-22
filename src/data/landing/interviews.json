@@ -41,16 +41,13 @@
             "anchor": "packages",
             "data": {
                 "title": "Interview Packages",
-                "subtitle": "Each package starts with an interview at your booth, we bring the camera and the mics and we guide the conversation, and the bigger packages add writers from Content Cucumber who turn your interview into articles.",
                 "items": [
                     {
                         "name": "Spotlight",
                         "badge": "Free",
-                        "target": "A quick interview that introduces your brand to your audience and helps promote it.",
                         "price": "Free",
                         "form_modal": {
                             "heading": "Book Your Free Interview",
-                            "subtitle": "Paid interviews are booked first, so tell us which event you're attending and we'll confirm your slot once the schedule is set.",
                             "button_text": "Book Free Interview",
                             "portal_id": "39487190",
                             "form_id": "c558d377-b3be-4091-87ff-da48f320145c",
@@ -67,11 +64,9 @@
                         "name": "Deep Dive",
                         "badge": "Most Popular",
                         "featured": true,
-                        "target": "A longer conversation where you get to tell your story, talk about your product, and share what you see happening in the industry.",
                         "price": "$300",
                         "form_modal": {
                             "heading": "Book Your Deep Dive Interview",
-                            "subtitle": "15-minute in-depth interview. $300 per session.",
                             "button_text": "Book Now - $300",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
@@ -90,11 +85,9 @@
                     },
                     {
                         "name": "Full Content Package",
-                        "target": "Our team records your interview, then writes it up from the transcript.",
                         "price": "Custom",
                         "form_modal": {
                             "heading": "Let's Build Your Content Package",
-                            "subtitle": "Tell us about your event and goals. We'll schedule a quick call to scope your package.",
                             "button_text": "Schedule a Call",
                             "portal_id": "39487190",
                             "form_id": "39446d06-5fd2-4464-9e6f-ed642fb34d3a",
@@ -116,7 +109,6 @@
             "type": "video-grid",
             "data": {
                 "title": "Interviews From the Floor",
-                "subtitle": "Recent Talk Commerce conversations, recorded on camera at the conference.",
                 "videos": [
                     {
                         "youtube_id": "EDwCa4c-zwI",
@@ -154,19 +146,10 @@
             "type": "how-it-works",
             "data": {
                 "title": "How It Works",
-                "subtitle": "No scripts. No awkward setups.",
                 "steps": [
-                    {
-                        "title": "Pick",
-                        "text": "Pick the package that fits, Spotlight is free, Deep Dive is $300, and the Full Content Package is custom, then fill out the form and we'll confirm your slot."
-                    },
                     {
                         "title": "Record",
                         "text": "We make this as easy as pie. We don't write hard-to-follow scripts. Instead, we ask questions that draw out your deep knowledge of the subject. We find you in the conference center (or you find us!) and do the interview. I would encourage you to listen to our episodes."
-                    },
-                    {
-                        "title": "Deliver",
-                        "text": "Within a couple of weeks, you have published content, and if you went with the Full Content Package, our writers at Content Cucumber turn your interview into blog articles, case studies, and social posts."
                     }
                 ]
             }
@@ -177,24 +160,16 @@
                 "title": "Common Questions",
                 "items": [
                     {
-                        "question": "What if our team isn't comfortable on camera?",
-                        "answer": "That's exactly why we guide the conversation. No scripts, no teleprompters. We ask questions your team already knows the answers to and keep it relaxed. We've done hundreds of these."
-                    },
-                    {
                         "question": "When will we receive the final content?",
                         "answer": "Video clips and published episodes within two weeks. Written content (blog articles, case studies) within three weeks. Rush delivery available."
                     },
                     {
                         "question": "Can we use the footage for our own marketing?",
-                        "answer": "Yes. You receive all clips, raw footage, and full permission to use them across your channels. Social media, website, email campaigns, sales decks. It's your content."
+                        "answer": "Yes. You receive all clips, raw footage, and full permission to use them across your channels."
                     },
                     {
                         "question": "Which conferences do you cover?",
                         "answer": "We cover major ecommerce and B2B conferences across the US, including Shop Talk, eTail, and industry-specific shows. Tell us which event you're attending and we'll confirm availability."
-                    },
-                    {
-                        "question": "What are Talk Commerce and Content Cucumber?",
-                        "answer": "Talk Commerce is a podcast and media platform with 500+ episodes focused on ecommerce. Content Cucumber is a content creation agency with 40+ human writers. Talk Commerce records the interview. Content Cucumber turns it into written content. One conversation, a full marketing library."
                     }
                 ]
             }

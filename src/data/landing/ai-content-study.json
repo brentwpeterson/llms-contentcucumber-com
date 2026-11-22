@@ -1,174 +1,143 @@
 {
-  "seo": {
-    "title": "Should companies use AI to create content, and why",
-    "meta_description": "One question, asked of people who work in commerce, content and AI. What the study is, who gets asked, and what happens to your answer.",
-    "og_description": "One question, asked of people who work in commerce, content and AI.",
-    "og_type": "article",
-    "twitter_card": "summary_large_image",
-    "noindex": false,
-    "nofollow": false
-  },
-  "form": {
-    "header": "Should companies use AI to create content, and why?",
-    "subtitle": "Three fields, and the finished report comes to you.",
-    "trust_text": "No pitch, no sequence, no sales call. Leave the anonymous box unticked and you may be quoted by name.",
-    "portal_id": "39487190",
-    "form_id": "f78bc279-b7c1-42f0-a908-987c11f2262f",
-    "region": "na1",
-    "campaign_code": "Should companies use AI to create content, and why?"
-  },
-  "thankyou": {
-    "title": "Counted",
-    "text": "Your answer is in the study. Brent Peterson will email you once when the write-up is finished, and not before."
-  },
-  "sections": [
-    {
-      "type": "hero",
-      "data": {
-        "eyebrow": "Questions first? Read the FAQ",
-        "title": "Should companies use AI to create content, and why?",
-        "youtube_id": "XI86g5WKUqc",
-        "youtube_layout": "video-form",
-        "youtube_position": "under-title",
-        "youtube_title": "Should companies use AI in content creation?",
-        "paragraphs": [
-          "We believe people write better than machines do. Content Cucumber has been betting on humans long before this argument started. What we want to learn is where the rest of the industry stands.",
-          "The question is going to people who work in commerce, content and AI. A sentence or two is enough."
-        ],
-        "eyebrow_link": "#faq"
-      }
+    "no_nav": true,
+    "seo": {
+        "og_type": "website",
+        "twitter_card": "summary_large_image",
+        "title": "AI Content Study 2026, The Human Condition of AI Content | Content Cucumber",
+        "meta_description": "We asked people in commerce, content and AI one question. Should companies use AI to create content, and why? 53% said yes, with a human owning the output. Get the free study.",
+        "og_description": "One question, answered in people's own words. 53% said yes, with a human owning the output. Free download.",
+        "og_image": "https://contentcucumber.com/wp-content/themes/cucumber-gp-child/landing-data/ai-content-study-og.png",
+        "noindex": false
     },
-    {
-      "type": "quick-answer",
-      "data": {
-        "title": "What this is, before you answer",
-        "items": [
-          {
-            "label": "What is this study?",
-            "value": "To learn and quantify the industry attitude on content creation by AI, and to publish what people said in their own words."
-          },
-          {
-            "label": "Who is being asked?",
-            "value": "Working editors and journalists, copywriters, staff and technical writers, CMOs and the people who commission content, and engineers who build AI for a living."
-          },
-          {
-            "label": "What happens to my answer?",
-            "value": "It gets read, coded for the stance it takes, and written up in a report. Answers may be quoted with your name and your company unless you ask otherwise. Nothing is sold, and nobody is added to a marketing list for answering."
-          },
-          {
-            "label": "Can I stay anonymous?",
-            "value": "Yes, and it was offered up front for that reason. Anonymous means no name, no employer, and no employer inferred from anything else in the answer."
-          },
-          {
-            "label": "What do I get back?",
-            "value": "The report, sent to you when it is finished, as long as we have an email address for you. Answering here gives us one. No publication date has been set."
-          }
-        ]
-      }
+    "form": {
+        "header": "Get the Study",
+        "portal_id": "39487190",
+        "form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+        "region": "na1",
+        "campaign_code": "ai-content-study"
     },
-    {
-      "type": "arguments",
-      "data": {
-        "eyebrow": "Example answers, written by us",
-        "heading": "A few ways you could answer",
-        "items": [
-          {
-            "title": "Yes, but",
-            "body": "“Yes for first drafts and research, but a person has to own the finished piece, because readers can tell when nobody did.”"
-          },
-          {
-            "title": "Yes, and",
-            "body": "“Yes, and we already do, for product descriptions across a catalog of thousands of items, with an editor reviewing them before they go live.”"
-          },
-          {
-            "title": "No, but",
-            "body": "“No for anything with our name on it, but we use it to transcribe interviews and pull research together, and that saves us hours each week.”"
-          },
-          {
-            "title": "No, and",
-            "body": "“No, and the reason is trust, since the first time a customer catches a made-up fact, the brand pays for it longer than the time the tool saved.”"
-          },
-          {
-            "title": "It depends",
-            "body": "“It depends on what the content is for, since a support article and a founder’s letter are different jobs and I’d answer each one differently.”"
-          },
-          {
-            "title": "Tell us your thoughts",
-            "body": "“I care less about who wrote it than whether it’s true, and I’d want to be told which one I’m reading.”"
-          }
-        ]
-      }
+    "thankyou": {
+        "title": "On its way",
+        "text": "Check your inbox. We sent you The Human Condition of AI Content. If you want to talk through what it means for your own content, reply to that email.",
+        "link_anchor": "",
+        "link_text": ""
     },
-    {
-      "type": "credibility",
-      "data": {
-        "eyebrow": "Who is asking",
-        "title": "Why this question, and why now",
-        "paragraphs": [
-          "Content Cucumber employs humans to write content for humans, so we have a commercial interest in the answer.",
-          "We are curious where people sit on this. LinkedIn introduced a button that lets a reader report a post as AI slop, and is replacing its own AI writing feature with a proofreading tool. LinkedIn reached that conclusion after trying the alternative at scale."
-        ]
-      }
-    },
-    {
-      "type": "faq",
-      "data": {
-        "title": "Questions people have asked before answering",
-        "items": [
-          {
-            "question": "Who is it written for?",
-            "answer": "All humankind."
-          },
-          {
-            "question": "What does “should” mean in the question?",
-            "answer": "Whatever you take it to mean. People have answered it as an ethical question, a commercial one, and a craft one, and the disagreement about which question it is has been one of the more interesting parts."
-          },
-          {
-            "question": "Does every answer get published?",
-            "answer": "No. Every answer is read and counted, and the report quotes a selection of them."
-          },
-          {
-            "question": "How long does answering take?",
-            "answer": "Two or three lines is typical. Longer is welcome, and nothing is too short to count. We also encourage you to tell us how you are using AI outside of content generation."
-          },
-          {
-            "question": "Is this multiple choice?",
-            "answer": "The form has three choices for where you land, and a box for why. The why is the part that matters."
-          },
-          {
-            "question": "If I let you use my name, how does the answer get used?",
-            "answer": "Quoted with your name and where you work, in the report and in posts about the report. Nothing else. Your answer is not sold, and answering does not add you to a marketing list."
-          },
-          {
-            "question": "When does collecting stop?",
-            "answer": "When the write-up is finished. Answers are still being collected while it is being written, and we will send periodic updates."
-          },
-          {
-            "question": "Where will the findings be published?",
-            "answer": "On contentcucumber.com. Links will go out on social, and everyone who answers gets sent the report when it goes up."
-          },
-          {
-            "question": "Will I see my quote before it publishes?",
-            "answer": "No. If you would rather not be quoted, tick the anonymous box on the form."
-          },
-          {
-            "question": "Who is running this?",
-            "answer": "Brent Peterson and Isaac Morey at Content Cucumber. There is no sponsor and no client behind the question."
-          },
-          {
-            "question": "Did AI write the question?",
-            "answer": "No. Brent Peterson and Isaac Morey wrote it. Brent sends most of the messages himself, one at a time."
-          }
-        ]
-      },
-      "anchor": "faq"
-    },
-    {
-      "type": "bottom-cta",
-      "data": {
-        "title": "Answer the question",
-        "text": "Answer it here, or in the thread if that is where the question reached you. Both count the same."
-      }
-    }
-  ]
+    "sections": [
+        {
+            "type": "download-page",
+            "data": {
+                "eyebrow": "A Content Cucumber Study · Edition 1",
+                "title": "The <em>Human Condition</em> of AI Content",
+                "subtitle": "We asked people who work in commerce, content and AI one question. Should companies use AI to create content, and why? They answered in person at eTail Boston, by LinkedIn message and in a LinkedIn poll, in their own words.",
+                "bullets": [
+                    "<strong>53% said yes, with a human owning the output.</strong> That is more than twice any other position, and in open answers people wrote it in themselves.",
+                    "<strong>The people who said no get full space.</strong> Writers returned the highest no share of any group, and each person who said no gave a reason.",
+                    "<strong>The most divided group builds AI for a living.</strong> AI practitioners spread across five positions, and 11% said it is not a choice to make.",
+                    "<strong>US marketers did not give a single no.</strong> Results are reported by group, so you can see who said what.",
+                    "<strong>What LinkedIn did before the study opened.</strong> A report button for AI slop, and a proofreading tool in place of its own AI writing feature."
+                ],
+                "thumbnail": "landing-data/ai-content-study-cover.png",
+                "authors": "Researched and written by Content Cucumber. Featuring Mathew Adams (Adeia), George Lawton, Chris Sheridan, Matt Swan, Karen Sage and Lizzy Adams.",
+                "form_title": "Get the Study",
+                "form_subtitle": "Free. Sent to your inbox."
+            }
+        },
+        {
+            "type": "challenges",
+            "data": {
+                "title": "What the answers showed",
+                "subtitle": "Four findings from the first edition.",
+                "items": [
+                    {
+                        "title": "A human owns the output.",
+                        "text": "Half the people who answered gave a third answer between yes and no. AI helps with research, drafts and editing, and a person owns what gets published. Karen Sage put it in one line. “To help create content yes, but not to create content by itself.”"
+                    },
+                    {
+                        "title": "People who write for a living said no the most.",
+                        "text": "Writers and copywriters together returned 41% no answers, against 14% across the whole study."
+                    },
+                    {
+                        "title": "The people building AI disagree with each other.",
+                        "text": "AI practitioners spread across five positions. 11% of them said it is not a choice to make, against 2% across the study."
+                    },
+                    {
+                        "title": "A name attached changes the answer.",
+                        "text": "In the LinkedIn poll, where no name is attached, 18% of votes said no, against 12% by message."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "who-its-for",
+            "data": {
+                "title": "Who this study is for",
+                "subtitle": "For the people deciding where AI fits in their content.",
+                "fits": [
+                    { "text": "You lead marketing or content and are deciding where AI fits in your team's work." },
+                    { "text": "You write for a living and want to see where your peers stand." },
+                    { "text": "You build AI products and want to hear what the people using them think." },
+                    { "text": "You want answers with names on them, in people's own words." }
+                ],
+                "not_fits": [
+                    { "text": "You are looking for a vendor's guide to AI writing tools." },
+                    { "text": "You want one blended number for the whole industry." }
+                ]
+            }
+        },
+        {
+            "type": "flex-callout",
+            "variant": "gray",
+            "data": {
+                "image": "report-fan.webp",
+                "eyebrow": "Want one for your brand?",
+                "title": "We write custom research reports",
+                "paragraphs": [
+                    "This study started as one question and became a report. We build original research like it for other brands.",
+                    "You bring the question and the audience. We handle the outreach, the answers and the writing."
+                ],
+                "cta_text": "See how we build thought leadership",
+                "cta_link": "/how-to-create-thought-leadership-content/"
+            }
+        },
+        {
+            "type": "faq",
+            "data": {
+                "title": "About the study",
+                "items": [
+                    {
+                        "question": "What is this study?",
+                        "answer": "One question, asked of people who work in commerce, content and AI. Should companies use AI to create content, and why? 363 answers came in, 246 by direct message, 27 in person at eTail Boston and 90 as LinkedIn poll votes."
+                    },
+                    {
+                        "question": "Who is running it?",
+                        "answer": "Brent Peterson and Isaac Morey at Content Cucumber. There is no sponsor and no client behind the question."
+                    },
+                    {
+                        "question": "How much does it cost?",
+                        "answer": "Nothing. Enter your details and we email you the full study as a PDF."
+                    },
+                    {
+                        "question": "I answered the question. Am I in it?",
+                        "answer": "Your answer was read, coded and counted. The study quotes a selection of answers, and anonymous answers carry no name and no employer."
+                    },
+                    {
+                        "question": "Will there be another edition?",
+                        "answer": "Yes. We will run it twice a year, track the trends and refer back to earlier reports."
+                    },
+                    {
+                        "question": "Will I get sales emails?",
+                        "answer": "You will get the study and the occasional note from Content Cucumber. You can unsubscribe at any time, and we do not share your details."
+                    }
+                ]
+            },
+            "anchor": "faq"
+        },
+        {
+            "type": "bottom-cta",
+            "data": {
+                "title": "Get the study",
+                "text": "One question, answered in people's own words. Enter your details above and we will send it to your inbox."
+            }
+        }
+    ]
 }

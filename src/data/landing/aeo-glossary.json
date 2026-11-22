@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "AEO Glossary of AI Search Terms, With Practical Checks",
+    "meta_description": "Understand AEO and AI search terms with clear definitions, practical checks, examples, and linked sources. Find the term you need and see what to do next.",
+    "slug": "aeo-glossary"
+  },
+  "hero": {
+    "title": "AEO <em>Glossary</em>",
+    "subtitle": "Understand each term and know what to do about it.",
+    "description": "Find a definition, see an example, and check what it means for your content."
+  },
+  "editorial": {
+    "status": "approved",
+    "publisher": "Content Cucumber",
+    "method": "Sources explain the underlying concepts, and each example is an illustration we wrote for this glossary, so none of them describe a client. Practical checks are editorial recommendations, and where a definition covers reporting, it states the counting rules we use, which other tools may set differently. Definitions are researched with AI assistance and reviewed by Content Cucumber's editors before they are published.",
+    "review_note": "Editorial draft · voice review pending."
+  },
+  "booklet": {
+    "file": "aeo-glossary-assets/aeo-glossary-booklet.pdf",
+    "label": "Download the glossary as a PDF booklet"
+  },
+  "cta": {
+    "title": "Find Out How AI Sees Your Brand",
+    "text": "AI is already shaping how buyers discover and evaluate your business. Start with a free AEO audit to see how ChatGPT, Perplexity, and Gemini represent your brand today."
+  },
+  "form": {
+    "campaign_code": "aeo-glossary",
+    "header": "Get Your Free AI Visibility Check",
+    "subtitle": "",
+    "trust_text": "HubSpot Solutions Partner. Zero fluff.",
+    "portal_id": "39487190",
+    "form_id": "c0151b30-e8f4-4489-ae19-ce554315f7b2",
+    "region": "na1"
+  }
+}
