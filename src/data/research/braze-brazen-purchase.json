@@ -1,0 +1,27 @@
+{
+  "slug": "braze-brazen-purchase",
+  "status": "publish",
+  "title": "Is Braze a Brazen Purchase?",
+  "type": "newsletter",
+  "edition": "Issue 71",
+  "date_published": "2026-10-21",
+  "source_url": "https://www.linkedin.com/pulse/braze-brazen-purchase-brent-w-peterson-xrx8c",
+  "excerpt": "Braze sits behind a merchant's app and website, watches what a customer does and decides the next message to send.",
+  "aeo_summary": "Braze sits behind a merchant's app and website, watches what a customer does and decides the next message to send. A shopper opens the merchant's app, adds a jacket to the cart and leaves. Braze sees that event as it happens and decides what to send and when.",
+  "content": "<p>Braze sits behind a merchant&#x27;s app and website, watches what a customer does and decides the next message to send. A shopper opens the merchant&#x27;s app, adds a jacket to the cart and leaves. Braze sees that event as it happens and decides what to send and when.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Why the Brazen Purchase and where does it fit?</strong> Marketing Cloud is the brand for the whole marketing suite, and the Marketing Cloud page names Marketing Cloud Next as the flagship, &quot;built natively on the Salesforce platform with AI, Data 360, and Agentforce at its core.&quot;</li><li><strong>Let&#x27;s Talk Commerce suite.</strong> No, this is not a shameless plug for my wildly popular Talk Commerce Podcast, but I did have the pleasure of sitting down with Gordon Evans, the CMO of Commerce Cloud, at Shoptalk Nashville.</li><li><strong>Who else sells what Braze sells.</strong> Adobe sells the same four pieces, commerce, content, data and engagement, under Experience Cloud.</li><li><strong>Why not just use Shopify?</strong> Shopify says it can do what Salesforce does for a lot less.</li><li><strong>Where the deal leaves merchants.</strong> Three kinds of merchants gain from the deal.</li><li><strong>The numbers.</strong> Braze is a growing business. Revenue for the fiscal year that ended January 31 was $738.2 million, up 24.4%, and in September Braze raised its guidance for fiscal 2027 to $910 to $913 million.</li></ul>",
+  "seo_title": "Is Braze a Brazen Purchase, Agentic Commerce Guy Issue 71",
+  "seo_description": "Braze sits behind a merchant's app and website, watches what a customer does and decides the next message to send.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "cucumber",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-71-cover.jpg"
+}

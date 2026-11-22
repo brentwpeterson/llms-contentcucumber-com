@@ -335,3 +335,79 @@ export function pageToMarkdown(raw: any, slug: string): PageDoc {
 
   return { slug, title, description, canonical, markdown };
 }
+
+/**
+ * A research library item (cc_research on contentcucumber.com) as Markdown.
+ *
+ * The source is the item's seed JSON, the same file the WordPress importer
+ * reads, vendored into src/data/research/. Its body is a small, known subset
+ * of HTML (p, h2, h3, ul/li, strong, em, a), so the conversion is direct.
+ * Canonical is /research/<slug>/. A newsletter issue carries source_url, the
+ * article the summary is based on, and that link is kept.
+ */
+function researchHtmlToMarkdown(html: string): string {
+  return String(html || "")
+    .replace(/<h2[^>]*>([\s\S]*?)<\/h2>/gi, (_m, t) => `\n## ${htmlToText(t)}\n\n`)
+    .replace(/<h3[^>]*>([\s\S]*?)<\/h3>/gi, (_m, t) => `\n### ${htmlToText(t)}\n\n`)
+    .replace(/<li[^>]*>([\s\S]*?)<\/li>/gi, (_m, t) => `- ${inlineMd(t)}\n`)
+    .replace(/<\/?(ul|ol)[^>]*>/gi, "\n")
+    .replace(/<p[^>]*>([\s\S]*?)<\/p>/gi, (_m, t) => `${inlineMd(t)}\n\n`)
+    .replace(/<[^>]+>/g, "")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function inlineMd(html: string): string {
+  const marked = String(html || "")
+    .replace(/<(strong|b)>([\s\S]*?)<\/\1>/gi, (_m, _t, t) => `**${htmlToText(t)}**`)
+    .replace(/<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi, (_m, href, t) => `[${htmlToText(t)}](${href})`);
+  return htmlToText(marked);
+}
+
+export function researchToMarkdown(raw: any): PageDoc {
+  const slug = String(raw.slug || "");
+  const title = htmlToText(raw.title) || slug;
+  const description = htmlToText(raw.seo_description || raw.excerpt || "");
+  const canonical = `${MAIN_SITE}/research/${slug}/`;
+
+  const out: string[] = [];
+  out.push(`# ${title}`, "");
+  if (description) out.push(`> ${description}`, "");
+  out.push(`*Source: [${canonical}](${canonical})*`, "");
+  const authors = Array.isArray(raw.authors)
+    ? raw.authors.filter((a: any) => a && a.name).map((a: any) => `${htmlToText(a.name)}${a.title ? `, ${htmlToText(a.title)}` : ""}`)
+    : [];
+  const bits = [
+    authors.length ? `By ${authors.join("; ")}` : "",
+    raw.edition ? htmlToText(raw.edition) : "",
+    raw.date_published ? `Published ${htmlToText(raw.date_published)}` : "",
+  ].filter(Boolean);
+  if (bits.length) out.push(`*${bits.join(". ")}*`, "");
+  out.push("---", "");
+  // The generated newsletter seeds open their body with the same summary.
+  const summary = htmlToText(raw.aeo_summary || "");
+  if (summary && !htmlToText(raw.content || "").startsWith(summary)) out.push(summary, "");
+  if (raw.source_url) out.push(`[Read the full issue](${raw.source_url})`, "");
+  if (Array.isArray(raw.findings) && raw.findings.length) {
+    out.push("## Key findings", "");
+    for (const f of raw.findings) {
+      if (f && (f.value || f.label)) out.push(`- **${htmlToText(f.value)}** ${htmlToText(f.label)}`);
+    }
+    out.push("");
+  }
+  if (raw.content) out.push(researchHtmlToMarkdown(raw.content), "");
+  if (Array.isArray(raw.faq) && raw.faq.length) {
+    out.push("## Questions", "");
+    for (const q of raw.faq) {
+      if (q && q.question) out.push(`### ${htmlToText(q.question)}`, "", htmlToText(q.answer), "");
+    }
+  }
+
+  const markdown =
+    out
+      .join("\n")
+      .replace(/\]\(\/(?!\/)/g, `](${MAIN_SITE}/`)
+      .replace(/\n{3,}/g, "\n\n")
+      .trim() + "\n";
+  return { slug, title, description, canonical, markdown };
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "ai-content-study",
+  "status": "publish",
+  "title": "The Human Condition of AI Content",
+  "excerpt": "One question, asked of people who work in commerce, content and AI. Should companies use AI to create content, and why? 53% said yes, with a human owning the output.",
+  "aeo_summary": "One question, asked of people who work in commerce, content and AI. Should companies use AI to create content, and why? 53% said yes, with a human owning the output.",
+  "content": "<h2 id=\"the-question\">The question</h2><p>We asked people who work in commerce, content and AI one question. Should companies use AI to create content, and why? They answered in person at eTail Boston, by LinkedIn message and in a LinkedIn poll, in their own words.</p><h2 id=\"what-the-answers-showed\">What the answers showed</h2><h3>A human owns the output.</h3><p>Half the people who answered gave a third answer between yes and no. AI helps with research, drafts and editing, and a person owns what gets published. Karen Sage put it in one line. “To help create content yes, but not to create content by itself.”</p><h3>People who write for a living said no the most.</h3><p>Writers and copywriters together returned 41% no answers, against 14% across the whole study.</p><h3>The people building AI disagree with each other.</h3><p>AI practitioners spread across five positions. 11% of them said it is not a choice to make, against 2% across the study.</p><h3>A name attached changes the answer.</h3><p>In the LinkedIn poll, where no name is attached, 18% of votes said no, against 12% by message.</p><h2 id=\"in-the-full-study\">In the full study</h2><ul><li><strong>53% said yes, with a human owning the output.</strong> That is more than twice any other position, and in open answers people wrote it in themselves.</li><li><strong>The people who said no get full space.</strong> Writers returned the highest no share of any group, and each person who said no gave a reason.</li><li><strong>The most divided group builds AI for a living.</strong> AI practitioners spread across five positions, and 11% said it is not a choice to make.</li><li><strong>US marketers did not give a single no.</strong> Results are reported by group, so you can see who said what.</li><li><strong>What LinkedIn did before the study opened.</strong> A report button for AI slop, and a proofreading tool in place of its own AI writing feature.</li></ul><h2 id=\"who-this-study-is-for\">Who this study is for</h2><ul><li>You lead marketing or content and are deciding where AI fits in your team's work.</li><li>You write for a living and want to see where your peers stand.</li><li>You build AI products and want to hear what the people using them think.</li><li>You want answers with names on them, in people's own words.</li></ul><p>Researched and written by Content Cucumber. Featuring Mathew Adams (Adeia), George Lawton, Chris Sheridan, Matt Swan, Karen Sage and Lizzy Adams.</p>",
+  "seo_title": "The Human Condition of AI Content, AI in Content Study 2026",
+  "seo_description": "We asked people in commerce, content and AI one question. Should companies use AI to create content, and why? 53% said yes, with a human owning the output. Get the free study.",
+  "findings": [
+    {
+      "value": "53%",
+      "label": "said yes, with a human owning the output",
+      "note": ""
+    },
+    {
+      "value": "41%",
+      "label": "of writers and copywriters said no",
+      "note": "Against 14% across the whole study."
+    },
+    {
+      "value": "11%",
+      "label": "of AI practitioners said it is not a choice to make",
+      "note": "Against 2% across the study."
+    },
+    {
+      "value": "18%",
+      "label": "of anonymous LinkedIn poll votes said no",
+      "note": "Against 12% by message."
+    }
+  ],
+  "methodology": "<p>One question, asked in the same words every time. Should companies use AI to create content, and why? People answered in person at eTail Boston, by LinkedIn message and in a LinkedIn poll, in their own words, and every answer was read and coded by hand.</p><p>Results are reported by group and never blended into one industry number. Edition 1 closed on October 2, 2026. Answers that arrived after that date belong to the next update.</p>",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    },
+    {
+      "name": "Isaac Morey",
+      "title": "Content Cucumber",
+      "url": "",
+      "role": "author"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is this study?",
+      "answer": "One question, asked of people who work in commerce, content and AI. Should companies use AI to create content, and why?"
+    },
+    {
+      "question": "Who is running it?",
+      "answer": "Brent Peterson and Isaac Morey at Content Cucumber. There is no sponsor and no client behind the question."
+    },
+    {
+      "question": "How much does it cost?",
+      "answer": "Nothing. Enter your details and we email you the full study as a PDF."
+    },
+    {
+      "question": "I answered the question. Am I in it?",
+      "answer": "Your answer was read, coded and counted. The study quotes a selection of answers, and anonymous answers carry no name and no employer."
+    },
+    {
+      "question": "Will there be another edition?",
+      "answer": "Yes. We will run it twice a year, track the trends and refer back to earlier reports."
+    },
+    {
+      "question": "Will I get sales emails?",
+      "answer": "You will get the study and the occasional note from Content Cucumber. You can unsubscribe at any time, and we do not share your details."
+    }
+  ],
+  "type": "study",
+  "topics": [
+    "AI and Content"
+  ],
+  "band_color": "forest",
+  "listed": true,
+  "pinned": true,
+  "display_priority": 1,
+  "access": "inline_form",
+  "gate_url": "/ai-content-study/",
+  "edition": "Edition 1",
+  "snapshot_date": "2026-10-02",
+  "study_slug": "ai-content-study",
+  "featured_image": "ai-content-study-cover.png",
+  "hubspot_form_id": "98689e3c-22c7-4d44-b74c-da1337d8d1e7",
+  "campaign_code": "ai-content-study"
+}

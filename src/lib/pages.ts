@@ -1,7 +1,11 @@
-import { pageToMarkdown, type PageDoc } from "./json-to-markdown";
+import { pageToMarkdown, researchToMarkdown, type PageDoc } from "./json-to-markdown";
 
 // Eagerly import every vendored landing JSON at build time.
 const modules = import.meta.glob("../data/landing/*.json", { eager: true });
+
+// Research library items (cc_research), vendored from the seed JSON the
+// WordPress importer reads. Synced by `sync-landing-data.py --set research`.
+const research = import.meta.glob("../data/research/*.json", { eager: true });
 
 export interface LoadedPage extends PageDoc {
   /** Path segment used by Astro routing. "" === site root. */
@@ -36,6 +40,16 @@ export function loadPages(): LoadedPage[] {
     const slug = fileToSlug(path);
     const doc = pageToMarkdown(raw, slug);
     pages.push({ ...doc, routeSlug: slug });
+  }
+  // Research items. A landing page with the same slug wins: the eight
+  // original reports and tools already have a fuller landing twin here.
+  const taken = new Set(pages.map((p) => p.routeSlug));
+  for (const mod of Object.values(research)) {
+    const raw: any = (mod as any).default ?? mod;
+    if (!raw?.slug || taken.has(raw.slug)) continue;
+    if (raw.status && raw.status !== "publish") continue;
+    const doc = researchToMarkdown(raw);
+    pages.push({ ...doc, routeSlug: raw.slug });
   }
   pages.sort((a, b) => a.routeSlug.localeCompare(b.routeSlug));
   return pages;

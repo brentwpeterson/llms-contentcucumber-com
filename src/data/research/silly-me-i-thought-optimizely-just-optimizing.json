@@ -1,0 +1,26 @@
+{
+  "slug": "silly-me-i-thought-optimizely-just-optimizing",
+  "status": "publish",
+  "title": "Silly me, I thought Optimizely was just optimizing",
+  "type": "newsletter",
+  "edition": "Issue 64",
+  "date_published": "2026-08-26",
+  "source_url": "https://www.linkedin.com/pulse/silly-me-i-thought-optimizely-just-optimizing-brent-w-peterson-inaee/",
+  "excerpt": "Turns Out It Sells Commerce, and Even the AI Search Engines Disagree About It",
+  "aeo_summary": "Turns Out It Sells Commerce, and Even the AI Search Engines Disagree About It",
+  "content": "<p>Turns Out It Sells Commerce, and Even the AI Search Engines Disagree About It</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Building a store on Optimizely.</strong> The storefront and its content are theirs, without qualification.</li><li><strong>The agents.</strong> Optimizely sells an agent platform with more than fifty prebuilt agents, no code orchestration, event and schedule triggers, and human approval gates.</li><li><strong>What the machines say.</strong> I asked two AI search engines about Optimizely and got two different companies back.</li><li><strong>Who it is for, and who it is not for.</strong> For, a marketing led enterprise that wants content, experimentation, and personalization from one company and will run commerce as an integration project.</li><li><strong>Five of ten, on paper.</strong> My readiness score, and I will flag that this one is scored on paper.</li></ul>",
+  "seo_title": "Silly me, I thought Optimizely was just optimizing, Agentic Commerce Guy Issue 64",
+  "seo_description": "Turns Out It Sells Commerce, and Even the AI Search Engines Disagree About It",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "lime",
+  "listed": true,
+  "access": "open"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fortress-skyscraper",
+  "status": "publish",
+  "title": "The Fortress And The Skyscraper",
+  "type": "newsletter",
+  "edition": "Issue 46",
+  "date_published": "2026-05-13",
+  "source_url": "https://www.linkedin.com/pulse/fortress-skyscraper-brent-w-peterson-lalic/",
+  "excerpt": "Two architectures for enterprise commerce. Salesforce and VTEX, side by side.",
+  "aeo_summary": "Two architectures for enterprise commerce. Salesforce and VTEX, side by side.",
+  "content": "<p>Two architectures for enterprise commerce. Salesforce and VTEX, side by side.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Two Buildings On The Same Block.</strong> An enterprise commerce buyer in 2026 walks into the conference room with two RFP responses on the table.</li><li><strong>The Fortress. Salesforce Commerce Cloud.</strong> Salesforce as a company was founded in 1999. The CRM is 27 years old.</li><li><strong>The Skyscraper. VTEX.</strong> VTEX is what VTEX built starting in Brazil in 2000 and rebuilt around its IO Platform over the last decade.</li><li><strong>The Foundation. Operational Infrastructure.</strong> The first dimension that separates the fortress and the skyscraper is what the building rests on.</li><li><strong>Structural Load. Logistics and OMS.</strong> Salesforce Order Management is a credible product.</li><li><strong>The Lobby. Customer Experience.</strong> Checkout and personalization is the dimension where the fortress&#x27;s CRM lineage is hardest to dismiss.</li><li><strong>The Marketplace Floor.</strong> VTEX ships a native multi-seller marketplace engine.</li></ul>",
+  "seo_title": "The Fortress And The Skyscraper, Agentic Commerce Guy Issue 46",
+  "seo_description": "Two architectures for enterprise commerce. Salesforce and VTEX, side by side.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "lime",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-46-cover.jpg"
+}

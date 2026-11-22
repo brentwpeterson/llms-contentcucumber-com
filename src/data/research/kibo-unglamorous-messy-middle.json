@@ -1,0 +1,27 @@
+{
+  "slug": "kibo-unglamorous-messy-middle",
+  "status": "publish",
+  "title": "KIBO and the Unglamorous Messy Middle",
+  "type": "newsletter",
+  "edition": "Issue 75",
+  "date_published": "2026-11-18",
+  "source_url": "https://www.linkedin.com/pulse/kibo-unglamorous-messy-middle-brent-w-peterson-tfgxc/",
+  "excerpt": "People often overlook order management when choosing a commerce platform, but having those capabilities built in is a major advantage.",
+  "aeo_summary": "KIBO appears in the Leaders quadrant of Gartner’s first Magic Quadrant for Distributed Order Management and scores high with three different analysts, Gartner, Forrester, and IDC. B2B, B2C, hybrid and dropship order management run on one platform and one data model, so a wholesale order and an online order draw from the same inventory. A shopping assistant needs order management data to know whether an item can reach the customer by the promised date.",
+  "content": "<p>I call the gap between a clean storefront and the systems that run the business the messy middle, and order management sits at the center of that gap.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Why order management?</strong> With wholesale and online orders drawing from the same stock, the website, sales team, warehouses, stores, and customer service all need a shared view of what is available to sell, what is already reserved, where each order can ship from, and which delivery dates can be promised.</li><li><strong>What KIBO built.</strong> B2B, B2C, hybrid and dropship order management run on one platform and one data model, so a wholesale order and an online order draw from the same inventory.</li><li><strong>Agents need fulfillment data.</strong> A shopping assistant that promises an item the warehouse cannot ship is worse than no assistant.</li><li><strong>Ask the vendor which order gets which stock.</strong> I’d ask the vendor to demonstrate a shortage and trace one order from the customer’s delivery promise through allocation, routing, delivery and any manual intervention.</li><li><strong>Data and research.</strong> What Gartner, Forrester and IDC say about KIBO, with Gartner’s strengths and cautions.</li></ul><p>When there isn’t enough stock to fill every order, how does your team decide which customer gets it?</p>",
+  "seo_title": "KIBO and the Unglamorous Messy Middle, Agentic Commerce Guy Issue 75",
+  "seo_description": "Issue 75 of the Agentic Commerce Guy newsletter. KIBO, order management built into the commerce platform, and the shortage demo to ask a vendor to run.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "paper",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-75-kibo-cover.png"
+}

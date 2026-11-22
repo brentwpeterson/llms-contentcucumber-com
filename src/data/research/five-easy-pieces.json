@@ -1,0 +1,27 @@
+{
+  "slug": "five-easy-pieces",
+  "status": "publish",
+  "title": "Five Easy Pieces",
+  "type": "newsletter",
+  "edition": "Issue 55",
+  "date_published": "2026-07-08",
+  "source_url": "https://www.linkedin.com/pulse/five-easy-pieces-brent-w-peterson-blfke/",
+  "excerpt": "There are five pieces in the Magento world, and the most important one is the community. This is how they fit, and why Magento's future is bright.",
+  "aeo_summary": "There are five pieces in the Magento world, and the most important one is the community. This is how they fit, and why Magento's future is bright.",
+  "content": "<p>There are five pieces in the Magento world, and the most important one is the community. This is how they fit, and why Magento&#x27;s future is bright.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>How the Pieces Fit.</strong> These five pieces are working together better than they have in years.</li><li><strong>Who Puts the Community First.</strong> Adobe builds for the enterprise, and the Magento Association champions the community.</li></ul>",
+  "seo_title": "Five Easy Pieces, Agentic Commerce Guy Issue 55",
+  "seo_description": "There are five pieces in the Magento world, and the most important one is the community. This is how they fit, and why Magento's future is bright.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "mist",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-55-cover.jpg"
+}

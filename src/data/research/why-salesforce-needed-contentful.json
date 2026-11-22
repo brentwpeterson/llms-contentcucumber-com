@@ -1,0 +1,27 @@
+{
+  "slug": "why-salesforce-needed-contentful",
+  "status": "publish",
+  "title": "Why Salesforce Needed Contentful",
+  "type": "newsletter",
+  "edition": "Issue 49",
+  "date_published": "2026-06-03",
+  "source_url": "https://www.linkedin.com/pulse/why-salesforce-needed-contentful-brent-w-peterson-zniec/",
+  "excerpt": "A monolith company is deciding its future runs on APIs and agents instead of browsers. Buying Contentful is how it is paying for that.",
+  "aeo_summary": "A monolith company is deciding its future runs on APIs and agents instead of browsers. Buying Contentful is how it is paying for that.",
+  "content": "<p>A monolith company is deciding its future runs on APIs and agents instead of browsers. Buying Contentful is how it is paying for that.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>What it says about Salesforce&#x27;s commitment to headless.</strong> Salesforce did not stop at the API, and that is what tells me the direction is real.</li><li><strong>Where this leaves you.</strong> Forget the purchase price and the org chart. The signal is that the fortress decided its future is built around agents and APIs, and it is spending real money to add the skyscraper&#x27;s floors one at a time.</li></ul>",
+  "seo_title": "Why Salesforce Needed Contentful, Agentic Commerce Guy Issue 49",
+  "seo_description": "A monolith company is deciding its future runs on APIs and agents instead of browsers. Buying Contentful is how it is paying for that.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "mist",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-49-cover.jpg"
+}

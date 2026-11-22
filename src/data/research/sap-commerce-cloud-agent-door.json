@@ -1,0 +1,26 @@
+{
+  "slug": "sap-commerce-cloud-agent-door",
+  "status": "publish",
+  "title": "SAP Commerce Cloud and the Agent at the Door",
+  "type": "newsletter",
+  "edition": "Issue 53",
+  "date_published": "2026-06-24",
+  "source_url": "https://www.linkedin.com/pulse/sap-commerce-cloud-agent-door-brent-w-peterson-rbarc/",
+  "excerpt": "The platform you bet against is running near the front",
+  "aeo_summary": "The platform you bet against is running near the front",
+  "content": "<p>The platform you bet against is running near the front</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Where it sits in the market.</strong> SAP Commerce Cloud sells to large enterprises in retail and manufacturing, the kind of company that already runs SAP for the rest of the business and wants commerce reading from the same data.</li><li><strong>The agentic story.</strong> SAP announced a Storefront MCP server for Commerce Cloud, with general availability targeted for Q2 2026.</li><li><strong>Strengths for agentic commerce.</strong> The strength no other platform can copy is the ERP backbone.</li><li><strong>The cautions.</strong> Most of what I just described is a roadmap. The Storefront MCP server is a Q2 2026 target, not shipping today.</li><li><strong>Who it&#x27;s for, and who it&#x27;s not.</strong> The useful question is when a merchant has truly outgrown Shopify while already running SAP as the ERP.</li><li><strong>The ACG verdict.</strong> SAP is the platform you would have bet against in this race, and it is running near the front.</li></ul>",
+  "seo_title": "SAP Commerce Cloud and the Agent at the Door, Agentic Commerce Guy Issue 53",
+  "seo_description": "The platform you bet against is running near the front",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "cucumber",
+  "listed": true,
+  "access": "open"
+}

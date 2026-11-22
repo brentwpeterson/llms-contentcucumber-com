@@ -1,0 +1,26 @@
+{
+  "slug": "experience-ai-commerce",
+  "status": "publish",
+  "title": "Experience AI in Commerce",
+  "type": "newsletter",
+  "edition": "Issue 60",
+  "date_published": "2026-08-05",
+  "source_url": "https://www.linkedin.com/pulse/experience-ai-commerce-brent-w-peterson-qx0ce/",
+  "excerpt": "They shipped the protocol, opened the crawler doors, and wrote a real llms.txt. The part they cannot ship for you is the writing.",
+  "aeo_summary": "They shipped the protocol, opened the crawler doors, and wrote a real llms.txt. The part they cannot ship for you is the writing.",
+  "content": "<p>They shipped the protocol, opened the crawler doors, and wrote a real llms.txt. The part they cannot ship for you is the writing.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>What that means if you sell things.</strong> Something is reading your product pages before a human ever sees them, and that something is deciding whether you make the shortlist.</li><li><strong>Find out where you stand.</strong> Enrichment is a word that gets used loosely, so it is worth pinning down before anything else.</li><li><strong>Why four and five are the wall.</strong> There is a structural reason the climb gets steep, which is why so many good companies are stuck at two.</li><li><strong>Shoppers are getting more skeptical, not less.</strong> The relationship between shoppers and technology has moved from utility to something more personal.</li><li><strong>Four things you can do without buying anything.</strong> Four places already pay for themselves, and none of them require a budget approval or a replatform.</li><li><strong>What BigCommerce has shipped.</strong> A guide is a guide. The more useful question for a merchant weighing a platform is what the vendor has shipped, so I went and checked their own infrastructure the way an AI would.</li><li><strong>Where this is heading.</strong> The rest of this feels like science fiction right up until it does not.</li></ul>",
+  "seo_title": "Experience AI in Commerce, Agentic Commerce Guy Issue 60",
+  "seo_description": "They shipped the protocol, opened the crawler doors, and wrote a real llms.txt. The part they cannot ship for you is the writing.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "ink",
+  "listed": true,
+  "access": "open"
+}

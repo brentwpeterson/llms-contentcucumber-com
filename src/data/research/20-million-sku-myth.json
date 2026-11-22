@@ -1,0 +1,26 @@
+{
+  "slug": "20-million-sku-myth",
+  "status": "publish",
+  "title": "The 20 Million SKU Myth",
+  "type": "newsletter",
+  "edition": "Issue 70",
+  "date_published": "2026-10-14",
+  "source_url": "https://www.linkedin.com/pulse/20-million-sku-myth-brent-w-peterson-hmlpc",
+  "excerpt": "A Fictitious Shopify B2B Store With 20 Million SKUs, Run Against Shopify's Own Limits",
+  "aeo_summary": "A Fictitious Shopify B2B Store With 20 Million SKUs, Run Against Shopify's Own Limits",
+  "content": "<p>A Fictitious Shopify B2B Store With 20 Million SKUs, Run Against Shopify&#x27;s Own Limits</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>The Store.</strong> Our store is a fictitious Shopify B2B store with 20M SKUs.</li><li><strong>Loading the Store.</strong> Loading the store&#x27;s 20 million SKUs into Shopify follows the path below, built from the documented limits, with the roadblock named at each step.</li><li><strong>What the Store Looks Like Running.</strong> Keep the catalog in step with the ERP through scheduled bulk operations, and run the day&#x27;s update against the plan&#x27;s budget.</li><li><strong>Did we mention Search?</strong> A single query cannot cost more than 1,000 points, arrays cap at 250 items, and you can&#x27;t ask for 20 million records in one ordinary query, so reading the catalog means bulk queries that run outside the rate limit and must finish within 10 days.</li><li><strong>Let&#x27;s TEST!!</strong> Test in stages at 500,000, 5 million, and 20 million variants.</li><li><strong>Findings.</strong> Standard and Advanced never load the catalog.</li><li><strong>Boost targeting (saved 2026-10-14, before the campaign was created).</strong> Goal: commerce platform leaders (Salesforce Commerce, Shopify, commercetools, Adobe, SAP and peers) read the article and inquire about what Brent does.</li></ul>",
+  "seo_title": "The 20 Million SKU Myth, Agentic Commerce Guy Issue 70",
+  "seo_description": "A Fictitious Shopify B2B Store With 20 Million SKUs, Run Against Shopify's Own Limits",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "lime",
+  "listed": true,
+  "access": "open"
+}

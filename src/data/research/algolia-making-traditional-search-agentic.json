@@ -1,0 +1,27 @@
+{
+  "slug": "algolia-making-traditional-search-agentic",
+  "status": "publish",
+  "title": "Algolia Is Making Traditional Search Agentic",
+  "type": "newsletter",
+  "edition": "Issue 68",
+  "date_published": "2026-09-23",
+  "source_url": "https://www.linkedin.com/pulse/algolia-making-traditional-search-agentic-brent-w-peterson-4lgdf",
+  "excerpt": "Agent Studio Runs on the Retrieval Layer Algolia Has Spent a Decade Building",
+  "aeo_summary": "Agent Studio Runs on the Retrieval Layer Algolia Has Spent a Decade Building",
+  "content": "<p>Agent Studio Runs on the Retrieval Layer Algolia Has Spent a Decade Building</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Why search is where the agent starts.</strong> An agentic shopping flow begins with retrieval.</li><li><strong>Where the agent work is still growing.</strong> The Public MCP is read-only. Outside assistants can search a merchant&#x27;s catalog and get recommendations through it, with live price and stock.</li><li><strong>Who it is for, and what it does not decide.</strong> For a retailer on Shopify, Salesforce Commerce Cloud, or Adobe Commerce who wants a shopping assistant on the site without a rebuild, one that respects existing merchandising rules and does not invent a price, with guardrails a legal team can review.</li><li><strong>The readiness score, and what it means here.</strong> My readiness score is scored on paper, from Algolia&#x27;s releases, its developer documentation, and trade coverage.</li></ul>",
+  "seo_title": "Algolia Is Making Traditional Search Agentic, Agentic Commerce Guy Issue 68",
+  "seo_description": "Agent Studio Runs on the Retrieval Layer Algolia Has Spent a Decade Building",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "forest",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-68-cover.jpg"
+}

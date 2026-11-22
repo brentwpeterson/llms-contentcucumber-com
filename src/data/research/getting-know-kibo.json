@@ -1,0 +1,27 @@
+{
+  "slug": "getting-know-kibo",
+  "status": "publish",
+  "title": "Getting to Know Kibo",
+  "type": "newsletter",
+  "edition": "Issue 57",
+  "date_published": "2026-07-22",
+  "source_url": "https://www.linkedin.com/pulse/getting-know-kibo-brent-w-peterson-pqmqe/",
+  "excerpt": "Kibo covers commerce and order management on one data model, headless storefront APIs, real-time network-wide inventory, intelligent order routing, search and personalization, and B2B workflows built in, quoting, contract pricing, EDI, offline order creation.",
+  "aeo_summary": "Kibo covers commerce and order management on one data model, headless storefront APIs, real-time network-wide inventory, intelligent order routing, search and personalization, and B2B workflows built in, quoting, contract pricing, EDI, offline order creation.",
+  "content": "<p>Kibo covers commerce and order management on one data model, headless storefront APIs, real-time network-wide inventory, intelligent order routing, search and personalization, and B2B workflows built in, quoting, contract pricing, EDI, offline order creation.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>The agentic story.</strong> Kibo&#x27;s agentic story stands on two shipped pieces, an MCP server and a suite of commerce agents.</li><li><strong>Strengths.</strong> The OMS heritage is the strength my MOM years taught me to appreciate.</li><li><strong>Cautions.</strong> The reference base is thin where it counts for this series.</li><li><strong>Who it is for, and who it is not for.</strong> For, a North American mid-market retailer or distributor that wants agent-ready composable commerce with order management as the source of truth, without top-tier pricing.</li><li><strong>Verdict.</strong> My readiness score, and I will flag that this one is scored on paper.</li></ul>",
+  "seo_title": "Getting to Know Kibo, Agentic Commerce Guy Issue 57",
+  "seo_description": "Kibo covers commerce and order management on one data model, headless storefront APIs, real-time network-wide inventory, intelligent order routing, search...",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "paper",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-57-cover.jpg"
+}

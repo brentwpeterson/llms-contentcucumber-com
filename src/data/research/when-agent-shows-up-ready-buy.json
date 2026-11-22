@@ -1,0 +1,26 @@
+{
+  "slug": "when-agent-shows-up-ready-buy",
+  "status": "publish",
+  "title": "When the Agent Shows Up Ready to Buy",
+  "type": "newsletter",
+  "edition": "Issue 51",
+  "date_published": "2026-06-17",
+  "source_url": "https://www.linkedin.com/pulse/when-agent-shows-up-ready-buy-brent-w-peterson-hkdgc/",
+  "excerpt": "Agent Gateway is the front door for the agent. commercetools describes it as letting \"AI agents perform real-time commerce actions like adding items to carts, applying discounts, checking inventory or placing orders all securely, with built-in governance and without replatforming\".",
+  "aeo_summary": "Agent Gateway is the front door for the agent. commercetools describes it as letting \"AI agents perform real-time commerce actions like adding items to carts, applying discounts, checking inventory or placing orders all securely, with built-in governance and without replatforming\". The agent places the order, and a human never touches the cart.",
+  "content": "<p>Agent Gateway is the front door for the agent. commercetools describes it as letting &quot;AI agents perform real-time commerce actions like adding items to carts, applying discounts, checking inventory or placing orders all securely, with built-in governance and without replatforming&quot;. The agent places the order, and a human never touches the cart.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>A question to ponder.</strong> Strip away the category names and the press releases, and one question is left for everyone else in the market.</li><li><strong>Salesforce, the fortress that went headless.</strong> I have called Salesforce the stone fortress, the suite built up through acquisition after acquisition where moving a wall is a project (ACG #46, ACG #49), and the fortress decided its future runs on agents.</li><li><strong>Shopify, the one that made it easy and already took the order.</strong> Shopify is winning by making commerce easy, and it carried that instinct straight into the agent era.</li><li><strong>BigCommerce, the quiet one that shipped the plumbing.</strong> BigCommerce gets less airtime than its moves deserve, and the parent company even renamed itself Commerce.</li><li><strong>Shopware, the counterweight.</strong> Shopware is the open-source, API-first platform with deep B2B roots, and it has planted a clear flag on the agent.</li><li><strong>How to tell if your stack can take the order.</strong> Set the platforms aside and put the question to your own stack, because the answer comes down to three things an agent needs and most storefronts were never built to give.</li><li><strong>Where this leaves you.</strong> Five platforms, one question, five yes answers that cost very different amounts.</li></ul>",
+  "seo_title": "When the Agent Shows Up Ready to Buy, Agentic Commerce Guy Issue 51",
+  "seo_description": "Agent Gateway is the front door for the agent. commercetools describes it as letting \"AI agents perform real-time commerce actions like adding items to...",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "paper",
+  "listed": true,
+  "access": "open"
+}

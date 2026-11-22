@@ -1,0 +1,27 @@
+{
+  "slug": "b2b-messy-middle",
+  "status": "publish",
+  "title": "The B2B Messy Middle",
+  "type": "newsletter",
+  "edition": "Issue 54",
+  "date_published": "2026-07-01",
+  "source_url": "https://www.linkedin.com/pulse/b2b-messy-middle-brent-w-peterson-5l29e/",
+  "excerpt": "Seven conversations, one answer nobody wanted to hear",
+  "aeo_summary": "Seven conversations, one answer nobody wanted to hear",
+  "content": "<p>Seven conversations, one answer nobody wanted to hear</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Private equity is forcing the timeline.</strong> Private equity buys companies that are already winning, then asks them to grow faster than the platform they run on was ever built to handle.</li><li><strong>The customer on your site is not shopping.</strong> The person on a B2B site is rarely there to browse.</li><li><strong>Regulated commerce moves slowly, then all at once.</strong> You could be one email away from being shut down.</li><li><strong>You cannot slap AI on a heap of data.</strong> A model is only as good as the data feeding it, and most companies are feeding theirs a heap of disconnected ERP exports, spreadsheets, and PDFs.</li><li><strong>Manufacturing is a human-in-the-loop industry.</strong> Manufacturing and distribution do not run on autopilot.</li><li><strong>The buying experience has to carry the complexity.</strong> A complex B2B product can carry hundreds of options, and a static page of dropdowns and PDFs dumps all of that cognitive load straight onto the buyer.</li><li><strong>So what does all of this add up to.</strong> Seven companies, seven industries, no shared script, one answer.</li></ul>",
+  "seo_title": "The B2B Messy Middle, Agentic Commerce Guy Issue 54",
+  "seo_description": "Seven conversations, one answer nobody wanted to hear",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "ink",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-54-cover.jpg"
+}

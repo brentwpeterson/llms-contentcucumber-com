@@ -1,0 +1,27 @@
+{
+  "slug": "cookie-consent-app-leaked-admin-access-thousands-shopify",
+  "status": "publish",
+  "title": "A Cookie-Consent App Leaked Admin Access to Thousands of Shopify Stores",
+  "type": "newsletter",
+  "edition": "Issue 66",
+  "date_published": "2026-09-09",
+  "source_url": "https://www.linkedin.com/pulse/cookie-consent-app-leaked-admin-access-thousands-shopify-peterson-n0mbc/",
+  "excerpt": "An Unsecured Kafka Server Broadcast Admin Tokens for at Least 100 Days",
+  "aeo_summary": "An Unsecured Kafka Server Broadcast Admin Tokens for at Least 100 Days",
+  "content": "<p>An Unsecured Kafka Server Broadcast Admin Tokens for at Least 100 Days</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>The Silence on One Side.</strong> Cybernews contacted Omegatheme and Shopify both.</li><li><strong>Two More Apps, Same Shape.</strong> The 888 leak wasn&#x27;t the only third-party exposure on Shopify&#x27;s app layer.</li><li><strong>Who Owns the Risk.</strong> On September 4, 2026, Sansec disclosed StyleSmuggler, an unauthenticated remote-code-execution zero-day sitting inside Magento and Adobe Commerce.</li><li><strong>What to Check in Your App List.</strong> A badge and a star rating tell you an app looks trustworthy to other merchants and to Shopify&#x27;s own review process.</li></ul>",
+  "seo_title": "A Cookie-Consent App Leaked Admin Access to Thousands of Shopify Stores, Agentic Commerce Guy Issue 66",
+  "seo_description": "An Unsecured Kafka Server Broadcast Admin Tokens for at Least 100 Days",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "ink",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-66-cover.jpg"
+}

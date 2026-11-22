@@ -1,0 +1,27 @@
+{
+  "slug": "shopify-everyone",
+  "status": "publish",
+  "title": "Shopify For Everyone!",
+  "type": "newsletter",
+  "edition": "Issue 44",
+  "date_published": "2026-04-29",
+  "source_url": "https://www.linkedin.com/pulse/shopify-everyone-brent-w-peterson-apaic/",
+  "excerpt": "Sure. As long as \"everyone\" means one specific kind of merchant. Here are six who aren't.",
+  "aeo_summary": "Sure. As long as \"everyone\" means one specific kind of merchant. Here are six who aren't.",
+  "content": "<p>Sure. As long as &quot;everyone&quot; means one specific kind of merchant. Here are six who aren&#x27;t.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>The pitch is bigger than Shopify.</strong> I went looking for a Shopify exec saying &quot;Shopify is for everyone.</li><li><strong>The Six Platforms Shopify Forgot To Mention.</strong> Shopify is real. $378.4 billion in GMV across 5.6 million active stores (DigitalApplied 2026).</li><li><strong>1. Commerce (formerly BigCommerce).</strong> The merchant: SaaS without the walled garden, with agentic commerce baked in.</li><li><strong>2. Shopware.</strong> The merchant: complex B2B. Companies with hierarchies, sales reps, custom catalogs per customer, quoted pricing, and approval workflows.</li><li><strong>3. Wix.</strong> The merchant: the creator whose storefront IS the brand presence.</li><li><strong>4. Hyvä Commerce on Mage-OS.</strong> The merchant: done renting their stack.</li><li><strong>5. MedusaJS.</strong> The merchant: a team building commerce around the agent, not bolting an agent onto commerce.</li></ul>",
+  "seo_title": "Shopify For Everyone, Agentic Commerce Guy Issue 44",
+  "seo_description": "Sure. As long as \"everyone\" means one specific kind of merchant. Here are six who aren't.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "forest",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-44-cover.jpg"
+}

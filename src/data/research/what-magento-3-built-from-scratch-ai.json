@@ -1,0 +1,26 @@
+{
+  "slug": "what-magento-3-built-from-scratch-ai",
+  "status": "publish",
+  "title": "What If Magento 3 Was Built from Scratch with AI?",
+  "type": "newsletter",
+  "edition": "Issue 40",
+  "date_published": "2026-04-01",
+  "source_url": "https://www.linkedin.com/pulse/what-magento-3-built-from-scratch-ai-brent-w-peterson-klsye/",
+  "excerpt": "One developer. 30 days. Claude Code. The Marko framework is what Magento could have been if Adobe had started over with modern PHP and AI-first development.",
+  "aeo_summary": "One developer. 30 days. Claude Code. The Marko framework is what Magento could have been if Adobe had started over with modern PHP and AI-first development.",
+  "content": "<p>One developer. 30 days. Claude Code. The Marko framework is what Magento could have been if Adobe had started over with modern PHP and AI-first development.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>What Marko Is.</strong> Marko isn&#x27;t a fork or a refactor. It&#x27;s a new PHP framework built on PHP 8.5 that takes the best architectural ideas from Magento (dependency injection, modularity, the plugin system, the module ecosystem) and rebuilds them without the complexity.</li><li><strong>30 Days. One Developer. Claude Code.</strong> Mark built the entire core architecture of Marko in about 30 days.</li><li><strong>Marko Talk: The Proof of Concept.</strong> To prove the framework works, Mark built Marko Talk, a real-time messaging app (think simplified Slack) running on the Marko framework.</li><li><strong>Where Adobe Is Going.</strong> Mark didn&#x27;t hold back on Adobe&#x27;s direction.</li><li><strong>The Magento Community Still Matters.</strong> Mark is quick to credit the community projects keeping the ecosystem alive.</li><li><strong>If You&#x27;re a Merchant Reading This.</strong> If you&#x27;re running Magento 2.4.x in production and your store is working, don&#x27;t panic.</li><li><strong>The Bigger Story.</strong> Mark didn&#x27;t just prompt an AI to build a framework.</li></ul>",
+  "seo_title": "What If Magento 3 Was Built from Scratch with AI, Agentic Commerce Guy Issue 40",
+  "seo_description": "One developer. 30 days. Claude Code. The Marko framework is what Magento could have been if Adobe had started over with modern PHP and AI-first development.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "lime",
+  "listed": true,
+  "access": "open"
+}

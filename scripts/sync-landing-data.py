@@ -21,6 +21,7 @@ USAGE
   sync-landing-data.py --check     # report drift, write nothing, exit 1 if drifted
   sync-landing-data.py --apply     # copy source -> mirror
   sync-landing-data.py --apply --prune   # also delete mirror files with no source
+  sync-landing-data.py --set research --check | --apply   # the research library seeds
 
   --json                           # machine-readable summary on stdout
   --source PATH                    # override the theme landing-data directory
@@ -41,6 +42,13 @@ DEFAULT_SOURCE = ("/Users/brent/LocalSites/contentcucumber/app/public/"
                   "wp-content/themes/cucumber-gp-child/landing-data")
 MIRROR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                       "src", "data", "landing")
+
+# A second set: research library items (cc_research). The source is the seed
+# JSON the WordPress importer reads; the mirror renders each one that has no
+# landing twin. Pick it with --set research.
+RESEARCH_SOURCE = "/Users/brent/scripts/CB-Workspace/brent-workspace/research/library/seeds"
+RESEARCH_MIRROR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                               "src", "data", "research")
 
 
 def digest(path):
@@ -77,8 +85,14 @@ def main():
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--prune", action="store_true")
     ap.add_argument("--json", action="store_true", dest="as_json")
-    ap.add_argument("--source", default=DEFAULT_SOURCE)
+    ap.add_argument("--source", default=None)
+    ap.add_argument("--set", choices=("landing", "research"), default="landing", dest="which")
     a = ap.parse_args()
+    global MIRROR
+    if a.which == "research":
+        MIRROR = RESEARCH_MIRROR
+    if a.source is None:
+        a.source = RESEARCH_SOURCE if a.which == "research" else DEFAULT_SOURCE
     if not (a.check or a.apply):
         ap.error("pass --check or --apply")
 

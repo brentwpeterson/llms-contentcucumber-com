@@ -1,0 +1,27 @@
+{
+  "slug": "time-look-bigcommerce-again",
+  "status": "publish",
+  "title": "Is It Time to Look at BigCommerce Again?",
+  "type": "newsletter",
+  "edition": "Issue 72",
+  "date_published": "2026-10-28",
+  "source_url": "https://www.linkedin.com/pulse/time-look-bigcommerce-again-brent-w-peterson-qoatc",
+  "excerpt": "An email went out the same morning PHP shipped emergency patches for the flaws researchers named PHP2Shell.",
+  "aeo_summary": "An email went out the same morning PHP shipped emergency patches for the flaws researchers named PHP2Shell. The email said the flaws hit \"any system running vulnerable versions of PHP,\" and that Commerce's own systems were not compromised.",
+  "content": "<p>An email went out the same morning PHP shipped emergency patches for the flaws researchers named PHP2Shell. The email said the flaws hit &quot;any system running vulnerable versions of PHP,&quot; and that Commerce&#x27;s own systems were not compromised.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>How did Shopify communicate when its apps were getting hacked?</strong> Shopify&#x27;s changelog entry describes a new store protection that asks a shopper to confirm before the store sends them to a website outside the store, and the confirmation shows the shopper the address first.</li><li><strong>The details.</strong> The protection fixes a piece of the lookalike checkout problem for every Shopify store at once.</li></ul>",
+  "seo_title": "Is It Time to Look at BigCommerce Again, Agentic Commerce Guy Issue 72",
+  "seo_description": "An email went out the same morning PHP shipped emergency patches for the flaws researchers named PHP2Shell.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "ink",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-72-cover.jpg"
+}

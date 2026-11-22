@@ -1,0 +1,26 @@
+{
+  "slug": "how-llmstxt-works-why-matters",
+  "status": "publish",
+  "title": "How llms.txt Works And Why It Matters",
+  "type": "newsletter",
+  "edition": "Issue 43",
+  "date_published": "2026-04-23",
+  "source_url": "https://www.linkedin.com/pulse/how-llmstxt-works-why-matters-brent-w-peterson-gt3oc/",
+  "excerpt": "What the file is, what goes in it, and why most sites are missing it.",
+  "aeo_summary": "What the file is, what goes in it, and why most sites are missing it.",
+  "content": "<p>What the file is, what goes in it, and why most sites are missing it.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>What Goes in an llms.txt.</strong> The format is simple. A text file at the root of the site.</li><li><strong>The Allow vs Block Decision.</strong> There&#x27;s a deliberate choice available in robots.txt.</li><li><strong>What This Looks Like In Practice.</strong> An audit of four ecommerce sites turned up every possible state.</li><li><strong>Most Operators Don&#x27;t Know About Either File.</strong> In conversations with ecommerce operators. Platform teams, agency owners, brand managers.</li><li><strong>What an AI Audit Misses.</strong> The three failing sites took about an hour each to fix.</li><li><strong>Check Your Own Sites.</strong> Open a new tab. Type a domain followed by /llms.txt.</li></ul>",
+  "seo_title": "How llms.txt Works And Why It Matters, Agentic Commerce Guy Issue 43",
+  "seo_description": "What the file is, what goes in it, and why most sites are missing it.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "mist",
+  "listed": true,
+  "access": "open"
+}

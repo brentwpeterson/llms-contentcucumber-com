@@ -1,0 +1,27 @@
+{
+  "slug": "magento-love-lost-story",
+  "status": "publish",
+  "title": "A Magento Love and Lost Story",
+  "type": "newsletter",
+  "edition": "Issue 48",
+  "date_published": "2026-05-27",
+  "source_url": "https://www.linkedin.com/pulse/magento-love-lost-story-brent-w-peterson-cfrec/",
+  "excerpt": "UMG, roughly 1,200 stores, and the Magento build that won an award and then quietly drained away.",
+  "aeo_summary": "UMG, roughly 1,200 stores, and the Magento build that won an award and then quietly drained away.",
+  "content": "<p>UMG, roughly 1,200 stores, and the Magento build that won an award and then quietly drained away.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>The Wall.</strong> One clarification before the next part. The managed Magento hosting of that era was built on PlatformSH, the platform-as-a-service vendor underneath it.</li><li><strong>What We Built.</strong> Magento Order Management was the spine. One OMS bound every store back to a single source of truth across hundreds of separate Magento instances.</li><li><strong>The Peak, And The Turn.</strong> By the end of 2019 we had launched more than 200 stores in a single year and won the award for the most stores launched.</li><li><strong>The Slow Drain.</strong> The end did not arrive as a decision. It arrived as a drain.</li></ul>",
+  "seo_title": "A Magento Love and Lost Story, Agentic Commerce Guy Issue 48",
+  "seo_description": "UMG, roughly 1,200 stores, and the Magento build that won an award and then quietly drained away.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "ink",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-48-cover.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "how-adobe-becoming-way-we-shop",
+  "status": "publish",
+  "title": "How Adobe Is Becoming the Way We Shop",
+  "type": "newsletter",
+  "edition": "Issue 74",
+  "date_published": "2026-11-11",
+  "source_url": "https://www.linkedin.com/pulse/how-adobe-becoming-way-we-shop-brent-w-peterson-a6rvc",
+  "excerpt": "Adobe Commerce and AEM are moving closer together, from the airport website to the product page.",
+  "aeo_summary": "Adobe Commerce and AEM are moving closer together, from the airport website to the product page.",
+  "content": "<p>Adobe Commerce and AEM are moving closer together, from the airport website to the product page.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Who&#x27;s &quot;Really&quot; on Adobe Commerce?</strong> Take a look at Alshaya, they run stores for brands like H&amp;M and Starbucks in the Middle East.</li><li><strong>Where The Pieces Meet.</strong> Adobe&#x27;s Commerce architecture guide splits the work into a commerce backend, a storefront and connected services.</li><li><strong>Not Just a Payment Company.</strong> Some SaaS products advertise themselves as an ecommerce company, but when you look at the numbers, the majority of their revenue comes from payments.</li><li><strong>You Pair Food Why Not Your Platform?</strong> Adobe documents more than one way to use their suite of products: Commerce Storefront on Adobe Commerce as a Cloud Service, Commerce Optimizer for merchants on other commerce systems, and headless AEM.</li><li><strong>Where Magento Fits.</strong> Adobe bought Magento and renamed it Adobe Commerce.</li><li><strong>Data and research.</strong> Heathrow&#x27;s announced work. The October 8 release names AEM and Brand Visibility for Heathrow&#x27;s website and AI search accuracy.</li></ul>",
+  "seo_title": "How Adobe Is Becoming the Way We Shop, Agentic Commerce Guy Issue 74",
+  "seo_description": "Adobe Commerce and AEM are moving closer together, from the airport website to the product page.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "forest",
+  "listed": true,
+  "access": "open"
+}

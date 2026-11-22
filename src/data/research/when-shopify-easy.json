@@ -1,0 +1,27 @@
+{
+  "slug": "when-shopify-easy",
+  "status": "publish",
+  "title": "When Shopify Is Not Easy",
+  "type": "newsletter",
+  "edition": "Issue 50",
+  "date_published": "2026-06-10",
+  "source_url": "https://www.linkedin.com/pulse/when-shopify-easy-brent-w-peterson-wylec/",
+  "excerpt": "For most stores Shopify is the easiest good answer in commerce. For complex B2B, the ease is borrowed from a stack of vendors you do not own.",
+  "aeo_summary": "For most stores Shopify is the easiest good answer in commerce. For complex B2B, the ease is borrowed from a stack of vendors you do not own.",
+  "content": "<p>For most stores Shopify is the easiest good answer in commerce. For complex B2B, the ease is borrowed from a stack of vendors you do not own.</p><h2 id=\"in-this-issue\">In this issue</h2><ul><li><strong>Now Let Us Build A Hard One.</strong> Picture a complex B2B store. A distributor selling to eight hundred dealers.</li><li><strong>You Become The Integrator.</strong> None of those apps know about each other, and a demo never shows you that.</li><li><strong>The Vendor Question.</strong> What happens when one of those vendors goes out of business?</li><li><strong>What Built In Looks Like Instead.</strong> The alternative is not magic, just a platform where B2B is part of the product instead of a layer bolted to it.</li><li><strong>Znode.</strong> Znode was built for B2B from the start, and it positions its B2B feature set as built in rather than app dependent (Znode, 2025).</li><li><strong>Adobe Commerce B2B.</strong> Adobe Commerce takes more work to stand up than Shopify.</li><li><strong>Shopware.</strong> Shopware is the one I find most interesting on the automation question, because it answers a part of the problem the others mostly leave to humans.</li></ul>",
+  "seo_title": "When Shopify Is Not Easy, Agentic Commerce Guy Issue 50",
+  "seo_description": "For most stores Shopify is the easiest good answer in commerce. For complex B2B, the ease is borrowed from a stack of vendors you do not own.",
+  "authors": [
+    {
+      "name": "Brent Peterson",
+      "title": "CEO, Content Cucumber",
+      "url": "/blog/author/brentwpeterson/",
+      "role": "author"
+    }
+  ],
+  "topics": [],
+  "band_color": "forest",
+  "listed": true,
+  "access": "open",
+  "featured_image": "acg-50-cover.jpg"
+}
