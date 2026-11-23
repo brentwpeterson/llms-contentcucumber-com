@@ -67,11 +67,11 @@
                         "badge": "El más solicitado",
                         "featured": true,
                         "target": "Una conversación completa que tu cliente puede aprovechar en todos sus canales. Tú te quedas con el material en bruto y tu cliente gana visibilidad.",
-                        "price": "$200 USD",
+                        "price": "$300 USD",
                         "form_modal": {
                             "heading": "Reserva un Deep Dive para tu cliente",
-                            "subtitle": "Entrevista a fondo de 15 minutos. $200 USD por sesión.",
-                            "button_text": "Reservar ahora ($200 USD)",
+                            "subtitle": "Entrevista a fondo de 15 minutos. $300 USD por sesión.",
+                            "button_text": "Reservar ahora ($300 USD)",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
                             "region": "na1"
@@ -116,7 +116,7 @@
                 "steps": [
                     {
                         "title": "Elige un paquete para cada cliente",
-                        "text": "Para cada cliente que vaya a la conferencia, elige Spotlight (gratis), Deep Dive ($200 USD) o el paquete de contenido completo (a la medida). Llenas el formulario y te confirmamos los horarios."
+                        "text": "Para cada cliente que vaya a la conferencia, elige Spotlight (gratis), Deep Dive ($300 USD) o el paquete de contenido completo (a la medida). Llenas el formulario y te confirmamos los horarios."
                     },
                     {
                         "title": "Llegamos a su stand",
@@ -144,7 +144,7 @@
                     },
                     {
                         "question": "¿Cómo se factura a las agencias?",
-                        "answer": "Las entrevistas Spotlight son gratis. El Deep Dive cuesta $200 USD por entrevista y se factura a tu agencia. El paquete de contenido completo se cotiza según el alcance. Sin contratos, sin mínimos y sin cargos recurrentes."
+                        "answer": "Las entrevistas Spotlight son gratis. El Deep Dive cuesta $300 USD por entrevista y se factura a tu agencia. El paquete de contenido completo se cotiza según el alcance. Sin contratos, sin mínimos y sin cargos recurrentes."
                     },
                     {
                         "question": "¿En cuánto tiempo recibo el contenido?",

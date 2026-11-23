@@ -2,8 +2,8 @@
     "seo": {
         "og_type": "website",
         "twitter_card": "summary_large_image",
-        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $200 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
-        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $200, or custom packages.",
+        "meta_description": "Book a professional podcast interview at your next ecommerce conference. Free 3-minute spotlight, $300 deep dive, or full content package. Talk Commerce records, Content Cucumber writes.",
+        "og_description": "Talk Commerce interviews you on camera at the conference. Content Cucumber turns it into blog articles, social clips, and case studies. Free, $300, or custom packages.",
         "og_image": ""
     },
     "form": {
@@ -61,11 +61,11 @@
                         "badge": "Most Popular",
                         "featured": true,
                         "target": "A full-length conversation. Tell your story, explain your product, and share your perspective on the industry.",
-                        "price": "$200",
+                        "price": "$300",
                         "form_modal": {
                             "heading": "Book Your Deep Dive Interview",
-                            "subtitle": "15-minute in-depth interview. $200 per session.",
-                            "button_text": "Book Now - $200",
+                            "subtitle": "15-minute in-depth interview. $300 per session.",
+                            "button_text": "Book Now - $300",
                             "portal_id": "39487190",
                             "form_id": "017441c7-e122-4015-b72c-6efadbebf35e",
                             "region": "na1"
@@ -110,7 +110,7 @@
                 "steps": [
                     {
                         "title": "Pick Your Package",
-                        "text": "Choose Spotlight (free), Deep Dive ($200), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
+                        "text": "Choose Spotlight (free), Deep Dive ($300), or Full Content Package (custom). Fill out the form and we'll confirm your slot."
                     },
                     {
                         "title": "We Come to You",
